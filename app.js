@@ -11,6 +11,12 @@ app.get("/", (req, res) => {
     message: "Serif Colakel Getir-RESTful-API",
   });
 });
+app.get("/api", (req, res) => {
+  res.render("index", {
+    title: "Getir-API",
+    message: "Serif Colakel Getir-RESTful-API",
+  });
+});
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
