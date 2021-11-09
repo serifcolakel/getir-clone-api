@@ -2,6 +2,7 @@ const app = require("express")();
 const fav = require("./favorite.json");
 const cat = require("./categories.json");
 const bodyParser = require("body-parser");
+const cors = require("cors");
 
 app.set("view engine", "pug");
 app.set("views", "./views");
@@ -17,6 +18,8 @@ app.get("/api", (req, res) => {
     message: "Serif Colakel Getir-RESTful-API",
   });
 });
+
+app.use(cors({ origin: "*" }));
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
