@@ -1,0 +1,39 @@
+html
+    head
+        title= title
+        link(rel='stylesheet', href='style.css')
+        style.
+            body {
+                background-color: #fff5f5;
+                font-family: 'Open Sans', sans-serif;
+                font-size: 14px;
+                color: #333;
+                margin: 0;
+                padding: 0;
+            }
+            .container {
+                max-width: 960px;
+                margin: 0 auto;
+                padding: 0 20px;
+                display:flex;
+                flex-direction: column;
+                align-items: center;
+            }
+            .container h1 {
+                color:red;
+                margin: 0;
+                padding: 20px;
+            }
+    body
+        div.container
+            h1= message
+            h2= "List of all favorites"
+            a(href='/api/favorite') Favorite JSON
+            h2= "List of Favorites id:1 (u can select id)"
+            a(href='/api/favorite/1') Favorite id:1 JSON
+        div.container
+            h2= "List of all categories"
+            a(href='/api/categories') Categories JSON
+            h2= "List of Categories id:1 (u can select id)"
+            a(href='/api/categories/1') Categories id:1 JSON
+
