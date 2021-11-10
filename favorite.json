@@ -3,14 +3,14 @@
     "id": 0,
     "price": 2.95,
     "name": "Kuzeyden",
-    "count":1,
+    "count":0,
     "unit": "1.5 L",
     "url": "https://cdn.getir.com/product/5a7b20fd8e19da0004bb27f8_tr_1615375864268.jpeg"
   },
   
   {
     "id": 1,
-    "count":1,
+    "count":0,
     "price": 5.90,
     "name": "Kızılay Erzincan",
     "unit": "6 x 200 mL",
@@ -18,7 +18,7 @@
   },
   {
     "id": 2,
-    "count":1,
+    "count":0,
     "price": 6.39,
     "name": "Lay's Mevsim Yeşillikli",
     "unit": "96 g",
@@ -26,7 +26,7 @@
   },
   {
     "id": 3,
-    "count":1,
+    "count":0,
     "price": 2.85,
     "name": "Eti Canga",
     "unit": "45 g",
@@ -34,7 +34,7 @@
   },
   {
     "id": 4,
-    "count":1,
+    "count":0,
     "price": 3.30,
     "name": "Ülker Napoliten",
     "unit": "33 g",
@@ -42,7 +42,7 @@
   },
   {
     "id": 5,
-    "count":1,
+    "count":0,
     "price": 10.95,
     "name": "Kavrulmuş Siyah Ay Çekirdeği",
     "unit": "180 g",
@@ -50,7 +50,7 @@
   },
   {
     "id": 6, 
-    "count":1,
+    "count":0,
     "price": 7.50,
     "name": "Magnum Badem",
     "unit": "100 mL",
@@ -58,7 +58,7 @@
   },
   {
     "id": 7,
-    "count":1,
+    "count":0,
     "price": 7.95,
     "name": "İçin %3 Yağlı Süt",
     "unit": "1 L",
@@ -66,7 +66,7 @@
   },
   {
     "id": 8, 
-    "count":1,
+    "count":0,
     "price": 21.75,
     "name": "Bahçıvan Süzme Peynir",
     "unit": "500 g",
@@ -74,7 +74,7 @@
   },
   {
     "id": 9, 
-    "count":1,
+    "count":0,
     "price": 7.95,
     "name": "İçin %3 Yağlı Süt",
     "unit": "1 L",
@@ -83,7 +83,7 @@
 
   {
     "id": 10, 
-    "count":1,
+    "count":0,
     "price": 5.75,
     "name": "Kokteyl Domates",
     "unit": "500 g",
@@ -91,7 +91,7 @@
   },
   {
     "id": 11, 
-    "count":1,
+    "count":0,
     "price": 14.95,
     "name": "İthal Muz",
     "unit": "600 g",
@@ -99,7 +99,7 @@
   },
   {
     "id": 12, 
-    "count":1,
+    "count":0,
     "price": 7.35,
     "name": "Barilla Spagetti",
     "unit": "500 g",
@@ -107,7 +107,7 @@
   },
   {
     "id": 13, 
-    "count":1,
+    "count":0,
     "price": 18.25,
     "name": "Colgate Üçlü Etki",
     "unit": "150 mL",
@@ -115,7 +115,7 @@
   },
   {
     "id": 14, 
-    "count":1,
+    "count":0,
     "price": 57.85,
     "name": "Selpak Tuvalet Kağıdı",
     "unit": "16'lı",
@@ -123,7 +123,7 @@
   },
   {
     "id": 15,
-    "count":1,
+    "count":0,
     "price": 8.38,
     "name": "Domestos Dağ Esintisi",
     "unit": "750 mL",
