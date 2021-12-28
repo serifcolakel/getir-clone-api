@@ -1,0 +1,466 @@
+[
+  {
+    "id": "59281340616cab00041ec874",
+    "name": "Meyve",
+    "productCount": 5,
+    "products": [
+      {
+        "id": "5fc26ef5f86ca13ef0fdae59",
+        "name": "İthal Muz",
+        "shortName": "İthal Muz",
+        "shortDescription": "600 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fc26ef5f86ca13ef0fdae59_tr_1606836221080.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fc26ef5f86ca13ef0fdae59_tr_1606836221080.jpeg"
+        ],
+        "categoryIds": ["5928113e616cab00041ec6de"],
+        "subCategoryIds": ["59281340616cab00041ec874"],
+        "displayType": 0,
+        "price": 19.75,
+        "priceText": "₺19,75",
+        "status": 1,
+        "struckPrice": 21.95,
+        "struckPriceText": "₺21,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "ithal-muz-00BTpUIF1u",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fc2c264f1b319c87c4151f7",
+        "name": "Mandalina",
+        "shortName": "Mandalina",
+        "shortDescription": "1 kg",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fc2c264f1b319c87c4151f7_tr_1606895325002.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fc2c264f1b319c87c4151f7_tr_1606895325002.jpeg"
+        ],
+        "categoryIds": ["5928113e616cab00041ec6de"],
+        "subCategoryIds": ["59281340616cab00041ec874"],
+        "displayType": 0,
+        "price": 12.45,
+        "priceText": "₺12,45",
+        "status": 1,
+        "struckPrice": 13.95,
+        "struckPriceText": "₺13,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "mandalina-gKLSspj3lo",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fc2c36127a7f31e974dce13",
+        "name": "Portakal",
+        "shortName": "Portakal",
+        "shortDescription": "1 kg",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fc2c36127a7f31e974dce13_tr_1606895502905.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fc2c36127a7f31e974dce13_tr_1606895502905.jpeg"
+        ],
+        "categoryIds": ["5928113e616cab00041ec6de"],
+        "subCategoryIds": ["59281340616cab00041ec874"],
+        "displayType": 0,
+        "price": 8.95,
+        "priceText": "₺8,95",
+        "status": 1,
+        "struckPrice": 9.95,
+        "struckPriceText": "₺9,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "portakal-5i4lQ44LSP",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fc291ff18b947482eaffb16",
+        "name": "Sıkmalık Portakal",
+        "shortName": "Sıkmalık Portakal",
+        "shortDescription": "1 kg",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fc291ff18b947482eaffb16_tr_1606886576300.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fc291ff18b947482eaffb16_tr_1606886576300.jpeg"
+        ],
+        "categoryIds": ["5928113e616cab00041ec6de"],
+        "subCategoryIds": ["59281340616cab00041ec874"],
+        "displayType": 0,
+        "price": 7.75,
+        "priceText": "₺7,75",
+        "status": 1,
+        "struckPrice": 8.45,
+        "struckPriceText": "₺8,45",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sikmalik-portakal-1EGC6Ru8K1",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fc2c406e7e3c63bea326e3e",
+        "name": "Nar",
+        "shortName": "Nar",
+        "shortDescription": "900 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fc2c406e7e3c63bea326e3e_tr_1606895711719.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fc2c406e7e3c63bea326e3e_tr_1606895711719.jpeg"
+        ],
+        "categoryIds": ["5928113e616cab00041ec6de"],
+        "subCategoryIds": ["59281340616cab00041ec874"],
+        "displayType": 0,
+        "price": 10.75,
+        "priceText": "₺10,75",
+        "status": 1,
+        "struckPrice": 11.95,
+        "struckPriceText": "₺11,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "nar-yGGySWlZnD",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "meyve-JcsHyLSJYn"
+  },
+  {
+    "id": "5928134e37e22d0004ead488",
+    "name": "Sebze",
+    "productCount": 9,
+    "products": [
+      {
+        "id": "5fc28b883f6771b6c358ea31",
+        "name": "Salkım Domates",
+        "shortName": "Salkım Domates",
+        "shortDescription": "600 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fc28b883f6771b6c358ea31_tr_1606838008775.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fc28b883f6771b6c358ea31_tr_1606838008775.jpeg"
+        ],
+        "categoryIds": ["5928113e616cab00041ec6de"],
+        "subCategoryIds": ["5928134e37e22d0004ead488"],
+        "displayType": 0,
+        "price": 10.75,
+        "priceText": "₺10,75",
+        "status": 1,
+        "struckPrice": 11.95,
+        "struckPriceText": "₺11,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "salkim-domates-aprcOh8u5z",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fc2ae60a9357b9156ec89ae",
+        "name": "Kokteyl Domates",
+        "shortName": "Kokteyl Domates",
+        "shortDescription": "500 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fc2ae60a9357b9156ec89ae_tr_1606888088577.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fc2ae60a9357b9156ec89ae_tr_1606888088577.jpeg"
+        ],
+        "categoryIds": ["5928113e616cab00041ec6de"],
+        "subCategoryIds": ["5928134e37e22d0004ead488"],
+        "displayType": 0,
+        "price": 7.95,
+        "priceText": "₺7,95",
+        "status": 1,
+        "struckPrice": 8.95,
+        "struckPriceText": "₺8,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "kokteyl-domates-mpTfW1lZJf",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fc2707a69049f2da5ea5cd2",
+        "name": "Limon",
+        "shortName": "Limon",
+        "shortDescription": "500 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fc2707a69049f2da5ea5cd2_tr_1606836519563.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fc2707a69049f2da5ea5cd2_tr_1606836519563.jpeg"
+        ],
+        "categoryIds": ["5928113e616cab00041ec6de"],
+        "subCategoryIds": ["5928134e37e22d0004ead488"],
+        "displayType": 0,
+        "price": 3.95,
+        "priceText": "₺3,95",
+        "status": 1,
+        "struckPrice": 4.45,
+        "struckPriceText": "₺4,45",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "limon-KflhcvPn3N",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fc2a199d797d51f24e6ad28",
+        "name": "Sivri Biber",
+        "shortName": "Sivri Biber",
+        "shortDescription": "250 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fc2a199d797d51f24e6ad28_tr_1606887833310.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fc2a199d797d51f24e6ad28_tr_1606887833310.jpeg"
+        ],
+        "categoryIds": ["5928113e616cab00041ec6de"],
+        "subCategoryIds": ["5928134e37e22d0004ead488"],
+        "displayType": 0,
+        "price": 5.75,
+        "priceText": "₺5,75",
+        "status": 1,
+        "struckPrice": 6.45,
+        "struckPriceText": "₺6,45",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sivri-biber-cETG4S4097",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fc2794f2a1315dd13f6d60e",
+        "name": "Kuru Soğan",
+        "shortName": "Kuru Soğan",
+        "shortDescription": "2 kg",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fc2794f2a1315dd13f6d60e_tr_1606837052922.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fc2794f2a1315dd13f6d60e_tr_1606837052922.jpeg"
+        ],
+        "categoryIds": ["5928113e616cab00041ec6de"],
+        "subCategoryIds": ["5928134e37e22d0004ead488"],
+        "displayType": 0,
+        "price": 7.75,
+        "priceText": "₺7,75",
+        "status": 1,
+        "struckPrice": 8.45,
+        "struckPriceText": "₺8,45",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "kuru-sogan-U6f31uaskb",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6171877a045b910351138214",
+        "name": "Soyulmuş Taşköprü Sarımsağı",
+        "shortName": "Taşköprü Sarımsağı",
+        "shortDescription": "100 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6171877a045b910351138214_tr_1635424256967.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6171877a045b910351138214_tr_1635424256967.jpeg"
+        ],
+        "categoryIds": ["5928113e616cab00041ec6de"],
+        "subCategoryIds": ["5928134e37e22d0004ead488"],
+        "displayType": 0,
+        "price": 7.95,
+        "priceText": "₺7,95",
+        "status": 1,
+        "struckPrice": 8.95,
+        "struckPriceText": "₺8,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "soyulmus-taskopru-sarimsagi-1p8npmt9wu",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61717563a0f2a53e54c93205",
+        "name": "Taşköprü Sarımsağı",
+        "shortName": "Taşköprü Sarımsağı",
+        "shortDescription": "250 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61717563a0f2a53e54c93205_tr_1635424286278.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61717563a0f2a53e54c93205_tr_1635424286278.jpeg"
+        ],
+        "categoryIds": ["5928113e616cab00041ec6de"],
+        "subCategoryIds": ["5928134e37e22d0004ead488"],
+        "displayType": 0,
+        "price": 6.25,
+        "priceText": "₺6,25",
+        "status": 1,
+        "struckPrice": 6.95,
+        "struckPriceText": "₺6,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "taskopru-sarimsagi-cxuexexdsj",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fc2ad63d35151d4df692ded",
+        "name": "Patates",
+        "shortName": "Patates",
+        "shortDescription": "2 kg",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fc2ad63d35151d4df692ded_tr_1606887432316.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fc2ad63d35151d4df692ded_tr_1606887432316.jpeg"
+        ],
+        "categoryIds": ["5928113e616cab00041ec6de"],
+        "subCategoryIds": ["5928134e37e22d0004ead488"],
+        "displayType": 0,
+        "price": 17.95,
+        "priceText": "₺17,95",
+        "status": 1,
+        "struckPrice": 19.95,
+        "struckPriceText": "₺19,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "patates-NruAdRjIWs",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fc2af8118b947690daffe6c",
+        "name": "Mantar",
+        "shortName": "Mantar",
+        "shortDescription": "250 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fc2af8118b947690daffe6c_tr_1606888350112.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fc2af8118b947690daffe6c_tr_1606888350112.jpeg"
+        ],
+        "categoryIds": ["5928113e616cab00041ec6de"],
+        "subCategoryIds": ["5928134e37e22d0004ead488"],
+        "displayType": 0,
+        "price": 8.95,
+        "priceText": "₺8,95",
+        "status": 1,
+        "struckPrice": 9.95,
+        "struckPriceText": "₺9,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "mantar-BIOYPnt3wh",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "sebze-tzX9AkF0We"
+  }
+]

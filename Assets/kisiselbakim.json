@@ -1,0 +1,4875 @@
+[
+  {
+    "id": "603c9547148d36463c9efb70",
+    "name": "Öne Çıkanlar",
+    "productCount": 3,
+    "products": [
+      {
+        "id": "5c3f4e0399f6570001f2799d",
+        "name": "Colgate Natural Extracts Aktif Kömür Karbon Temizleyici Diş Macunu",
+        "shortName": "Colgate Natural Extracts",
+        "shortDescription": "75 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c3f4e0399f6570001f2799d_tr_1625056865483.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c3f4e0399f6570001f2799d_tr_1625056865483.jpeg",
+          "http://cdn.getir.com/product/5c3f4e0399f6570001f2799d_d91c34c4-59ff-41af-ba36-a0edef8d57e6.jpeg",
+          "http://cdn.getir.com/product/5c3f4e0399f6570001f2799d_8097c5b8-a7b9-45c1-9c21-0192d33c6674.jpeg"
+        ],
+        "categoryIds": [
+          "551430043427d5010a3a5c5c",
+          "5fd8a40cbb487c5a816f9f03",
+          "5fd8c58f3bdc2389a56e0fb0"
+        ],
+        "subCategoryIds": [
+          "564c6741d35e7d0c002bd250",
+          "5fd8a97663a504d6f10644d4",
+          "5fd90098dbbeb8ba7a12ff11",
+          "603c9547148d36463c9efb70"
+        ],
+        "displayType": 0,
+        "price": 29.9,
+        "priceText": "₺29,90",
+        "status": 1,
+        "struckPrice": 49.9,
+        "struckPriceText": "₺49,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "colgate-natural-extracts-aktif-komur-karbon-temizleyici-dis-macunu-cpVzVFytDl",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e3887bd8aae42357888007e",
+        "name": "Colgate Optic White Anında Beyazlık Beyazlatıcı Diş Macunu",
+        "shortName": "Colgate Optik Anında Beyazlık",
+        "shortDescription": "75 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e3887bd8aae42357888007e_tr_1598732504924.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e3887bd8aae42357888007e_tr_1598732504924.jpeg",
+          "http://cdn.getir.com/product/5e3887bd8aae42357888007e_tr_1602141189428.jpeg",
+          "http://cdn.getir.com/product/5e3887bd8aae42357888007e_d60893ad-017c-431c-8227-cab4c2853940.jpeg"
+        ],
+        "categoryIds": [
+          "551430043427d5010a3a5c5c",
+          "5fd8a40cbb487c5a816f9f03",
+          "5fd8c58f3bdc2389a56e0fb0"
+        ],
+        "subCategoryIds": [
+          "564c6741d35e7d0c002bd250",
+          "5fd8a97663a504d6f10644d4",
+          "5fd90098dbbeb8ba7a12ff11",
+          "603c9547148d36463c9efb70"
+        ],
+        "displayType": 0,
+        "price": 34.9,
+        "priceText": "₺34,90",
+        "status": 1,
+        "struckPrice": 57.9,
+        "struckPriceText": "₺57,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "colgate-optic-white-aninda-beyazlik-beyazlatici-dis-macunu-kReWYAHSoV",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "570b249667a71d0300cb8586",
+        "name": "Colgate Plax Nane Ferahlığı Ağız Bakım Suyu",
+        "shortName": "Colgate Plax Nane Ferahlığı",
+        "shortDescription": "250 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/570b249667a71d0300cb8586_tr_1583127241308.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/570b249667a71d0300cb8586_tr_1583127241308.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": [
+          "564c6741d35e7d0c002bd250",
+          "603c9547148d36463c9efb70"
+        ],
+        "displayType": 0,
+        "price": 14.65,
+        "priceText": "₺14,65",
+        "status": 1,
+        "struckPrice": 20.9,
+        "struckPriceText": "₺20,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "colgate-plax-nane-ferahligi-agiz-bakim-suyu-64c2xmJ3y8",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "one-cikanlar-BIZFnLSw8s"
+  },
+  {
+    "id": "564c6741d35e7d0c002bd250",
+    "name": "Ağız Bakım",
+    "productCount": 34,
+    "products": [
+      {
+        "id": "602bd6acddfb96dcb899ce5c",
+        "name": "Signal Üçlü Koruma Diş Macunu",
+        "shortName": "Signal Üçlü Koruma",
+        "shortDescription": "120 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/602bd6acddfb96dcb899ce5c_tr_1624351221618.jpeg",
+        "wideThumbnailURL": "http://cdn.getir.com/product/602bd6acddfb96dcb899ce5c_wide_pic_tr_1620026715446.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/602bd6acddfb96dcb899ce5c_tr_1624351221618.jpeg",
+          "http://cdn.getir.com/product/602bd6acddfb96dcb899ce5c_bb272b60-5c67-481c-8769-a97b98be6826.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["564c6741d35e7d0c002bd250"],
+        "displayType": 1,
+        "price": 20.5,
+        "priceText": "₺20,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "signal-uclu-koruma-dis-macunu-jnqwIdqdS8",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61532d4f2b0e635ffe2f4290",
+        "name": "Colgate Optik White & Palmolive Duş Jeli İkilisi",
+        "shortName": "Colgate & Palmolive İkilisi",
+        "shortDescription": "2 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61532d4f2b0e635ffe2f4290_tr_1632985022513.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61532d4f2b0e635ffe2f4290_tr_1632985022513.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": [
+          "56e011278d5ef803003988f2",
+          "564c6741d35e7d0c002bd250"
+        ],
+        "displayType": 0,
+        "price": 36.9,
+        "priceText": "₺36,90",
+        "status": 1,
+        "struckPrice": 62.4,
+        "struckPriceText": "₺62,40",
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "5e945dc3104ea5e7ce7c3cf9",
+            "count": 1,
+            "name": "Palmolive Body Butter Hindistan Cevizi Cazibesi Banyo ve Duş Jeli",
+            "shortDescription": "250 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5e945dc3104ea5e7ce7c3cf9_tr_1624353208275.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "5c3f4bdcf9ba5f0001e7b0d9",
+            "count": 1,
+            "name": "Colgate Optik White Parıldayan Beyazlık Diş Macunu",
+            "shortDescription": "75 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5c3f4bdcf9ba5f0001e7b0d9_tr_1609902603858.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "colgate-palmolive-ikilisi-plra8p8pdb",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6128fddfe6ea146592fc9aa7",
+        "name": "Colgate Optik White Diş Macunu & Plax Nane Ferahlığı Ağız Bakım Suyu",
+        "shortName": "Colgate İkilisi",
+        "shortDescription": "2 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6128fddfe6ea146592fc9aa7_tr_1630500378205.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6128fddfe6ea146592fc9aa7_tr_1630500378205.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["564c6741d35e7d0c002bd250"],
+        "displayType": 0,
+        "price": 35.9,
+        "priceText": "₺35,90",
+        "status": 1,
+        "struckPrice": 60.8,
+        "struckPriceText": "₺60,80",
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "5c3f4bdcf9ba5f0001e7b0d9",
+            "count": 1,
+            "name": "Colgate Optik White Parıldayan Beyazlık Diş Macunu",
+            "shortDescription": "75 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5c3f4bdcf9ba5f0001e7b0d9_tr_1609902603858.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "570b249667a71d0300cb8586",
+            "count": 1,
+            "name": "Colgate Plax Nane Ferahlığı Ağız Bakım Suyu",
+            "shortDescription": "250 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/570b249667a71d0300cb8586_tr_1583127241308.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "colgate-optik-white-dis-macunu-ve-colgate-plax-nane-bakim-suyu-wn9cijvq8l",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "608fd71b4a9ddce48e34d775",
+        "name": "Colgate & Palmolive Paketi",
+        "shortName": "Colgate & Palmolive Paketi",
+        "shortDescription": "3 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/608fd71b4a9ddce48e34d775_tr_1625649246080.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/608fd71b4a9ddce48e34d775_tr_1625649246080.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": [
+          "56e011278d5ef803003988f2",
+          "564c6741d35e7d0c002bd250"
+        ],
+        "displayType": 0,
+        "price": 53.9,
+        "priceText": "₺53,90",
+        "status": 1,
+        "struckPrice": 90.35,
+        "struckPriceText": "₺90,35",
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "5e945dc3104ea5e7ce7c3cf9",
+            "count": 1,
+            "name": "Palmolive Body Butter Hindistan Cevizi Cazibesi Banyo ve Duş Jeli",
+            "shortDescription": "250 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5e945dc3104ea5e7ce7c3cf9_tr_1624353208275.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "5e936403f9f1a4e80b11e5aa",
+            "count": 1,
+            "name": "Colgate ZigZag Charcoal Orta Diş Fırçası",
+            "shortDescription": "Tekli",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5e936403f9f1a4e80b11e5aa_tr_1605687129209.png",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "5c3f4e0399f6570001f2799d",
+            "count": 1,
+            "name": "Colgate Natural Extracts Aktif Kömür Karbon Temizleyici Diş Macunu",
+            "shortDescription": "75 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5c3f4e0399f6570001f2799d_tr_1625056865483.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "colgate-palmolive-paketi-5m4kmlAVgE",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6177a99d33e052383435b448",
+        "name": "Axe & Signal İkilisi",
+        "shortName": "Axe & Signal İkilisi",
+        "shortDescription": "2 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6177a99d33e052383435b448_tr_1635232527339.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6177a99d33e052383435b448_tr_1635232527339.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": [
+          "564c6741d35e7d0c002bd250",
+          "56e011d5dc83940300af3f32"
+        ],
+        "displayType": 0,
+        "price": 26.9,
+        "priceText": "₺26,90",
+        "status": 1,
+        "struckPrice": 36.95,
+        "struckPriceText": "₺36,95",
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "602bd5448fa352806a24419c",
+            "count": 1,
+            "name": "Axe Erkek Deodorant Spray Africa",
+            "shortDescription": "150 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/602bd5448fa352806a24419c_tr_1613548822022.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "602bd6acddfb96dcb899ce5c",
+            "count": 1,
+            "name": "Signal Üçlü Koruma Diş Macunu",
+            "shortDescription": "120 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/602bd6acddfb96dcb899ce5c_tr_1624351221618.jpeg",
+            "wideThumbnailURL": "http://cdn.getir.com/product/602bd6acddfb96dcb899ce5c_wide_pic_tr_1620026715446.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "axe-signal-ikilisi-aqjdh6wna4",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fc5db61f08ec7cbb82383b0",
+        "name": "Listerine & Maske İkilisi",
+        "shortName": "Listerine & Maske İkilisi",
+        "shortDescription": "2 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fc5db61f08ec7cbb82383b0_tr_1611670769308.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fc5db61f08ec7cbb82383b0_tr_1611670769308.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c", "5fd8c58f3bdc2389a56e0fb0"],
+        "subCategoryIds": [
+          "564c6741d35e7d0c002bd250",
+          "5cfe796dbb6504000119d993",
+          "5fd90098dbbeb8ba7a12ff11"
+        ],
+        "displayType": 0,
+        "price": 29.9,
+        "priceText": "₺29,90",
+        "status": 1,
+        "struckPrice": 37.9,
+        "struckPriceText": "₺37,90",
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "5f2cf45b3f35d16000f6a6e9",
+            "count": 1,
+            "name": "CRS 3 Katlı Maske",
+            "shortDescription": "10'lu",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5f2cf45b3f35d16000f6a6e9_tr_1609903539761.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "5c4039350ee16a0001da7ab0",
+            "count": 1,
+            "name": "Listerine Cool Mint",
+            "shortDescription": "500 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5c4039350ee16a0001da7ab0_tr_1624352874503.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "listerine-maske-ikilisi-xczvqUpR9U",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61a49827894a7d5b83aab5de",
+        "name": "Colgate & Palmolive Paketi",
+        "shortName": "Colgate & Palmolive Paketi",
+        "shortDescription": "2 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61a49827894a7d5b83aab5de_tr_1638270704448.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61a49827894a7d5b83aab5de_tr_1638270704448.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c", "5697c78dc181490f00c99fea"],
+        "subCategoryIds": [
+          "564c6741d35e7d0c002bd250",
+          "56e011278d5ef803003988f2",
+          "5a14017dad8d270004d1f2bb"
+        ],
+        "displayType": 0,
+        "price": 35.9,
+        "priceText": "₺35,90",
+        "status": 1,
+        "struckPrice": 59.9,
+        "struckPriceText": "₺59,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "colgate-optic-white-aktif-komur-dis-macunu-50-ml-palmolive-aroma-sensations-so-relaxed-banyo-ve-dus-jeli-250-ml-ygomtjxest",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "600eb71dbbba95337a60c892",
+        "name": "Colgate 3-5 Yaş Florürsüz Çocuk Diş Macunu",
+        "shortName": "Colgate Çocuk Diş Macunu",
+        "shortDescription": "60 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/600eb71dbbba95337a60c892_73a6b34e-ef27-4ef4-afba-1dea7a495e05.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/600eb71dbbba95337a60c892_73a6b34e-ef27-4ef4-afba-1dea7a495e05.jpeg",
+          "http://cdn.getir.com/product/600eb71dbbba95337a60c892_c0f6aa55-e901-4bf0-8316-a0e2682092ef.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["564c6741d35e7d0c002bd250"],
+        "displayType": 0,
+        "price": 44.9,
+        "priceText": "₺44,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "colgate-3-5-yas-florursuz-cocuk-dis-macunu-UZMebX5xZ8",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61965936fb5ba867a32b7afa",
+        "name": "Colgate Üçlü Etki Diş Macunu",
+        "shortName": "Colgate Üçlü Etki",
+        "shortDescription": "125 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61965936fb5ba867a32b7afa_23702851-6723-4863-bf6a-a858615b57d8.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61965936fb5ba867a32b7afa_23702851-6723-4863-bf6a-a858615b57d8.jpeg",
+          "http://cdn.getir.com/product/61965936fb5ba867a32b7afa_9ab41544-5c86-4ad5-abe6-6288f629efea.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c", "5697c78dc181490f00c99fea"],
+        "subCategoryIds": [
+          "564c6741d35e7d0c002bd250",
+          "5a14017dad8d270004d1f2bb"
+        ],
+        "displayType": 0,
+        "price": 18.25,
+        "priceText": "₺18,25",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "colgate-uclu-etki-dis-macunu-125-ml-zbmzvdkrvp",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5dadb8285642b8493ec1978c",
+        "name": "Colgate Max White Kalıcı Beyazlık Diş Macunu",
+        "shortName": "Colgate Max White",
+        "shortDescription": "75 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5dadb8285642b8493ec1978c_tr_1583127281921.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5dadb8285642b8493ec1978c_tr_1583127281921.jpeg",
+          "http://cdn.getir.com/product/5dadb8285642b8493ec1978c_tr_1598348845664.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["564c6741d35e7d0c002bd250"],
+        "displayType": 0,
+        "price": 16.95,
+        "priceText": "₺16,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "colgate-max-white-kalici-beyazlik-dis-macunu-VHh0vHVIi3",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c3f4bdcf9ba5f0001e7b0d9",
+        "name": "Colgate Optik White Parıldayan Beyazlık Diş Macunu",
+        "shortName": "Colgate Optik White",
+        "shortDescription": "75 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c3f4bdcf9ba5f0001e7b0d9_tr_1609902603858.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c3f4bdcf9ba5f0001e7b0d9_tr_1609902603858.jpeg",
+          "http://cdn.getir.com/product/5c3f4bdcf9ba5f0001e7b0d9_tr_1598432998107.jpeg",
+          "http://cdn.getir.com/product/5c3f4bdcf9ba5f0001e7b0d9_3e42f1fd-e23a-4e9d-b150-d233deecb19a.jpeg"
+        ],
+        "categoryIds": [
+          "551430043427d5010a3a5c5c",
+          "5fd8a40cbb487c5a816f9f03",
+          "5fd8c58f3bdc2389a56e0fb0"
+        ],
+        "subCategoryIds": [
+          "564c6741d35e7d0c002bd250",
+          "5fd8a97663a504d6f10644d4",
+          "5fd90098dbbeb8ba7a12ff11"
+        ],
+        "displayType": 0,
+        "price": 39.9,
+        "priceText": "₺39,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "colgate-optik-white-parildayan-beyazlik-dis-macunu-uwTRQo3nKz",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ce65820a72a950001cc884d",
+        "name": "Colgate Hassasiyete Pro-Çözüm Anında Rahatlama Diş Macunu",
+        "shortName": "Colgate Anında Rahatlama",
+        "shortDescription": "75 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ce65820a72a950001cc884d_tr_1609902500441.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ce65820a72a950001cc884d_tr_1609902500441.jpeg",
+          "http://cdn.getir.com/product/5ce65820a72a950001cc884d_tr_1598435617052.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["564c6741d35e7d0c002bd250"],
+        "displayType": 0,
+        "price": 57.9,
+        "priceText": "₺57,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "colgate-hassasiyete-pro-cozum-aninda-rahatlama-dis-macunu-opi0y3lWSS",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6023dbd72e8bc2c414dbca79",
+        "name": "Colgate Total Profesyonel Aktif Kömür Diş Macunu",
+        "shortName": "Colgate Total Profesyonel",
+        "shortDescription": "75 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6023dbd72e8bc2c414dbca79_tr_1613555949223.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6023dbd72e8bc2c414dbca79_tr_1613555949223.jpeg",
+          "http://cdn.getir.com/product/6023dbd72e8bc2c414dbca79_2a944e63-e0ab-4cd4-a578-aa7d60102dc4.jpeg",
+          "http://cdn.getir.com/product/6023dbd72e8bc2c414dbca79_fa80429f-cce1-4aaa-8b42-f35c1061cd3a.jpeg",
+          "http://cdn.getir.com/product/6023dbd72e8bc2c414dbca79_3d863ab4-9e25-4181-bbaa-2304eea62f6a.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["564c6741d35e7d0c002bd250"],
+        "displayType": 0,
+        "price": 54.9,
+        "priceText": "₺54,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "colgate-total-profesyonel-aktif-komur-dis-macunu-Bh8kHVw2OK",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e3887bd8aae42357888007e",
+        "name": "Colgate Optic White Anında Beyazlık Beyazlatıcı Diş Macunu",
+        "shortName": "Colgate Optik Anında Beyazlık",
+        "shortDescription": "75 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e3887bd8aae42357888007e_tr_1598732504924.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e3887bd8aae42357888007e_tr_1598732504924.jpeg",
+          "http://cdn.getir.com/product/5e3887bd8aae42357888007e_tr_1602141189428.jpeg",
+          "http://cdn.getir.com/product/5e3887bd8aae42357888007e_d60893ad-017c-431c-8227-cab4c2853940.jpeg"
+        ],
+        "categoryIds": [
+          "551430043427d5010a3a5c5c",
+          "5fd8a40cbb487c5a816f9f03",
+          "5fd8c58f3bdc2389a56e0fb0"
+        ],
+        "subCategoryIds": [
+          "564c6741d35e7d0c002bd250",
+          "5fd8a97663a504d6f10644d4",
+          "5fd90098dbbeb8ba7a12ff11",
+          "603c9547148d36463c9efb70"
+        ],
+        "displayType": 0,
+        "price": 34.9,
+        "priceText": "₺34,90",
+        "status": 1,
+        "struckPrice": 57.9,
+        "struckPriceText": "₺57,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "colgate-optic-white-aninda-beyazlik-beyazlatici-dis-macunu-kReWYAHSoV",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c3f4e0399f6570001f2799d",
+        "name": "Colgate Natural Extracts Aktif Kömür Karbon Temizleyici Diş Macunu",
+        "shortName": "Colgate Natural Extracts",
+        "shortDescription": "75 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c3f4e0399f6570001f2799d_tr_1625056865483.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c3f4e0399f6570001f2799d_tr_1625056865483.jpeg",
+          "http://cdn.getir.com/product/5c3f4e0399f6570001f2799d_d91c34c4-59ff-41af-ba36-a0edef8d57e6.jpeg",
+          "http://cdn.getir.com/product/5c3f4e0399f6570001f2799d_8097c5b8-a7b9-45c1-9c21-0192d33c6674.jpeg"
+        ],
+        "categoryIds": [
+          "551430043427d5010a3a5c5c",
+          "5fd8a40cbb487c5a816f9f03",
+          "5fd8c58f3bdc2389a56e0fb0"
+        ],
+        "subCategoryIds": [
+          "564c6741d35e7d0c002bd250",
+          "5fd8a97663a504d6f10644d4",
+          "5fd90098dbbeb8ba7a12ff11",
+          "603c9547148d36463c9efb70"
+        ],
+        "displayType": 0,
+        "price": 29.9,
+        "priceText": "₺29,90",
+        "status": 1,
+        "struckPrice": 49.9,
+        "struckPriceText": "₺49,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "colgate-natural-extracts-aktif-komur-karbon-temizleyici-dis-macunu-cpVzVFytDl",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "55983f77b1dc700c006a7243",
+        "name": "Signal Diş Macunu Anında Beyazlık",
+        "shortName": "Signal White Now",
+        "shortDescription": "75 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/55983f77b1dc700c006a7243_77206e3c-cf0d-4fb5-8a87-2384500a5a75.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/55983f77b1dc700c006a7243_77206e3c-cf0d-4fb5-8a87-2384500a5a75.jpeg",
+          "http://cdn.getir.com/product/55983f77b1dc700c006a7243_58a7f109-8ba5-43e0-a92c-cf5d03e10be1.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["564c6741d35e7d0c002bd250"],
+        "displayType": 0,
+        "price": 31.9,
+        "priceText": "₺31,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "signal-dis-macunu-aninda-beyazlik-1toFh0CWfw",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e8767c412072f665c59e64d",
+        "name": "Signal White Now Detox Aktif Kömür Diş Macunu",
+        "shortName": "Signal Detox Aktif Kömür",
+        "shortDescription": "75 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e8767c412072f665c59e64d_tr_1624877677879.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e8767c412072f665c59e64d_tr_1624877677879.jpeg",
+          "http://cdn.getir.com/product/5e8767c412072f665c59e64d_tr_1586359959084.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "564c6741d35e7d0c002bd250",
+          "5fd8a97663a504d6f10644d4"
+        ],
+        "displayType": 0,
+        "price": 44.9,
+        "priceText": "₺44,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "signal-white-now-detox-aktif-komur-dis-macunu-heyBxPprgI",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "617116cdb9c6a559e31f3a07",
+        "name": "Sensodyne Tam Koruma & Beyazlatıcı Diş Macunu",
+        "shortName": "Sensodyne Tam Koruma",
+        "shortDescription": "50 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/617116cdb9c6a559e31f3a07_3118a5fa-58cf-45f5-9c93-e53aaebf4245.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/617116cdb9c6a559e31f3a07_3118a5fa-58cf-45f5-9c93-e53aaebf4245.jpeg",
+          "http://cdn.getir.com/product/617116cdb9c6a559e31f3a07_742a8401-edab-4d7d-8cb1-c503c0e784cf.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c", "5697c78dc181490f00c99fea"],
+        "subCategoryIds": [
+          "564c6741d35e7d0c002bd250",
+          "5a14017dad8d270004d1f2bb"
+        ],
+        "displayType": 0,
+        "price": 19.95,
+        "priceText": "₺19,95",
+        "status": 1,
+        "struckPrice": 24.9,
+        "struckPriceText": "₺24,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sensodyne-tam-koruma-beyazlatici-dis-macunu-50-ml-apapr2iq1p",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ae9a962fe59200004001762",
+        "name": "Sensodyne Onarım ve Koruma Beyazlatıcı Diş Macunu",
+        "shortName": "Sensodyne Onarım",
+        "shortDescription": "75 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ae9a962fe59200004001762_tr_1630574523606.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ae9a962fe59200004001762_tr_1630574523606.jpeg",
+          "http://cdn.getir.com/product/5ae9a962fe59200004001762_b017bd0d-cba5-41b3-a5a2-63182b9d084a.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "564c6741d35e7d0c002bd250",
+          "5fd8a97663a504d6f10644d4"
+        ],
+        "displayType": 0,
+        "price": 49.9,
+        "priceText": "₺49,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sensodyne-onarim-ve-koruma-beyazlatici-dis-macunu-DWGc7PMwvl",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "617816e10c795a5bb3dd9b45",
+        "name": "Sensodyne Hızlı Rahatlama Beyazlatıcı Diş Macunu",
+        "shortName": "Sensodyne Hızlı Rahatlama",
+        "shortDescription": "2 x 75 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/617816e10c795a5bb3dd9b45_tr_1635779117515.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/617816e10c795a5bb3dd9b45_tr_1635779117515.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c", "5697c78dc181490f00c99fea"],
+        "subCategoryIds": [
+          "564c6741d35e7d0c002bd250",
+          "5a14017dad8d270004d1f2bb"
+        ],
+        "displayType": 0,
+        "price": 46.9,
+        "priceText": "₺46,90",
+        "status": 1,
+        "struckPrice": 87.8,
+        "struckPriceText": "₺87,80",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sensodyne-hizli-rahatlama-beyazlatici-2-x-75-ml-p1qx4vgud6",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60dc650483bc8452fed88187",
+        "name": "Parodontax Beyazlatıcı Diş Macunu",
+        "shortName": "Parodontax Beyazlatıcı",
+        "shortDescription": "2 x 75 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60dc650483bc8452fed88187_tr_1625122526216.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60dc650483bc8452fed88187_tr_1625122526216.jpeg",
+          "http://cdn.getir.com/product/60dc650483bc8452fed88187_c6d05b16-be5d-43a5-8614-ad18baa49f9f.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["564c6741d35e7d0c002bd250"],
+        "displayType": 0,
+        "price": 39.9,
+        "priceText": "₺39,90",
+        "status": 1,
+        "struckPrice": 83.9,
+        "struckPriceText": "₺83,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "parodontax-beyazlatici-dis-macunu-75ml-1-1-n3evzhkcji",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e936403f9f1a4e80b11e5aa",
+        "name": "Colgate ZigZag Charcoal Orta Diş Fırçası",
+        "shortName": "Colgate Zig Zag Charcoal",
+        "shortDescription": "Tekli",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e936403f9f1a4e80b11e5aa_tr_1605687129209.png",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e936403f9f1a4e80b11e5aa_tr_1605687129209.png",
+          "http://cdn.getir.com/product/5e936403f9f1a4e80b11e5aa_11046b9a-e1c1-4a6a-88e4-6374ee36635d.jpeg"
+        ],
+        "categoryIds": [
+          "551430043427d5010a3a5c5c",
+          "5fd8a40cbb487c5a816f9f03",
+          "5fd8c58f3bdc2389a56e0fb0"
+        ],
+        "subCategoryIds": [
+          "564c6741d35e7d0c002bd250",
+          "5fd8a97663a504d6f10644d4",
+          "5fd90098dbbeb8ba7a12ff11"
+        ],
+        "displayType": 0,
+        "price": 17.95,
+        "priceText": "₺17,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "colgate-zigzag-charcoal-orta-dis-fircasi-dRUna5QAVy",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c3f52fbf9ba5f0001e7b7ab",
+        "name": "Colgate Extra Clean Diş Fırçası Orta",
+        "shortName": "Colgate Extra Clean Orta",
+        "shortDescription": "1 + 1",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c3f52fbf9ba5f0001e7b7ab_tr_1625057750371.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c3f52fbf9ba5f0001e7b7ab_tr_1625057750371.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["564c6741d35e7d0c002bd250"],
+        "displayType": 0,
+        "price": 12.95,
+        "priceText": "₺12,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "colgate-extra-clean-dis-fircasi-orta-CWwYcBCY13",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ce6581dfd9b330001c4a8c1",
+        "name": "Colgate Mikro İnce Siyah Diş Fırçası Yumuşak",
+        "shortName": "Colgate Siyah Yumuşak",
+        "shortDescription": "1 + 1",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ce6581dfd9b330001c4a8c1_tr_1625057709752.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ce6581dfd9b330001c4a8c1_tr_1625057709752.jpeg",
+          "http://cdn.getir.com/product/5ce6581dfd9b330001c4a8c1_fcb9f179-8f8f-4159-8c26-b32dd92ded9f.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "564c6741d35e7d0c002bd250",
+          "5fd8a97663a504d6f10644d4"
+        ],
+        "displayType": 0,
+        "price": 39.9,
+        "priceText": "₺39,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "colgate-mikro-ince-siyah-dis-fircasi-yumusak-2qRk3uLMAE",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ce6581dfd9b330001c4a8bb",
+        "name": "Colgate 360 Komple Ağız Temizliği Diş Fırçası Orta",
+        "shortName": "Colgate 360 Orta",
+        "shortDescription": "1 + 1",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ce6581dfd9b330001c4a8bb_tr_1616666397297.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ce6581dfd9b330001c4a8bb_tr_1616666397297.jpeg",
+          "http://cdn.getir.com/product/5ce6581dfd9b330001c4a8bb_abd5a854-7270-4fbb-85bf-d1994f011426.jpeg"
+        ],
+        "categoryIds": [
+          "551430043427d5010a3a5c5c",
+          "5fd8a40cbb487c5a816f9f03",
+          "5fd8c58f3bdc2389a56e0fb0"
+        ],
+        "subCategoryIds": [
+          "564c6741d35e7d0c002bd250",
+          "5fd8a97663a504d6f10644d4",
+          "5fd90098dbbeb8ba7a12ff11"
+        ],
+        "displayType": 0,
+        "price": 45.9,
+        "priceText": "₺45,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "colgate-360-komple-agiz-temizligi-dis-fircasi-orta-dYE5bX4FD6",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6023dd3975cfd9241ac2c388",
+        "name": "Colgate Foam Soft Diş Eti Masajı Yumuşak Diş Fırçası",
+        "shortName": "Colgate Foam Soft",
+        "shortDescription": "Tekli",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6023dd3975cfd9241ac2c388_tr_1613470154612.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6023dd3975cfd9241ac2c388_tr_1613470154612.jpeg",
+          "http://cdn.getir.com/product/6023dd3975cfd9241ac2c388_8412420d-c57b-4299-bf9e-f7bafbdda93d.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["564c6741d35e7d0c002bd250"],
+        "displayType": 0,
+        "price": 36.9,
+        "priceText": "₺36,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "colgate-foam-soft-dis-eti-masaji-yumusak-dis-fircasi-a6MGo2Kvok",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5cb47a1df066d40001da186c",
+        "name": "Signal Performans Diş Fırçası Orta",
+        "shortName": "Signal Performans Orta",
+        "shortDescription": "Tekli",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5cb47a1df066d40001da186c_tr_1604258697199.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5cb47a1df066d40001da186c_tr_1604258697199.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "564c6741d35e7d0c002bd250",
+          "5fd8a97663a504d6f10644d4"
+        ],
+        "displayType": 0,
+        "price": 14.15,
+        "priceText": "₺14,15",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "signal-performans-dis-fircasi-orta-DKymyf0TNd",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c3dcf3fe374480001b7df4c",
+        "name": "Signal White Now Seyahat Seti",
+        "shortName": "Signal White Now Seyahat Seti",
+        "shortDescription": "2 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c3dcf3fe374480001b7df4c_tr_1604258708483.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c3dcf3fe374480001b7df4c_tr_1604258708483.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "564c6741d35e7d0c002bd250",
+          "5fd8a97663a504d6f10644d4"
+        ],
+        "displayType": 0,
+        "price": 21.5,
+        "priceText": "₺21,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "signal-white-now-seyahat-seti-8wz1kDYmiM",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5cb478e5368e0700019959b4",
+        "name": "Signal Performans Diş Fırçası Orta",
+        "shortName": "Signal Performans Orta",
+        "shortDescription": "2 + 1",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5cb478e5368e0700019959b4_9e073382-d3c9-43bb-912b-f865055d8cfb.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5cb478e5368e0700019959b4_9e073382-d3c9-43bb-912b-f865055d8cfb.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "564c6741d35e7d0c002bd250",
+          "5fd8a97663a504d6f10644d4"
+        ],
+        "displayType": 0,
+        "price": 28.9,
+        "priceText": "₺28,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "signal-performans-dis-fircasi-orta-FotJNYrz3b",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fdc786091868f2028e57b22",
+        "name": "Oral-B Cross Action Diş Fırçası Yedek Başlık",
+        "shortName": "Oral-B Yedek Başlık",
+        "shortDescription": "2'li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fdc786091868f2028e57b22_6f1c16fe-6041-478d-bd08-1f4e6c6cd615.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fdc786091868f2028e57b22_6f1c16fe-6041-478d-bd08-1f4e6c6cd615.jpeg",
+          "http://cdn.getir.com/product/5fdc786091868f2028e57b22_417f18b5-ea0c-4ac0-9439-2680026778c4.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["564c6741d35e7d0c002bd250"],
+        "displayType": 0,
+        "price": 99.9,
+        "priceText": "₺99,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "oral-b-cross-action-dis-fircasi-yedek-baslik-YJpoS75maX",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "570b249667a71d0300cb8586",
+        "name": "Colgate Plax Nane Ferahlığı Ağız Bakım Suyu",
+        "shortName": "Colgate Plax Nane Ferahlığı",
+        "shortDescription": "250 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/570b249667a71d0300cb8586_tr_1583127241308.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/570b249667a71d0300cb8586_tr_1583127241308.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": [
+          "564c6741d35e7d0c002bd250",
+          "603c9547148d36463c9efb70"
+        ],
+        "displayType": 0,
+        "price": 14.65,
+        "priceText": "₺14,65",
+        "status": 1,
+        "struckPrice": 20.9,
+        "struckPriceText": "₺20,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "colgate-plax-nane-ferahligi-agiz-bakim-suyu-64c2xmJ3y8",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c4039350ee16a0001da7ab0",
+        "name": "Listerine Cool Mint",
+        "shortName": "Listerine Cool Mint",
+        "shortDescription": "500 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c4039350ee16a0001da7ab0_tr_1624352874503.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c4039350ee16a0001da7ab0_tr_1624352874503.jpeg",
+          "http://cdn.getir.com/product/5c4039350ee16a0001da7ab0_705dda81-1737-4ed4-a75b-95e3f1ab80a2.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["564c6741d35e7d0c002bd250"],
+        "displayType": 0,
+        "price": 29.9,
+        "priceText": "₺29,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "listerine-cool-mint-dNUl1gdeza",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "601a827020ff572cb817bf17",
+        "name": "Listerine Advanced White Hafif Tat",
+        "shortName": "Listerine Advanced White",
+        "shortDescription": "2 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/601a827020ff572cb817bf17_tr_1612362225262.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/601a827020ff572cb817bf17_tr_1612362225262.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["564c6741d35e7d0c002bd250"],
+        "displayType": 0,
+        "price": 35.9,
+        "priceText": "₺35,90",
+        "status": 1,
+        "struckPrice": 57.9,
+        "struckPriceText": "₺57,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "listerine-advanced-white-hafif-tat-PoFG5VyqmA",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "574b1151dee8a90300f186e2",
+        "name": "Sensodyne Gentle Floss Diş İpi",
+        "shortName": "Sensodyne Diş İpi",
+        "shortDescription": "30 m",
+        "squareThumbnailURL": "http://cdn.getir.com/product/574b1151dee8a90300f186e2.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/574b1151dee8a90300f186e2.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "564c6741d35e7d0c002bd250",
+          "5fd8a97663a504d6f10644d4"
+        ],
+        "displayType": 0,
+        "price": 18.35,
+        "priceText": "₺18,35",
+        "status": 1,
+        "struckPrice": 22.9,
+        "struckPriceText": "₺22,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sensodyne-gentle-floss-dis-ipi-3iLty7bM1Q",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "agiz-bakim-N1bzGpbY0z"
+  },
+  {
+    "id": "5a5e9f47c3949e0004b31823",
+    "name": "Saç Bakım",
+    "productCount": 6,
+    "products": [
+      {
+        "id": "60b4f772beb9ea48bd4e7099",
+        "name": "Elidor Sağlıklı ve Canlı Görünen Saçlar Şampuanı by Afra Saraçoğlu",
+        "shortName": "Elidor Sağlıklı Saçlar Şampuanı",
+        "shortDescription": "650 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60b4f772beb9ea48bd4e7099_tr_1624351548993.jpeg",
+        "wideThumbnailURL": "http://cdn.getir.com/product/60b4f772beb9ea48bd4e7099_wide_pic_tr_1625466045413.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60b4f772beb9ea48bd4e7099_tr_1624351548993.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["5a5e9f47c3949e0004b31823"],
+        "displayType": 1,
+        "price": 39.9,
+        "priceText": "₺39,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "elidor-saglikli-ve-canli-gorunen-saclar-sampuani-by-afra-saracoglu-SYquL7vBen",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fac06399ed2092513a4e205",
+        "name": "Gliss Bio-Tech Güçlendirici Şampuan",
+        "shortName": "Gliss Bio-Tech Şampuan",
+        "shortDescription": "500 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fac06399ed2092513a4e205_tr_1609398223908.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fac06399ed2092513a4e205_tr_1609398223908.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "5a5e9f47c3949e0004b31823",
+          "5fd8a97663a504d6f10644d4"
+        ],
+        "displayType": 0,
+        "price": 25.9,
+        "priceText": "₺25,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "gliss-bio-tech-guclendirici-sampuan-GfDWmycxOm",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6194b30eab365c5ff9c57040",
+        "name": "Clear Men Cool Sport Mentollü Şampuan",
+        "shortName": "Clear Men Cool Sport Şampuan",
+        "shortDescription": "485 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6194b30eab365c5ff9c57040_ead24c4a-9874-4a22-ab50-1b92badc01a5.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6194b30eab365c5ff9c57040_ead24c4a-9874-4a22-ab50-1b92badc01a5.jpeg",
+          "http://cdn.getir.com/product/6194b30eab365c5ff9c57040_3889dc33-150e-468e-b86b-b6f48121b3f1.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c", "5697c78dc181490f00c99fea"],
+        "subCategoryIds": [
+          "5a5e9f47c3949e0004b31823",
+          "5a14017dad8d270004d1f2bb"
+        ],
+        "displayType": 0,
+        "price": 33.9,
+        "priceText": "₺33,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "clear-men-cool-sport-mentollu-sampuan-485-ml-y7zxnke2gr",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e7a2b2bc5d77164aaf2f0a5",
+        "name": "Uni Baby Şampuan",
+        "shortName": "Uni Baby Şampuan",
+        "shortDescription": "700 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e7a2b2bc5d77164aaf2f0a5_tr_1620721679147.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e7a2b2bc5d77164aaf2f0a5_tr_1620721679147.jpeg",
+          "http://cdn.getir.com/product/5e7a2b2bc5d77164aaf2f0a5_5bf2e968-a54e-44a6-bd92-9fdcd1463f59.jpeg"
+        ],
+        "categoryIds": [
+          "551430043427d5010a3a5c5b",
+          "551430043427d5010a3a5c5c",
+          "5fd8a40cbb487c5a816f9f03"
+        ],
+        "subCategoryIds": [
+          "564c68b0d35e7d0c002bd4c2",
+          "5a5e9f47c3949e0004b31823",
+          "5fd8aae08d9b1f501dfddb0b"
+        ],
+        "displayType": 0,
+        "price": 36.5,
+        "priceText": "₺36,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "uni-baby-sampuan-bwuA1JCyfG",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ce65821fd9b330001c4a987",
+        "name": "Elidor Güçlü ve Parlak Saç Bakım Kremi",
+        "shortName": "Elidor Güçlü ve Parlak",
+        "shortDescription": "500 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ce65821fd9b330001c4a987_f3c6b5bc-a552-4390-afc2-5edb6a1fea52.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ce65821fd9b330001c4a987_f3c6b5bc-a552-4390-afc2-5edb6a1fea52.jpeg",
+          "http://cdn.getir.com/product/5ce65821fd9b330001c4a987_37df7be2-c54d-486e-a303-13c9ae77bc22.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["5a5e9f47c3949e0004b31823"],
+        "displayType": 0,
+        "price": 25.9,
+        "priceText": "₺25,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "elidor-guclu-ve-parlak-sac-bakim-kremi-pWSualjetI",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c4028fb0ee16a0001da65dc",
+        "name": "Pantene 3 Minute Miracle Onarıcı ve Koruyucu Saç Bakım Kremi",
+        "shortName": "Pantene Onarıcı Saç Kremi",
+        "shortDescription": "200 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c4028fb0ee16a0001da65dc_tr_1616417356402.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c4028fb0ee16a0001da65dc_tr_1616417356402.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["5a5e9f47c3949e0004b31823"],
+        "displayType": 0,
+        "price": 41.9,
+        "priceText": "₺41,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "pantene-3-minute-miracle-onarici-ve-koruyucu-sac-bakim-kremi-fIZ1OS3sYu",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "sac-bakim-OTUTQqiDc2"
+  },
+  {
+    "id": "56e011278d5ef803003988f2",
+    "name": "Duş & Banyo",
+    "productCount": 11,
+    "products": [
+      {
+        "id": "5e9468e2246ffc44d0a471e4",
+        "name": "Palmolive Aroma Sensations Feel the Glow Cilt Yenileyici Duş Jeli",
+        "shortName": "Feel the Glow Cilt Yenileyici Duş Jeli",
+        "shortDescription": "500 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e9468e2246ffc44d0a471e4_tr_1613467720721.jpeg",
+        "wideThumbnailURL": "http://cdn.getir.com/product/5e9468e2246ffc44d0a471e4_wide_pic_tr_1640602217384.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e9468e2246ffc44d0a471e4_tr_1613467720721.jpeg",
+          "http://cdn.getir.com/product/5e9468e2246ffc44d0a471e4_f8c97eb5-c8c5-4496-a8cd-bf3c8624e680.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e011278d5ef803003988f2"],
+        "displayType": 1,
+        "price": 22,
+        "priceText": "₺22,00",
+        "status": 1,
+        "struckPrice": 36.9,
+        "struckPriceText": "₺36,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "palmolive-aroma-sensations-feel-the-glow-cilt-yenileyici-dus-jeli-Uh5YP0W4gI",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "608fd71b4a9ddce48e34d775",
+        "name": "Colgate & Palmolive Paketi",
+        "shortName": "Colgate & Palmolive Paketi",
+        "shortDescription": "3 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/608fd71b4a9ddce48e34d775_tr_1625649246080.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/608fd71b4a9ddce48e34d775_tr_1625649246080.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": [
+          "56e011278d5ef803003988f2",
+          "564c6741d35e7d0c002bd250"
+        ],
+        "displayType": 0,
+        "price": 53.9,
+        "priceText": "₺53,90",
+        "status": 1,
+        "struckPrice": 90.35,
+        "struckPriceText": "₺90,35",
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "5e945dc3104ea5e7ce7c3cf9",
+            "count": 1,
+            "name": "Palmolive Body Butter Hindistan Cevizi Cazibesi Banyo ve Duş Jeli",
+            "shortDescription": "250 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5e945dc3104ea5e7ce7c3cf9_tr_1624353208275.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "5e936403f9f1a4e80b11e5aa",
+            "count": 1,
+            "name": "Colgate ZigZag Charcoal Orta Diş Fırçası",
+            "shortDescription": "Tekli",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5e936403f9f1a4e80b11e5aa_tr_1605687129209.png",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "5c3f4e0399f6570001f2799d",
+            "count": 1,
+            "name": "Colgate Natural Extracts Aktif Kömür Karbon Temizleyici Diş Macunu",
+            "shortDescription": "75 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5c3f4e0399f6570001f2799d_tr_1625056865483.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "colgate-palmolive-paketi-5m4kmlAVgE",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61532d4f2b0e635ffe2f4290",
+        "name": "Colgate Optik White & Palmolive Duş Jeli İkilisi",
+        "shortName": "Colgate & Palmolive İkilisi",
+        "shortDescription": "2 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61532d4f2b0e635ffe2f4290_tr_1632985022513.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61532d4f2b0e635ffe2f4290_tr_1632985022513.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": [
+          "56e011278d5ef803003988f2",
+          "564c6741d35e7d0c002bd250"
+        ],
+        "displayType": 0,
+        "price": 36.9,
+        "priceText": "₺36,90",
+        "status": 1,
+        "struckPrice": 62.4,
+        "struckPriceText": "₺62,40",
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "5e945dc3104ea5e7ce7c3cf9",
+            "count": 1,
+            "name": "Palmolive Body Butter Hindistan Cevizi Cazibesi Banyo ve Duş Jeli",
+            "shortDescription": "250 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5e945dc3104ea5e7ce7c3cf9_tr_1624353208275.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "5c3f4bdcf9ba5f0001e7b0d9",
+            "count": 1,
+            "name": "Colgate Optik White Parıldayan Beyazlık Diş Macunu",
+            "shortDescription": "75 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5c3f4bdcf9ba5f0001e7b0d9_tr_1609902603858.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "colgate-palmolive-ikilisi-plra8p8pdb",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61a49827894a7d5b83aab5de",
+        "name": "Colgate & Palmolive Paketi",
+        "shortName": "Colgate & Palmolive Paketi",
+        "shortDescription": "2 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61a49827894a7d5b83aab5de_tr_1638270704448.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61a49827894a7d5b83aab5de_tr_1638270704448.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c", "5697c78dc181490f00c99fea"],
+        "subCategoryIds": [
+          "564c6741d35e7d0c002bd250",
+          "56e011278d5ef803003988f2",
+          "5a14017dad8d270004d1f2bb"
+        ],
+        "displayType": 0,
+        "price": 35.9,
+        "priceText": "₺35,90",
+        "status": 1,
+        "struckPrice": 59.9,
+        "struckPriceText": "₺59,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "colgate-optic-white-aktif-komur-dis-macunu-50-ml-palmolive-aroma-sensations-so-relaxed-banyo-ve-dus-jeli-250-ml-ygomtjxest",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e945dc3104ea5e7ce7c3cf9",
+        "name": "Palmolive Body Butter Hindistan Cevizi Cazibesi Banyo ve Duş Jeli",
+        "shortName": "Hindistan Cevizi Duş Jeli",
+        "shortDescription": "250 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e945dc3104ea5e7ce7c3cf9_tr_1624353208275.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e945dc3104ea5e7ce7c3cf9_tr_1624353208275.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "56e011278d5ef803003988f2",
+          "5fd8a97663a504d6f10644d4"
+        ],
+        "displayType": 0,
+        "price": 22.5,
+        "priceText": "₺22,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "palmolive-body-butter-hindistan-cevizi-cazibesi-banyo-ve-dus-jeli-05GQj6MQI2",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c3f54d399f6570001f27fdc",
+        "name": "Palmolive Aroma Sensations Feel the Massage Cilt Yenileyici Duş Jeli",
+        "shortName": "Feel the Massage Duş Jeli",
+        "shortDescription": "500 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c3f54d399f6570001f27fdc_tr_1606806277466.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c3f54d399f6570001f27fdc_tr_1606806277466.jpeg",
+          "http://cdn.getir.com/product/5c3f54d399f6570001f27fdc_b20b1544-65bd-406c-8a83-228120e536cf.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e011278d5ef803003988f2"],
+        "displayType": 0,
+        "price": 22,
+        "priceText": "₺22,00",
+        "status": 1,
+        "struckPrice": 36.9,
+        "struckPriceText": "₺36,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "palmolive-aroma-sensations-feel-the-massage-cilt-yenileyici-dus-jeli-gtcObJf3nb",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5708f74aaeab610300761150",
+        "name": "Palmolive Aroma Sensations So Relaxed Duş Jeli",
+        "shortName": "So Relaxed Duş Jeli",
+        "shortDescription": "500 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5708f74aaeab610300761150_tr_1606806230739.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5708f74aaeab610300761150_tr_1606806230739.jpeg",
+          "http://cdn.getir.com/product/5708f74aaeab610300761150_506dbf8d-7660-4c57-9127-f1adb6d1cb7a.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e011278d5ef803003988f2"],
+        "displayType": 0,
+        "price": 22,
+        "priceText": "₺22,00",
+        "status": 1,
+        "struckPrice": 36.9,
+        "struckPriceText": "₺36,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "palmolive-aroma-sensations-so-relaxed-dus-jeli-rAC71IET6j",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5a69e5f179892500040a0d0e",
+        "name": "Palmolive Men Sport 4'ü 1 Arada Duş Jeli",
+        "shortName": "Men Sport Duş Jeli",
+        "shortDescription": "500 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5a69e5f179892500040a0d0e_tr_1620204765191.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5a69e5f179892500040a0d0e_tr_1620204765191.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e011278d5ef803003988f2"],
+        "displayType": 0,
+        "price": 22,
+        "priceText": "₺22,00",
+        "status": 1,
+        "struckPrice": 36.9,
+        "struckPriceText": "₺36,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "palmolive-men-sport-4-u-1-arada-dus-jeli-rSMlDAQ4uF",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5947e8c007a32500045f9233",
+        "name": "Le Petit Marseillais Beyaz Şeftali & Nektarin Duş Jeli",
+        "shortName": "Beyaz Şeftali Duş Jeli",
+        "shortDescription": "400 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5947e8c007a32500045f9233_tr_1604782097942.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5947e8c007a32500045f9233_tr_1604782097942.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "56e011278d5ef803003988f2",
+          "5fd8a97663a504d6f10644d4"
+        ],
+        "displayType": 0,
+        "price": 32.9,
+        "priceText": "₺32,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "le-petit-marseillais-beyaz-seftali-nektarin-dus-jeli-TV80PHJf2n",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c403a5d0ee16a0001da7c80",
+        "name": "Le Petit Marseillais Men Mineraller & Sedir Ağacı Duş Jeli ve Şampuan",
+        "shortName": "Sedir Ağacı Duş Jeli",
+        "shortDescription": "400 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c403a5d0ee16a0001da7c80_tr_1601153342986.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c403a5d0ee16a0001da7c80_tr_1601153342986.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "56e011278d5ef803003988f2",
+          "5fd8a97663a504d6f10644d4"
+        ],
+        "displayType": 0,
+        "price": 32.9,
+        "priceText": "₺32,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "le-petit-marseillais-men-mineraller-sedir-agaci-dus-jeli-RTN1xpAuvw",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5eeb29af6b5b5d332701d697",
+        "name": "Balmy Banyo Lifi",
+        "shortName": "Balmy Banyo Lifi",
+        "shortDescription": "1 Adet",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5eeb29af6b5b5d332701d697_d3d9ca92-6b4e-4bcf-968d-105a2b1b18d3.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5eeb29af6b5b5d332701d697_d3d9ca92-6b4e-4bcf-968d-105a2b1b18d3.jpeg",
+          "http://cdn.getir.com/product/5eeb29af6b5b5d332701d697_8321f19a-404e-4c32-9307-468508e1e6ae.jpeg",
+          "http://cdn.getir.com/product/5eeb29af6b5b5d332701d697_8c4d4329-e1f0-4a73-bcf7-ab4b65d90427.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e011278d5ef803003988f2"],
+        "displayType": 0,
+        "price": 7.95,
+        "priceText": "₺7,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "balmy-banyo-lifi-LJ4JT6yHjr",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "dus-banyo-GtHPM1v84P"
+  },
+  {
+    "id": "5e3abc1be27a3c242b4de946",
+    "name": "Sabun",
+    "productCount": 10,
+    "products": [
+      {
+        "id": "6018f2d790e4075467e9fd8c",
+        "name": "Pure Line Yasemin Sıvı Sabun",
+        "shortName": "Yasemin Sıvı Sabun",
+        "shortDescription": "280 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6018f2d790e4075467e9fd8c_tr_1624261573377.jpeg",
+        "wideThumbnailURL": "http://cdn.getir.com/product/6018f2d790e4075467e9fd8c_wide_pic_tr_1614580082606.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6018f2d790e4075467e9fd8c_tr_1624261573377.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["5e3abc1be27a3c242b4de946"],
+        "displayType": 1,
+        "price": 13.95,
+        "priceText": "₺13,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "pure-line-yasemin-sivi-sabun-n2EgDSKOoh",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e6b59d5370b07ce0c123ee1",
+        "name": "Protex Antibakteriyel Krem Sıvı Sabun",
+        "shortName": "Krem Sıvı Sabun",
+        "shortDescription": "300 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e6b59d5370b07ce0c123ee1_tr_1603570571382.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e6b59d5370b07ce0c123ee1_tr_1603570571382.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "551430043427d5010a3a5c5c"],
+        "subCategoryIds": [
+          "564c851227652f0c00745cba",
+          "5e3abc1be27a3c242b4de946"
+        ],
+        "displayType": 0,
+        "price": 15.75,
+        "priceText": "₺15,75",
+        "status": 1,
+        "struckPrice": 20.9,
+        "struckPriceText": "₺20,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "protex-antibakteriyel-krem-sivi-sabun-oCY5XbNp4v",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e7b215426aecd5512270b3e",
+        "name": "Protex Antibakteriyel Ultra Koruma Sıvı Sabun",
+        "shortName": "Ultra Koruma Sıvı Sabun",
+        "shortDescription": "1,5 L",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e7b215426aecd5512270b3e_tr_1604128736087.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e7b215426aecd5512270b3e_tr_1604128736087.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "551430043427d5010a3a5c5c"],
+        "subCategoryIds": [
+          "564c851227652f0c00745cba",
+          "5e3abc1be27a3c242b4de946"
+        ],
+        "displayType": 0,
+        "price": 52.4,
+        "priceText": "₺52,40",
+        "status": 1,
+        "struckPrice": 69.9,
+        "struckPriceText": "₺69,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "protex-antibakteriyel-ultra-koruma-sivi-sabun-ksIGTODtr0",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e9056518f097155e41c4f6f",
+        "name": "Activex Aktif Antibakteriyel Sıvı Sabun",
+        "shortName": "Antibakteriyel Sıvı Sabun",
+        "shortDescription": "700 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e9056518f097155e41c4f6f_tr_1607433477355.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e9056518f097155e41c4f6f_tr_1607433477355.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "551430043427d5010a3a5c5c"],
+        "subCategoryIds": [
+          "564c851227652f0c00745cba",
+          "5e3abc1be27a3c242b4de946"
+        ],
+        "displayType": 0,
+        "price": 25.9,
+        "priceText": "₺25,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "activex-aktif-antibakteriyel-sivi-sabun-uHsVQaOBjS",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "59280bbf37e22d0004eace9e",
+        "name": "Le Petit Marseillais Lavanta Sıvı Sabun",
+        "shortName": "Lavanta Sıvı Sabun",
+        "shortDescription": "300 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/59280bbf37e22d0004eace9e_tr_1561555862490.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/59280bbf37e22d0004eace9e_tr_1561555862490.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "551430043427d5010a3a5c5c"],
+        "subCategoryIds": [
+          "564c851227652f0c00745cba",
+          "5e3abc1be27a3c242b4de946"
+        ],
+        "displayType": 0,
+        "price": 15.95,
+        "priceText": "₺15,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "le-petit-marseillais-lavanta-sivi-sabun-opU3yiKDvE",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5947e9d5cb22570004a16270",
+        "name": "Le Petit Marseillais Pamuk Sütü Sıvı Sabun",
+        "shortName": "Pamuk Sütü Sıvı Sabun",
+        "shortDescription": "500 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5947e9d5cb22570004a16270.jpeg?v=1540207036607",
+        "picURLs": [
+          "http://cdn.getir.com/product/5947e9d5cb22570004a16270.jpeg?v=1540207036607"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "551430043427d5010a3a5c5c"],
+        "subCategoryIds": [
+          "564c851227652f0c00745cba",
+          "5e3abc1be27a3c242b4de946"
+        ],
+        "displayType": 0,
+        "price": 15.95,
+        "priceText": "₺15,95",
+        "status": 1,
+        "struckPrice": 21.9,
+        "struckPriceText": "₺21,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "le-petit-marseillais-pamuk-sutu-sivi-sabun-CysoqxbLlp",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "565c2e7c762af60c0079798c",
+        "name": "Dove Sıvı Sabun Beauty Cream Wash",
+        "shortName": "Beauty Cream Sıvı Sabun",
+        "shortDescription": "500 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/565c2e7c762af60c0079798c_tr_1609397772740.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/565c2e7c762af60c0079798c_tr_1609397772740.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "551430043427d5010a3a5c5c"],
+        "subCategoryIds": [
+          "564c851227652f0c00745cba",
+          "5e3abc1be27a3c242b4de946"
+        ],
+        "displayType": 0,
+        "price": 28.9,
+        "priceText": "₺28,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "dove-sivi-sabun-beauty-cream-wash-bQrd0kI0QU",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "55983fa0b1dc700c006a7249",
+        "name": "Dove Beauty Bar Sabun",
+        "shortName": "Beauty Bar Sabun",
+        "shortDescription": "100 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/55983fa0b1dc700c006a7249_74b35b57-0a95-4b37-bb7e-3963435789fd.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/55983fa0b1dc700c006a7249_74b35b57-0a95-4b37-bb7e-3963435789fd.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["5e3abc1be27a3c242b4de946"],
+        "displayType": 0,
+        "price": 8.15,
+        "priceText": "₺8,15",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "dove-beauty-bar-sabun-e88AmrV7wA",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ce6581efd9b330001c4a8da",
+        "name": "Hacı Şakir Doğal Geleneksel Kalıp Sabun",
+        "shortName": "Doğal Kalıp Sabun",
+        "shortDescription": "4 x 150 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ce6581efd9b330001c4a8da_tr_1609842761995.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ce6581efd9b330001c4a8da_tr_1609842761995.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "551430043427d5010a3a5c5c"],
+        "subCategoryIds": [
+          "564c851227652f0c00745cba",
+          "5e3abc1be27a3c242b4de946"
+        ],
+        "displayType": 0,
+        "price": 21.5,
+        "priceText": "₺21,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "haci-sakir-dogal-geleneksel-kalip-sabun-M18MYG6blP",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5d6fac66d3fc490001d036d4",
+        "name": "Duru Saf & Doğal Klasik Kalıp Sabun",
+        "shortName": "Saf & Doğal Sabun",
+        "shortDescription": "4 x 150 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5d6fac66d3fc490001d036d4_tr_1609842719609.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5d6fac66d3fc490001d036d4_tr_1609842719609.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "551430043427d5010a3a5c5c"],
+        "subCategoryIds": [
+          "564c851227652f0c00745cba",
+          "5e3abc1be27a3c242b4de946"
+        ],
+        "displayType": 0,
+        "price": 21.5,
+        "priceText": "₺21,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "duru-saf-dogal-klasik-kalip-sabun-wGFCdrzIG9",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "sabun-MYxwlXBwaJ"
+  },
+  {
+    "id": "56e012318d5ef80300398999",
+    "name": "Hijyenik Ped",
+    "productCount": 12,
+    "products": [
+      {
+        "id": "61768b77340b834578f446da",
+        "name": "Kotex Gece & Normal Paketi",
+        "shortName": "Kotex Gece & Normal Paketi",
+        "shortDescription": "2 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61768b77340b834578f446da_tr_1635162137554.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61768b77340b834578f446da_tr_1635162137554.jpeg"
+        ],
+        "categoryIds": [
+          "551430043427d5010a3a5c5c",
+          "5fd8a40cbb487c5a816f9f03",
+          "5fd8c58f3bdc2389a56e0fb0"
+        ],
+        "subCategoryIds": [
+          "56e012318d5ef80300398999",
+          "5fd8a97663a504d6f10644d4",
+          "5fd90098dbbeb8ba7a12ff11"
+        ],
+        "displayType": 0,
+        "price": 49.7,
+        "priceText": "₺49,70",
+        "status": 1,
+        "struckPrice": 64.75,
+        "struckPriceText": "₺64,75",
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "6135d8f39a87312414d9fd18",
+            "count": 1,
+            "name": "Kotex Ultra Ped Gece",
+            "shortDescription": "16'lı",
+            "squareThumbnailURL": "http://cdn.getir.com/product/6135d8f39a87312414d9fd18_tr_1631008205495.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "5a5ca3afbeef5600040d3a6d",
+            "count": 1,
+            "name": "Kotex Ultra Kanatlı Ped Normal Boy",
+            "shortDescription": "8'li",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5a5ca3afbeef5600040d3a6d_tr_1611641667457.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "kotex-paketi-fwbc75rnkj",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61768ecbbb65f741732a52e1",
+        "name": "Kotex Günlük & Gece İkilisi",
+        "shortName": "Kotex Günlük & Gece İkilisi",
+        "shortDescription": "2 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61768ecbbb65f741732a52e1_tr_1635175459101.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61768ecbbb65f741732a52e1_tr_1635175459101.jpeg"
+        ],
+        "categoryIds": [
+          "551430043427d5010a3a5c5c",
+          "5fd8a40cbb487c5a816f9f03",
+          "5fd8c58f3bdc2389a56e0fb0"
+        ],
+        "subCategoryIds": [
+          "56e012318d5ef80300398999",
+          "5fd8a97663a504d6f10644d4",
+          "5fd90098dbbeb8ba7a12ff11"
+        ],
+        "displayType": 0,
+        "price": 72,
+        "priceText": "₺72,00",
+        "status": 1,
+        "struckPrice": 93.6,
+        "struckPriceText": "₺93,60",
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "6135d8f39a87312414d9fd18",
+            "count": 1,
+            "name": "Kotex Ultra Ped Gece",
+            "shortDescription": "16'lı",
+            "squareThumbnailURL": "http://cdn.getir.com/product/6135d8f39a87312414d9fd18_tr_1631008205495.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "5e3bc3e0fdf97e4b47ac46c3",
+            "count": 1,
+            "name": "Kotex Günlük Ped Normal Boy",
+            "shortDescription": "56'lı",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5e3bc3e0fdf97e4b47ac46c3_tr_1611641427690.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "kotex-gunluk-gece-ikilisi-kds9fiacly",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "617688bda1a17bb0f3149036",
+        "name": "Kotex Ultra Ped İkilisi",
+        "shortName": "Kotex Ultra Ped İkilisi",
+        "shortDescription": "2 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/617688bda1a17bb0f3149036_tr_1635159332667.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/617688bda1a17bb0f3149036_tr_1635159332667.jpeg"
+        ],
+        "categoryIds": [
+          "551430043427d5010a3a5c5c",
+          "5fd8a40cbb487c5a816f9f03",
+          "5fd8c58f3bdc2389a56e0fb0"
+        ],
+        "subCategoryIds": [
+          "56e012318d5ef80300398999",
+          "5fd8a97663a504d6f10644d4",
+          "5fd90098dbbeb8ba7a12ff11"
+        ],
+        "displayType": 0,
+        "price": 72,
+        "priceText": "₺72,00",
+        "status": 1,
+        "struckPrice": 93.6,
+        "struckPriceText": "₺93,60",
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "6135d776de6cbae7427b7726",
+            "count": 1,
+            "name": "Kotex Ultra Ped Uzun",
+            "shortDescription": "18'li",
+            "squareThumbnailURL": "http://cdn.getir.com/product/6135d776de6cbae7427b7726_tr_1631008908407.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "6135d092612e17eaaa7a2fe4",
+            "count": 1,
+            "name": "Kotex Ultra Ped Normal Boy",
+            "shortDescription": "24'lü",
+            "squareThumbnailURL": "http://cdn.getir.com/product/6135d092612e17eaaa7a2fe4_tr_1631009135339.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "kotex-ultra-ped-ikilisi-ksyrn7lv0m",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6135d092612e17eaaa7a2fe4",
+        "name": "Kotex Ultra Ped Normal Boy",
+        "shortName": "Kotex Normal",
+        "shortDescription": "24'lü",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6135d092612e17eaaa7a2fe4_tr_1631009135339.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6135d092612e17eaaa7a2fe4_tr_1631009135339.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e012318d5ef80300398999"],
+        "displayType": 0,
+        "price": 37.4,
+        "priceText": "₺37,40",
+        "status": 1,
+        "struckPrice": 46.8,
+        "struckPriceText": "₺46,80",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "kotex-ultra-ped-normal-boy-24-li-akaepr53kj",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6135d776de6cbae7427b7726",
+        "name": "Kotex Ultra Ped Uzun",
+        "shortName": "Kotex Uzun",
+        "shortDescription": "18'li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6135d776de6cbae7427b7726_tr_1631008908407.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6135d776de6cbae7427b7726_tr_1631008908407.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e012318d5ef80300398999"],
+        "displayType": 0,
+        "price": 37.4,
+        "priceText": "₺37,40",
+        "status": 1,
+        "struckPrice": 46.8,
+        "struckPriceText": "₺46,80",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "kotex-ultra-ped-uzun-18-li-f4sb2asxsa",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6135d8f39a87312414d9fd18",
+        "name": "Kotex Ultra Ped Gece",
+        "shortName": "Kotex Gece",
+        "shortDescription": "16'lı",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6135d8f39a87312414d9fd18_tr_1631008205495.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6135d8f39a87312414d9fd18_tr_1631008205495.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e012318d5ef80300398999"],
+        "displayType": 0,
+        "price": 37.4,
+        "priceText": "₺37,40",
+        "status": 1,
+        "struckPrice": 46.8,
+        "struckPriceText": "₺46,80",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "kotex-ultra-ped-gece-16-li-j29ywgdkzv",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5a5ca3afbeef5600040d3a6d",
+        "name": "Kotex Ultra Kanatlı Ped Normal Boy",
+        "shortName": "Kotex Normal",
+        "shortDescription": "8'li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5a5ca3afbeef5600040d3a6d_tr_1611641667457.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5a5ca3afbeef5600040d3a6d_tr_1611641667457.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e012318d5ef80300398999"],
+        "displayType": 0,
+        "price": 14.35,
+        "priceText": "₺14,35",
+        "status": 1,
+        "struckPrice": 17.95,
+        "struckPriceText": "₺17,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "kotex-ultra-kanatli-ped-normal-boy-MEoOD8Vq7Z",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e3bc3e0fdf97e4b47ac46c3",
+        "name": "Kotex Günlük Ped Normal Boy",
+        "shortName": "Kotex Günlük",
+        "shortDescription": "56'lı",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e3bc3e0fdf97e4b47ac46c3_tr_1611641427690.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e3bc3e0fdf97e4b47ac46c3_tr_1611641427690.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e012318d5ef80300398999"],
+        "displayType": 0,
+        "price": 37.4,
+        "priceText": "₺37,40",
+        "status": 1,
+        "struckPrice": 46.8,
+        "struckPriceText": "₺46,80",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "kotex-gunluk-ped-normal-boy-1lu8agJ6yh",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f917783b8552b08b4e7c4f2",
+        "name": "Orkid Platinum Hijyenik Ped Gece Süper Ekonomik",
+        "shortName": "Orkid Platinum Gece",
+        "shortDescription": "16'lı",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f917783b8552b08b4e7c4f2_tr_1608620177501.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f917783b8552b08b4e7c4f2_tr_1608620177501.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e012318d5ef80300398999"],
+        "displayType": 0,
+        "price": 48.7,
+        "priceText": "₺48,70",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "orkid-platinum-hijyenik-ped-gece-super-ekonomik-BTzKyr6pT1",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "58d27f98d0220d00044f7018",
+        "name": "Orkid Günlük Ped Uzun",
+        "shortName": "Orkid Günlük Uzun",
+        "shortDescription": "16'lı",
+        "squareThumbnailURL": "http://cdn.getir.com/product/58d27f98d0220d00044f7018_tr_1579787078258.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/58d27f98d0220d00044f7018_tr_1579787078258.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e012318d5ef80300398999"],
+        "displayType": 0,
+        "price": 22.9,
+        "priceText": "₺22,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "orkid-gunluk-ped-uzun-EFGFso5u9s",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e1f2863a04de239a2b29fb0",
+        "name": "o.b. Tampon Procomfort Super",
+        "shortName": "o.b. Tampon",
+        "shortDescription": "16'lı",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e1f2863a04de239a2b29fb0_tr_1581083818929.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e1f2863a04de239a2b29fb0_tr_1581083818929.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e012318d5ef80300398999"],
+        "displayType": 0,
+        "price": 25.9,
+        "priceText": "₺25,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "o-b-tampon-procomfort-super-0WJLNvJFQO",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e15ecb1af6b925652fbb92a",
+        "name": "StopEver Lady Comfort Adet Ağrıları İçin Isıtıcı Ped",
+        "shortName": "StopEver Lady Comfort Ped",
+        "shortDescription": "2'li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e15ecb1af6b925652fbb92a_tr_1579100240590.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e15ecb1af6b925652fbb92a_tr_1579100240590.jpeg",
+          "http://cdn.getir.com/product/5e15ecb1af6b925652fbb92a_tr_1579278009347.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e012318d5ef80300398999"],
+        "displayType": 0,
+        "price": 14.95,
+        "priceText": "₺14,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "stopever-lady-comfort-adet-agrilari-icin-isitici-ped-ACbk5FnaE3",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "hijyenik-ped-xN74OYKiQ7"
+  },
+  {
+    "id": "5cfe796dbb6504000119d993",
+    "name": "Genel Sağlık",
+    "productCount": 6,
+    "products": [
+      {
+        "id": "5fc5db61f08ec7cbb82383b0",
+        "name": "Listerine & Maske İkilisi",
+        "shortName": "Listerine & Maske İkilisi",
+        "shortDescription": "2 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fc5db61f08ec7cbb82383b0_tr_1611670769308.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fc5db61f08ec7cbb82383b0_tr_1611670769308.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c", "5fd8c58f3bdc2389a56e0fb0"],
+        "subCategoryIds": [
+          "564c6741d35e7d0c002bd250",
+          "5cfe796dbb6504000119d993",
+          "5fd90098dbbeb8ba7a12ff11"
+        ],
+        "displayType": 0,
+        "price": 29.9,
+        "priceText": "₺29,90",
+        "status": 1,
+        "struckPrice": 37.9,
+        "struckPriceText": "₺37,90",
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "5f2cf45b3f35d16000f6a6e9",
+            "count": 1,
+            "name": "CRS 3 Katlı Maske",
+            "shortDescription": "10'lu",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5f2cf45b3f35d16000f6a6e9_tr_1609903539761.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "5c4039350ee16a0001da7ab0",
+            "count": 1,
+            "name": "Listerine Cool Mint",
+            "shortDescription": "500 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5c4039350ee16a0001da7ab0_tr_1624352874503.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "listerine-maske-ikilisi-xczvqUpR9U",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f2cf45b3f35d16000f6a6e9",
+        "name": "CRS 3 Katlı Maske",
+        "shortName": "CRS 3 Katlı Maske",
+        "shortDescription": "10'lu",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f2cf45b3f35d16000f6a6e9_tr_1609903539761.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f2cf45b3f35d16000f6a6e9_tr_1609903539761.jpeg",
+          "http://cdn.getir.com/product/5f2cf45b3f35d16000f6a6e9_7c438f07-fc8a-4ea9-9f6a-9c59ee3495be.jpeg"
+        ],
+        "categoryIds": [
+          "551430043427d5010a3a5c5c",
+          "5fd8a40cbb487c5a816f9f03",
+          "5fd8c58f3bdc2389a56e0fb0"
+        ],
+        "subCategoryIds": [
+          "5cfe796dbb6504000119d993",
+          "5fd8a97663a504d6f10644d4",
+          "5fd90098dbbeb8ba7a12ff11"
+        ],
+        "displayType": 0,
+        "price": 6.95,
+        "priceText": "₺6,95",
+        "status": 1,
+        "struckPrice": 9.95,
+        "struckPriceText": "₺9,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "crs-3-katli-maske-iU9xztaqvx",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fd886b1dc8f08bfcab63a5e",
+        "name": "CRS 3 Katlı Cerrahi Maske",
+        "shortName": "CRS 3 Katlı Cerrahi Maske",
+        "shortDescription": "50'li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fd886b1dc8f08bfcab63a5e_tr_1608616607723.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fd886b1dc8f08bfcab63a5e_tr_1608616607723.jpeg"
+        ],
+        "categoryIds": [
+          "551430043427d5010a3a5c5c",
+          "5fd8a40cbb487c5a816f9f03",
+          "5fd8c58f3bdc2389a56e0fb0"
+        ],
+        "subCategoryIds": [
+          "5cfe796dbb6504000119d993",
+          "5fd8a97663a504d6f10644d4",
+          "5fd90098dbbeb8ba7a12ff11"
+        ],
+        "displayType": 0,
+        "price": 49.9,
+        "priceText": "₺49,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "crs-3-katli-cerrahi-maske-cp3FlLpP6M",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f6497bd21df49d086f662c6",
+        "name": "Maratem M105 Alkol Bazlı El Dezenfektanı",
+        "shortName": "Maratem El Dezenfektanı",
+        "shortDescription": "250 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f6497bd21df49d086f662c6_tr_1600603405986.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f6497bd21df49d086f662c6_tr_1600603405986.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["5cfe796dbb6504000119d993"],
+        "displayType": 0,
+        "price": 16.25,
+        "priceText": "₺16,25",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "maratem-m105-alkol-bazli-el-dezenfektani-zzCZRsqKW1",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61a5e7ca6417cd4fb0b5bc80",
+        "name": "Beemedic Peluş Sıcak Su Torbası \"Hello Cactus\"",
+        "shortName": "Sıcak Su Torbası",
+        "shortDescription": "2 L",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61a5e7ca6417cd4fb0b5bc80_tr_1638774015737.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61a5e7ca6417cd4fb0b5bc80_tr_1638774015737.jpeg"
+        ],
+        "categoryIds": [
+          "5b06b056b883b700044e3e4c",
+          "551430043427d5010a3a5c5c",
+          "5697c78dc181490f00c99fea"
+        ],
+        "subCategoryIds": [
+          "5b06b381b883b700044e41fc",
+          "5cfe796dbb6504000119d993",
+          "5a14017dad8d270004d1f2bb"
+        ],
+        "displayType": 0,
+        "price": 54.9,
+        "priceText": "₺54,90",
+        "status": 1,
+        "struckPrice": 69.9,
+        "struckPriceText": "₺69,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "beemedic-pelus-su-torbasi-2lt-hello-cactus-iimvqrltrv",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61b05e1004d1dae80145c6c6",
+        "name": "Bepanthol Kişisel Bakım Seyahat Seti",
+        "shortName": "Bepanthol Seyahat Seti",
+        "shortDescription": "4 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61b05e1004d1dae80145c6c6_tr_1639467993602.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61b05e1004d1dae80145c6c6_tr_1639467993602.jpeg",
+          "http://cdn.getir.com/product/61b05e1004d1dae80145c6c6_86079ab9-12c3-436d-87c9-e33f7ad527fc.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["5cfe796dbb6504000119d993"],
+        "displayType": 0,
+        "price": 29.9,
+        "priceText": "₺29,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "bepanthol-kisisel-bakim-seyahat-seti-4-lu-nt1lmtqqfk",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "genel-saglik-wZf3oJbAZv"
+  },
+  {
+    "id": "56e011d5dc83940300af3f32",
+    "name": "Deodorant",
+    "productCount": 13,
+    "products": [
+      {
+        "id": "57c413251e047c030033383c",
+        "name": "Rexona Kadın Shower Fresh Sprey Deodorant",
+        "shortName": "Rexona Kadın Shower Fresh",
+        "shortDescription": "150 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/57c413251e047c030033383c_390502e2-2aaf-4674-a9c6-c48b7ab7d45f.jpeg",
+        "wideThumbnailURL": "http://cdn.getir.com/product/57c413251e047c030033383c_wide_pic_tr_1620628674373.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/57c413251e047c030033383c_390502e2-2aaf-4674-a9c6-c48b7ab7d45f.jpeg",
+          "http://cdn.getir.com/product/57c413251e047c030033383c_22756bff-fa6b-46b2-b52b-01950926b15a.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e011d5dc83940300af3f32"],
+        "displayType": 1,
+        "price": 26.7,
+        "priceText": "₺26,70",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "rexona-kadin-shower-fresh-sprey-deodorant-o52XCAaYSp",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6177a99d33e052383435b448",
+        "name": "Axe & Signal İkilisi",
+        "shortName": "Axe & Signal İkilisi",
+        "shortDescription": "2 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6177a99d33e052383435b448_tr_1635232527339.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6177a99d33e052383435b448_tr_1635232527339.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": [
+          "564c6741d35e7d0c002bd250",
+          "56e011d5dc83940300af3f32"
+        ],
+        "displayType": 0,
+        "price": 26.9,
+        "priceText": "₺26,90",
+        "status": 1,
+        "struckPrice": 36.95,
+        "struckPriceText": "₺36,95",
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "602bd5448fa352806a24419c",
+            "count": 1,
+            "name": "Axe Erkek Deodorant Spray Africa",
+            "shortDescription": "150 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/602bd5448fa352806a24419c_tr_1613548822022.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "602bd6acddfb96dcb899ce5c",
+            "count": 1,
+            "name": "Signal Üçlü Koruma Diş Macunu",
+            "shortDescription": "120 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/602bd6acddfb96dcb899ce5c_tr_1624351221618.jpeg",
+            "wideThumbnailURL": "http://cdn.getir.com/product/602bd6acddfb96dcb899ce5c_wide_pic_tr_1620026715446.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "axe-signal-ikilisi-aqjdh6wna4",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60a6a73273637e63e15af431",
+        "name": "Rexona Deodorant İkilisi",
+        "shortName": "Rexona Deodorant İkilisi",
+        "shortDescription": "2 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60a6a73273637e63e15af431_tr_1621583572432.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60a6a73273637e63e15af431_tr_1621583572432.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c", "5fd8c58f3bdc2389a56e0fb0"],
+        "subCategoryIds": [
+          "56e011d5dc83940300af3f32",
+          "5fd90098dbbeb8ba7a12ff11"
+        ],
+        "displayType": 0,
+        "price": 39.9,
+        "priceText": "₺39,90",
+        "status": 1,
+        "struckPrice": 51.8,
+        "struckPriceText": "₺51,80",
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "606c3abb21908c257c1c2b10",
+            "count": 1,
+            "name": "Rexona Kadın Shower Fresh Sprey Deodorant",
+            "shortDescription": "200 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/606c3abb21908c257c1c2b10_tr_1617886216617.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "606c3c926a631b7f32e50f53",
+            "count": 1,
+            "name": "Rexona Erkek Invisible Black & White Sprey Deodorant",
+            "shortDescription": "200 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/606c3c926a631b7f32e50f53_tr_1617886567089.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "rexona-deodorant-ikilisi-EAYGQOxABj",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "606c3abb21908c257c1c2b10",
+        "name": "Rexona Kadın Shower Fresh Sprey Deodorant",
+        "shortName": "Rexona Kadın Shower Fresh",
+        "shortDescription": "200 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/606c3abb21908c257c1c2b10_tr_1617886216617.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/606c3abb21908c257c1c2b10_tr_1617886216617.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e011d5dc83940300af3f32"],
+        "displayType": 0,
+        "price": 32.5,
+        "priceText": "₺32,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "rexona-woman-shower-fresh-sprey-deodorant-I7ZsX4LDoV",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60a62006237b6c3029c1107b",
+        "name": "Emotion Kadın Natural Breeze Deodorant Sprey",
+        "shortName": "Emotion Kadın Breeze",
+        "shortDescription": "150 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60a62006237b6c3029c1107b_tr_1621845959804.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60a62006237b6c3029c1107b_tr_1621845959804.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e011d5dc83940300af3f32"],
+        "displayType": 0,
+        "price": 22.9,
+        "priceText": "₺22,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "emotion-kadin-natural-breeze-deodorant-sprey-cbmpttEo1t",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60a61e0bc7c1d652352aa516",
+        "name": "Emotion Kadın Natural Bloom Deodorant Sprey",
+        "shortName": "Emotion Kadın Bloom",
+        "shortDescription": "150 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60a61e0bc7c1d652352aa516_tr_1621845933775.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60a61e0bc7c1d652352aa516_tr_1621845933775.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e011d5dc83940300af3f32"],
+        "displayType": 0,
+        "price": 22.9,
+        "priceText": "₺22,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "emotion-kadin-natural-bloom-deodorant-sprey-cUfUtQNhZR",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "57c414011e047c03003338f4",
+        "name": "Dove Original Sprey Deodorant",
+        "shortName": "Dove Kadın Original",
+        "shortDescription": "150 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/57c414011e047c03003338f4_300263e8-5b45-4adb-a5fd-e4c871990332.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/57c414011e047c03003338f4_300263e8-5b45-4adb-a5fd-e4c871990332.jpeg",
+          "http://cdn.getir.com/product/57c414011e047c03003338f4_631c56ad-bc98-4eb2-8a87-b828114ed641.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e011d5dc83940300af3f32"],
+        "displayType": 0,
+        "price": 36.9,
+        "priceText": "₺36,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "dove-original-sprey-deodorant-mFYVRJSEyW",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ce65824fd9b330001c4a9c9",
+        "name": "Nivea Men Deep Dimension Sprey Deodorant",
+        "shortName": "Nivea Men Deep Dimension",
+        "shortDescription": "150 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ce65824fd9b330001c4a9c9_tr_1559305232272.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ce65824fd9b330001c4a9c9_tr_1559305232272.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e011d5dc83940300af3f32"],
+        "displayType": 0,
+        "price": 21.9,
+        "priceText": "₺21,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "nivea-men-deep-dimension-sprey-deodorant-l4rzlGW1bY",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "606c3c926a631b7f32e50f53",
+        "name": "Rexona Erkek Invisible Black & White Sprey Deodorant",
+        "shortName": "Rexona Men Black & White",
+        "shortDescription": "200 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/606c3c926a631b7f32e50f53_tr_1617886567089.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/606c3c926a631b7f32e50f53_tr_1617886567089.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e011d5dc83940300af3f32"],
+        "displayType": 0,
+        "price": 32.5,
+        "priceText": "₺32,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "rexona-men-invisible-black-white-sprey-deodorant-OHnzzS3DJ8",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "57c413a11e047c030033389a",
+        "name": "Rexona Erkek Xtra Cool Sprey Deodorant",
+        "shortName": "Rexona Men Xtra Cool",
+        "shortDescription": "150 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/57c413a11e047c030033389a_tr_1628750390291.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/57c413a11e047c030033389a_tr_1628750390291.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e011d5dc83940300af3f32"],
+        "displayType": 0,
+        "price": 26.7,
+        "priceText": "₺26,70",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "rexona-men-xtra-cool-sprey-deodorant-aXB8fdr9Sk",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "565c271c762af60c00796a84",
+        "name": "Axe Erkek Deodorant Sprey Black",
+        "shortName": "Axe Erkek Black",
+        "shortDescription": "150 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/565c271c762af60c00796a84_tr_1614010557318.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/565c271c762af60c00796a84_tr_1614010557318.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e011d5dc83940300af3f32"],
+        "displayType": 0,
+        "price": 27.5,
+        "priceText": "₺27,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "axe-erkek-deodorant-sprey-black-0KwQkFNFXM",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e87536712072f50d859dc2b",
+        "name": "Axe Erkek Deodorant Sprey Kaykay & Taze Güller",
+        "shortName": "Axe Kaykay & Taze Güller",
+        "shortDescription": "150 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e87536712072f50d859dc2b_tr_1609397441698.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e87536712072f50d859dc2b_tr_1609397441698.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e011d5dc83940300af3f32"],
+        "displayType": 0,
+        "price": 27.5,
+        "priceText": "₺27,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "axe-erkek-deodorant-sprey-kaykay-taze-guller-IVuLthh2PU",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "602bd5448fa352806a24419c",
+        "name": "Axe Erkek Deodorant Spray Africa",
+        "shortName": "Axe Erkek Africa",
+        "shortDescription": "150 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/602bd5448fa352806a24419c_tr_1613548822022.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/602bd5448fa352806a24419c_tr_1613548822022.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e011d5dc83940300af3f32"],
+        "displayType": 0,
+        "price": 27.5,
+        "priceText": "₺27,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "axe-erkek-deodorant-spray-africa-U1dmuvyFYf",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "deodorant-6XjuT34v8U"
+  },
+  {
+    "id": "56e011b1dc83940300af3f0c",
+    "name": "Kozmetik",
+    "productCount": 11,
+    "products": [
+      {
+        "id": "5f917b8a527d0344b6795a27",
+        "name": "Lux Pamuk Makyaj Temizleme Pedi",
+        "shortName": "Lux Makyaj Temizleme Pedi",
+        "shortDescription": "70'li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f917b8a527d0344b6795a27_tr_1604306228525.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f917b8a527d0344b6795a27_tr_1604306228525.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e011b1dc83940300af3f0c"],
+        "displayType": 0,
+        "price": 12.95,
+        "priceText": "₺12,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "lux-pamuk-makyaj-temizleme-pedi-md6l8DgIMX",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fa01ea14a4cfe4cc6fc44b3",
+        "name": "Lux Hidrofil Pamuk",
+        "shortName": "Lux Hidrofil Pamuk",
+        "shortDescription": "100 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fa01ea14a4cfe4cc6fc44b3_tr_1605086086515.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fa01ea14a4cfe4cc6fc44b3_tr_1605086086515.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": [
+          "56e011b1dc83940300af3f0c",
+          "56e0115adc83940300af3ee0"
+        ],
+        "displayType": 0,
+        "price": 11.75,
+        "priceText": "₺11,75",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "lux-hidrofil-pamuk-9AzDhSHnm4",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f917f77ee36be5987e880ad",
+        "name": "Lux Pamuklu Kulak Temizleme Çubuğu",
+        "shortName": "Lux Kulak Temizleme Çubuğu",
+        "shortDescription": "200'lü",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f917f77ee36be5987e880ad_tr_1604306210626.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f917f77ee36be5987e880ad_tr_1604306210626.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e011b1dc83940300af3f0c"],
+        "displayType": 0,
+        "price": 12.95,
+        "priceText": "₺12,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "lux-pamuklu-kulak-temizleme-cubugu-080WwpBVxv",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5947eae707a32500045f94b3",
+        "name": "Neutrogena Hydro Boost Makyaj Temizleme Mendili",
+        "shortName": "Makyaj Temizleme Mendili",
+        "shortDescription": "25'li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5947eae707a32500045f94b3_tr_1594320372925.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5947eae707a32500045f94b3_tr_1594320372925.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e011b1dc83940300af3f0c"],
+        "displayType": 0,
+        "price": 44.9,
+        "priceText": "₺44,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "neutrogena-hydro-boost-makyaj-temizleme-mendili-xP0sEZCQQa",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c936b4429acb10001e530bc",
+        "name": "Garnier Micellar Kusursuz Makyaj Temizleme Suyu",
+        "shortName": "Garnier Temizleme Suyu",
+        "shortDescription": "400 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c936b4429acb10001e530bc_c69871e2-d730-4705-9fff-af8e91ac1c9c.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c936b4429acb10001e530bc_c69871e2-d730-4705-9fff-af8e91ac1c9c.jpeg",
+          "http://cdn.getir.com/product/5c936b4429acb10001e530bc_4f153e4e-6ff5-4f6b-ae76-42d6838ddd97.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "56e011b1dc83940300af3f0c",
+          "5fd8a97663a504d6f10644d4"
+        ],
+        "displayType": 0,
+        "price": 39.9,
+        "priceText": "₺39,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "garnier-micellar-kusursuz-makyaj-temizleme-suyu-FNjparVnIh",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c936e56948c0b000143858b",
+        "name": "Garnier Nem Bombası Göz Altı Torbalarına Karşı Kağıt Göz Maskesi",
+        "shortName": "Garnier Göz Maskesi",
+        "shortDescription": "1 Adet",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c936e56948c0b000143858b_tr_1633014550086.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c936e56948c0b000143858b_tr_1633014550086.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e011b1dc83940300af3f0c"],
+        "displayType": 0,
+        "price": 19.95,
+        "priceText": "₺19,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "garnier-nem-bombasi-goz-alti-torbalarina-karsi-kagit-goz-maskesi-zANZ1yv40j",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fe0597a9d8ad2b0dd582bb9",
+        "name": "Garnier Nem Bombası Göz Altı Torbalarına Karşı Kağıt Göz Maskesi",
+        "shortName": "Garnier Göz Maskesi",
+        "shortDescription": "3 Adet",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fe0597a9d8ad2b0dd582bb9_tr_1609400872698.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fe0597a9d8ad2b0dd582bb9_tr_1609400872698.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c", "5fd8c58f3bdc2389a56e0fb0"],
+        "subCategoryIds": [
+          "56e011b1dc83940300af3f0c",
+          "5fd90098dbbeb8ba7a12ff11"
+        ],
+        "displayType": 0,
+        "price": 41.9001,
+        "priceText": "₺41,90",
+        "status": 1,
+        "struckPrice": 59.7,
+        "struckPriceText": "₺59,70",
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "5c936e56948c0b000143858b",
+            "count": 3,
+            "name": "Garnier Nem Bombası Göz Altı Torbalarına Karşı Kağıt Göz Maskesi",
+            "shortDescription": "1 Adet",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5c936e56948c0b000143858b_tr_1633014550086.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "garnier-nem-bombasi-goz-alti-torbalarina-karsi-kagit-goz-maskesi-Lv22QHg7jv",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c936da6745d6b0001212018",
+        "name": "Garnier Nem Bombası Canlandırıcı Kağıt Yüz Maskesi",
+        "shortName": "Garnier Yüz Maskesi",
+        "shortDescription": "1 Adet",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c936da6745d6b0001212018_tr_1633014490202.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c936da6745d6b0001212018_tr_1633014490202.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e011b1dc83940300af3f0c"],
+        "displayType": 0,
+        "price": 24.9,
+        "priceText": "₺24,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "garnier-nem-bombasi-canlandirici-kagit-yuz-maskesi-VPCIQDcpSl",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60b5e397532608ad33e39078",
+        "name": "Garnier Nem Bombası Canlandırıcı Kağıt Yüz Maskesi",
+        "shortName": "Garnier Yüz Maskesi",
+        "shortDescription": "3 Adet",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60b5e397532608ad33e39078_tr_1632936728882.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60b5e397532608ad33e39078_tr_1632936728882.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "56e011b1dc83940300af3f0c",
+          "5fd8a97663a504d6f10644d4"
+        ],
+        "displayType": 0,
+        "price": 51.9,
+        "priceText": "₺51,90",
+        "status": 1,
+        "struckPrice": 74.7,
+        "struckPriceText": "₺74,70",
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "5c936da6745d6b0001212018",
+            "count": 3,
+            "name": "Garnier Nem Bombası Canlandırıcı Kağıt Yüz Maskesi",
+            "shortDescription": "1 Adet",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5c936da6745d6b0001212018_tr_1633014490202.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "garnier-nem-bombasi-canlandirici-kagit-yuz-maskesi-o0sXuVtAda",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60ababf6829a208d755ae7a8",
+        "name": "Garnier Yüz Maskesi İkilisi",
+        "shortName": "Garnier Yüz Maskesi İkilisi",
+        "shortDescription": "2 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60ababf6829a208d755ae7a8_tr_1621863981476.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60ababf6829a208d755ae7a8_tr_1621863981476.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "56e011b1dc83940300af3f0c",
+          "5fd8a97663a504d6f10644d4"
+        ],
+        "displayType": 0,
+        "price": 34.9,
+        "priceText": "₺34,90",
+        "status": 1,
+        "struckPrice": 44.8,
+        "struckPriceText": "₺44,80",
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "5c936e56948c0b000143858b",
+            "count": 1,
+            "name": "Garnier Nem Bombası Göz Altı Torbalarına Karşı Kağıt Göz Maskesi",
+            "shortDescription": "1 Adet",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5c936e56948c0b000143858b_tr_1633014550086.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "5c936da6745d6b0001212018",
+            "count": 1,
+            "name": "Garnier Nem Bombası Canlandırıcı Kağıt Yüz Maskesi",
+            "shortDescription": "1 Adet",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5c936da6745d6b0001212018_tr_1633014490202.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "garnier-yuz-maskesi-ikilisi-yeY3LrKjpG",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e62067739fb0cf87e128644",
+        "name": "Şelale Besleyici Aseton",
+        "shortName": "Şelale Besleyici Aseton",
+        "shortDescription": "120 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e62067739fb0cf87e128644_tr_1583757359241.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e62067739fb0cf87e128644_tr_1583757359241.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e011b1dc83940300af3f0c"],
+        "displayType": 0,
+        "price": 13.95,
+        "priceText": "₺13,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "selale-besleyici-aseton-aqiPpsRU1J",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "kozmetik-k4R6UsiVZG"
+  },
+  {
+    "id": "56e01108dc83940300af3ebd",
+    "name": "Tıraş Malzemeleri",
+    "productCount": 7,
+    "products": [
+      {
+        "id": "59289b33695d740004bf99aa",
+        "name": "Gillette Simply Venus 3 Tıraş Makinesi",
+        "shortName": "Gillette Simply Venus",
+        "shortDescription": "+ 3 Yedek",
+        "squareThumbnailURL": "http://cdn.getir.com/product/59289b33695d740004bf99aa_tr_1618917529852.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/59289b33695d740004bf99aa_tr_1618917529852.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e01108dc83940300af3ebd"],
+        "displayType": 0,
+        "price": 58.9,
+        "priceText": "₺58,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "gillette-simply-venus-3-tiras-makinesi-Cp9hRlVNv8",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "560d6c214b91b40c00214581",
+        "name": "Gillette Venus Breeze Spa Kadın Tıraş Makinesi Yedekli",
+        "shortName": "Gillette Venus Breeze",
+        "shortDescription": "+ 1 Yedek",
+        "squareThumbnailURL": "http://cdn.getir.com/product/560d6c214b91b40c00214581_tr_1606806593512.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/560d6c214b91b40c00214581_tr_1606806593512.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e01108dc83940300af3ebd"],
+        "displayType": 0,
+        "price": 107.5,
+        "priceText": "₺107,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "gillette-venus-breeze-spa-kadin-tiras-makinesi-yedekli-rRB2SM61fY",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "59289df8564d6500041cebdf",
+        "name": "Gillette Venus Breeze Yedek Kadın Tıraş Bıçağı",
+        "shortName": "Gillette Venus Breeze",
+        "shortDescription": "4'lü",
+        "squareThumbnailURL": "http://cdn.getir.com/product/59289df8564d6500041cebdf_tr_1618553846282.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/59289df8564d6500041cebdf_tr_1618553846282.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e01108dc83940300af3ebd"],
+        "displayType": 0,
+        "price": 145.9,
+        "priceText": "₺145,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "gillette-venus-breeze-yedek-kadin-tiras-bicagi-vTbbJ0Fxhx",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ceae03a9d3ea8000196e159",
+        "name": "Gillette Simply Venus 2 Kullan At Kadın Tıraş Bıçağı",
+        "shortName": "Gillette Venus 2 Kadın Tıraş Bıçağı",
+        "shortDescription": "4'lü",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ceae03a9d3ea8000196e159_tr_1602402689025.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ceae03a9d3ea8000196e159_tr_1602402689025.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e01108dc83940300af3ebd"],
+        "displayType": 0,
+        "price": 19.15,
+        "priceText": "₺19,15",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "gillette-simply-venus-2-kullan-at-kadin-tiras-bicagi-jA5DDNZajE",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5b768d595b65a30004273813",
+        "name": "Arko Men Banyo Tıraş Bıçağı",
+        "shortName": "Arko Men Banyo",
+        "shortDescription": "5'li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5b768d595b65a30004273813_tr_1605471115421.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5b768d595b65a30004273813_tr_1605471115421.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e01108dc83940300af3ebd"],
+        "displayType": 0,
+        "price": 13.55,
+        "priceText": "₺13,55",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "arko-men-banyo-tiras-bicagi-kzAQwRV3S0",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ce6581dfd9b330001c4a8b2",
+        "name": "Arko Men Cool Tıraş Jeli",
+        "shortName": "Arko Tıraş Jeli",
+        "shortDescription": "200 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ce6581dfd9b330001c4a8b2_tr_1560785719571.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ce6581dfd9b330001c4a8b2_tr_1560785719571.jpeg",
+          "http://cdn.getir.com/product/5ce6581dfd9b330001c4a8b2_tr_1559913867812.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e01108dc83940300af3ebd"],
+        "displayType": 0,
+        "price": 23.9,
+        "priceText": "₺23,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "arko-men-cool-tiras-jeli-m2ldCb7pkk",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5b768e105b65a300042738b7",
+        "name": "Arko Men Cool Tıraş Köpüğü",
+        "shortName": "Arko Tıraş Köpüğü",
+        "shortDescription": "200 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5b768e105b65a300042738b7_tr_1605470987727.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5b768e105b65a300042738b7_tr_1605470987727.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "56e01108dc83940300af3ebd",
+          "5fd8a97663a504d6f10644d4"
+        ],
+        "displayType": 0,
+        "price": 19.95,
+        "priceText": "₺19,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "arko-men-cool-tiras-kopugu-yOBb0BEmFm",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "tiras-malzemeleri-ZsJXAuXUEA"
+  },
+  {
+    "id": "56e0115adc83940300af3ee0",
+    "name": "Vücut & El Bakım",
+    "productCount": 6,
+    "products": [
+      {
+        "id": "5f808725e67ff28da585448a",
+        "name": "Bepanthol Onarıcı Bakım Merhemi",
+        "shortName": "Bepanthol Bakım Merhemi",
+        "shortDescription": "30 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f808725e67ff28da585448a_tr_1603101521725.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f808725e67ff28da585448a_tr_1603101521725.jpeg",
+          "http://cdn.getir.com/product/5f808725e67ff28da585448a_a31cdc64-dc77-44b3-a419-b4c7d255cb64.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e0115adc83940300af3ee0"],
+        "displayType": 0,
+        "price": 35.9,
+        "priceText": "₺35,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "bepanthol-onarici-bakim-merhemi-uNCpqeL7iX",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "617a463b4a0240c1aeecf663",
+        "name": "Arko Nem Soft Touch Bakım Kremi",
+        "shortName": "Arko Nem Soft Touch",
+        "shortDescription": "60 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/617a463b4a0240c1aeecf663_tr_1635839358408.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/617a463b4a0240c1aeecf663_tr_1635839358408.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c", "5697c78dc181490f00c99fea"],
+        "subCategoryIds": [
+          "56e0115adc83940300af3ee0",
+          "5a14017dad8d270004d1f2bb"
+        ],
+        "displayType": 0,
+        "price": 15.95,
+        "priceText": "₺15,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "arko-nem-soft-touch-krem-60-ml-ldhfm08tyc",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fa01ea14a4cfe4cc6fc44b3",
+        "name": "Lux Hidrofil Pamuk",
+        "shortName": "Lux Hidrofil Pamuk",
+        "shortDescription": "100 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fa01ea14a4cfe4cc6fc44b3_tr_1605086086515.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fa01ea14a4cfe4cc6fc44b3_tr_1605086086515.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": [
+          "56e011b1dc83940300af3f0c",
+          "56e0115adc83940300af3ee0"
+        ],
+        "displayType": 0,
+        "price": 11.75,
+        "priceText": "₺11,75",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "lux-hidrofil-pamuk-9AzDhSHnm4",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c74db92bb1967000103b128",
+        "name": "Solingen Tırnak Törpüsü",
+        "shortName": "Solingen Tırnak Törpüsü",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c74db92bb1967000103b128_1551711957864.jpeg?v=1551711960637",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c74db92bb1967000103b128_1551711957864.jpeg?v=1551711960637"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e0115adc83940300af3ee0"],
+        "displayType": 0,
+        "price": 19.95,
+        "priceText": "₺19,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "solingen-tirnak-torpusu-gVIIYgLwcJ",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c74db30bb1967000103b0b2",
+        "name": "Solingen Tırnak Makası",
+        "shortName": "Solingen Tırnak Makası",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c74db30bb1967000103b0b2_1551711518794.jpeg?v=1551711520337",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c74db30bb1967000103b0b2_1551711518794.jpeg?v=1551711520337"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e0115adc83940300af3ee0"],
+        "displayType": 0,
+        "price": 29.9,
+        "priceText": "₺29,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "solingen-tirnak-makasi-CDuhsWpDDh",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c74da900f1b010001a17555",
+        "name": "Solingen Cımbız",
+        "shortName": "Solingen Cımbız",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c74da900f1b010001a17555_1551708288792.jpeg?v=1551708292478",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c74da900f1b010001a17555_1551708288792.jpeg?v=1551708292478"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e0115adc83940300af3ee0"],
+        "displayType": 0,
+        "price": 31.9,
+        "priceText": "₺31,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "solingen-cimbiz-2XYOPxqT3C",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "vucut-el-bakim-j6JGhBxKBv"
+  },
+  {
+    "id": "56e012018d5ef80300398987",
+    "name": "Ağda & Tüy Dökücü",
+    "productCount": 5,
+    "products": [
+      {
+        "id": "607e76aaae5ffc6631aa2b08",
+        "name": "Veet Paketi",
+        "shortName": "Veet Paketi",
+        "shortDescription": "2 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/607e76aaae5ffc6631aa2b08_tr_1618901702860.jpeg",
+        "wideThumbnailURL": "http://cdn.getir.com/product/607e76aaae5ffc6631aa2b08_wide_pic_tr_1640601123022.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/607e76aaae5ffc6631aa2b08_tr_1618901702860.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e012018d5ef80300398987"],
+        "displayType": 1,
+        "price": 89.9,
+        "priceText": "₺89,90",
+        "status": 1,
+        "struckPrice": 118.8,
+        "struckPriceText": "₺118,80",
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "5ea6981b5baf3abc687a23ec",
+            "count": 1,
+            "name": "Veet Easy-Gelwax Hassas Ciltler Soğuk Ağda Bandı",
+            "shortDescription": "20'li",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5ea6981b5baf3abc687a23ec_tr_1591956273646.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "5b17cc74f757990004c86f7e",
+            "count": 1,
+            "name": "Veet Yüze Özel Sir Ağda Bandı",
+            "shortDescription": "20'li",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5b17cc74f757990004c86f7e_tr_1613731705471.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "veet-paketi-X3ukwaPoSn",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5b17cc74f757990004c86f7e",
+        "name": "Veet Yüze Özel Sir Ağda Bandı",
+        "shortName": "Veet Yüze Özel Ağda Bandı",
+        "shortDescription": "20'li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5b17cc74f757990004c86f7e_tr_1613731705471.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5b17cc74f757990004c86f7e_tr_1613731705471.jpeg",
+          "http://cdn.getir.com/product/5b17cc74f757990004c86f7e_tr_1591356898060.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e012018d5ef80300398987"],
+        "displayType": 0,
+        "price": 69.9,
+        "priceText": "₺69,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "veet-yuze-ozel-sir-agda-bandi-PA1V2dJAQX",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ea6981b5baf3abc687a23ec",
+        "name": "Veet Easy-Gelwax Hassas Ciltler Soğuk Ağda Bandı",
+        "shortName": "Veet Hassas Soğuk Ağda Bandı",
+        "shortDescription": "20'li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ea6981b5baf3abc687a23ec_tr_1591956273646.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ea6981b5baf3abc687a23ec_tr_1591956273646.jpeg",
+          "http://cdn.getir.com/product/5ea6981b5baf3abc687a23ec_tr_1591354839292.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "56e012018d5ef80300398987",
+          "5fd8a97663a504d6f10644d4"
+        ],
+        "displayType": 0,
+        "price": 48.9,
+        "priceText": "₺48,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "veet-easy-gelwax-hassas-ciltler-soguk-agda-bandi-DIhe90QdVP",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c4021610ee16a0001da5d96",
+        "name": "Veet Hassas Ciltler İçin Tüy Dökücü Krem",
+        "shortName": "Veet Tüy Dökücü Krem",
+        "shortDescription": "100 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c4021610ee16a0001da5d96_tr_1613731729814.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c4021610ee16a0001da5d96_tr_1613731729814.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "56e012018d5ef80300398987",
+          "5fd8a97663a504d6f10644d4"
+        ],
+        "displayType": 0,
+        "price": 32.2,
+        "priceText": "₺32,20",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "veet-hassas-ciltler-icin-tuy-dokucu-krem-ZWijFOczjM",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c90a599ada7b50001aa67ec",
+        "name": "Veet Men Tüy Dökücü Krem",
+        "shortName": "Veet Men Tüy Dökücü Krem",
+        "shortDescription": "200 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c90a599ada7b50001aa67ec_tr_1609398561403.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c90a599ada7b50001aa67ec_tr_1609398561403.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["56e012018d5ef80300398987"],
+        "displayType": 0,
+        "price": 79.9,
+        "priceText": "₺79,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "veet-men-tuy-dokucu-krem-vf5tETovnE",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "agda-tuy-dokucu-Ql6qCEkexJ"
+  },
+  {
+    "id": "59f24af7beda820004122be0",
+    "name": "Islak Havlu",
+    "productCount": 2,
+    "products": [
+      {
+        "id": "617a7376c9f5a8f25cc96162",
+        "name": "Activex Antibakteriyel Islak Mendil Aktif",
+        "shortName": "Activex Islak Mendil",
+        "shortDescription": "50 Yaprak",
+        "squareThumbnailURL": "http://cdn.getir.com/product/617a7376c9f5a8f25cc96162_tr_1635751265684.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/617a7376c9f5a8f25cc96162_tr_1635751265684.jpeg"
+        ],
+        "categoryIds": [
+          "55449fdf02632e11003c2da8",
+          "551430043427d5010a3a5c5c",
+          "5697c78dc181490f00c99fea"
+        ],
+        "subCategoryIds": [
+          "564dbab45854f10c00a9edb6",
+          "59f24af7beda820004122be0",
+          "5a14017dad8d270004d1f2bb"
+        ],
+        "displayType": 0,
+        "price": 15.55,
+        "priceText": "₺15,55",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "activex-antibakteriyel-islak-mendil-aktif-50-yaprak-7furanutxs",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "617a721336072e3b428726bd",
+        "name": "Activex Antibakteriyel Hassas Islak Mendil",
+        "shortName": "Activex Hassas Islak Mendil",
+        "shortDescription": "50 Yaprak",
+        "squareThumbnailURL": "http://cdn.getir.com/product/617a721336072e3b428726bd_tr_1635750975138.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/617a721336072e3b428726bd_tr_1635750975138.jpeg"
+        ],
+        "categoryIds": [
+          "55449fdf02632e11003c2da8",
+          "551430043427d5010a3a5c5c",
+          "5697c78dc181490f00c99fea"
+        ],
+        "subCategoryIds": [
+          "564dbab45854f10c00a9edb6",
+          "59f24af7beda820004122be0",
+          "5a14017dad8d270004d1f2bb"
+        ],
+        "displayType": 0,
+        "price": 15.55,
+        "priceText": "₺15,55",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "activex-antibakteriyel-islak-mendil-hassas-50-yaprak-a0bkeplu8e",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "islak-havlu-uq8BcYTrzQ"
+  },
+  {
+    "id": "564c7efb27652f0c007456db",
+    "name": "Kolonya",
+    "productCount": 3,
+    "products": [
+      {
+        "id": "5f3a3e6735c4001022af2cf3",
+        "name": "Selin Limon Kolonyası",
+        "shortName": "Selin Limon Kolonyası",
+        "shortDescription": "35 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f3a3e6735c4001022af2cf3_tr_1597670014238.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f3a3e6735c4001022af2cf3_tr_1597670014238.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["564c7efb27652f0c007456db"],
+        "displayType": 0,
+        "price": 3.89,
+        "priceText": "₺3,89",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "selin-limon-kolonyasi-qAF7R1afjY",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c5adfa40de01d000103effe",
+        "name": "Selin Limon Kolonyası",
+        "shortName": "Selin Limon Kolonyası",
+        "shortDescription": "400 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c5adfa40de01d000103effe_tr_1585731047976.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c5adfa40de01d000103effe_tr_1585731047976.jpeg",
+          "http://cdn.getir.com/product/5c5adfa40de01d000103effe_tr_1585731118633.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["564c7efb27652f0c007456db"],
+        "displayType": 0,
+        "price": 32.9,
+        "priceText": "₺32,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "selin-limon-kolonyasi-RVJ4a4pUlX",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fb4db5664fb54086433d7f9",
+        "name": "Marmara Limon Kolonyası Sprey",
+        "shortName": "Marmara Limon Kolonyası",
+        "shortDescription": "200 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fb4db5664fb54086433d7f9_tr_1615560372323.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fb4db5664fb54086433d7f9_tr_1615560372323.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5c"],
+        "subCategoryIds": ["564c7efb27652f0c007456db"],
+        "displayType": 0,
+        "price": 14.95,
+        "priceText": "₺14,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "marmara-limon-kolonyasi-sprey-xKjimbig1M",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "kolonya-G77sqZtoGZ"
+  }
+]

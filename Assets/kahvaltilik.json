@@ -1,0 +1,3177 @@
+[
+  {
+    "id": "61ba5cfe6da4e644de9d4ec3",
+    "name": "İlginizi Çekebilecekler",
+    "productCount": 3,
+    "products": [
+      {
+        "id": "61aa0605dfbac2350e5a8789",
+        "name": "Herby Fit Shot",
+        "shortName": "Herby Fit Shot",
+        "shortDescription": "60 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61aa0605dfbac2350e5a8789_tr_1638775719723.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61aa0605dfbac2350e5a8789_tr_1638775719723.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5e", "61a78ebbdea800061135fd19"],
+        "subCategoryIds": [
+          "564c826c27652f0c007459c5",
+          "61ba5cfe6da4e644de9d4ec3",
+          "61ba5d1c8109788030f15a3d"
+        ],
+        "displayType": 0,
+        "price": 12.95,
+        "priceText": "₺12,95",
+        "status": 1,
+        "struckPrice": 14.45,
+        "struckPriceText": "₺14,45",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "herby-fit-shot-0nvcdssnrl",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61aa03f98da8b7b9d43e97aa",
+        "name": "Herby Energy Shot",
+        "shortName": "Herby Enerji Shot",
+        "shortDescription": "60 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61aa03f98da8b7b9d43e97aa_tr_1638775221306.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61aa03f98da8b7b9d43e97aa_tr_1638775221306.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5e", "61a78ebbdea800061135fd19"],
+        "subCategoryIds": [
+          "564c826c27652f0c007459c5",
+          "61ba5cfe6da4e644de9d4ec3",
+          "61ba5d1c8109788030f15a3d"
+        ],
+        "displayType": 0,
+        "price": 12.95,
+        "priceText": "₺12,95",
+        "status": 1,
+        "struckPrice": 14.45,
+        "struckPriceText": "₺14,45",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "herby-energy-shot-qb91dtopia",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61a9d146aece7874eed6fb01",
+        "name": "Herby Defense Shot",
+        "shortName": "Herby Defense Shot",
+        "shortDescription": "60 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61a9d146aece7874eed6fb01_tr_1638775367466.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61a9d146aece7874eed6fb01_tr_1638775367466.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5e", "61a78ebbdea800061135fd19"],
+        "subCategoryIds": [
+          "564c826c27652f0c007459c5",
+          "61ba5cfe6da4e644de9d4ec3",
+          "61ba5d1c8109788030f15a3d"
+        ],
+        "displayType": 0,
+        "price": 12.95,
+        "priceText": "₺12,95",
+        "status": 1,
+        "struckPrice": 14.45,
+        "struckPriceText": "₺14,45",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "herby-defense-shot-bagisiklik-qnnhqaut2b",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ]
+  },
+  {
+    "id": "61a78ee679ef65dd6ce4030f",
+    "name": "Yumurta",
+    "productCount": 4,
+    "products": [
+      {
+        "id": "60752fe7eee6a67b029c6831",
+        "name": "Kumartaşlı Orta Boy Yumurta",
+        "shortName": "Kumartaşlı Orta Boy",
+        "shortDescription": "10’lu",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60752fe7eee6a67b029c6831_tr_1618329673949.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60752fe7eee6a67b029c6831_tr_1618329673949.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "61a78ebbdea800061135fd19"],
+        "subCategoryIds": [
+          "56dff07a7b14060300f86cae",
+          "61a78ee679ef65dd6ce4030f"
+        ],
+        "displayType": 0,
+        "price": 21.5,
+        "priceText": "₺21,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "kumartasli-orta-boy-yumurta-nkzs6bWwBc",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e3d3dd5501bd710c6579139",
+        "name": "CP Orta Boy Gezen Tavuk Yumurtası",
+        "shortName": "CP Gezen Tavuk",
+        "shortDescription": "10'lu",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e3d3dd5501bd710c6579139_tr_1599938750175.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e3d3dd5501bd710c6579139_tr_1599938750175.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "61a78ebbdea800061135fd19"],
+        "subCategoryIds": [
+          "56dff07a7b14060300f86cae",
+          "61a78ee679ef65dd6ce4030f"
+        ],
+        "displayType": 0,
+        "price": 27.5,
+        "priceText": "₺27,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "cp-orta-boy-gezen-tavuk-yumurtasi-JnmYEufmXj",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5baa13ad1bcb7c7a0da5e802",
+        "name": "CP Orta Boy Omega 3 Yumurta",
+        "shortName": "CP Orta Boy Omega 3",
+        "shortDescription": "10'lu",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5baa13ad1bcb7c7a0da5e802_tr_1599938695492.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5baa13ad1bcb7c7a0da5e802_tr_1599938695492.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "61a78ebbdea800061135fd19"],
+        "subCategoryIds": [
+          "56dff07a7b14060300f86cae",
+          "61a78ee679ef65dd6ce4030f"
+        ],
+        "displayType": 0,
+        "price": 25.2,
+        "priceText": "₺25,20",
+        "status": 1,
+        "struckPrice": 31.5,
+        "struckPriceText": "₺31,50",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "cp-orta-boy-omega-3-yumurta-xz5kqNSTFJ",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60752ffea499335ccba1d241",
+        "name": "Kumartaşlı Orta Boy Organik Yumurta",
+        "shortName": "Kumartaşlı Orta Boy Organik",
+        "shortDescription": "6’lı",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60752ffea499335ccba1d241_tr_1618412551644.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60752ffea499335ccba1d241_tr_1618412551644.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "61a78ebbdea800061135fd19"],
+        "subCategoryIds": [
+          "56dff07a7b14060300f86cae",
+          "61a78ee679ef65dd6ce4030f"
+        ],
+        "displayType": 0,
+        "price": 18.15,
+        "priceText": "₺18,15",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "kumartasli-orta-boy-organik-yumurta-HYrutDZuKt",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "yumurta-sw9lrwevgm"
+  },
+  {
+    "id": "61a78f1ef4a8b07dce7f44d7",
+    "name": "Şarküteri",
+    "productCount": 28,
+    "products": [
+      {
+        "id": "5d4937aa88a5610001713347",
+        "name": "Polonez Hindi Füme XL",
+        "shortName": "Polonez Hindi Füme XL",
+        "shortDescription": "150 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5d4937aa88a5610001713347_tr_1609396241994.jpeg",
+        "wideThumbnailURL": "http://cdn.getir.com/product/5d4937aa88a5610001713347_wide_pic_tr_1620647159024.png",
+        "picURLs": [
+          "http://cdn.getir.com/product/5d4937aa88a5610001713347_tr_1609396241994.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5fd8a40cbb487c5a816f9f03",
+          "5fd8c58f3bdc2389a56e0fb0",
+          "5d01535e7730a800019b09cf",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56751a78b1988e0f003da109",
+          "5a14a9dcb06405000474b85b",
+          "5fd8ab791f8eea523507b59f",
+          "5fd90098dbbeb8ba7a12ff11",
+          "61a13ff5d3373238a36705b8",
+          "61a78f1ef4a8b07dce7f44d7"
+        ],
+        "displayType": 1,
+        "price": 27.2,
+        "priceText": "₺27,20",
+        "status": 1,
+        "struckPrice": 29.9,
+        "struckPriceText": "₺29,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "polonez-hindi-fume-xl-43EyxVPyO6",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ea929a015a3e4e6f804c4e7",
+        "name": "Şahin Altın Kesim Sucuk",
+        "shortName": "Şahin Altın Kesim Sucuk",
+        "shortDescription": "60 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ea929a015a3e4e6f804c4e7_tr_1638954451359.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ea929a015a3e4e6f804c4e7_tr_1638954451359.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5d01535e7730a800019b09cf",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56751a78b1988e0f003da109",
+          "61a13ff5d3373238a36705b8",
+          "61a78f1ef4a8b07dce7f44d7"
+        ],
+        "displayType": 0,
+        "price": 13.75,
+        "priceText": "₺13,75",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sahin-altin-kesim-sucuk-86xpI0nbU0",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ced482dd349d10001e70538",
+        "name": "Şahin Isıl İşlem Görmüş Kangal Sucuk",
+        "shortName": "Şahin Kangal Sucuk",
+        "shortDescription": "180 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ced482dd349d10001e70538_tr_1589204207493.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ced482dd349d10001e70538_tr_1589204207493.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5d01535e7730a800019b09cf",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56751a78b1988e0f003da109",
+          "61a13ff5d3373238a36705b8",
+          "61a78f1ef4a8b07dce7f44d7"
+        ],
+        "displayType": 0,
+        "price": 48.9,
+        "priceText": "₺48,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sahin-kangal-sucuk-AQpW0ru9w1",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c5aa4bc080f130001451aae",
+        "name": "Polonez Kangal Sucuk",
+        "shortName": "Polonez Kangal Sucuk",
+        "shortDescription": "240 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c5aa4bc080f130001451aae_tr_1609396177245.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c5aa4bc080f130001451aae_tr_1609396177245.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5d01535e7730a800019b09cf",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56751a78b1988e0f003da109",
+          "61a13ff5d3373238a36705b8",
+          "61a78f1ef4a8b07dce7f44d7"
+        ],
+        "displayType": 0,
+        "price": 67.9,
+        "priceText": "₺67,90",
+        "status": 1,
+        "struckPrice": 86.9,
+        "struckPriceText": "₺86,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "polonez-kangal-sucuk-EqQJXLA0aM",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ceae03a9d3ea8000196e155",
+        "name": "Namet Kangal Sucuk",
+        "shortName": "Namet Kangal Sucuk",
+        "shortDescription": "225 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ceae03a9d3ea8000196e155_tr_1604490421168.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ceae03a9d3ea8000196e155_tr_1604490421168.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5fd8a40cbb487c5a816f9f03",
+          "5fd8c58f3bdc2389a56e0fb0",
+          "5d01535e7730a800019b09cf",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56751a78b1988e0f003da109",
+          "5fd8ab791f8eea523507b59f",
+          "5fd90098dbbeb8ba7a12ff11",
+          "61a13ff5d3373238a36705b8",
+          "61a78f1ef4a8b07dce7f44d7"
+        ],
+        "displayType": 0,
+        "price": 48.9,
+        "priceText": "₺48,90",
+        "status": 1,
+        "struckPrice": 69.9,
+        "struckPriceText": "₺69,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "namet-kangal-sucuk-2eO2HWrlyz",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ced48314a8a2a000137daba",
+        "name": "Şahin Kangal Sucuk",
+        "shortName": "Şahin Kangal Sucuk",
+        "shortDescription": "350 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ced48314a8a2a000137daba_tr_1583498219883.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ced48314a8a2a000137daba_tr_1583498219883.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5d01535e7730a800019b09cf",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56751a78b1988e0f003da109",
+          "61a13ff5d3373238a36705b8",
+          "61a78f1ef4a8b07dce7f44d7"
+        ],
+        "displayType": 0,
+        "price": 83.9,
+        "priceText": "₺83,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sahin-kangal-sucuk-qttGqXBfFg",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fd70d8702db165db82ffa9a",
+        "name": "Cumhuriyet Kangal Sucuk",
+        "shortName": "Cumhuriyet Kangal Sucuk",
+        "shortDescription": "220 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fd70d8702db165db82ffa9a_tr_1608290170079.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fd70d8702db165db82ffa9a_tr_1608290170079.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5d01535e7730a800019b09cf",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56751a78b1988e0f003da109",
+          "61a13ff5d3373238a36705b8",
+          "61a78f1ef4a8b07dce7f44d7"
+        ],
+        "displayType": 0,
+        "price": 56.9,
+        "priceText": "₺56,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "cumhuriyet-kangal-sucuk-L4M8w2WIAG",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ece5e7d1f826cd347302259",
+        "name": "Banvit Tütsülenmiş Piliç Jumbo Sosis",
+        "shortName": "Banvit Piliç Jumbo Sosis",
+        "shortDescription": "330 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ece5e7d1f826cd347302259_tr_1614705434567.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ece5e7d1f826cd347302259_tr_1614705434567.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5fd8a40cbb487c5a816f9f03",
+          "5d01535e7730a800019b09cf",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56751a78b1988e0f003da109",
+          "5fd8ab791f8eea523507b59f",
+          "61a13ff5d3373238a36705b8",
+          "61a78f1ef4a8b07dce7f44d7"
+        ],
+        "displayType": 0,
+        "price": 21.5,
+        "priceText": "₺21,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "banvit-tutsulenmis-pilic-jumbo-sosis-XAxGdeAsUO",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "598c4c2fa4be8c000421231f",
+        "name": "Polonez Dana Sosis",
+        "shortName": "Polonez Sosis",
+        "shortDescription": "300 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/598c4c2fa4be8c000421231f_tr_1632227935562.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/598c4c2fa4be8c000421231f_tr_1632227935562.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5d01535e7730a800019b09cf",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56751a78b1988e0f003da109",
+          "61a13ff5d3373238a36705b8",
+          "61a78f1ef4a8b07dce7f44d7"
+        ],
+        "displayType": 0,
+        "price": 47.1,
+        "priceText": "₺47,10",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "polonez-dana-sosis-mq4vWFZo3f",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5d848586d84332d362c3330f",
+        "name": "Namet Dilimli Dana Macar Salam 7/24",
+        "shortName": "Namet Dana Macar Salam",
+        "shortDescription": "60 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5d848586d84332d362c3330f_tr_1588336808240.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5d848586d84332d362c3330f_tr_1588336808240.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5d01535e7730a800019b09cf",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56751a78b1988e0f003da109",
+          "61a13ff5d3373238a36705b8",
+          "61a78f1ef4a8b07dce7f44d7"
+        ],
+        "displayType": 0,
+        "price": 7.2,
+        "priceText": "₺7,20",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "namet-dilimli-dana-macar-salam-724-YpSnjh4MxX",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5eb10d4abba14478da38521b",
+        "name": "Namet Dilimli Dana Macar Salam 7/24",
+        "shortName": "Namet Dana Macar Salam",
+        "shortDescription": "2 x 60 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5eb10d4abba14478da38521b_tr_1588661930866.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5eb10d4abba14478da38521b_tr_1588661930866.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5d01535e7730a800019b09cf",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56751a78b1988e0f003da109",
+          "61a13ff5d3373238a36705b8",
+          "61a78f1ef4a8b07dce7f44d7"
+        ],
+        "displayType": 0,
+        "price": 11.9,
+        "priceText": "₺11,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "namet-dilimli-dana-macar-salam-724-Y2S2rLE62K",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61692c22da6eab59597ace22",
+        "name": "Orvital Organik Dilimli Salam",
+        "shortName": "Orvital Dilimli Salam",
+        "shortDescription": "60 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61692c22da6eab59597ace22_tr_1636964237914.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61692c22da6eab59597ace22_tr_1636964237914.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5d01535e7730a800019b09cf",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56751a78b1988e0f003da109",
+          "61a13ff5d3373238a36705b8",
+          "61a78f1ef4a8b07dce7f44d7"
+        ],
+        "displayType": 0,
+        "price": 7.95,
+        "priceText": "₺7,95",
+        "status": 1,
+        "struckPrice": 8.95,
+        "struckPriceText": "₺8,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "orvital-organik-dilimli-salam-60-gr-i9jeffdzie",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e12df2f9f406be70ae1c0eb",
+        "name": "Namet Hindi Salam 7/24",
+        "shortName": "Namet Hindi Salam",
+        "shortDescription": "60 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e12df2f9f406be70ae1c0eb_tr_1585575632463.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e12df2f9f406be70ae1c0eb_tr_1585575632463.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5d01535e7730a800019b09cf",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56751a78b1988e0f003da109",
+          "61a13ff5d3373238a36705b8",
+          "61a78f1ef4a8b07dce7f44d7"
+        ],
+        "displayType": 0,
+        "price": 3.9,
+        "priceText": "₺3,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "namet-hindi-salam-724-vGoPu4wvyN",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ece0d65c98759f4134b6fd7",
+        "name": "Banvit Bidilim Hindi Salam",
+        "shortName": "Banvit Hindi Salam",
+        "shortDescription": "60 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ece0d65c98759f4134b6fd7_tr_1609904420079.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ece0d65c98759f4134b6fd7_tr_1609904420079.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5d01535e7730a800019b09cf",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56751a78b1988e0f003da109",
+          "61a13ff5d3373238a36705b8",
+          "61a78f1ef4a8b07dce7f44d7"
+        ],
+        "displayType": 0,
+        "price": 8.55,
+        "priceText": "₺8,55",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "banvit-bidilim-hindi-salam-NoEP9YBqYz",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ece4b1cd0ed5bb79dea73ca",
+        "name": "Banvit Hindi Füme",
+        "shortName": "Banvit Hindi Füme",
+        "shortDescription": "60 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ece4b1cd0ed5bb79dea73ca_tr_1609904395374.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ece4b1cd0ed5bb79dea73ca_tr_1609904395374.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5d01535e7730a800019b09cf",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56751a78b1988e0f003da109",
+          "61a13ff5d3373238a36705b8",
+          "61a78f1ef4a8b07dce7f44d7"
+        ],
+        "displayType": 0,
+        "price": 6.75,
+        "priceText": "₺6,75",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "banvit-hindi-fume-oKrw37a9xs",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5901c54a9d21350004cf6c4f",
+        "name": "Polonez Hindi Füme Et",
+        "shortName": "Polonez Hindi Füme Et",
+        "shortDescription": "60 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5901c54a9d21350004cf6c4f_tr_1602360505822.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5901c54a9d21350004cf6c4f_tr_1602360505822.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5d01535e7730a800019b09cf",
+          "61a78ebbdea800061135fd19",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "56751a78b1988e0f003da109",
+          "5a14a9dcb06405000474b85b",
+          "61a13ff5d3373238a36705b8",
+          "61a78f1ef4a8b07dce7f44d7",
+          "61ba5cd4dc47837d8f7913d0",
+          "61ba5cdbf4a8b0ad7a7f5ad2"
+        ],
+        "displayType": 0,
+        "price": 9.95,
+        "priceText": "₺9,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "polonez-hindi-fume-et-IbcaGSvAXY",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5b5ec7e24472c500047d76c3",
+        "name": "Polonez Fıstıklı Salam",
+        "shortName": "Polonez Fıstıklı Salam",
+        "shortDescription": "110 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5b5ec7e24472c500047d76c3_tr_1602360742851.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5b5ec7e24472c500047d76c3_tr_1602360742851.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5fd8a40cbb487c5a816f9f03",
+          "5d01535e7730a800019b09cf",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56751a78b1988e0f003da109",
+          "5fd8ab791f8eea523507b59f",
+          "61a13ff5d3373238a36705b8",
+          "61a78f1ef4a8b07dce7f44d7"
+        ],
+        "displayType": 0,
+        "price": 23.9,
+        "priceText": "₺23,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "polonez-fistikli-salam-qASwzQ8x8Z",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e12dd13306efa9fe7e76ff3",
+        "name": "Namet Hindi Füme 7/24",
+        "shortName": "Namet Hindi Füme 7/24",
+        "shortDescription": "60 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e12dd13306efa9fe7e76ff3_tr_1609904461078.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e12dd13306efa9fe7e76ff3_tr_1609904461078.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5d01535e7730a800019b09cf",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56751a78b1988e0f003da109",
+          "5a14a9dcb06405000474b85b",
+          "61a13ff5d3373238a36705b8",
+          "61a78f1ef4a8b07dce7f44d7"
+        ],
+        "displayType": 0,
+        "price": 4.5,
+        "priceText": "₺4,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "namet-hindi-fume-724-DgOPDqTpgy",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ceae0329d3ea8000196e0cc",
+        "name": "Namet Piliç Füme",
+        "shortName": "Namet Piliç Füme",
+        "shortDescription": "150 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ceae0329d3ea8000196e0cc_tr_1609425192758.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ceae0329d3ea8000196e0cc_tr_1609425192758.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5fd8a40cbb487c5a816f9f03",
+          "5fd8c58f3bdc2389a56e0fb0",
+          "5d01535e7730a800019b09cf",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56751a78b1988e0f003da109",
+          "5a14a9dcb06405000474b85b",
+          "5fd8ab791f8eea523507b59f",
+          "5fd90098dbbeb8ba7a12ff11",
+          "61a13ff5d3373238a36705b8",
+          "61a78f1ef4a8b07dce7f44d7"
+        ],
+        "displayType": 0,
+        "price": 17.9,
+        "priceText": "₺17,90",
+        "status": 1,
+        "struckPrice": 23.9,
+        "struckPriceText": "₺23,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "namet-pilic-fume-JOKDkWQH0z",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5a86dce11bc08f0004e03b78",
+        "name": "Polonez Hindi Jambon",
+        "shortName": "Polonez Hindi Jambon",
+        "shortDescription": "60 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5a86dce11bc08f0004e03b78_tr_1603571532967.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5a86dce11bc08f0004e03b78_tr_1603571532967.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5d01535e7730a800019b09cf",
+          "61a78ebbdea800061135fd19",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "56751a78b1988e0f003da109",
+          "5a14a9dcb06405000474b85b",
+          "61a13ff5d3373238a36705b8",
+          "61a78f1ef4a8b07dce7f44d7",
+          "61ba5cd4dc47837d8f7913d0",
+          "61ba5cdbf4a8b0ad7a7f5ad2"
+        ],
+        "displayType": 0,
+        "price": 7.95,
+        "priceText": "₺7,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "polonez-hindi-jambon-8autcE1Dry",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5a86dbe8aec00c000434c9bf",
+        "name": "Polonez Dana Jambon",
+        "shortName": "Polonez Dana Jambon",
+        "shortDescription": "60 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5a86dbe8aec00c000434c9bf_tr_1603571499901.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5a86dbe8aec00c000434c9bf_tr_1603571499901.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5d01535e7730a800019b09cf",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56751a78b1988e0f003da109",
+          "5a14a9dcb06405000474b85b",
+          "61a13ff5d3373238a36705b8",
+          "61a78f1ef4a8b07dce7f44d7"
+        ],
+        "displayType": 0,
+        "price": 11.45,
+        "priceText": "₺11,45",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "polonez-dana-jambon-zwLrT3zLHD",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5a4dd89e85026500040c1d03",
+        "name": "Namet Dana Jambon",
+        "shortName": "Namet Dana Jambon",
+        "shortDescription": "50 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5a4dd89e85026500040c1d03_tr_1578571799074.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5a4dd89e85026500040c1d03_tr_1578571799074.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5d01535e7730a800019b09cf",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56751a78b1988e0f003da109",
+          "5a14a9dcb06405000474b85b",
+          "61a13ff5d3373238a36705b8",
+          "61a78f1ef4a8b07dce7f44d7"
+        ],
+        "displayType": 0,
+        "price": 12.05,
+        "priceText": "₺12,05",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "namet-dana-jambon-L8Kw8xtEnH",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ece5b2e28c8c1e50604bad8",
+        "name": "Banvit Bidilim Piliç Jambon",
+        "shortName": "Banvit Piliç Jambon",
+        "shortDescription": "60 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ece5b2e28c8c1e50604bad8_tr_1605471674133.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ece5b2e28c8c1e50604bad8_tr_1605471674133.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5d01535e7730a800019b09cf",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56751a78b1988e0f003da109",
+          "61a13ff5d3373238a36705b8",
+          "61a78f1ef4a8b07dce7f44d7"
+        ],
+        "displayType": 0,
+        "price": 8.55,
+        "priceText": "₺8,55",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "banvit-bidilim-pilic-jambon-49qi7lfF8X",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5a86e3a51bc08f0004e03e9b",
+        "name": "Polonez Kavurma",
+        "shortName": "Polonez Kavurma",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5a86e3a51bc08f0004e03e9b_tr_1609396264336.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5a86e3a51bc08f0004e03e9b_tr_1609396264336.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5d01535e7730a800019b09cf",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56751a78b1988e0f003da109",
+          "5d01544e7730a800019b0c9a",
+          "61a13ff5d3373238a36705b8",
+          "61a78f1ef4a8b07dce7f44d7"
+        ],
+        "displayType": 0,
+        "price": 76.95,
+        "priceText": "₺76,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "polonez-kavurma-XisohcuBaT",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ced4832d349d10001e705ad",
+        "name": "Şahin Vakumlu Dilim Kavurma",
+        "shortName": "Şahin Dilim Kavurma",
+        "shortDescription": "90 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ced4832d349d10001e705ad_tr_1609396597387.png",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ced4832d349d10001e705ad_tr_1609396597387.png"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5d01535e7730a800019b09cf",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56751a78b1988e0f003da109",
+          "5d01544e7730a800019b0c9a",
+          "61a13ff5d3373238a36705b8",
+          "61a78f1ef4a8b07dce7f44d7"
+        ],
+        "displayType": 0,
+        "price": 35.9,
+        "priceText": "₺35,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sahin-vakumlu-dilim-kavurma-fcnWUXtWOY",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "600b2819918bd450a845d530",
+        "name": "Şahin Altın Kesim Pastırma",
+        "shortName": "Şahin Altın Kesim Pastırma",
+        "shortDescription": "50 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/600b2819918bd450a845d530_tr_1632227808317.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/600b2819918bd450a845d530_tr_1632227808317.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5d01535e7730a800019b09cf",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56751a78b1988e0f003da109",
+          "61a13ff5d3373238a36705b8",
+          "61a78f1ef4a8b07dce7f44d7"
+        ],
+        "displayType": 0,
+        "price": 29.45,
+        "priceText": "₺29,45",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sahin-altin-kesim-pastirma-DiTtjn8q5A",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6038a6e3f5959dcbd47450f4",
+        "name": "Polonez Çemeni Sıyrılmış Pastırma",
+        "shortName": "Polonez Çemensiz Pastırma",
+        "shortDescription": "75 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6038a6e3f5959dcbd47450f4_tr_1614604632352.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6038a6e3f5959dcbd47450f4_tr_1614604632352.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5d01535e7730a800019b09cf",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56751a78b1988e0f003da109",
+          "61a13ff5d3373238a36705b8",
+          "61a78f1ef4a8b07dce7f44d7"
+        ],
+        "displayType": 0,
+        "price": 41,
+        "priceText": "₺41,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "polonez-cemeni-siyrilmis-pastirma-Gpgo5apU3C",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5755152f5c0d3903005505d5",
+        "name": "Namet 7/24 Çemeni Sıyrılmış Dana Pastırma",
+        "shortName": "Namet Pastırma",
+        "shortDescription": "50 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5755152f5c0d3903005505d5_tr_1582533302480.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5755152f5c0d3903005505d5_tr_1582533302480.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5d01535e7730a800019b09cf",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56751a78b1988e0f003da109",
+          "61a13ff5d3373238a36705b8",
+          "61a78f1ef4a8b07dce7f44d7"
+        ],
+        "displayType": 0,
+        "price": 32.9,
+        "priceText": "₺32,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "namet-724-cemeni-siyrilmis-dana-pastirma-lfoxVit3nu",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "sarkuteri-pivtobujhr"
+  },
+  {
+    "id": "61a78f521a62a72a7a8e0b46",
+    "name": "Zeytin",
+    "productCount": 19,
+    "products": [
+      {
+        "id": "6012ba4c08793829b89aa6ed",
+        "name": "Hertane Kuru Sele Zeytin",
+        "shortName": "Hertane Kuru Sele Zeytin",
+        "shortDescription": "285 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6012ba4c08793829b89aa6ed_tr_1638948798067.jpeg",
+        "wideThumbnailURL": "http://cdn.getir.com/product/6012ba4c08793829b89aa6ed_wide_pic_tr_1638976523904.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6012ba4c08793829b89aa6ed_tr_1638948798067.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "61a78ebbdea800061135fd19"],
+        "subCategoryIds": [
+          "56dff0b996b0980300adcd0b",
+          "61a78f521a62a72a7a8e0b46"
+        ],
+        "displayType": 1,
+        "price": 39.9,
+        "priceText": "₺39,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "hertane-kuru-sele-zeytin-sqM5dPocKu",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6012c56c18495db74f09d75c",
+        "name": "Hertane Kuru Sele Zeytin",
+        "shortName": "Hertane Kuru Sele Zeytin",
+        "shortDescription": "400 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6012c56c18495db74f09d75c_tr_1638949311938.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6012c56c18495db74f09d75c_tr_1638949311938.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "61a78ebbdea800061135fd19"],
+        "subCategoryIds": [
+          "56dff0b996b0980300adcd0b",
+          "61a78f521a62a72a7a8e0b46"
+        ],
+        "displayType": 0,
+        "price": 44.9,
+        "priceText": "₺44,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "hertane-kuru-sele-zeytin-UnaMKyXd0a",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f0721346832d0ac3769be63",
+        "name": "Halis Komili Doğal Siyah Sele Zeytin",
+        "shortName": "Halis Komili Sele Siyah",
+        "shortDescription": "170 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f0721346832d0ac3769be63_tr_1605530530604.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f0721346832d0ac3769be63_tr_1605530530604.jpeg",
+          "http://cdn.getir.com/product/5f0721346832d0ac3769be63_7dbb6d1d-72d5-45bf-8056-476718e9a1bb.jpeg"
+        ],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfed05ab747f03008d9379",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "5a14937ca92d200004823245",
+          "56dff0b996b0980300adcd0b",
+          "61a78f521a62a72a7a8e0b46"
+        ],
+        "displayType": 0,
+        "price": 19.95,
+        "priceText": "₺19,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "halis-komili-dogal-siyah-sele-zeytin-DIvXQxoyQT",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5b6463a03c75db0004c6cce1",
+        "name": "Marmarabirlik Gold Siyah Zeytin Teneke",
+        "shortName": "Marmarabirlik Gold Siyah",
+        "shortDescription": "400 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5b6463a03c75db0004c6cce1_tr_1608027551744.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5b6463a03c75db0004c6cce1_tr_1608027551744.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "61a78ebbdea800061135fd19"],
+        "subCategoryIds": [
+          "56dff0b996b0980300adcd0b",
+          "61a78f521a62a72a7a8e0b46"
+        ],
+        "displayType": 0,
+        "price": 36.5,
+        "priceText": "₺36,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "marmarabirlik-gold-siyah-zeytin-teneke-r4KzE2mrtG",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f071fb6e502d25fe7af7ee4",
+        "name": "Komili Olibites Limon Dolgulu Yeşil Zeytin",
+        "shortName": "Komili Olibites Limonlu",
+        "shortDescription": "30 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f071fb6e502d25fe7af7ee4_tr_1605530607070.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f071fb6e502d25fe7af7ee4_tr_1605530607070.jpeg",
+          "http://cdn.getir.com/product/5f071fb6e502d25fe7af7ee4_tr_1596615720250.jpeg",
+          "http://cdn.getir.com/product/5f071fb6e502d25fe7af7ee4_765295d5-001d-4913-ae69-af0ad4facc1a.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56dff0b996b0980300adcd0b",
+          "5a14937ca92d200004823245",
+          "564c7fc227652f0c007457c8",
+          "61a78f521a62a72a7a8e0b46"
+        ],
+        "displayType": 0,
+        "price": 6.5,
+        "priceText": "₺6,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "komili-olibites-limon-dolgulu-yesil-zeytin-6msbB3PRoO",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f071981aff75fcfb8b426bd",
+        "name": "Komili Olibites Havuç Dolgulu Yeşil Zeytin",
+        "shortName": "Komili Olibites Havuçlu",
+        "shortDescription": "30 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f071981aff75fcfb8b426bd_tr_1605530576503.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f071981aff75fcfb8b426bd_tr_1605530576503.jpeg",
+          "http://cdn.getir.com/product/5f071981aff75fcfb8b426bd_tr_1596615734967.jpeg",
+          "http://cdn.getir.com/product/5f071981aff75fcfb8b426bd_c96832d0-8e1c-42e7-88db-bb43f9bad5c2.jpeg"
+        ],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfed05ab747f03008d9379",
+          "56dfe03cf82055030022cdc0",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "5a14937ca92d200004823245",
+          "56dff0b996b0980300adcd0b",
+          "564c7fc227652f0c007457c8",
+          "61a78f521a62a72a7a8e0b46"
+        ],
+        "displayType": 0,
+        "price": 6.5,
+        "priceText": "₺6,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "komili-olibites-havuc-dolgulu-yesil-zeytin-is134FaaIx",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f072066ef5d9bddc19c1a63",
+        "name": "Komili Olibites Sarımsak Dolgulu Yeşil Zeytin",
+        "shortName": "Komili Olibites Sarımsaklı",
+        "shortDescription": "30 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f072066ef5d9bddc19c1a63_tr_1605530635355.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f072066ef5d9bddc19c1a63_tr_1605530635355.jpeg",
+          "http://cdn.getir.com/product/5f072066ef5d9bddc19c1a63_tr_1596615742867.jpeg",
+          "http://cdn.getir.com/product/5f072066ef5d9bddc19c1a63_985ca349-91aa-44d0-bafe-1b7890e2c915.jpeg"
+        ],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfed05ab747f03008d9379",
+          "56dfe03cf82055030022cdc0",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "5a14937ca92d200004823245",
+          "56dff0b996b0980300adcd0b",
+          "564c7fc227652f0c007457c8",
+          "61a78f521a62a72a7a8e0b46"
+        ],
+        "displayType": 0,
+        "price": 6.5,
+        "priceText": "₺6,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "komili-olibites-sarimsak-dolgulu-yesil-zeytin-DKmuaq8gqT",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60363396985328eb734fec75",
+        "name": "Komili Olibites Acılı Karabiberli Yeşil Zeytin",
+        "shortName": "Komili Olibites Karabiberli",
+        "shortDescription": "30 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60363396985328eb734fec75_tr_1614179577378.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60363396985328eb734fec75_tr_1614179577378.jpeg",
+          "http://cdn.getir.com/product/60363396985328eb734fec75_37cc4140-3d68-453e-a0e8-8fb0f0cda19b.jpeg",
+          "http://cdn.getir.com/product/60363396985328eb734fec75_8c4c0d58-3e57-48f2-8c24-7deec7c1b0a3.jpeg"
+        ],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfed05ab747f03008d9379",
+          "56dfe03cf82055030022cdc0",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "5a14937ca92d200004823245",
+          "56dff0b996b0980300adcd0b",
+          "564c7fc227652f0c007457c8",
+          "61a78f521a62a72a7a8e0b46"
+        ],
+        "displayType": 0,
+        "price": 6.5,
+        "priceText": "₺6,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "komili-olibites-acili-karabiberli-yesil-zeytin-Fr1azp7VBf",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60363090447af240da0a2682",
+        "name": "Komili Olibites Çekirdeksiz Izgara Yeşil Zeytin",
+        "shortName": "Komili Olibites Izgara",
+        "shortDescription": "30 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60363090447af240da0a2682_tr_1614180018475.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60363090447af240da0a2682_tr_1614180018475.jpeg",
+          "http://cdn.getir.com/product/60363090447af240da0a2682_8f29c4fa-de98-4139-9289-b4dba7c7d0ed.jpeg",
+          "http://cdn.getir.com/product/60363090447af240da0a2682_9d4c159f-b8ab-4986-b72c-665750ec2d68.jpeg"
+        ],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfed05ab747f03008d9379",
+          "56dfe03cf82055030022cdc0",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "5a14937ca92d200004823245",
+          "56dff0b996b0980300adcd0b",
+          "564c7fc227652f0c007457c8",
+          "61a78f521a62a72a7a8e0b46"
+        ],
+        "displayType": 0,
+        "price": 6.5,
+        "priceText": "₺6,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "komili-olibites-cekirdeksiz-izgara-yesil-zeytin-aKW2KuyZ10",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f072298376c888280a5db75",
+        "name": "Komili Çekirdeksiz Izgara Yeşil Zeytin",
+        "shortName": "Komili Izgara",
+        "shortDescription": "170 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f072298376c888280a5db75_tr_1605530477284.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f072298376c888280a5db75_tr_1605530477284.jpeg",
+          "http://cdn.getir.com/product/5f072298376c888280a5db75_8f5443fa-c572-4745-921e-58420bcf387a.jpeg"
+        ],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfed05ab747f03008d9379",
+          "56dfe03cf82055030022cdc0",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "5a14937ca92d200004823245",
+          "56dff0b996b0980300adcd0b",
+          "564c7fc227652f0c007457c8",
+          "61a78f521a62a72a7a8e0b46"
+        ],
+        "displayType": 0,
+        "price": 19.95,
+        "priceText": "₺19,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "komili-cekirdeksiz-izgara-yesil-zeytin-YdbEkmrgbW",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ced4831d349d10001e70579",
+        "name": "Fora Doğal Salamura Siyah Zeytin Vakumlu",
+        "shortName": "Fora Salamura Siyah",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ced4831d349d10001e70579_tr_1585647894982.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ced4831d349d10001e70579_tr_1585647894982.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "61a78ebbdea800061135fd19"],
+        "subCategoryIds": [
+          "56dff0b996b0980300adcd0b",
+          "61a78f521a62a72a7a8e0b46"
+        ],
+        "displayType": 0,
+        "price": 7.35,
+        "priceText": "₺7,35",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "fora-dogal-salamura-siyah-zeytin-vakumlu-40hOfRUDs8",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ced482ed349d10001e70543",
+        "name": "Fora Doğal Çizik Yeşil Zeytin",
+        "shortName": "Fora Çizik Yeşil",
+        "shortDescription": "400 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ced482ed349d10001e70543_tr_1617715482296.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ced482ed349d10001e70543_tr_1617715482296.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "61a78ebbdea800061135fd19"],
+        "subCategoryIds": [
+          "56dff0b996b0980300adcd0b",
+          "61a78f521a62a72a7a8e0b46"
+        ],
+        "displayType": 0,
+        "price": 19.45,
+        "priceText": "₺19,45",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "fora-dogal-cizik-yesil-zeytin-AlfGCCRbdJ",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "609b86fb8398ae64a23b2544",
+        "name": "Komili Kırmızı Biber Dolgulu Yeşil Zeytin",
+        "shortName": "Komili Kırmızı Biberli",
+        "shortDescription": "170 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/609b86fb8398ae64a23b2544_tr_1621594059430.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/609b86fb8398ae64a23b2544_tr_1621594059430.jpeg",
+          "http://cdn.getir.com/product/609b86fb8398ae64a23b2544_c4088487-c35e-4859-a39b-15560772caa8.jpeg",
+          "http://cdn.getir.com/product/609b86fb8398ae64a23b2544_32821c34-ea10-45f0-a773-47013f7bbb4a.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "61a78ebbdea800061135fd19"],
+        "subCategoryIds": [
+          "56dff0b996b0980300adcd0b",
+          "61a78f521a62a72a7a8e0b46"
+        ],
+        "displayType": 0,
+        "price": 19.95,
+        "priceText": "₺19,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "komili-kirmizi-biber-dolgulu-yesil-zeytin-DvsxoJwI9f",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "609b88e57c1564949f48a50c",
+        "name": "Komili Limon Dolgulu Yeşil Zeytin",
+        "shortName": "Komili Limonlu",
+        "shortDescription": "170 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/609b88e57c1564949f48a50c_tr_1621594584359.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/609b88e57c1564949f48a50c_tr_1621594584359.jpeg",
+          "http://cdn.getir.com/product/609b88e57c1564949f48a50c_0b673d31-1a43-4839-8710-f5bf08ccf97b.jpeg",
+          "http://cdn.getir.com/product/609b88e57c1564949f48a50c_d85135ee-fde5-4e77-b657-640a4f21bc51.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "61a78ebbdea800061135fd19"],
+        "subCategoryIds": [
+          "56dff0b996b0980300adcd0b",
+          "61a78f521a62a72a7a8e0b46"
+        ],
+        "displayType": 0,
+        "price": 19.95,
+        "priceText": "₺19,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "komili-limon-dolgulu-yesil-zeytin-KSX7dGBwto",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "603636586f4bc28aebd4351b",
+        "name": "Komili Olibites Limonlu ve Kekikli Yeşil Zeytin",
+        "shortName": "Komili Olibites Kekikli",
+        "shortDescription": "30 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/603636586f4bc28aebd4351b_tr_1614180378500.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/603636586f4bc28aebd4351b_tr_1614180378500.jpeg",
+          "http://cdn.getir.com/product/603636586f4bc28aebd4351b_18c72ed9-960e-4b23-9a7b-531429919dde.jpeg"
+        ],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfed05ab747f03008d9379",
+          "56dfe03cf82055030022cdc0",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "5a14937ca92d200004823245",
+          "56dff0b996b0980300adcd0b",
+          "564c7fc227652f0c007457c8",
+          "61a78f521a62a72a7a8e0b46"
+        ],
+        "displayType": 0,
+        "price": 6.5,
+        "priceText": "₺6,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "komili-olibites-limonlu-ve-kekikli-yesil-zeytin-mrVnYlvif3",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f0726c36eb4298b5a7ad840",
+        "name": "Komili Çekirdeksiz Zeytinyağlı ve Kekikli Yeşil Zeytin",
+        "shortName": "Komili Kekikli",
+        "shortDescription": "170 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f0726c36eb4298b5a7ad840_tr_1605530502319.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f0726c36eb4298b5a7ad840_tr_1605530502319.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56dff0b996b0980300adcd0b",
+          "5a14937ca92d200004823245",
+          "564c7fc227652f0c007457c8",
+          "61a78f521a62a72a7a8e0b46"
+        ],
+        "displayType": 0,
+        "price": 19.95,
+        "priceText": "₺19,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "komili-cekirdeksiz-zeytinyagli-ve-kekikli-yesil-zeytin-gmPvGfaCmI",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61c46de5dd3e14a0f3cce606",
+        "name": "Komili Olibites Limon Dolgulu Yeşil Zeytin Paketi",
+        "shortName": "Komili Olibites Limonlu",
+        "shortDescription": "6 x 30 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61c46de5dd3e14a0f3cce606_tr_1640426344511.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61c46de5dd3e14a0f3cce606_tr_1640426344511.jpeg"
+        ],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0",
+          "61a78ebbdea800061135fd19",
+          "56dfed05ab747f03008d9379"
+        ],
+        "subCategoryIds": [
+          "5a14937ca92d200004823245",
+          "564c7fc227652f0c007457c8",
+          "61a78f521a62a72a7a8e0b46",
+          "56dff0b996b0980300adcd0b"
+        ],
+        "displayType": 0,
+        "price": 39,
+        "priceText": "₺39,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61c5757e20f2a8c2b16117ac",
+        "name": "Sağlıklı Atıştırmalık Paketi",
+        "shortName": "Sağlıklı Atıştırmalık Paketi",
+        "shortDescription": "2 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61c5757e20f2a8c2b16117ac_tr_1640330956875.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61c5757e20f2a8c2b16117ac_tr_1640330956875.jpeg"
+        ],
+        "categoryIds": ["5cfe685e25d48100016b7ea6", "61a78ebbdea800061135fd19"],
+        "subCategoryIds": [
+          "5cfe6d7abb6504000119a6d7",
+          "61a78f521a62a72a7a8e0b46"
+        ],
+        "displayType": 0,
+        "price": 18.75,
+        "priceText": "₺18,75",
+        "status": 1,
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "5ced48314a8a2a000137dab7",
+            "count": 1,
+            "name": "İçim Fit Çikolatalı Süt",
+            "shortDescription": "500 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5ced48314a8a2a000137dab7_tr_1626180225967.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "5f071fb6e502d25fe7af7ee4",
+            "count": 1,
+            "name": "Komili Olibites Limon Dolgulu Yeşil Zeytin",
+            "shortDescription": "30 g",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5f071fb6e502d25fe7af7ee4_tr_1605530607070.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61c57a8580f297d64dd24c8b",
+        "name": "Sağlıklı Atıştırmalık Paketi",
+        "shortName": "Sağlıklı Atıştırmalık Paketi",
+        "shortDescription": "2 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61c57a8580f297d64dd24c8b_tr_1640331931159.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61c57a8580f297d64dd24c8b_tr_1640331931159.jpeg"
+        ],
+        "categoryIds": ["5cfe685e25d48100016b7ea6", "61a78ebbdea800061135fd19"],
+        "subCategoryIds": [
+          "5cfe6d7abb6504000119a6d7",
+          "61a78f521a62a72a7a8e0b46"
+        ],
+        "displayType": 0,
+        "price": 18.75,
+        "priceText": "₺18,75",
+        "status": 1,
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "5ced4832d349d10001e7059c",
+            "count": 1,
+            "name": "İçim Fit Kahveli Süt",
+            "shortDescription": "500 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5ced4832d349d10001e7059c_tr_1623652559053.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "5f071fb6e502d25fe7af7ee4",
+            "count": 1,
+            "name": "Komili Olibites Limon Dolgulu Yeşil Zeytin",
+            "shortDescription": "30 g",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5f071fb6e502d25fe7af7ee4_tr_1605530607070.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "zeytin-grwy8h5qvp"
+  },
+  {
+    "id": "61a78f7edc4783102978fe68",
+    "name": "Kahvaltılık Gevrek",
+    "productCount": 8,
+    "products": [
+      {
+        "id": "606f0f3b3fae5a7c1eca4c71",
+        "name": "Kellogg's Granola Çikolata Parçacıklı ve Fındıklı",
+        "shortName": "Kellogg's Çikolata Fındık",
+        "shortDescription": "340 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/606f0f3b3fae5a7c1eca4c71_tr_1618474056114.jpeg",
+        "wideThumbnailURL": "http://cdn.getir.com/product/606f0f3b3fae5a7c1eca4c71_wide_pic_tr_1631530482006.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/606f0f3b3fae5a7c1eca4c71_tr_1618474056114.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56e0305b8d5ef8030039a02f",
+          "58344853e2dfa9000401476a",
+          "61a78f7edc4783102978fe68"
+        ],
+        "displayType": 1,
+        "price": 23.9,
+        "priceText": "₺23,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "kellogg-s-granola-cikolata-parcacikli-ve-findikli-43XUKppXcp",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5cfe32bd4a644b0001f2076f",
+        "name": "Kellogg's Coco Pops Mısır Gevreği",
+        "shortName": "Kellogg's Coco Pops",
+        "shortDescription": "450 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5cfe32bd4a644b0001f2076f_tr_1591196222782.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5cfe32bd4a644b0001f2076f_tr_1591196222782.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "61a78ebbdea800061135fd19"],
+        "subCategoryIds": [
+          "56e0305b8d5ef8030039a02f",
+          "61a78f7edc4783102978fe68"
+        ],
+        "displayType": 0,
+        "price": 14.95,
+        "priceText": "₺14,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "kellogg-s-coco-pops-misir-gevregi-ymGdPl2e31",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5cfe32be4a644b0001f20776",
+        "name": "Kellogg's Special K Sade Kahvaltılık Gevrek",
+        "shortName": "Special K Klasik",
+        "shortDescription": "420 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5cfe32be4a644b0001f20776_tr_1592322230122.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5cfe32be4a644b0001f20776_tr_1592322230122.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56e0305b8d5ef8030039a02f",
+          "5834245cc603d300041b3bd5",
+          "61a78f7edc4783102978fe68"
+        ],
+        "displayType": 0,
+        "price": 13.95,
+        "priceText": "₺13,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "kellogg-s-special-k-sade-kahvaltilik-gevrek-BTd2sjQT9X",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5cfe32bd4a644b0001f2076c",
+        "name": "Kellogg's Special K Bitter Çikolatalı Mısır Gevreği",
+        "shortName": "Special K Bitter Çikolatalı",
+        "shortDescription": "400 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5cfe32bd4a644b0001f2076c_tr_1564502380413.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5cfe32bd4a644b0001f2076c_tr_1564502380413.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56e0305b8d5ef8030039a02f",
+          "5834245cc603d300041b3bd5",
+          "61a78f7edc4783102978fe68"
+        ],
+        "displayType": 0,
+        "price": 21.9,
+        "priceText": "₺21,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "kellogg-s-special-k-bitter-cikolatali-misir-gevregi-Wjx6UjgDk0",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f355317ec0c650fa39ce9f4",
+        "name": "Eti Lifalif Yulaf Ezmesi",
+        "shortName": "Lifalif Yulaf Ezmesi",
+        "shortDescription": "500 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f355317ec0c650fa39ce9f4_tr_1602831623590.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f355317ec0c650fa39ce9f4_tr_1602831623590.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56e0305b8d5ef8030039a02f",
+          "5834245cc603d300041b3bd5",
+          "61a78f7edc4783102978fe68"
+        ],
+        "displayType": 0,
+        "price": 19.75,
+        "priceText": "₺19,75",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "eti-lifalif-yulaf-ezmesi-QbJBBEhQrU",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "606c60fbf17f74dbc9869a15",
+        "name": "Kellogg's Yulaf Ezmesi",
+        "shortName": "Kellogg's Yulaf Ezmesi",
+        "shortDescription": "400 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/606c60fbf17f74dbc9869a15_tr_1618593935315.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/606c60fbf17f74dbc9869a15_tr_1618593935315.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "61a78ebbdea800061135fd19"],
+        "subCategoryIds": [
+          "56e0305b8d5ef8030039a02f",
+          "61a78f7edc4783102978fe68"
+        ],
+        "displayType": 0,
+        "price": 15.15,
+        "priceText": "₺15,15",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "kellogg-s-yulaf-ezmesi-NUCMKphdzp",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ae3314d3307340004d085a6",
+        "name": "Dr. Oetker Vitalis Çikolatalı Çıtır Müsli",
+        "shortName": "Vitalis Çikolatalı",
+        "shortDescription": "450 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ae3314d3307340004d085a6_tr_1602360570711.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ae3314d3307340004d085a6_tr_1602360570711.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "61a78ebbdea800061135fd19"],
+        "subCategoryIds": [
+          "56e0305b8d5ef8030039a02f",
+          "61a78f7edc4783102978fe68"
+        ],
+        "displayType": 0,
+        "price": 30.1,
+        "priceText": "₺30,10",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "dr-oetker-vitalis-cikolatali-citir-musli-IJSx1fizLU",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ae3317d3307340004d085c4",
+        "name": "Dr. Oetker Vitalis Bal Bademli Çıtır Müsli",
+        "shortName": "Vitalis Bal Bademli",
+        "shortDescription": "450 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ae3317d3307340004d085c4_tr_1603570669109.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ae3317d3307340004d085c4_tr_1603570669109.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5fd8a40cbb487c5a816f9f03",
+          "5fd8c58f3bdc2389a56e0fb0",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56e0305b8d5ef8030039a02f",
+          "5fd8ab791f8eea523507b59f",
+          "5fd90098dbbeb8ba7a12ff11",
+          "61a78f7edc4783102978fe68"
+        ],
+        "displayType": 0,
+        "price": 30.1,
+        "priceText": "₺30,10",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "dr-oetker-vitalis-bal-bademli-citir-musli-E3d8XU1c4l",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "kahvaltilik-gevrek-xpvpucc0km"
+  },
+  {
+    "id": "61a78fdde819f56f98631c6b",
+    "name": "Bal & Reçel",
+    "productCount": 3,
+    "products": [
+      {
+        "id": "5683e84c06df100f0046fc8f",
+        "name": "Balparmak Çıtkapak Süzme Çiçek Balı",
+        "shortName": "Balparmak Çiçek Balı",
+        "shortDescription": "350 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5683e84c06df100f0046fc8f_tr_1609395786468.png",
+        "picURLs": [
+          "http://cdn.getir.com/product/5683e84c06df100f0046fc8f_tr_1609395786468.png"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "61a78ebbdea800061135fd19"],
+        "subCategoryIds": [
+          "56e00bc6dc83940300af3acd",
+          "61a78fdde819f56f98631c6b"
+        ],
+        "displayType": 0,
+        "price": 53.5,
+        "priceText": "₺53,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "balparmak-citkapak-suzme-cicek-bali-qggwgsaaD7",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60a7cc31a1c3b4d58ceb7704",
+        "name": "Balparmak Süzme Çiçek Yayla Balı",
+        "shortName": "Balparmak Çiçek Yayla Balı",
+        "shortDescription": "460 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60a7cc31a1c3b4d58ceb7704_tr_1622728469853.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60a7cc31a1c3b4d58ceb7704_tr_1622728469853.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "61a78ebbdea800061135fd19"],
+        "subCategoryIds": [
+          "56e00bc6dc83940300af3acd",
+          "61a78fdde819f56f98631c6b"
+        ],
+        "displayType": 0,
+        "price": 63.9,
+        "priceText": "₺63,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "balparmak-suzme-cicek-yayla-bali-KAe3s3xhkI",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60b890b4b69c7383393c6e88",
+        "name": "Koska Üzüm Pekmezi",
+        "shortName": "Koska Üzüm Pekmezi",
+        "shortDescription": "700 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60b890b4b69c7383393c6e88_tr_1624287361921.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60b890b4b69c7383393c6e88_tr_1624287361921.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "61a78ebbdea800061135fd19"],
+        "subCategoryIds": [
+          "56e00bc6dc83940300af3acd",
+          "61a78fdde819f56f98631c6b"
+        ],
+        "displayType": 0,
+        "price": 27.5,
+        "priceText": "₺27,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "koska-uzum-pekmezi-700-g-bidon-J2T4CyVrq3",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "bal-recel-xlxqy6lijv"
+  },
+  {
+    "id": "61a78fad45075ce2c77d7c74",
+    "name": "Çikolata & Ezme",
+    "productCount": 9,
+    "products": [
+      {
+        "id": "59b7956ba795490004f074db",
+        "name": "Ülker Çokokrem Tüp",
+        "shortName": "Ülker Çokokrem Tüp",
+        "shortDescription": "40 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/59b7956ba795490004f074db_tr_1602361034764.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/59b7956ba795490004f074db_tr_1602361034764.jpeg"
+        ],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "56dfed05ab747f03008d9379",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "5c0a20fb2927f0001848ca34",
+          "5a14ac59b06405000474b92d",
+          "61a78fad45075ce2c77d7c74"
+        ],
+        "displayType": 0,
+        "price": 4.4,
+        "priceText": "₺4,40",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "ulker-cokokrem-tup-L9Bz24jdnY",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "574b246be4e92303005fd117",
+        "name": "Ülker Çokokrem Cam Kavanoz",
+        "shortName": "Ülker Çokokrem",
+        "shortDescription": "350 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/574b246be4e92303005fd117_tr_1581714675148.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/574b246be4e92303005fd117_tr_1581714675148.jpeg",
+          "http://cdn.getir.com/product/574b246be4e92303005fd117_c3b4e484-b37b-4e8f-98ba-56cb8e97159e.jpeg"
+        ],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "56dfed05ab747f03008d9379",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "5c0a20fb2927f0001848ca34",
+          "5a14ac59b06405000474b92d",
+          "61a78fad45075ce2c77d7c74"
+        ],
+        "displayType": 0,
+        "price": 23.1,
+        "priceText": "₺23,10",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "ulker-cokokrem-cam-kavanoz-npJVOqNOvS",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "559eb7770fdb080c004d5e86",
+        "name": "Nutella Kakaolu Fındık Kreması",
+        "shortName": "Nutella Kakaolu Fındık Kreması",
+        "shortDescription": "400 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/559eb7770fdb080c004d5e86_tr_1602050585768.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/559eb7770fdb080c004d5e86_tr_1602050585768.jpeg"
+        ],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "56dfed05ab747f03008d9379",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "5c0a20fb2927f0001848ca34",
+          "5a14ac59b06405000474b92d",
+          "61a78fad45075ce2c77d7c74"
+        ],
+        "displayType": 0,
+        "price": 22.45,
+        "priceText": "₺22,45",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "nutella-kakaolu-findik-kremasi-xZ6KvVT4zl",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f4f69bcfb895e22e406a037",
+        "name": "Calve Yer Fıstığı Ezmesi",
+        "shortName": "Calve Yer Fıstığı Ezmesi",
+        "shortDescription": "350 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f4f69bcfb895e22e406a037_tr_1630055117817.png",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f4f69bcfb895e22e406a037_tr_1630055117817.png",
+          "http://cdn.getir.com/product/5f4f69bcfb895e22e406a037_tr_1599486127611.jpeg"
+        ],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "56dfed05ab747f03008d9379",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "5c0a20fb2927f0001848ca34",
+          "5a14ac59b06405000474b92d",
+          "61a78fad45075ce2c77d7c74"
+        ],
+        "displayType": 0,
+        "price": 38.9,
+        "priceText": "₺38,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "calve-yer-fistigi-ezmesi-osEEMJIMOe",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6169619af412f8082673d47a",
+        "name": "Krabi Fıstık ve Karamelize Bisküvi Parçacıklı Kakaolu Fındık Kreması",
+        "shortName": "Krabi Fındık Kreması",
+        "shortDescription": "300 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6169619af412f8082673d47a_tr_1634557691985.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6169619af412f8082673d47a_tr_1634557691985.jpeg"
+        ],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "56dfed05ab747f03008d9379",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "5c0a20fb2927f0001848ca34",
+          "5a14ac59b06405000474b92d",
+          "61a78fad45075ce2c77d7c74"
+        ],
+        "displayType": 0,
+        "price": 32.9,
+        "priceText": "₺32,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "krabi-fistik-ve-karamelize-biskuvi-parcacikli-kakaolu-findik-kremasi-300-gr-o6bhmk11wg",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "616961b7bc6546960ec4681c",
+        "name": "Krabi Fıstık ve Karamelize Bisküvi Parçacıklı Kakaolu Fındık Kreması Muz Aromalı",
+        "shortName": "Krabi Fındık Kreması",
+        "shortDescription": "300 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/616961b7bc6546960ec4681c_tr_1634557666234.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/616961b7bc6546960ec4681c_tr_1634557666234.jpeg"
+        ],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "56dfed05ab747f03008d9379",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "5c0a20fb2927f0001848ca34",
+          "5a14ac59b06405000474b92d",
+          "61a78fad45075ce2c77d7c74"
+        ],
+        "displayType": 0,
+        "price": 32.9,
+        "priceText": "₺32,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "krabi-fistik-ve-karamelize-biskuvi-parcacikli-kakaolu-findik-kremasi-muz-aromali-300-gr-pn7uvhqf7h",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "611216f1848c8b67d7e7d32c",
+        "name": "Fabrikita Dulce De Leche Süt Karameli",
+        "shortName": "Dulce De Leche Süt Karameli",
+        "shortDescription": "120 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/611216f1848c8b67d7e7d32c_tr_1633946882787.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/611216f1848c8b67d7e7d32c_tr_1633946882787.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "61a78ebbdea800061135fd19"],
+        "subCategoryIds": [
+          "5a14ac59b06405000474b92d",
+          "61a78fad45075ce2c77d7c74"
+        ],
+        "displayType": 0,
+        "price": 19.9,
+        "priceText": "₺19,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "fabrikita-dulce-de-leche-sut-karameli-120-gram-loagaddutm",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "614329c8f48dbb583ca9b4e7",
+        "name": "Berrak Tatlı Dobipa Sos",
+        "shortName": "Berrak Tatlı Dobipa Sos",
+        "shortDescription": "310 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/614329c8f48dbb583ca9b4e7_tr_1631803905147.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/614329c8f48dbb583ca9b4e7_tr_1631803905147.jpeg"
+        ],
+        "categoryIds": [
+          "56dfcfba86004203000a870d",
+          "56dfed05ab747f03008d9379",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56dfd0a6e48b4f0300d2d271",
+          "5a14ac59b06405000474b92d",
+          "61a78fad45075ce2c77d7c74"
+        ],
+        "displayType": 0,
+        "price": 15.95,
+        "priceText": "₺15,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "dobipa-sos-tatli-300ml-berrak-tr-hfopyfnouk",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "58ac2bc2a2d8b90004a80392",
+        "name": "Berrak Cevizli Dobipa Kahvaltılık Sos",
+        "shortName": "Berrak Cevizli Dobipa Sos",
+        "shortDescription": "310 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/58ac2bc2a2d8b90004a80392_tr_1631798262469.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/58ac2bc2a2d8b90004a80392_tr_1631798262469.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "61a78ebbdea800061135fd19"],
+        "subCategoryIds": [
+          "5a14ac59b06405000474b92d",
+          "61a78fad45075ce2c77d7c74"
+        ],
+        "displayType": 0,
+        "price": 15.95,
+        "priceText": "₺15,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "berrak-cevizli-dobipa-kahvaltilik-sos-WPcZ5X35Xg",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "cikolata-ezme-ytsiaziqpt"
+  },
+  {
+    "id": "61baf01d1625b3bfe931259c",
+    "name": "Vegan",
+    "productCount": 6,
+    "products": [
+      {
+        "id": "5bdab0731a09760011a16335",
+        "name": "Alpro Soya İçeceği",
+        "shortName": "Alpro Soya İçeceği",
+        "shortDescription": "1 L",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5bdab0731a09760011a16335_tr_1614238649249.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5bdab0731a09760011a16335_tr_1614238649249.jpeg"
+        ],
+        "categoryIds": [
+          "551430043427d5010a3a5c5e",
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "5a149307afa7ea00042f4509",
+          "564c864927652f0c00745dab",
+          "58342453c603d300041b3bca",
+          "5c13d4a512dc7200187ed969",
+          "5cfe6d7abb6504000119a6d7",
+          "61a8d571ee4893000e97351a",
+          "61baf01d1625b3bfe931259c"
+        ],
+        "displayType": 0,
+        "price": 39.95,
+        "priceText": "₺39,95",
+        "status": 1,
+        "struckPrice": 50.5,
+        "struckPriceText": "₺50,50",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "alpro-soya-icecegi-bnxNr3aeVU",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ce65820fd9b330001c4a933",
+        "name": "Alpro Badem İçeceği",
+        "shortName": "Alpro Badem İçeceği",
+        "shortDescription": "1 L",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ce65820fd9b330001c4a933_tr_1614239550003.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ce65820fd9b330001c4a933_tr_1614239550003.jpeg"
+        ],
+        "categoryIds": [
+          "551430043427d5010a3a5c5e",
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "5a149307afa7ea00042f4509",
+          "564c864927652f0c00745dab",
+          "58342453c603d300041b3bca",
+          "5c13d4a512dc7200187ed969",
+          "5cfe6d7abb6504000119a6d7",
+          "61a8d571ee4893000e97351a",
+          "61baf01d1625b3bfe931259c"
+        ],
+        "displayType": 0,
+        "price": 48.95,
+        "priceText": "₺48,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "alpro-badem-icecegi-v4TaQnvAoo",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ce65817fd9b330001c4a834",
+        "name": "Alpro Badem İçeceği",
+        "shortName": "Alpro Badem İçeceği",
+        "shortDescription": "250 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ce65817fd9b330001c4a834_tr_1622814569094.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ce65817fd9b330001c4a834_tr_1622814569094.jpeg"
+        ],
+        "categoryIds": [
+          "551430043427d5010a3a5c5e",
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "5a149307afa7ea00042f4509",
+          "564c864927652f0c00745dab",
+          "58342453c603d300041b3bca",
+          "5c13d4a512dc7200187ed969",
+          "5cfe6d7abb6504000119a6d7",
+          "61a8d571ee4893000e97351a",
+          "61baf01d1625b3bfe931259c"
+        ],
+        "displayType": 0,
+        "price": 13.95,
+        "priceText": "₺13,95",
+        "status": 1,
+        "struckPrice": 17.55,
+        "struckPriceText": "₺17,55",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "alpro-badem-icecegi-0AaykK2ei7",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5df88f90780ecc5c88d56839",
+        "name": "Alpro Badem İçeceği Şekersiz",
+        "shortName": "Alpro Badem İçeceği Şekersiz",
+        "shortDescription": "1 L",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5df88f90780ecc5c88d56839_tr_1614239639571.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5df88f90780ecc5c88d56839_tr_1614239639571.jpeg"
+        ],
+        "categoryIds": [
+          "551430043427d5010a3a5c5e",
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "5a149307afa7ea00042f4509",
+          "564c864927652f0c00745dab",
+          "58342453c603d300041b3bca",
+          "5c13d4a512dc7200187ed969",
+          "5cfe6d7abb6504000119a6d7",
+          "61a8d571ee4893000e97351a",
+          "61baf01d1625b3bfe931259c"
+        ],
+        "displayType": 0,
+        "price": 41.25,
+        "priceText": "₺41,25",
+        "status": 1,
+        "struckPrice": 53.75,
+        "struckPriceText": "₺53,75",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "alpro-badem-icecegi-sekersiz-BosWz9SLy2",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "619505804a7b972daf68355f",
+        "name": "Nilky Badem Sütü",
+        "shortName": "Nilky Badem Sütü",
+        "shortDescription": "500 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/619505804a7b972daf68355f_tr_1637243389993.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/619505804a7b972daf68355f_tr_1637243389993.jpeg"
+        ],
+        "categoryIds": [
+          "551430043427d5010a3a5c5e",
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "5a149307afa7ea00042f4509",
+          "564c864927652f0c00745dab",
+          "58342453c603d300041b3bca",
+          "5c13d4a512dc7200187ed969",
+          "5cfe6d7abb6504000119a6d7",
+          "61a8d571ee4893000e97351a",
+          "61baf01d1625b3bfe931259c"
+        ],
+        "displayType": 0,
+        "price": 13.95,
+        "priceText": "₺13,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "nilky-badem-sutu-500-ml-cjq0lzqf4u",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5cac7aefec184600019a1c4d",
+        "name": "Calve Salsa Acılı Meksika Dip Sos",
+        "shortName": "Calve Salsa Acılı Meksika Sos",
+        "shortDescription": "300 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5cac7aefec184600019a1c4d_tr_1630055052115.png",
+        "picURLs": [
+          "http://cdn.getir.com/product/5cac7aefec184600019a1c4d_tr_1630055052115.png"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "56dfcfba86004203000a870d",
+          "5cfe685e25d48100016b7ea6",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "5c13d4a512dc7200187ed969",
+          "56dfd0a6e48b4f0300d2d271",
+          "5a14ac59b06405000474b92d",
+          "61a8d571ee4893000e97351a",
+          "61baf01d1625b3bfe931259c"
+        ],
+        "displayType": 0,
+        "price": 20.95,
+        "priceText": "₺20,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "calve-salsa-acili-meksika-dip-sos-OI2agHdJpe",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ]
+  }
+]

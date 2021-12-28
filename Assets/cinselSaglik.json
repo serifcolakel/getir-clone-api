@@ -1,0 +1,724 @@
+[
+  {
+    "id": "60ebf306d1cf6959f705d38a",
+    "name": "Öne Çıkanlar",
+    "productCount": 3,
+    "products": [
+      {
+        "id": "5c90a51046f6730001004dba",
+        "name": "Durex Maraton",
+        "shortName": "Durex Maraton Geciktiricili",
+        "shortDescription": "10'lu",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c90a51046f6730001004dba_tr_1631535517581.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c90a51046f6730001004dba_tr_1631535517581.jpeg"
+        ],
+        "categoryIds": ["559c07b093be370c0063dd29"],
+        "subCategoryIds": [
+          "56e014918d5ef80300398b52",
+          "60ebf306d1cf6959f705d38a",
+          "60ebf473d6bede657a55eef4"
+        ],
+        "displayType": 0,
+        "price": 39.9,
+        "priceText": "₺39,90",
+        "status": 1,
+        "struckPrice": 54.9,
+        "struckPriceText": "₺54,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "durex-maraton-cTreEqO1EQ",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fd9a04ec71114286cc08291",
+        "name": "Durex Chill Karma",
+        "shortName": "Durex Chill Karma",
+        "shortDescription": "20'li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fd9a04ec71114286cc08291_tr_1609142414709.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fd9a04ec71114286cc08291_tr_1609142414709.jpeg"
+        ],
+        "categoryIds": ["559c07b093be370c0063dd29"],
+        "subCategoryIds": [
+          "56e014918d5ef80300398b52",
+          "60ebf306d1cf6959f705d38a",
+          "60ebf473d6bede657a55eef4"
+        ],
+        "displayType": 0,
+        "price": 54.9,
+        "priceText": "₺54,90",
+        "status": 1,
+        "struckPrice": 62.9,
+        "struckPriceText": "₺62,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "durex-chill-karma-G8vd8PBgs1",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ea6a93c96ae38327290c036",
+        "name": "Durex Yok Ötesi Ekstra His",
+        "shortName": "Durex Yok Ötesi Ekstra His",
+        "shortDescription": "10'lu",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ea6a93c96ae38327290c036_tr_1625652892594.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ea6a93c96ae38327290c036_tr_1625652892594.jpeg"
+        ],
+        "categoryIds": ["559c07b093be370c0063dd29", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "56e014918d5ef80300398b52",
+          "5fd8ab034f82eb636f8f3c8b",
+          "60ebf306d1cf6959f705d38a",
+          "60ebf473d6bede657a55eef4"
+        ],
+        "displayType": 0,
+        "price": 41.9,
+        "priceText": "₺41,90",
+        "status": 1,
+        "struckPrice": 54.9,
+        "struckPriceText": "₺54,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "durex-yok-otesi-ekstra-his-aOPJh47yuU",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "one-cikanlar-s8xhf8qzm8"
+  },
+  {
+    "id": "56e014918d5ef80300398b52",
+    "name": "Prezervatif",
+    "productCount": 12,
+    "products": [
+      {
+        "id": "5b17e19e4f8f4f00049773a7",
+        "name": "Durex Intense",
+        "shortName": "Durex Intense",
+        "shortDescription": "10'lu",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5b17e19e4f8f4f00049773a7_tr_1631535479072.jpeg",
+        "wideThumbnailURL": "http://cdn.getir.com/product/5b17e19e4f8f4f00049773a7_wide_pic_tr_1640601055193.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5b17e19e4f8f4f00049773a7_tr_1631535479072.jpeg",
+          "http://cdn.getir.com/product/5b17e19e4f8f4f00049773a7_19a02fcb-080e-4ab7-a87c-6159dadf94a9.jpeg"
+        ],
+        "categoryIds": ["559c07b093be370c0063dd29", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "56e014918d5ef80300398b52",
+          "5fd8ab034f82eb636f8f3c8b"
+        ],
+        "displayType": 1,
+        "price": 39.9,
+        "priceText": "₺39,90",
+        "status": 1,
+        "struckPrice": 54.9,
+        "struckPriceText": "₺54,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "durex-intense-oe8J2F4RhT",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60c75017c3bd5f8da41941c9",
+        "name": "Durex Extreme & Jel İkilisi",
+        "shortName": "Durex Extreme & Jel İkilisi",
+        "shortDescription": "2 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60c75017c3bd5f8da41941c9_tr_1623677498329.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60c75017c3bd5f8da41941c9_tr_1623677498329.jpeg"
+        ],
+        "categoryIds": ["559c07b093be370c0063dd29"],
+        "subCategoryIds": [
+          "56e014a8dc83940300af410f",
+          "56e014918d5ef80300398b52"
+        ],
+        "displayType": 0,
+        "price": 99.9,
+        "priceText": "₺99,90",
+        "status": 1,
+        "struckPrice": 144.8,
+        "struckPriceText": "₺144,80",
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "5e1f397037809a13d2f59da0",
+            "count": 1,
+            "name": "Durex Extreme",
+            "shortDescription": "10'lu",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5e1f397037809a13d2f59da0_tr_1631535438243.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "5602763b54d25b0c006a39fd",
+            "count": 1,
+            "name": "Durex Play Masaj Jeli",
+            "shortDescription": "200 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5602763b54d25b0c006a39fd_tr_1625653425173.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "durex-extreme-jel-ikilisi-gdcl7tnn3e",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "56596a4b783d200c00662852",
+        "name": "OKEY Zero",
+        "shortName": "OKEY Zero",
+        "shortDescription": "10'lu",
+        "squareThumbnailURL": "http://cdn.getir.com/product/56596a4b783d200c00662852_tr_1608532770360.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/56596a4b783d200c00662852_tr_1608532770360.jpeg"
+        ],
+        "categoryIds": ["559c07b093be370c0063dd29"],
+        "subCategoryIds": ["56e014918d5ef80300398b52"],
+        "displayType": 0,
+        "price": 43.8,
+        "priceText": "₺43,80",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "okey-zero-f74Qqc89yL",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "55b212cfc188960c003b7b5f",
+        "name": "OKEY Rötar Geciktirici Etkili",
+        "shortName": "OKEY Rötar",
+        "shortDescription": "10'lu",
+        "squareThumbnailURL": "http://cdn.getir.com/product/55b212cfc188960c003b7b5f_tr_1608619309410.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/55b212cfc188960c003b7b5f_tr_1608619309410.jpeg"
+        ],
+        "categoryIds": ["559c07b093be370c0063dd29", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "56e014918d5ef80300398b52",
+          "5fd8ab034f82eb636f8f3c8b"
+        ],
+        "displayType": 0,
+        "price": 29.5,
+        "priceText": "₺29,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "okey-rotar-geciktirici-etkili-4ovvs4O6s4",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "55a021bb35a77b0c0075d126",
+        "name": "OKEY Çifte Haz",
+        "shortName": "OKEY Çifte Haz",
+        "shortDescription": "10'lu",
+        "squareThumbnailURL": "http://cdn.getir.com/product/55a021bb35a77b0c0075d126_tr_1608619156461.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/55a021bb35a77b0c0075d126_tr_1608619156461.jpeg"
+        ],
+        "categoryIds": ["559c07b093be370c0063dd29", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "56e014918d5ef80300398b52",
+          "5fd8ab034f82eb636f8f3c8b"
+        ],
+        "displayType": 0,
+        "price": 29.5,
+        "priceText": "₺29,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "okey-cifte-haz-NoLYGgcjyA",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5bacaf555aeb1d5c66a5cc59",
+        "name": "OKEY Nirvana",
+        "shortName": "OKEY Nirvana",
+        "shortDescription": "10'lu",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5bacaf555aeb1d5c66a5cc59_tr_1608619218719.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5bacaf555aeb1d5c66a5cc59_tr_1608619218719.jpeg"
+        ],
+        "categoryIds": ["559c07b093be370c0063dd29"],
+        "subCategoryIds": ["56e014918d5ef80300398b52"],
+        "displayType": 0,
+        "price": 73.9,
+        "priceText": "₺73,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "okey-nirvana-vq27PZ7Qnh",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "606ee8d6308bf41d441b4efd",
+        "name": "OKEY Ritim",
+        "shortName": "OKEY Ritim",
+        "shortDescription": "10'lu",
+        "squareThumbnailURL": "http://cdn.getir.com/product/606ee8d6308bf41d441b4efd_tr_1619617175728.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/606ee8d6308bf41d441b4efd_tr_1619617175728.jpeg"
+        ],
+        "categoryIds": ["559c07b093be370c0063dd29"],
+        "subCategoryIds": ["56e014918d5ef80300398b52"],
+        "displayType": 0,
+        "price": 29.5,
+        "priceText": "₺29,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "okey-ritim-ZlJ29dPs7z",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ea6a93c96ae38327290c036",
+        "name": "Durex Yok Ötesi Ekstra His",
+        "shortName": "Durex Yok Ötesi Ekstra His",
+        "shortDescription": "10'lu",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ea6a93c96ae38327290c036_tr_1625652892594.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ea6a93c96ae38327290c036_tr_1625652892594.jpeg"
+        ],
+        "categoryIds": ["559c07b093be370c0063dd29", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "56e014918d5ef80300398b52",
+          "5fd8ab034f82eb636f8f3c8b",
+          "60ebf306d1cf6959f705d38a",
+          "60ebf473d6bede657a55eef4"
+        ],
+        "displayType": 0,
+        "price": 41.9,
+        "priceText": "₺41,90",
+        "status": 1,
+        "struckPrice": 54.9,
+        "struckPriceText": "₺54,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "durex-yok-otesi-ekstra-his-aOPJh47yuU",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e1f397037809a13d2f59da0",
+        "name": "Durex Extreme",
+        "shortName": "Durex Extreme",
+        "shortDescription": "10'lu",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e1f397037809a13d2f59da0_tr_1631535438243.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e1f397037809a13d2f59da0_tr_1631535438243.jpeg"
+        ],
+        "categoryIds": ["559c07b093be370c0063dd29", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "56e014918d5ef80300398b52",
+          "5fd8ab034f82eb636f8f3c8b"
+        ],
+        "displayType": 0,
+        "price": 59.9,
+        "priceText": "₺59,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "durex-extreme-OInBBAPEBp",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c90a51046f6730001004dba",
+        "name": "Durex Maraton",
+        "shortName": "Durex Maraton Geciktiricili",
+        "shortDescription": "10'lu",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c90a51046f6730001004dba_tr_1631535517581.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c90a51046f6730001004dba_tr_1631535517581.jpeg"
+        ],
+        "categoryIds": ["559c07b093be370c0063dd29"],
+        "subCategoryIds": [
+          "56e014918d5ef80300398b52",
+          "60ebf306d1cf6959f705d38a",
+          "60ebf473d6bede657a55eef4"
+        ],
+        "displayType": 0,
+        "price": 39.9,
+        "priceText": "₺39,90",
+        "status": 1,
+        "struckPrice": 54.9,
+        "struckPriceText": "₺54,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "durex-maraton-cTreEqO1EQ",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fd9a04ec71114286cc08291",
+        "name": "Durex Chill Karma",
+        "shortName": "Durex Chill Karma",
+        "shortDescription": "20'li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fd9a04ec71114286cc08291_tr_1609142414709.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fd9a04ec71114286cc08291_tr_1609142414709.jpeg"
+        ],
+        "categoryIds": ["559c07b093be370c0063dd29"],
+        "subCategoryIds": [
+          "56e014918d5ef80300398b52",
+          "60ebf306d1cf6959f705d38a",
+          "60ebf473d6bede657a55eef4"
+        ],
+        "displayType": 0,
+        "price": 54.9,
+        "priceText": "₺54,90",
+        "status": 1,
+        "struckPrice": 62.9,
+        "struckPriceText": "₺62,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "durex-chill-karma-G8vd8PBgs1",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "602cc7b2f875b6c3c117ded3",
+        "name": "Durex Naturals",
+        "shortName": "Durex Naturals",
+        "shortDescription": "10'lu",
+        "squareThumbnailURL": "http://cdn.getir.com/product/602cc7b2f875b6c3c117ded3_tr_1614009884546.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/602cc7b2f875b6c3c117ded3_tr_1614009884546.jpeg"
+        ],
+        "categoryIds": ["559c07b093be370c0063dd29"],
+        "subCategoryIds": ["56e014918d5ef80300398b52"],
+        "displayType": 0,
+        "price": 54.9,
+        "priceText": "₺54,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "durex-naturals-rNKB8T2zJ0",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "prezervatif-w38vmMlXKf"
+  },
+  {
+    "id": "56e014a8dc83940300af410f",
+    "name": "Jel",
+    "productCount": 4,
+    "products": [
+      {
+        "id": "593e7c53fe69740004bb1035",
+        "name": "OKEY Çilekli Kayganlaştırıcı Jel",
+        "shortName": "OKEY Çilekli",
+        "shortDescription": "100 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/593e7c53fe69740004bb1035_tr_1631535746684.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/593e7c53fe69740004bb1035_tr_1631535746684.jpeg"
+        ],
+        "categoryIds": ["559c07b093be370c0063dd29"],
+        "subCategoryIds": ["56e014a8dc83940300af410f"],
+        "displayType": 0,
+        "price": 50.9,
+        "priceText": "₺50,90",
+        "status": 1,
+        "struckPrice": 62.9,
+        "struckPriceText": "₺62,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "okey-cilekli-kayganlastirici-jel-X9nLoABrfD",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e1f358537809aafb7f59ada",
+        "name": "Durex Naturals Pure Kayganlaştırıcı Jel",
+        "shortName": "Durex Naturals",
+        "shortDescription": "100 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e1f358537809aafb7f59ada_tr_1613732030260.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e1f358537809aafb7f59ada_tr_1613732030260.jpeg"
+        ],
+        "categoryIds": ["559c07b093be370c0063dd29", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "56e014a8dc83940300af410f",
+          "5fd8ab034f82eb636f8f3c8b"
+        ],
+        "displayType": 0,
+        "price": 69.9,
+        "priceText": "₺69,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "durex-naturals-pure-kayganlastirici-jel-KV4sAsIs4x",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5602763b54d25b0c006a39fd",
+        "name": "Durex Play Masaj Jeli",
+        "shortName": "Durex Play",
+        "shortDescription": "200 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5602763b54d25b0c006a39fd_tr_1625653425173.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5602763b54d25b0c006a39fd_tr_1625653425173.jpeg"
+        ],
+        "categoryIds": ["559c07b093be370c0063dd29", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "56e014a8dc83940300af410f",
+          "5fd8ab034f82eb636f8f3c8b"
+        ],
+        "displayType": 0,
+        "price": 84.9,
+        "priceText": "₺84,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "durex-play-masaj-jeli-WwufrREnLo",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60c75017c3bd5f8da41941c9",
+        "name": "Durex Extreme & Jel İkilisi",
+        "shortName": "Durex Extreme & Jel İkilisi",
+        "shortDescription": "2 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60c75017c3bd5f8da41941c9_tr_1623677498329.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60c75017c3bd5f8da41941c9_tr_1623677498329.jpeg"
+        ],
+        "categoryIds": ["559c07b093be370c0063dd29"],
+        "subCategoryIds": [
+          "56e014a8dc83940300af410f",
+          "56e014918d5ef80300398b52"
+        ],
+        "displayType": 0,
+        "price": 99.9,
+        "priceText": "₺99,90",
+        "status": 1,
+        "struckPrice": 144.8,
+        "struckPriceText": "₺144,80",
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "5e1f397037809a13d2f59da0",
+            "count": 1,
+            "name": "Durex Extreme",
+            "shortDescription": "10'lu",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5e1f397037809a13d2f59da0_tr_1631535438243.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "5602763b54d25b0c006a39fd",
+            "count": 1,
+            "name": "Durex Play Masaj Jeli",
+            "shortDescription": "200 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5602763b54d25b0c006a39fd_tr_1625653425173.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "durex-extreme-jel-ikilisi-gdcl7tnn3e",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "jel-hWmhYhQMNM"
+  }
+]

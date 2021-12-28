@@ -1,0 +1,827 @@
+[
+  {
+    "id": "56e0139fdc83940300af403b",
+    "name": "Kedi",
+    "productCount": 17,
+    "products": [
+      {
+        "id": "5598402fb1dc700c006a7261",
+        "name": "Whiskas Biftekli Kedi Maması",
+        "shortName": "Whiskas 1 Yaş Üstü Biftekli",
+        "shortDescription": "300 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5598402fb1dc700c006a7261_tr_1601931926908.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5598402fb1dc700c006a7261_tr_1601931926908.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c63"],
+        "subCategoryIds": ["56e0139fdc83940300af403b"],
+        "displayType": 0,
+        "price": 16.55,
+        "priceText": "₺16,55",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "whiskas-biftekli-kedi-mamasi-Tg8CRSBLJ0",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "55983ff7b1dc700c006a7259",
+        "name": "Whiskas Konserve Sığır Etli Kedi Maması",
+        "shortName": "Whiskas 1 Yaş Üstü Sığır Etli",
+        "shortDescription": "400 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/55983ff7b1dc700c006a7259_tr_1601931876928.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/55983ff7b1dc700c006a7259_tr_1601931876928.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c63"],
+        "subCategoryIds": ["56e0139fdc83940300af403b"],
+        "displayType": 0,
+        "price": 17.4,
+        "priceText": "₺17,40",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "whiskas-konserve-sigir-etli-kedi-mamasi-CMhCEc7cEd",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "57f3658821b86d0003d2654f",
+        "name": "Purina One Kısırlaştırılmış Kedi Maması Sığır Etli",
+        "shortName": "Purina One Kısır Sığır Etli",
+        "shortDescription": "800 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/57f3658821b86d0003d2654f_tr_1601931738767.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/57f3658821b86d0003d2654f_tr_1601931738767.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c63"],
+        "subCategoryIds": ["56e0139fdc83940300af403b"],
+        "displayType": 0,
+        "price": 74.5,
+        "priceText": "₺74,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "purina-one-kisirlastirilmis-kedi-mamasi-sigir-etli-j3BuRyoFsI",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5bd321d33b8308001d73db2f",
+        "name": "Proline Tavuklu Yaş Yavru Kedi Maması",
+        "shortName": "Proline Yavru Tavuklu",
+        "shortDescription": "100 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5bd321d33b8308001d73db2f_tr_1601931527772.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5bd321d33b8308001d73db2f_tr_1601931527772.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c63"],
+        "subCategoryIds": ["56e0139fdc83940300af403b"],
+        "displayType": 0,
+        "price": 8.55,
+        "priceText": "₺8,55",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "proline-tavuklu-yas-yavru-kedi-mamasi-p6vemy1yzL",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5a27a6ec895861000453fe31",
+        "name": "Dreamies Tavuklu Kedi Ödül Maması",
+        "shortName": "Dreamies Tavuklu",
+        "shortDescription": "60 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5a27a6ec895861000453fe31_tr_1605129910162.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5a27a6ec895861000453fe31_tr_1605129910162.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c63"],
+        "subCategoryIds": ["56e0139fdc83940300af403b"],
+        "displayType": 0,
+        "price": 10.65,
+        "priceText": "₺10,65",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "dreamies-tavuklu-kedi-odul-mamasi-35vXLmLauE",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "604b73077073c36e8ad8066f",
+        "name": "Dreamies Sığırlı & Peynirli Kedi Ödül Maması",
+        "shortName": "Dreamies Sığır & Peynirli",
+        "shortDescription": "60 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/604b73077073c36e8ad8066f_tr_1616069735127.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/604b73077073c36e8ad8066f_tr_1616069735127.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c63"],
+        "subCategoryIds": ["56e0139fdc83940300af403b"],
+        "displayType": 0,
+        "price": 10.65,
+        "priceText": "₺10,65",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "dreamies-sigirli-peynirli-kedi-odul-mamasi-YWoBkl1hme",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "600e7f7214fc533e809ed1cf",
+        "name": "Me-O Ton Balıklı Yavru Yaş Mama",
+        "shortName": "Me-O Ton Balıklı Yaş Mama",
+        "shortDescription": "80 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/600e7f7214fc533e809ed1cf_tr_1611735806288.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/600e7f7214fc533e809ed1cf_tr_1611735806288.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c63"],
+        "subCategoryIds": ["56e0139fdc83940300af403b"],
+        "displayType": 0,
+        "price": 11.45,
+        "priceText": "₺11,45",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "me-o-ton-balikli-yavru-yas-mama-r86gUGfwHS",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "600e7f807835545109ecb1d5",
+        "name": "Me-O Ton Balıklı Yaş Mama",
+        "shortName": "Me-O Ton Balıklı Yaş Mama",
+        "shortDescription": "80 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/600e7f807835545109ecb1d5_tr_1611736394621.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/600e7f807835545109ecb1d5_tr_1611736394621.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c63"],
+        "subCategoryIds": ["56e0139fdc83940300af403b"],
+        "displayType": 0,
+        "price": 11.45,
+        "priceText": "₺11,45",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "me-o-ton-balikli-yas-mama-3xzVnZ7Alp",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "600e7ec0da22963bbba314a6",
+        "name": "Me-O Dana & Kuzu Etli Yaş Mama",
+        "shortName": "Me-O Dana & Kuzu Etli Mama",
+        "shortDescription": "80 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/600e7ec0da22963bbba314a6_tr_1611736749530.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/600e7ec0da22963bbba314a6_tr_1611736749530.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c63"],
+        "subCategoryIds": ["56e0139fdc83940300af403b"],
+        "displayType": 0,
+        "price": 11.45,
+        "priceText": "₺11,45",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "me-o-dana-kuzu-etli-yas-mama-P0yTNbsqMf",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "600e7f5a1e4cc902b5bdb4f2",
+        "name": "Me-O Kısırlaştırılmış Yaş Kedi Maması",
+        "shortName": "Me-O Kısırlaştırılmış Kedi Maması",
+        "shortDescription": "80 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/600e7f5a1e4cc902b5bdb4f2_tr_1612190699931.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/600e7f5a1e4cc902b5bdb4f2_tr_1612190699931.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c63"],
+        "subCategoryIds": ["56e0139fdc83940300af403b"],
+        "displayType": 0,
+        "price": 11.45,
+        "priceText": "₺11,45",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "me-o-kisirlastirilmis-yas-kedi-mamasi-nbz0vrIzmT",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e3a7ca2ff7b0830fb43bdec",
+        "name": "Gimcat Kedi Ödül Çubuğu Somonlu ve Morinalı",
+        "shortName": "Gimcat Kedi Ödülü Somonlu",
+        "shortDescription": "20 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e3a7ca2ff7b0830fb43bdec_tr_1581573724626.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e3a7ca2ff7b0830fb43bdec_tr_1581573724626.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c63"],
+        "subCategoryIds": ["56e0139fdc83940300af403b"],
+        "displayType": 0,
+        "price": 29.9,
+        "priceText": "₺29,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "gimcat-kedi-odul-cubugu-somonlu-ve-morinali-ks4RVGkiYv",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f6218542d30aafad54b1b53",
+        "name": "Gimcat Malt Soft Extra Kedi Macunu Tüy Yumağı Engelleyici",
+        "shortName": "Gimcat Kedi Macunu",
+        "shortDescription": "20 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f6218542d30aafad54b1b53_tr_1600270797714.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f6218542d30aafad54b1b53_tr_1600270797714.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c63"],
+        "subCategoryIds": ["56e0139fdc83940300af403b"],
+        "displayType": 0,
+        "price": 54.9,
+        "priceText": "₺54,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "gimcat-malt-soft-extra-kedi-macunu-tuy-yumagi-engelleyici-EDqgldaFZ7",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "619794d1730ce6815d38326c",
+        "name": "Puffy Love Hayvan Dostu Tüy Tutmaz Tekstil Spreyi",
+        "shortName": "Puffy Love Tekstil Spreyi",
+        "shortDescription": "750 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/619794d1730ce6815d38326c_tr_1637856538250.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/619794d1730ce6815d38326c_tr_1637856538250.jpeg",
+          "http://cdn.getir.com/product/619794d1730ce6815d38326c_8f0bbd30-0e87-41d7-abf7-70d08173004a.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c63"],
+        "subCategoryIds": ["56e0139fdc83940300af403b"],
+        "displayType": 0,
+        "price": 29.9,
+        "priceText": "₺29,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "puffy-love-hayvan-dostu-tuy-tutmaz-tekstil-spreyi-750-ml-rft79tcqxw",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5d4146007512880001a8ecee",
+        "name": "Smarter Tüy Toplayıcı Rulo",
+        "shortName": "Smarter Tüy Toplayıcı Rulo",
+        "shortDescription": "56'lı",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5d4146007512880001a8ecee_tr_1604781695896.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5d4146007512880001a8ecee_tr_1604781695896.jpeg"
+        ],
+        "categoryIds": [
+          "55449fdf02632e11003c2da8",
+          "551430043427d5010a3a5c63",
+          "5fd8a40cbb487c5a816f9f03"
+        ],
+        "subCategoryIds": [
+          "564c881027652f0c007460f0",
+          "56e0139fdc83940300af403b",
+          "56e013ac8d5ef80300398a8b",
+          "5fd8ab2c7f945947364a2395",
+          "5fd8a93d5a43157ae2066c69"
+        ],
+        "displayType": 0,
+        "price": 31.9,
+        "priceText": "₺31,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "smarter-tuy-toplayici-rulo-zidjqRKT2i",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5d80bf1edf5da90001d46de5",
+        "name": "Lindo Cat Kedi Kumu Sabunlu İnce Taneli",
+        "shortName": "Lindo Cat Sabunlu Kum",
+        "shortDescription": "5 L",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5d80bf1edf5da90001d46de5_tr_1605129786583.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5d80bf1edf5da90001d46de5_tr_1605129786583.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c63"],
+        "subCategoryIds": ["56e0139fdc83940300af403b"],
+        "displayType": 0,
+        "price": 23.9,
+        "priceText": "₺23,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "lindo-cat-kedi-kumu-sabunlu-ince-taneli-CJWKaXLcJB",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5d80c32ce499120001840301",
+        "name": "Lindo Cat Kedi Kumu Pudralı İnce Taneli",
+        "shortName": "Lindo Cat Pudralı Kum",
+        "shortDescription": "10 L",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5d80c32ce499120001840301_tr_1605129815056.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5d80c32ce499120001840301_tr_1605129815056.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c63"],
+        "subCategoryIds": ["56e0139fdc83940300af403b"],
+        "displayType": 0,
+        "price": 37.9,
+        "priceText": "₺37,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "lindo-cat-kedi-kumu-pudrali-ince-taneli-f4YD7lap4Q",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5bd31ed181cf9f3efcfb02dd",
+        "name": "Proline Bentonit Topaklanan Kedi Kumu",
+        "shortName": "Proline Topaklanan Kum",
+        "shortDescription": "5 L",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5bd31ed181cf9f3efcfb02dd_tr_1580295146952.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5bd31ed181cf9f3efcfb02dd_tr_1580295146952.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c63"],
+        "subCategoryIds": ["56e0139fdc83940300af403b"],
+        "displayType": 0,
+        "price": 31.9,
+        "priceText": "₺31,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "proline-bentonit-topaklanan-kedi-kumu-kiDHY5rxdI",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "kedi-KGKMF0iFbI"
+  },
+  {
+    "id": "56e013ac8d5ef80300398a8b",
+    "name": "Köpek",
+    "productCount": 8,
+    "products": [
+      {
+        "id": "5c6a79337422d000018e877b",
+        "name": "Proline Konserve Kuzu Etli Köpek Maması",
+        "shortName": "Proline Yetişkin Kuzulu",
+        "shortDescription": "415 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c6a79337422d000018e877b_tr_1601931655496.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c6a79337422d000018e877b_tr_1601931655496.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c63"],
+        "subCategoryIds": ["56e013ac8d5ef80300398a8b"],
+        "displayType": 0,
+        "price": 15.7,
+        "priceText": "₺15,70",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "proline-konserve-kuzu-etli-kopek-mamasi-EOHzZRgM12",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5bd6982375c3ce00315e8948",
+        "name": "Proline Kuzu ve Pirinçli Köpek Maması",
+        "shortName": "Proline Yetişkin Kuzulu & Pirinçli",
+        "shortDescription": "3 kg",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5bd6982375c3ce00315e8948_tr_1601931642980.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5bd6982375c3ce00315e8948_tr_1601931642980.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c63"],
+        "subCategoryIds": ["56e013ac8d5ef80300398a8b"],
+        "displayType": 0,
+        "price": 93.5,
+        "priceText": "₺93,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "proline-kuzu-ve-pirincli-kopek-mamasi-cvYPiEk3tn",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5bd6985ff2c319001eddde27",
+        "name": "Proline Tavuklu Yavru Köpek Maması",
+        "shortName": "Proline Yavru Tavuklu",
+        "shortDescription": "3 kg",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5bd6985ff2c319001eddde27_tr_1601931626876.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5bd6985ff2c319001eddde27_tr_1601931626876.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c63"],
+        "subCategoryIds": ["56e013ac8d5ef80300398a8b"],
+        "displayType": 0,
+        "price": 116.9,
+        "priceText": "₺116,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "proline-tavuklu-yavru-kopek-mamasi-0oW50afCbF",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "577fa0a491436203000e300a",
+        "name": "Pedigree Konserve Sığır Etli Yetişkin Köpek Maması",
+        "shortName": "Pedigree Yetişkin Sığır Etli",
+        "shortDescription": "400 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/577fa0a491436203000e300a_tr_1601931559263.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/577fa0a491436203000e300a_tr_1601931559263.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c63"],
+        "subCategoryIds": ["56e013ac8d5ef80300398a8b"],
+        "displayType": 0,
+        "price": 17.4,
+        "priceText": "₺17,40",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "pedigree-konserve-sigir-etli-yetiskin-kopek-mamasi-Q3eFqFR25C",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5a27a01bf5a2790004ee27ec",
+        "name": "Pedigree Erişkin Küçük Irk Biftekli & Sebzeli Köpek Maması",
+        "shortName": "Pedigree Yetişkin Biftekli & Sebzeli",
+        "shortDescription": "2 kg",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5a27a01bf5a2790004ee27ec_tr_1601931526568.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5a27a01bf5a2790004ee27ec_tr_1601931526568.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c63"],
+        "subCategoryIds": ["56e013ac8d5ef80300398a8b"],
+        "displayType": 0,
+        "price": 80.5,
+        "priceText": "₺80,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "pedigree-eriskin-kucuk-irk-biftekli-sebzeli-kopek-mamasi-jl8UlWZMti",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "55c48a50beca570c0066cb62",
+        "name": "Pedigree Biscrok Köpek Ödül Bisküvisi",
+        "shortName": "Pedigree Biscrock Ödül Bisküvisi",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/55c48a50beca570c0066cb62_tr_1605601495852.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/55c48a50beca570c0066cb62_tr_1605601495852.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c63"],
+        "subCategoryIds": ["56e013ac8d5ef80300398a8b"],
+        "displayType": 0,
+        "price": 17.55,
+        "priceText": "₺17,55",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "pedigree-biscrok-kopek-odul-biskuvisi-kMSYaot6p9",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5a27a10a895861000453f8fa",
+        "name": "Pedigree Dentastix Köpek Ödül Maması",
+        "shortName": "Pedigree Ödül Maması",
+        "shortDescription": "180 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5a27a10a895861000453f8fa_tr_1605601444561.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5a27a10a895861000453f8fa_tr_1605601444561.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c63"],
+        "subCategoryIds": ["56e013ac8d5ef80300398a8b"],
+        "displayType": 0,
+        "price": 25.5,
+        "priceText": "₺25,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "pedigree-dentastix-kopek-odul-mamasi-QCsHGbEsFk",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5d4146007512880001a8ecee",
+        "name": "Smarter Tüy Toplayıcı Rulo",
+        "shortName": "Smarter Tüy Toplayıcı Rulo",
+        "shortDescription": "56'lı",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5d4146007512880001a8ecee_tr_1604781695896.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5d4146007512880001a8ecee_tr_1604781695896.jpeg"
+        ],
+        "categoryIds": [
+          "55449fdf02632e11003c2da8",
+          "551430043427d5010a3a5c63",
+          "5fd8a40cbb487c5a816f9f03"
+        ],
+        "subCategoryIds": [
+          "564c881027652f0c007460f0",
+          "56e0139fdc83940300af403b",
+          "56e013ac8d5ef80300398a8b",
+          "5fd8ab2c7f945947364a2395",
+          "5fd8a93d5a43157ae2066c69"
+        ],
+        "displayType": 0,
+        "price": 31.9,
+        "priceText": "₺31,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "smarter-tuy-toplayici-rulo-zidjqRKT2i",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "kopek-WXgSp4lczi"
+  },
+  {
+    "id": "5a3e5052bb9bb700043d11c4",
+    "name": "Kuş",
+    "productCount": 1,
+    "products": [
+      {
+        "id": "5e33dbdca5688e42741fd700",
+        "name": "Dört Mevsim Muhabbet Kuşu Yemi",
+        "shortName": "Muhabbet Kuşu Yemi",
+        "shortDescription": "400 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e33dbdca5688e42741fd700_tr_1585651818298.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e33dbdca5688e42741fd700_tr_1585651818298.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c63"],
+        "subCategoryIds": ["5a3e5052bb9bb700043d11c4"],
+        "displayType": 0,
+        "price": 13.95,
+        "priceText": "₺13,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "dort-mevsim-muhabbet-kusu-yemi-It8wU5brnE",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "kus-vVPdCSKhtX"
+  }
+]

@@ -1,0 +1,890 @@
+[
+  {
+    "id": "56e01283dc83940300af3f92",
+    "name": "Bebek Bezi",
+    "productCount": 8,
+    "products": [
+      {
+        "id": "5bfd43f2581e4100177ba0be",
+        "name": "Sleepy Natural Bantlı Bez Maxi Plus 4+ Beden",
+        "shortName": "Sleepy Natural 4+ Beden",
+        "shortDescription": "26 Adet",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5bfd43f2581e4100177ba0be_tr_1567512339003.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5bfd43f2581e4100177ba0be_tr_1567512339003.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5b"],
+        "subCategoryIds": ["56e01283dc83940300af3f92"],
+        "displayType": 0,
+        "price": 65.9,
+        "priceText": "₺65,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sleepy-natural-bantli-bez-maxi-plus-4-beden-6ycStv8wPZ",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5bfd440de064d60011afda62",
+        "name": "Sleepy Natural Bantlı Bez Junior 5 Beden",
+        "shortName": "Sleepy Natural 5 Beden",
+        "shortDescription": "24 Adet",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5bfd440de064d60011afda62_tr_1567512795961.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5bfd440de064d60011afda62_tr_1567512795961.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5b"],
+        "subCategoryIds": ["56e01283dc83940300af3f92"],
+        "displayType": 0,
+        "price": 65.9,
+        "priceText": "₺65,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sleepy-natural-bantli-bez-junior-5-beden-5v3fROkLuV",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e43e6b47b9a9f1ff670de64",
+        "name": "Sleepy Natural Külot Bez Junior 5 Beden",
+        "shortName": "Sleepy Natural Junior 5 Beden",
+        "shortDescription": "48 Adet",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e43e6b47b9a9f1ff670de64_tr_1582200727688.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e43e6b47b9a9f1ff670de64_tr_1582200727688.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5b"],
+        "subCategoryIds": ["56e01283dc83940300af3f92"],
+        "displayType": 0,
+        "price": 87.9,
+        "priceText": "₺87,90",
+        "status": 1,
+        "struckPrice": 119.9,
+        "struckPriceText": "₺119,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sleepy-natural-kulot-bez-junior-5-beden-yQAgWRD3Hb",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5bfd443c7c99dc001dc348e1",
+        "name": "Sleepy Natural Bantlı Bez XL 6 Beden",
+        "shortName": "Sleepy Natural 6 Beden",
+        "shortDescription": "20 Adet",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5bfd443c7c99dc001dc348e1_tr_1567512927399.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5bfd443c7c99dc001dc348e1_tr_1567512927399.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5b"],
+        "subCategoryIds": ["56e01283dc83940300af3f92"],
+        "displayType": 0,
+        "price": 65.9,
+        "priceText": "₺65,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sleepy-natural-bantli-bez-xl-6-beden-IC7FhRtb9S",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e7079d68cf18501770586f9",
+        "name": "Prima Bebek Bezi Premium Care 2 Beden Mini Jumbo Paket",
+        "shortName": "Prima Premium 2 Beden",
+        "shortDescription": "60 Adet",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e7079d68cf18501770586f9_tr_1608620081335.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e7079d68cf18501770586f9_tr_1608620081335.jpeg",
+          "http://cdn.getir.com/product/5e7079d68cf18501770586f9_tr_1584703013539.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5b"],
+        "subCategoryIds": ["56e01283dc83940300af3f92"],
+        "displayType": 0,
+        "price": 144.9,
+        "priceText": "₺144,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "prima-bebek-bezi-premium-care-2-beden-mini-jumbo-paket-vJpfmLpmUG",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e70988dc6f18300f6be59c5",
+        "name": "Prima Bebek Bezi Premium Care 3 Beden Midi Jumbo Paket",
+        "shortName": "Prima Premium 3 Beden",
+        "shortDescription": "52 Adet",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e70988dc6f18300f6be59c5_tr_1608620089907.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e70988dc6f18300f6be59c5_tr_1608620089907.jpeg",
+          "http://cdn.getir.com/product/5e70988dc6f18300f6be59c5_tr_1584701881133.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5b"],
+        "subCategoryIds": ["56e01283dc83940300af3f92"],
+        "displayType": 0,
+        "price": 144.9,
+        "priceText": "₺144,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "prima-bebek-bezi-premium-care-3-beden-midi-jumbo-paket-j83ldKeUuz",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e70a0b1a67cebd69f27d771",
+        "name": "Prima Bebek Bezi Premium Care 4 Beden",
+        "shortName": "Prima Premium 4 Beden",
+        "shortDescription": "46 Adet",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e70a0b1a67cebd69f27d771_tr_1608620097048.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e70a0b1a67cebd69f27d771_tr_1608620097048.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5b"],
+        "subCategoryIds": ["56e01283dc83940300af3f92"],
+        "displayType": 0,
+        "price": 144.9,
+        "priceText": "₺144,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "prima-bebek-bezi-premium-care-4-beden-qvAJO8rjNg",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "58d2c72f42861d00049a7aa4",
+        "name": "Prima Bebek Bezi Premium Care 5 Beden",
+        "shortName": "Prima Premium 5 Beden",
+        "shortDescription": "42 Adet",
+        "squareThumbnailURL": "http://cdn.getir.com/product/58d2c72f42861d00049a7aa4_tr_1608620103699.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/58d2c72f42861d00049a7aa4_tr_1608620103699.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5b"],
+        "subCategoryIds": ["56e01283dc83940300af3f92"],
+        "displayType": 0,
+        "price": 144.9,
+        "priceText": "₺144,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "prima-bebek-bezi-premium-care-5-beden-7g1cTcg5WD",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "bebek-bezi-XYxhzhsxVp"
+  },
+  {
+    "id": "564c68b0d35e7d0c002bd4c2",
+    "name": "Bebek Bakım",
+    "productCount": 8,
+    "products": [
+      {
+        "id": "5e7a2b2bc5d77164aaf2f0a5",
+        "name": "Uni Baby Şampuan",
+        "shortName": "Uni Baby Şampuan",
+        "shortDescription": "700 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e7a2b2bc5d77164aaf2f0a5_tr_1620721679147.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e7a2b2bc5d77164aaf2f0a5_tr_1620721679147.jpeg",
+          "http://cdn.getir.com/product/5e7a2b2bc5d77164aaf2f0a5_5bf2e968-a54e-44a6-bd92-9fdcd1463f59.jpeg"
+        ],
+        "categoryIds": [
+          "551430043427d5010a3a5c5b",
+          "551430043427d5010a3a5c5c",
+          "5fd8a40cbb487c5a816f9f03"
+        ],
+        "subCategoryIds": [
+          "564c68b0d35e7d0c002bd4c2",
+          "5a5e9f47c3949e0004b31823",
+          "5fd8aae08d9b1f501dfddb0b"
+        ],
+        "displayType": 0,
+        "price": 36.5,
+        "priceText": "₺36,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "uni-baby-sampuan-bwuA1JCyfG",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ce65823fd9b330001c4a9bd",
+        "name": "Johnson's Baby Bebek Yağı Aloe Vera",
+        "shortName": "Johnson's Baby Aloe Vera Yağ",
+        "shortDescription": "300 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ce65823fd9b330001c4a9bd_tr_1585310016678.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ce65823fd9b330001c4a9bd_tr_1585310016678.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5b"],
+        "subCategoryIds": ["564c68b0d35e7d0c002bd4c2"],
+        "displayType": 0,
+        "price": 32.9,
+        "priceText": "₺32,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "johnson-s-baby-bebek-yagi-aloe-vera-1K9987Z8kR",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f8085b2edcb8a0ba527464b",
+        "name": "Bepanthol Baby Pişik Önleyici Merhem",
+        "shortName": "Bepanthol Baby Pişik Merhemi",
+        "shortDescription": "30 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f8085b2edcb8a0ba527464b_tr_1603101510960.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f8085b2edcb8a0ba527464b_tr_1603101510960.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5b"],
+        "subCategoryIds": ["564c68b0d35e7d0c002bd4c2"],
+        "displayType": 0,
+        "price": 35.9,
+        "priceText": "₺35,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "bepanthol-baby-pisik-onleyici-merhem-BvxyIQk0Nt",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60acc38272a4ea0b73e72528",
+        "name": "Uni Baby Yenidoğan Islak Mendil",
+        "shortName": "Uni Baby Yenidoğan",
+        "shortDescription": "3 x 40 Yaprak",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60acc38272a4ea0b73e72528_tr_1621935225085.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60acc38272a4ea0b73e72528_tr_1621935225085.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5b", "55449fdf02632e11003c2da8"],
+        "subCategoryIds": [
+          "564c68b0d35e7d0c002bd4c2",
+          "564dbab45854f10c00a9edb6"
+        ],
+        "displayType": 0,
+        "price": 53.2002,
+        "priceText": "₺53,20",
+        "status": 1,
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "608910b1a2446aa62ca6e61c",
+            "count": 3,
+            "name": "Uni Baby Yenidoğan Islak Mendil",
+            "shortDescription": "40 Yaprak",
+            "squareThumbnailURL": "http://cdn.getir.com/product/608910b1a2446aa62ca6e61c_tr_1619621094280.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "uni-baby-yenidogan-islak-mendil-TBdqO2yjSn",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "608910b1a2446aa62ca6e61c",
+        "name": "Uni Baby Yenidoğan Islak Mendil",
+        "shortName": "Uni Baby Yenidoğan",
+        "shortDescription": "40 Yaprak",
+        "squareThumbnailURL": "http://cdn.getir.com/product/608910b1a2446aa62ca6e61c_tr_1619621094280.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/608910b1a2446aa62ca6e61c_tr_1619621094280.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5b"],
+        "subCategoryIds": ["564c68b0d35e7d0c002bd4c2"],
+        "displayType": 0,
+        "price": 18.75,
+        "priceText": "₺18,75",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "uni-baby-yenidogan-islak-mendil-KWokOo6H1z",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "608a967c8e895d2d1f34edf3",
+        "name": "Uni Baby İlk Adım Islak Mendil",
+        "shortName": "Uni Baby İlk Adım",
+        "shortDescription": "52 Yaprak",
+        "squareThumbnailURL": "http://cdn.getir.com/product/608a967c8e895d2d1f34edf3_tr_1619770912373.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/608a967c8e895d2d1f34edf3_tr_1619770912373.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5b"],
+        "subCategoryIds": ["564c68b0d35e7d0c002bd4c2"],
+        "displayType": 0,
+        "price": 13.45,
+        "priceText": "₺13,45",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "uni-baby-ilk-adim-islak-mendil-JqBLVQwosp",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "608a98e973f1ac5eee422c9f",
+        "name": "Uni Baby İlk Adım Islak Mendil",
+        "shortName": "Uni Baby İlk Adım",
+        "shortDescription": "3 x 52 Yaprak",
+        "squareThumbnailURL": "http://cdn.getir.com/product/608a98e973f1ac5eee422c9f_tr_1619797430093.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/608a98e973f1ac5eee422c9f_tr_1619797430093.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5b", "5fd8c58f3bdc2389a56e0fb0"],
+        "subCategoryIds": [
+          "564c68b0d35e7d0c002bd4c2",
+          "5fd90098dbbeb8ba7a12ff11"
+        ],
+        "displayType": 0,
+        "price": 39.9,
+        "priceText": "₺39,90",
+        "status": 1,
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "608a967c8e895d2d1f34edf3",
+            "count": 3,
+            "name": "Uni Baby İlk Adım Islak Mendil",
+            "shortDescription": "52 Yaprak",
+            "squareThumbnailURL": "http://cdn.getir.com/product/608a967c8e895d2d1f34edf3_tr_1619770912373.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "uni-baby-ilk-adim-islak-mendil-LWxmp55LIN",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60e40a24e706a13f8133fbeb",
+        "name": "Uni Baby Aktif Oyna & Öğren Islak Havlu",
+        "shortName": "Uni Baby Aktif Oyna & Öğren",
+        "shortDescription": "3 x 52 Yaprak",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60e40a24e706a13f8133fbeb_tr_1625669780991.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60e40a24e706a13f8133fbeb_tr_1625669780991.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5b"],
+        "subCategoryIds": ["564c68b0d35e7d0c002bd4c2"],
+        "displayType": 0,
+        "price": 29.9,
+        "priceText": "₺29,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "uni-baby-aktif-oyna-ogren-islak-havlu-3x52-yaprak-xnpxkxqgx0",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "bebek-bakim-2Fy1PG1JjA"
+  },
+  {
+    "id": "56e0131fdc83940300af3fea",
+    "name": "Mama",
+    "productCount": 7,
+    "products": [
+      {
+        "id": "5c6e8d135b6cb20001bb8c5a",
+        "name": "Aptamil 3 Devam Sütü",
+        "shortName": "Aptamil 3 Devam Sütü",
+        "shortDescription": "350 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c6e8d135b6cb20001bb8c5a_tr_1628690012952.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c6e8d135b6cb20001bb8c5a_tr_1628690012952.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5b"],
+        "subCategoryIds": ["56e0131fdc83940300af3fea"],
+        "displayType": 0,
+        "price": 102.9,
+        "priceText": "₺102,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "aptamil-3-devam-sutu-MO6GnjFf7d",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c6e8d2ac1671700010696b7",
+        "name": "Aptamil 4 Çocuk Devam Sütü",
+        "shortName": "Aptamil 4 Çocuk Devam Sütü",
+        "shortDescription": "350 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c6e8d2ac1671700010696b7_tr_1628690058866.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c6e8d2ac1671700010696b7_tr_1628690058866.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5b"],
+        "subCategoryIds": ["56e0131fdc83940300af3fea"],
+        "displayType": 0,
+        "price": 102.9,
+        "priceText": "₺102,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "aptamil-4-cocuk-devam-sutu-MGoZve2Fh5",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ca7182fa9f3280001bc71a8",
+        "name": "Hero Baby Organik Elmalı Şeftalili Kavanoz Maması",
+        "shortName": "Hero Baby Elmalı Şeftalili",
+        "shortDescription": "120 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ca7182fa9f3280001bc71a8_tr_1603570575230.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ca7182fa9f3280001bc71a8_tr_1603570575230.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5b"],
+        "subCategoryIds": ["56e0131fdc83940300af3fea"],
+        "displayType": 0,
+        "price": 6.49,
+        "priceText": "₺6,49",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "hero-baby-organik-elmali-seftalili-kavanoz-mamasi-FdQaFNp4Qa",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ca718489510050001d83f3c",
+        "name": "Hero Baby Organik Karışık Meyveli Kavanoz Maması",
+        "shortName": "Hero Baby Karışık Meyveli",
+        "shortDescription": "120 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ca718489510050001d83f3c_tr_1603570564158.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ca718489510050001d83f3c_tr_1603570564158.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5b"],
+        "subCategoryIds": ["56e0131fdc83940300af3fea"],
+        "displayType": 0,
+        "price": 6.49,
+        "priceText": "₺6,49",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "hero-baby-organik-karisik-meyveli-kavanoz-mamasi-yTfWNTS4tm",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f3d16908fd2fc5427169155",
+        "name": "Hero Baby Organik Bebek Bisküvisi",
+        "shortName": "Hero Baby Bebek Bisküvisi",
+        "shortDescription": "125 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f3d16908fd2fc5427169155_tr_1597932492930.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f3d16908fd2fc5427169155_tr_1597932492930.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5b"],
+        "subCategoryIds": [
+          "56e0131fdc83940300af3fea",
+          "60bdcf7fb4a6c8095c0250a8"
+        ],
+        "displayType": 0,
+        "price": 10.65,
+        "priceText": "₺10,65",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "hero-baby-organik-bebek-biskuvisi-Uxk7yJ9I8P",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f353062579f1f6e9bcfa98f",
+        "name": "Eti Cicibebe",
+        "shortName": "Eti Cicibebe",
+        "shortDescription": "400 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f353062579f1f6e9bcfa98f_tr_1597752452833.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f353062579f1f6e9bcfa98f_tr_1597752452833.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5b", "56dfe03cf82055030022cdc0"],
+        "subCategoryIds": [
+          "56e0131fdc83940300af3fea",
+          "574e8eab622137030036f571"
+        ],
+        "displayType": 0,
+        "price": 14.3,
+        "priceText": "₺14,30",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "eti-cicibebe-o7wl7cA0pm",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ceae0399d3ea8000196e137",
+        "name": "Ülker Bebe Bisküvisi",
+        "shortName": "Ülker Bebe Bisküvisi",
+        "shortDescription": "400 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ceae0399d3ea8000196e137_tr_1579533130440.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ceae0399d3ea8000196e137_tr_1579533130440.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5b", "56dfe03cf82055030022cdc0"],
+        "subCategoryIds": [
+          "56e0131fdc83940300af3fea",
+          "574e8eab622137030036f571"
+        ],
+        "displayType": 0,
+        "price": 15.7,
+        "priceText": "₺15,70",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "ulker-bebe-biskuvisi-ikCktI9FXq",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "mama-w7lk3dwml1"
+  },
+  {
+    "id": "56f26ebee14e220300d790ff",
+    "name": "Biberon & Emzik",
+    "productCount": 2,
+    "products": [
+      {
+        "id": "5f841cfd4a8a2e8f93c6bd93",
+        "name": "Wee Baby Yeşil Şeffaf Desenli Damaklı Emzik",
+        "shortName": "Wee Baby Damaklı Emzik",
+        "shortDescription": "No: 2",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f841cfd4a8a2e8f93c6bd93_tr_1603185284948.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f841cfd4a8a2e8f93c6bd93_tr_1603185284948.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5b"],
+        "subCategoryIds": ["56f26ebee14e220300d790ff"],
+        "displayType": 0,
+        "price": 22.9,
+        "priceText": "₺22,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "wee-baby-yesil-seffaf-desenli-damakli-emzik-yZJpurWSnk",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ceae02fc461e70001cc9780",
+        "name": "Wee Baby Gece Gündüz Emzik No:1",
+        "shortName": "Wee Baby Gece Gündüz Emzik",
+        "shortDescription": "2'li - No: 1",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ceae02fc461e70001cc9780_tr_1605470777873.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ceae02fc461e70001cc9780_tr_1605470777873.jpeg",
+          "http://cdn.getir.com/product/5ceae02fc461e70001cc9780_tr_1579555880104.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5b"],
+        "subCategoryIds": ["56f26ebee14e220300d790ff"],
+        "displayType": 0,
+        "price": 42.9,
+        "priceText": "₺42,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "wee-baby-gece-gunduz-emzik-no-1-9T2C4VK24x",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "biberon-emzik-KHAl43teL1"
+  },
+  {
+    "id": "5a14b3ddbf6e090004a2c214",
+    "name": "Çamaşır",
+    "productCount": 1,
+    "products": [
+      {
+        "id": "5a7741092281600004506c34",
+        "name": "Uni Baby Bebekler İçin Sıvı Çamaşır Deterjanı",
+        "shortName": "Uni Baby Sıvı Deterjan",
+        "shortDescription": "1,5 L",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5a7741092281600004506c34_tr_1624974879240.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5a7741092281600004506c34_tr_1624974879240.jpeg",
+          "http://cdn.getir.com/product/5a7741092281600004506c34_ddda7ce3-258e-4814-8e98-0ce608dcfae8.jpeg"
+        ],
+        "categoryIds": [
+          "55449fdf02632e11003c2da8",
+          "551430043427d5010a3a5c5b",
+          "5fd8a40cbb487c5a816f9f03"
+        ],
+        "subCategoryIds": [
+          "564c6a2dd35e7d0c002bd6d6",
+          "5a14b3ddbf6e090004a2c214",
+          "5fd8a93d5a43157ae2066c69"
+        ],
+        "displayType": 0,
+        "price": 73.99,
+        "priceText": "₺73,99",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "uni-baby-bebekler-icin-sivi-camasir-deterjani-DHGNU5Pt1A",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "camasir-tiPe35epeE"
+  }
+]

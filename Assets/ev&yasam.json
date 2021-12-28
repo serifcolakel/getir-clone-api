@@ -1,0 +1,2842 @@
+[
+  {
+    "id": "5b06b0d7d5bff90004618fcc",
+    "name": "Gazete & Dergi",
+    "productCount": 19,
+    "products": [
+      {
+        "id": "601aa63801fc587c37a38e66",
+        "name": "Oksijen Gazetesi",
+        "shortName": "Oksijen Gazetesi",
+        "squareThumbnailURL": "http://cdn.getir.com/product/601aa63801fc587c37a38e66_tr_1640357153113.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/601aa63801fc587c37a38e66_tr_1640357153113.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b06b0d7d5bff90004618fcc"],
+        "displayType": 0,
+        "price": 10,
+        "priceText": "₺10,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "oksijen-gazetesi-ttGK1OBHZ5",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61a63ba0f9dba5d1a65bb568",
+        "name": "Diana Dikiş",
+        "shortName": "Diana Dikiş",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61a63ba0f9dba5d1a65bb568_tr_1638448307027.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61a63ba0f9dba5d1a65bb568_tr_1638448307027.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c", "5697c78dc181490f00c99fea"],
+        "subCategoryIds": [
+          "5b06b0d7d5bff90004618fcc",
+          "5a14017dad8d270004d1f2bb"
+        ],
+        "displayType": 0,
+        "price": 15,
+        "priceText": "₺15,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "diana-dikis-jv97qmh9r2",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5eafe67db18f65f54d87a03f",
+        "name": "Masa",
+        "shortName": "Masa",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5eafe67db18f65f54d87a03f_tr_1638777772248.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5eafe67db18f65f54d87a03f_tr_1638777772248.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b06b0d7d5bff90004618fcc"],
+        "displayType": 0,
+        "price": 16,
+        "priceText": "₺16,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "masa-TWAkSiwkJk",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ea0140f0cd14cbb0ba06693",
+        "name": "Tarih",
+        "shortName": "Tarih",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ea0140f0cd14cbb0ba06693_tr_1636552237845.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ea0140f0cd14cbb0ba06693_tr_1636552237845.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b06b0d7d5bff90004618fcc"],
+        "displayType": 0,
+        "price": 25,
+        "priceText": "₺25,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "tarih-DpnvSo52Lx",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "59577a8eb930e30004bb4ff3",
+        "name": "Bloomberg Businessweek Türkiye",
+        "shortName": "Bloomberg Businessweek",
+        "squareThumbnailURL": "http://cdn.getir.com/product/59577a8eb930e30004bb4ff3_tr_1640067952005.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/59577a8eb930e30004bb4ff3_tr_1640067952005.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b06b0d7d5bff90004618fcc"],
+        "displayType": 0,
+        "price": 10,
+        "priceText": "₺10,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "bloomberg-businessweek-turkiye-TVbrGLri7d",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5a702f2862d03700044667cf",
+        "name": "Sofra",
+        "shortName": "Sofra",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5a702f2862d03700044667cf_tr_1639555078039.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5a702f2862d03700044667cf_tr_1639555078039.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b06b0d7d5bff90004618fcc"],
+        "displayType": 0,
+        "price": 18,
+        "priceText": "₺18,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sofra-qzWYsvlSIQ",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5a994594a9e83a000462de47",
+        "name": "Otohaber",
+        "shortName": "Otohaber",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5a994594a9e83a000462de47_tr_1638971044746.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5a994594a9e83a000462de47_tr_1638971044746.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b06b0d7d5bff90004618fcc"],
+        "displayType": 0,
+        "price": 18,
+        "priceText": "₺18,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "otohaber-MT7lM8ui0A",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e5927d91c573b68c7b34df7",
+        "name": "Formsanté",
+        "shortName": "Formsanté",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e5927d91c573b68c7b34df7_tr_1638864475735.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e5927d91c573b68c7b34df7_tr_1638864475735.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b06b0d7d5bff90004618fcc"],
+        "displayType": 0,
+        "price": 22,
+        "priceText": "₺22,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "formsante-0JHsWuhCCx",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ae3564c3307340004d0963d",
+        "name": "Harper's Bazaar",
+        "shortName": "Harper's Bazaar",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ae3564c3307340004d0963d_tr_1639554605831.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ae3564c3307340004d0963d_tr_1639554605831.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b06b0d7d5bff90004618fcc"],
+        "displayType": 0,
+        "price": 23,
+        "priceText": "₺23,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "harper-s-bazaar-FoBieyIFU9",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "573709e07975b3030079420c",
+        "name": "Elle",
+        "shortName": "Elle",
+        "squareThumbnailURL": "http://cdn.getir.com/product/573709e07975b3030079420c_tr_1638864116059.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/573709e07975b3030079420c_tr_1638864116059.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b06b0d7d5bff90004618fcc"],
+        "displayType": 0,
+        "price": 25,
+        "priceText": "₺25,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "elle-JyBaq7hHmi",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5734910b5c03af030056e572",
+        "name": "Vogue",
+        "shortName": "Vogue",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5734910b5c03af030056e572_tr_1639554936955.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5734910b5c03af030056e572_tr_1639554936955.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b06b0d7d5bff90004618fcc"],
+        "displayType": 0,
+        "price": 25,
+        "priceText": "₺25,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "vogue-Ck8x6yGfD7",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5a702ee062d03700044667ba",
+        "name": "Home Art",
+        "shortName": "Home Art",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5a702ee062d03700044667ba_tr_1639555045677.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5a702ee062d03700044667ba_tr_1639555045677.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b06b0d7d5bff90004618fcc"],
+        "displayType": 0,
+        "price": 23,
+        "priceText": "₺23,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "home-art-xSVXXERy2I",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "59577a14b930e30004bb4f93",
+        "name": "Harvard Business Review Türkiye",
+        "shortName": "Harvard Business Review",
+        "squareThumbnailURL": "http://cdn.getir.com/product/59577a14b930e30004bb4f93_tr_1635748935493.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/59577a14b930e30004bb4f93_tr_1635748935493.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b06b0d7d5bff90004618fcc"],
+        "displayType": 0,
+        "price": 35,
+        "priceText": "₺35,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "harvard-business-review-turkiye-NiO2puTj12",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ea813d3c9436374efd5b0b8",
+        "name": "Uykusuz",
+        "shortName": "Uykusuz",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ea813d3c9436374efd5b0b8_tr_1640246395034.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ea813d3c9436374efd5b0b8_tr_1640246395034.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b06b0d7d5bff90004618fcc"],
+        "displayType": 0,
+        "price": 8,
+        "priceText": "₺8,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "uykusuz-6W3riv6BUe",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5cddc6333cc2730001bb8ac9",
+        "name": "Minika Çocuk",
+        "shortName": "Minika Çocuk",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5cddc6333cc2730001bb8ac9_tr_1639555005074.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5cddc6333cc2730001bb8ac9_tr_1639555005074.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b06b0d7d5bff90004618fcc"],
+        "displayType": 0,
+        "price": 10.9,
+        "priceText": "₺10,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "minika-cocuk-M2oPpYVzNc",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5cddc6f36d8d3f0001a2f834",
+        "name": "Minika GO",
+        "shortName": "Minika GO",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5cddc6f36d8d3f0001a2f834_tr_1639554885357.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5cddc6f36d8d3f0001a2f834_tr_1639554885357.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b06b0d7d5bff90004618fcc"],
+        "displayType": 0,
+        "price": 10.9,
+        "priceText": "₺10,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "minika-go-z9MU09RJCE",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ea2cb9c8631f8ff16478232",
+        "name": "Maxi Çengel Bulmaca",
+        "shortName": "Maxi Çengel Bulmaca",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ea2cb9c8631f8ff16478232_tr_1639747137395.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ea2cb9c8631f8ff16478232_tr_1639747137395.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b06b0d7d5bff90004618fcc"],
+        "displayType": 0,
+        "price": 16.9,
+        "priceText": "₺16,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "maxi-cengel-bulmaca-uYR29G1lzJ",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ea2de72c984e46fb6e08f7e",
+        "name": "Maxi Bulmaca Sudoku",
+        "shortName": "Maxi Sudoku",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ea2de72c984e46fb6e08f7e_tr_1636552545203.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ea2de72c984e46fb6e08f7e_tr_1636552545203.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b06b0d7d5bff90004618fcc"],
+        "displayType": 0,
+        "price": 16.9,
+        "priceText": "₺16,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "maxi-bulmaca-sudoku-KPblTZuWND",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61b04e3e9a30483f120173f3",
+        "name": "Resimli Bilmece Bulmaca",
+        "shortName": "Resimli Bilmece Bulmaca",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61b04e3e9a30483f120173f3_tr_1639033868112.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61b04e3e9a30483f120173f3_tr_1639033868112.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c", "5697c78dc181490f00c99fea"],
+        "subCategoryIds": [
+          "5b06b0d7d5bff90004618fcc",
+          "5a14017dad8d270004d1f2bb"
+        ],
+        "displayType": 0,
+        "price": 12.9,
+        "priceText": "₺12,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "resimli-bilmece-bulmaca-uqzehouznr",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "gazete-dergi-tdLH1GDwii"
+  },
+  {
+    "id": "5b06b1dcd5bff900046190de",
+    "name": "Mutfak Ürünleri",
+    "productCount": 4,
+    "products": [
+      {
+        "id": "5e85bbe40aa145bf2a902bba",
+        "name": "Jacobs Monarch Aroma Filtre Kahve & French Press",
+        "shortName": "Jacobs Monarch & French Press",
+        "shortDescription": "500 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e85bbe40aa145bf2a902bba_tr_1585830150417.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e85bbe40aa145bf2a902bba_tr_1585830150417.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5e", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "564c7e7c27652f0c00745684",
+          "5b06b1dcd5bff900046190de"
+        ],
+        "displayType": 0,
+        "price": 74.95,
+        "priceText": "₺74,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "jacobs-monarch-aroma-filtre-kahve-french-press-XoXGpvXwO1",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5a42611d9aca730004a5e986",
+        "name": "Metaltex Tirbuşon",
+        "shortName": "Metaltex Tirbuşon",
+        "shortDescription": "Krom",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5a42611d9aca730004a5e986.jpeg?v=1514554123564",
+        "picURLs": [
+          "http://cdn.getir.com/product/5a42611d9aca730004a5e986.jpeg?v=1514554123564"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c", "61b9ed091a62a71f128e1fec"],
+        "subCategoryIds": [
+          "5b06b1dcd5bff900046190de",
+          "61bc3e546da4e6b2a09d5028"
+        ],
+        "displayType": 0,
+        "price": 69.9,
+        "priceText": "₺69,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "metaltex-tirbuson-fOKtLZ9vB4",
+        "badgeImages": [
+          {
+            "picUrl": "http://cdn.getir.com/product/61bb15219dc588933c49680f_4bdd3493-8a73-4830-b9c6-658da157d69f.png",
+            "position": "topLeft"
+          }
+        ],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5a425fa29aca730004a5e7cc",
+        "name": "Metaltex Imperial Metal Dondurma Kaşığı",
+        "shortName": "Metaltex Dondurma Kaşığı",
+        "shortDescription": "Metal",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5a425fa29aca730004a5e7cc_tr_1634538510393.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5a425fa29aca730004a5e7cc_tr_1634538510393.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c", "55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "5b06b1dcd5bff900046190de",
+          "5fbcd1beb1b8a2c673204b1f"
+        ],
+        "displayType": 0,
+        "price": 41.9,
+        "priceText": "₺41,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "metaltex-imperial-metal-dondurma-kasigi-HzLmvVEpj3",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "56b4c6b5ef6a980f0062ef8e",
+        "name": "Cricket Çakmak",
+        "shortName": "Cricket Çakmak",
+        "shortDescription": "2'li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/56b4c6b5ef6a980f0062ef8e.jpeg?v=1",
+        "picURLs": [
+          "http://cdn.getir.com/product/56b4c6b5ef6a980f0062ef8e.jpeg?v=1"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "5b06b1dcd5bff900046190de",
+          "5b06b381b883b700044e41fc"
+        ],
+        "displayType": 0,
+        "price": 14.9,
+        "priceText": "₺14,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "cricket-cakmak-Dsjzs9AR17",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "mutfak-urunleri-En1i8OtcmT"
+  },
+  {
+    "id": "5b3a36770f14560004553753",
+    "name": "Pil",
+    "productCount": 6,
+    "products": [
+      {
+        "id": "57ab075a25459a03009b4c03",
+        "name": "Duracell Alkalin AA Kalın Kalem Pil",
+        "shortName": "Duracell Kalın",
+        "shortDescription": "4'lü",
+        "squareThumbnailURL": "http://cdn.getir.com/product/57ab075a25459a03009b4c03_tr_1580718943036.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/57ab075a25459a03009b4c03_tr_1580718943036.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b3a36770f14560004553753"],
+        "displayType": 0,
+        "price": 28.9,
+        "priceText": "₺28,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "duracell-alkalin-aa-kalin-kalem-pil-qaSt8ivhw5",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "57ab080887014a03008aaebd",
+        "name": "Duracell Alkalin AAA İnce Kalem Pil",
+        "shortName": "Duracell İnce",
+        "shortDescription": "4'lü",
+        "squareThumbnailURL": "http://cdn.getir.com/product/57ab080887014a03008aaebd_tr_1597245028415.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/57ab080887014a03008aaebd_tr_1597245028415.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b3a36770f14560004553753"],
+        "displayType": 0,
+        "price": 28.9,
+        "priceText": "₺28,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "duracell-alkalin-aaa-ince-kalem-pil-uqbWmyWQN9",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ab8e0cb5049a90004f73e8d",
+        "name": "Duracell Alkalin D Büyük Boy Pil",
+        "shortName": "Duracell D",
+        "shortDescription": "2'li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ab8e0cb5049a90004f73e8d_tr_1580719074171.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ab8e0cb5049a90004f73e8d_tr_1580719074171.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b3a36770f14560004553753"],
+        "displayType": 0,
+        "price": 43.5,
+        "priceText": "₺43,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "duracell-alkalin-d-buyuk-boy-pil-XFWTLsD5A4",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ab8dfee18200500049082ff",
+        "name": "Duracell Lityum Düğme Pil 2032 3 Volt",
+        "shortName": "Duracell Düğme 3V",
+        "shortDescription": "2'li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ab8dfee18200500049082ff_tr_1631009364365.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ab8dfee18200500049082ff_tr_1631009364365.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b3a36770f14560004553753"],
+        "displayType": 0,
+        "price": 24.9,
+        "priceText": "₺24,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "duracell-lityum-dugme-pil-2032-3-volt-ibKqCR9WzB",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5be2c1f4639e4400197a3c89",
+        "name": "Varta Longlife Power Alkalin AA Kalın Kalem Pil",
+        "shortName": "Varta Longlife Power Kalın",
+        "shortDescription": "4'lü",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5be2c1f4639e4400197a3c89_tr_1599558833625.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5be2c1f4639e4400197a3c89_tr_1599558833625.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b3a36770f14560004553753"],
+        "displayType": 0,
+        "price": 25.9,
+        "priceText": "₺25,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "varta-longlife-power-alkalin-aa-kalin-kalem-pil-ByPLz2vpjA",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5be2c230639e4400197a3ca2",
+        "name": "Varta Longlife Power Alkalin AAA İnce Kalem Pil",
+        "shortName": "Varta Longlife Power İnce",
+        "shortDescription": "4'lü",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5be2c230639e4400197a3ca2_tr_1599558822576.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5be2c230639e4400197a3ca2_tr_1599558822576.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b3a36770f14560004553753"],
+        "displayType": 0,
+        "price": 25.9,
+        "priceText": "₺25,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "varta-longlife-power-alkalin-aaa-ince-kalem-pil-jBbm8v2nvh",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "pil-4jlgx47TqO"
+  },
+  {
+    "id": "5d95d1e4c947bf541d5ed19f",
+    "name": "Ev Giyim",
+    "productCount": 8,
+    "products": [
+      {
+        "id": "5c66a90e3d4b940001a4e501",
+        "name": "Twigy Kadın Terlik",
+        "shortName": "Twigy Kadın Terlik",
+        "shortDescription": "36",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c66a90e3d4b940001a4e501_tr_1612852287100.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c66a90e3d4b940001a4e501_tr_1612852287100.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "5c6bc37d6cbded000179e6f2",
+          "5d95d1e4c947bf541d5ed19f"
+        ],
+        "displayType": 0,
+        "price": 69.9,
+        "priceText": "₺69,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "twigy-kadin-terlik-QlXMUWPmW1",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c66a92eba96060001f2c7b0",
+        "name": "Twigy Kadın Terlik",
+        "shortName": "Twigy Kadın Terlik",
+        "shortDescription": "37",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c66a92eba96060001f2c7b0_tr_1612852330786.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c66a92eba96060001f2c7b0_tr_1612852330786.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "5c6bc37d6cbded000179e6f2",
+          "5d95d1e4c947bf541d5ed19f",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 69.9,
+        "priceText": "₺69,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "twigy-kadin-terlik-7orsBnQCZQ",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c66a94fba96060001f2c7cd",
+        "name": "Twigy Kadın Terlik",
+        "shortName": "Twigy Kadın Terlik",
+        "shortDescription": "38",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c66a94fba96060001f2c7cd_tr_1612852351408.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c66a94fba96060001f2c7cd_tr_1612852351408.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "5c6bc37d6cbded000179e6f2",
+          "5d95d1e4c947bf541d5ed19f",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 69.9,
+        "priceText": "₺69,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "twigy-kadin-terlik-X1cCj6uz3L",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c66a96bba96060001f2c7f1",
+        "name": "Twigy Kadın Terlik",
+        "shortName": "Twigy Kadın Terlik",
+        "shortDescription": "39",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c66a96bba96060001f2c7f1_tr_1612852372975.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c66a96bba96060001f2c7f1_tr_1612852372975.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "5c6bc37d6cbded000179e6f2",
+          "5d95d1e4c947bf541d5ed19f",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 69.9,
+        "priceText": "₺69,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "twigy-kadin-terlik-ujoMxch1jo",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c66a98d3d4b940001a4e58b",
+        "name": "Twigy Kadın Terlik",
+        "shortName": "Twigy Kadın Terlik",
+        "shortDescription": "40",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c66a98d3d4b940001a4e58b_tr_1612852397565.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c66a98d3d4b940001a4e58b_tr_1612852397565.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "5c6bc37d6cbded000179e6f2",
+          "5d95d1e4c947bf541d5ed19f",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 69.9,
+        "priceText": "₺69,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "twigy-kadin-terlik-xphAASdI8n",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c66a843ba96060001f2c6b2",
+        "name": "Twigy Erkek Terlik",
+        "shortName": "Twigy Erkek Terlik",
+        "shortDescription": "41/42",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c66a843ba96060001f2c6b2_tr_1612852159878.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c66a843ba96060001f2c6b2_tr_1612852159878.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "5c6bc37d6cbded000179e6f2",
+          "5d95d1e4c947bf541d5ed19f",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 69.9,
+        "priceText": "₺69,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "twigy-erkek-terlik-Y2RRVEs2G7",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c66a87b3d4b940001a4e454",
+        "name": "Twigy Erkek Terlik",
+        "shortName": "Twigy Erkek Terlik",
+        "shortDescription": "43/44",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c66a87b3d4b940001a4e454_tr_1612852221474.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c66a87b3d4b940001a4e454_tr_1612852221474.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "5c6bc37d6cbded000179e6f2",
+          "5d95d1e4c947bf541d5ed19f",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 69.9,
+        "priceText": "₺69,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "twigy-erkek-terlik-Wj0imnfslW",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c66a89c3d4b940001a4e481",
+        "name": "Twigy Erkek Terlik",
+        "shortName": "Twigy Erkek Terlik",
+        "shortDescription": "45/46",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c66a89c3d4b940001a4e481_tr_1612852257322.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c66a89c3d4b940001a4e481_tr_1612852257322.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "5c6bc37d6cbded000179e6f2",
+          "5d95d1e4c947bf541d5ed19f",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 69.9,
+        "priceText": "₺69,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "twigy-erkek-terlik-8QQ8NlMcEn",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "ev-giyim-qWbaSVk390"
+  },
+  {
+    "id": "5b06b1f9b883b700044e4045",
+    "name": "Kırtasiye",
+    "productCount": 3,
+    "products": [
+      {
+        "id": "618e3e9fc3866c5de04ce01d",
+        "name": "Golden Star A4 Fotokopi Kağıdı",
+        "shortName": "Golden Star Fotokopi Kağıdı",
+        "shortDescription": "500 Sayfa",
+        "squareThumbnailURL": "http://cdn.getir.com/product/618e3e9fc3866c5de04ce01d_tr_1637225038979.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/618e3e9fc3866c5de04ce01d_tr_1637225038979.jpeg",
+          "http://cdn.getir.com/product/618e3e9fc3866c5de04ce01d_5fcf81f0-e311-4ec3-a663-1a8fc94273f4.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c", "5697c78dc181490f00c99fea"],
+        "subCategoryIds": [
+          "5b06b1f9b883b700044e4045",
+          "5a14017dad8d270004d1f2bb"
+        ],
+        "displayType": 0,
+        "price": 79.9,
+        "priceText": "₺79,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "goldenstar-a4-fotokopi-kagidi-80gr-objrfgbtbn",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5d0b85e6eb66850001856d1c",
+        "name": "Vege Aslan Şeffaf Koli Bandı",
+        "shortName": "Şeffaf Koli Bandı",
+        "shortDescription": "40 m",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5d0b85e6eb66850001856d1c_tr_1562846907997.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5d0b85e6eb66850001856d1c_tr_1562846907997.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b06b1f9b883b700044e4045"],
+        "displayType": 0,
+        "price": 8.95,
+        "priceText": "₺8,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "vege-aslan-seffaf-koli-bandi-ZjLPVnUdc4",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5d0b85e6eb66850001856d1b",
+        "name": "Pattex Süper Japon Yapıştırıcı",
+        "shortName": "Pattex Japon Yapıştırıcısı",
+        "shortDescription": "3 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5d0b85e6eb66850001856d1b_tr_1565081408658.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5d0b85e6eb66850001856d1b_tr_1565081408658.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b06b1f9b883b700044e4045"],
+        "displayType": 0,
+        "price": 11.95,
+        "priceText": "₺11,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "pattex-super-japon-yapistirici-62V3MisMVc",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "kirtasiye-aJCX8V3Ki8"
+  },
+  {
+    "id": "5b06b215b883b700044e405f",
+    "name": "Elektrik & Aydınlatma",
+    "productCount": 4,
+    "products": [
+      {
+        "id": "5d3013c5f963ae0001b38395",
+        "name": "Philips Led Ampul Beyaz Işık",
+        "shortName": "Philips Led Beyaz",
+        "shortDescription": "60W",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5d3013c5f963ae0001b38395_tr_1582210178455.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5d3013c5f963ae0001b38395_tr_1582210178455.jpeg",
+          "http://cdn.getir.com/product/5d3013c5f963ae0001b38395_tr_1563454296656.jpeg",
+          "http://cdn.getir.com/product/5d3013c5f963ae0001b38395_tr_1563454323810.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b06b215b883b700044e405f"],
+        "displayType": 0,
+        "price": 21.9,
+        "priceText": "₺21,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "philips-led-ampul-beyaz-isik-5BovRSq9LD",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5aba404939eca30004755e8a",
+        "name": "Osram Led Ampul Sarı Işık",
+        "shortName": "Osram Led Sarı",
+        "shortDescription": "8,5W",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5aba404939eca30004755e8a.jpeg?v=1525861034005",
+        "picURLs": [
+          "http://cdn.getir.com/product/5aba404939eca30004755e8a.jpeg?v=1525861034005"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b06b215b883b700044e405f"],
+        "displayType": 0,
+        "price": 19.95,
+        "priceText": "₺19,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "osram-led-ampul-sari-isik-ND7gDFXxF7",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fbb68870c65eb54a705ced4",
+        "name": "Nilson Topraklı Uzatma Kablosu",
+        "shortName": "Nilson Uzatma Kablosu",
+        "shortDescription": "3'lü",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fbb68870c65eb54a705ced4_tr_1606804528073.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fbb68870c65eb54a705ced4_tr_1606804528073.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b06b215b883b700044e405f"],
+        "displayType": 0,
+        "price": 54.9,
+        "priceText": "₺54,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "nilson-toprakli-uzatma-kablosu-hbIfOdcQw3",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fbb609e4ee1db5d5d6d71e7",
+        "name": "Nilson Golyat Priz",
+        "shortName": "Nilson Priz",
+        "shortDescription": "3'lü",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fbb609e4ee1db5d5d6d71e7_tr_1606803235794.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fbb609e4ee1db5d5d6d71e7_tr_1606803235794.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b06b215b883b700044e405f"],
+        "displayType": 0,
+        "price": 26.9,
+        "priceText": "₺26,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "nilson-golyat-priz-iWhGopCULy",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "elektrik-aydinlatma-5MT2F9BgyJ"
+  },
+  {
+    "id": "5b06c0e6d5bff9000461a029",
+    "name": "Piknik",
+    "productCount": 2,
+    "products": [
+      {
+        "id": "5fd869fadea36d47f5e3e7f9",
+        "name": "Burpak Jelatinli Kürdan",
+        "shortName": "Jelatinli Kürdan",
+        "shortDescription": "500 Adet",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fd869fadea36d47f5e3e7f9_tr_1609397356995.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fd869fadea36d47f5e3e7f9_tr_1609397356995.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b06c0e6d5bff9000461a029"],
+        "displayType": 0,
+        "price": 9.95,
+        "priceText": "₺9,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "burpak-jelatinli-kurdan-lNbetiz8Zh",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c29eba978654c00014ed3af",
+        "name": "Cook Karton Bardak",
+        "shortName": "Cook Karton Bardak",
+        "shortDescription": "10'lu",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c29eba978654c00014ed3af_1557846013639.jpeg?v=1557846017664",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c29eba978654c00014ed3af_1557846013639.jpeg?v=1557846017664"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c", "61b9ed091a62a71f128e1fec"],
+        "subCategoryIds": [
+          "5b06c0e6d5bff9000461a029",
+          "61bc3e546da4e6b2a09d5028"
+        ],
+        "displayType": 0,
+        "price": 9.95,
+        "priceText": "₺9,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "cook-karton-bardak-RMVR4h22AG",
+        "badgeImages": [
+          {
+            "picUrl": "http://cdn.getir.com/product/61bb15219dc588933c49680f_4bdd3493-8a73-4830-b9c6-658da157d69f.png",
+            "position": "topLeft"
+          }
+        ],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "piknik-QqGAE0oQB7"
+  },
+  {
+    "id": "5c13b092196519001262c746",
+    "name": "Oyun & Oyuncak",
+    "productCount": 5,
+    "products": [
+      {
+        "id": "5f15a322d80f02ba07879275",
+        "name": "Play-Doh Oyun Hamuru",
+        "shortName": "Play-Doh Oyun Hamuru",
+        "shortDescription": "4'lü",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f15a322d80f02ba07879275_tr_1595320143756.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f15a322d80f02ba07879275_tr_1595320143756.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5c13b092196519001262c746"],
+        "displayType": 0,
+        "price": 20.9,
+        "priceText": "₺20,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "play-doh-oyun-hamuru-ueY9KTQVvc",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "603fbab107f13e9b5f5b4c3b",
+        "name": "Play-Doh Slime Hamur",
+        "shortName": "Play-Doh Slime Hamur",
+        "shortDescription": "3'lü",
+        "squareThumbnailURL": "http://cdn.getir.com/product/603fbab107f13e9b5f5b4c3b_tr_1614945865361.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/603fbab107f13e9b5f5b4c3b_tr_1614945865361.jpeg",
+          "http://cdn.getir.com/product/603fbab107f13e9b5f5b4c3b_46760b8e-bdf5-4fa6-a6ca-4803915a63d9.jpeg",
+          "http://cdn.getir.com/product/603fbab107f13e9b5f5b4c3b_c6414e82-261f-4156-b810-120abbce0fde.jpeg",
+          "http://cdn.getir.com/product/603fbab107f13e9b5f5b4c3b_a1edf478-2517-4457-94f4-75120e689039.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5c13b092196519001262c746"],
+        "displayType": 0,
+        "price": 54.9,
+        "priceText": "₺54,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "play-doh-slime-hamur-cx4WP9lZ1d",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "603fb869648eaa0535fc6088",
+        "name": "Play-Doh Mini Oyun Seti",
+        "shortName": "Play-Doh Mini Oyun Seti",
+        "shortDescription": "1 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/603fb869648eaa0535fc6088_tr_1614853862147.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/603fb869648eaa0535fc6088_tr_1614853862147.jpeg",
+          "http://cdn.getir.com/product/603fb869648eaa0535fc6088_dcc65efa-371f-4eb4-aecc-ebac2deca175.jpeg",
+          "http://cdn.getir.com/product/603fb869648eaa0535fc6088_adae3d3e-1bc4-4b7d-b7fb-ed97d293e607.jpeg",
+          "http://cdn.getir.com/product/603fb869648eaa0535fc6088_3f2c169b-e584-468f-882b-2da3cf3d52f8.jpeg",
+          "http://cdn.getir.com/product/603fb869648eaa0535fc6088_3f2c169b-e584-468f-882b-2da3cf3d52f8.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5c13b092196519001262c746"],
+        "displayType": 0,
+        "price": 69.9,
+        "priceText": "₺69,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "play-doh-mini-oyun-seti-63uRAHehWI",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61a494012a29522416361a8b",
+        "name": "Leva Yılbaşı Eko Tombala",
+        "shortName": "Eko Tombala",
+        "shortDescription": "1 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61a494012a29522416361a8b_tr_1638370647677.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61a494012a29522416361a8b_tr_1638370647677.jpeg",
+          "http://cdn.getir.com/product/61a494012a29522416361a8b_a63c313f-7854-4c1d-833b-ad474fcebb12.jpeg"
+        ],
+        "categoryIds": [
+          "5697c78dc181490f00c99fea",
+          "5b06b056b883b700044e3e4c",
+          "61b9ed091a62a71f128e1fec"
+        ],
+        "subCategoryIds": [
+          "5a14017dad8d270004d1f2bb",
+          "5c13b092196519001262c746",
+          "61bc3ceca4be6c6404711c05"
+        ],
+        "displayType": 0,
+        "price": 8.95,
+        "priceText": "₺8,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "leva-yilbasi-tombala-eko-rupf7lkmpj",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6197b3fd9fe5564de86da251",
+        "name": "Eko Tombala",
+        "shortName": "Eko Tombala",
+        "shortDescription": "1 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6197b3fd9fe5564de86da251_tr_1638371090655.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6197b3fd9fe5564de86da251_tr_1638371090655.jpeg"
+        ],
+        "categoryIds": [
+          "5697c78dc181490f00c99fea",
+          "5b06b056b883b700044e3e4c",
+          "61b9ed091a62a71f128e1fec"
+        ],
+        "subCategoryIds": [
+          "5a14017dad8d270004d1f2bb",
+          "5c13b092196519001262c746",
+          "61bc3ceca4be6c6404711c05"
+        ],
+        "displayType": 0,
+        "price": 12.95,
+        "priceText": "₺12,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "ks-games-eko-tombala-gllimz86um",
+        "badgeImages": [
+          {
+            "picUrl": "http://cdn.getir.com/product/61bb15219dc588933c49680f_4bdd3493-8a73-4830-b9c6-658da157d69f.png",
+            "position": "topLeft"
+          }
+        ],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "oyun-oyuncak-ZTSYyYpzsG"
+  },
+  {
+    "id": "5b06b381b883b700044e41fc",
+    "name": "Diğer",
+    "productCount": 4,
+    "products": [
+      {
+        "id": "605bc4a9a9d1f46e01c78aa7",
+        "name": "Türk Bayrağı",
+        "shortName": "Türk Bayrağı",
+        "shortDescription": "50 x 75 cm",
+        "squareThumbnailURL": "http://cdn.getir.com/product/605bc4a9a9d1f46e01c78aa7_tr_1617703528344.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/605bc4a9a9d1f46e01c78aa7_tr_1617703528344.jpeg",
+          "http://cdn.getir.com/product/605bc4a9a9d1f46e01c78aa7_b967660f-5d65-4d2c-8553-cc0781a582e1.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b06b381b883b700044e41fc"],
+        "displayType": 0,
+        "price": 17.95,
+        "priceText": "₺17,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "turk-bayragi-gkZN7S6WhL",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61a5e7ca6417cd4fb0b5bc80",
+        "name": "Beemedic Peluş Sıcak Su Torbası \"Hello Cactus\"",
+        "shortName": "Sıcak Su Torbası",
+        "shortDescription": "2 L",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61a5e7ca6417cd4fb0b5bc80_tr_1638774015737.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61a5e7ca6417cd4fb0b5bc80_tr_1638774015737.jpeg"
+        ],
+        "categoryIds": [
+          "5b06b056b883b700044e3e4c",
+          "551430043427d5010a3a5c5c",
+          "5697c78dc181490f00c99fea"
+        ],
+        "subCategoryIds": [
+          "5b06b381b883b700044e41fc",
+          "5cfe796dbb6504000119d993",
+          "5a14017dad8d270004d1f2bb"
+        ],
+        "displayType": 0,
+        "price": 54.9,
+        "priceText": "₺54,90",
+        "status": 1,
+        "struckPrice": 69.9,
+        "struckPriceText": "₺69,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "beemedic-pelus-su-torbasi-2lt-hello-cactus-iimvqrltrv",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "56b4c6b5ef6a980f0062ef8e",
+        "name": "Cricket Çakmak",
+        "shortName": "Cricket Çakmak",
+        "shortDescription": "2'li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/56b4c6b5ef6a980f0062ef8e.jpeg?v=1",
+        "picURLs": [
+          "http://cdn.getir.com/product/56b4c6b5ef6a980f0062ef8e.jpeg?v=1"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "5b06b1dcd5bff900046190de",
+          "5b06b381b883b700044e41fc"
+        ],
+        "displayType": 0,
+        "price": 14.9,
+        "priceText": "₺14,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "cricket-cakmak-Dsjzs9AR17",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5d0b85e67833590001b8045f",
+        "name": "Autokit Kaza Tespit Tutanak Seti Kalemli",
+        "shortName": "Kaza Tespit Tutanağı",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5d0b85e67833590001b8045f_tr_1563879370322.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5d0b85e67833590001b8045f_tr_1563879370322.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c"],
+        "subCategoryIds": ["5b06b381b883b700044e41fc"],
+        "displayType": 0,
+        "price": 5.95,
+        "priceText": "₺5,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "autokit-kaza-tespit-tutanak-seti-kalemli-fRUHatAEG5",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "diger-H7iWMinDYX"
+  },
+  {
+    "id": "61a790876da4e657199d3860",
+    "name": "Giyim",
+    "productCount": 30,
+    "products": [
+      {
+        "id": "602f9a8c324f91e891f6fe9b",
+        "name": "Tampap Kadın Slip İç Çamaşırı 2'li",
+        "shortName": "Tampap Slip",
+        "shortDescription": "Beden: L",
+        "squareThumbnailURL": "http://cdn.getir.com/product/602f9a8c324f91e891f6fe9b_tr_1614168825047.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/602f9a8c324f91e891f6fe9b_tr_1614168825047.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "5d245213cf48940001b3570c",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 37.9,
+        "priceText": "₺37,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "tampap-kadin-slip-ic-camasiri-2-li-EJh5X5e4pd",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "602f9b1eeed92d20a9d42eb1",
+        "name": "Tampap Kadın Slip İç Çamaşırı 2'li",
+        "shortName": "Tampap Slip",
+        "shortDescription": "Beden: XL",
+        "squareThumbnailURL": "http://cdn.getir.com/product/602f9b1eeed92d20a9d42eb1_tr_1614168938814.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/602f9b1eeed92d20a9d42eb1_tr_1614168938814.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "5d245213cf48940001b3570c",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 37.9,
+        "priceText": "₺37,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "tampap-kadin-slip-ic-camasiri-2-li-KbmaIjKJyh",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "602f973e8a1e357dd2bead68",
+        "name": "Tampap Kadın Slip İç Çamaşırı 2'li",
+        "shortName": "Tampap Slip",
+        "shortDescription": "Beden: M",
+        "squareThumbnailURL": "http://cdn.getir.com/product/602f973e8a1e357dd2bead68_tr_1614169139631.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/602f973e8a1e357dd2bead68_tr_1614169139631.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "5d245213cf48940001b3570c",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 37.9,
+        "priceText": "₺37,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "tampap-kadin-slip-ic-camasiri-2-li-Fv0cTZA7hD",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5bf39f4aec05b20031e471c9",
+        "name": "Penti Mat 20 Külotlu Çorap Siyah Renk 20 DEN",
+        "shortName": "Penti Mat Siyah",
+        "shortDescription": "Beden: 2",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5bf39f4aec05b20031e471c9_tr_1609397119351.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5bf39f4aec05b20031e471c9_tr_1609397119351.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "56e013e08d5ef80300398aaf",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 19.95,
+        "priceText": "₺19,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "penti-mat-20-kulotlu-corap-siyah-renk-20-den-NSnd9GKyK3",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5bf39f622faec500127d4d63",
+        "name": "Penti Mat 20 Külotlu Çorap Siyah Renk 20 DEN",
+        "shortName": "Penti Mat Siyah",
+        "shortDescription": "Beden: 3",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5bf39f622faec500127d4d63_tr_1609397163263.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5bf39f622faec500127d4d63_tr_1609397163263.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "56e013e08d5ef80300398aaf",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 19.95,
+        "priceText": "₺19,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "penti-mat-20-kulotlu-corap-siyah-renk-20-den-U1Wcmyhglc",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61826d7b0512a4ad3c35f6dc",
+        "name": "Penti Fit 15 Soket Çorap Ten Rengi",
+        "shortName": "Penti Fit Soket Çorap",
+        "shortDescription": "Beden: Standart",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61826d7b0512a4ad3c35f6dc_tr_1636104254324.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61826d7b0512a4ad3c35f6dc_tr_1636104254324.jpeg"
+        ],
+        "categoryIds": [
+          "5697c78dc181490f00c99fea",
+          "551430043427d5010a3a5c5f",
+          "5b06b056b883b700044e3e4c"
+        ],
+        "subCategoryIds": [
+          "5a14017dad8d270004d1f2bb",
+          "56e013e08d5ef80300398aaf",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 5.95,
+        "priceText": "₺5,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "penti-fit-15-soket-corap-ten-rengi-standart-beden-3vcelncha9",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5bf39f8f2faec500127d4d6a",
+        "name": "Penti Mat 20 Külotlu Çorap Ten Rengi 20 DEN",
+        "shortName": "Penti Mat Açık Ten",
+        "shortDescription": "Beden: 3",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5bf39f8f2faec500127d4d6a_tr_1609397239009.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5bf39f8f2faec500127d4d6a_tr_1609397239009.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "56e013e08d5ef80300398aaf",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 19.95,
+        "priceText": "₺19,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "penti-mat-20-kulotlu-corap-ten-rengi-20-den-z8p8SKzw0W",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5735efb21d25d60300964ada",
+        "name": "Penti Fit 15 Külotlu Çorap Siyah Renk 15 DEN",
+        "shortName": "Penti Fit Siyah",
+        "shortDescription": "Beden: 3",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5735efb21d25d60300964ada_tr_1609396758087.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5735efb21d25d60300964ada_tr_1609396758087.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "56e013e08d5ef80300398aaf",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 18.95,
+        "priceText": "₺18,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "penti-fit-15-kulotlu-corap-siyah-renk-15-den-vWYcotbRmW",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5735ee68fb00140300b383a6",
+        "name": "Penti Fit 15 Külotlu Çorap Ten Rengi 15 DEN",
+        "shortName": "Penti Fit Ten",
+        "shortDescription": "Beden: 2",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5735ee68fb00140300b383a6_tr_1609396799680.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5735ee68fb00140300b383a6_tr_1609396799680.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "56e013e08d5ef80300398aaf",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 18.95,
+        "priceText": "₺18,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "penti-fit-15-kulotlu-corap-ten-rengi-15-den-C55Hwx4cj3",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5735eeb0c17b44030010377e",
+        "name": "Penti Fit 15 Külotlu Çorap Ten Rengi 15 DEN",
+        "shortName": "Penti Fit Ten",
+        "shortDescription": "Beden: 3",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5735eeb0c17b44030010377e_tr_1609396837524.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5735eeb0c17b44030010377e_tr_1609396837524.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "56e013e08d5ef80300398aaf",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 18.95,
+        "priceText": "₺18,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "penti-fit-15-kulotlu-corap-ten-rengi-15-den-YcCBlB7fsD",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5bf39f7d69fa100018f579b1",
+        "name": "Penti Mat 20 Külotlu Çorap Ten Rengi 20 DEN",
+        "shortName": "Penti Mat Ten",
+        "shortDescription": "Beden: 2",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5bf39f7d69fa100018f579b1_tr_1609397200964.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5bf39f7d69fa100018f579b1_tr_1609397200964.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "56e013e08d5ef80300398aaf",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 19.95,
+        "priceText": "₺19,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "penti-mat-20-kulotlu-corap-ten-rengi-20-den-ui5eq1XQHc",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5735eff8c17b44030010383a",
+        "name": "Penti Fit 15 Külotlu Çorap Siyah Renk 15 DEN",
+        "shortName": "Penti Fit Siyah",
+        "shortDescription": "Beden: 2",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5735eff8c17b44030010383a_tr_1609396726841.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5735eff8c17b44030010383a_tr_1609396726841.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "56e013e08d5ef80300398aaf",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 18.95,
+        "priceText": "₺18,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "penti-fit-15-kulotlu-corap-siyah-renk-15-den-WSTuON2ZOq",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5bf39fcc1d255800310d7cf3",
+        "name": "Penti Termal Tayt Siyah Renk",
+        "shortName": "Penti Termal Tayt",
+        "shortDescription": "Beden: 2",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5bf39fcc1d255800310d7cf3_tr_1609396347172.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5bf39fcc1d255800310d7cf3_tr_1609396347172.jpeg",
+          "http://cdn.getir.com/product/5bf39fcc1d255800310d7cf3_tr_1576564756881.jpeg",
+          "http://cdn.getir.com/product/5bf39fcc1d255800310d7cf3_tr_1576565975966.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "56e013e08d5ef80300398aaf",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 54.9,
+        "priceText": "₺54,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "penti-termal-tayt-siyah-renk-EQf8funciG",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "582ebffb6d4b0500045ea26e",
+        "name": "Penti Mikro Orta Kalın Mat Külotlu Çorap Siyah Renk 40 DEN",
+        "shortName": "Penti Mikro Siyah",
+        "shortDescription": "Beden: 2",
+        "squareThumbnailURL": "http://cdn.getir.com/product/582ebffb6d4b0500045ea26e_tr_1609397450179.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/582ebffb6d4b0500045ea26e_tr_1609397450179.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "56e013e08d5ef80300398aaf",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 24.9,
+        "priceText": "₺24,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "penti-mikro-orta-kalin-mat-kulotlu-corap-siyah-renk-40-den-skInQJUAIB",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f2dcddc9a1ec91deb98bb8c",
+        "name": "Tampap Bambu Kısa Çorap",
+        "shortName": "Tampap Bambu Çorap",
+        "shortDescription": "Beden: 40 - 44",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f2dcddc9a1ec91deb98bb8c_tr_1609396635715.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f2dcddc9a1ec91deb98bb8c_tr_1609396635715.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "57641b413ac8b4030022696d",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 12.95,
+        "priceText": "₺12,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "tampap-bambu-kisa-corap-uyVAoLvIE6",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f2dcc86ed56f257207cda68",
+        "name": "Tampap Bambu Uzun Çorap",
+        "shortName": "Tampap Bambu Uzun Çorap",
+        "shortDescription": "Beden: 40 - 44",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f2dcc86ed56f257207cda68_tr_1609396607780.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f2dcc86ed56f257207cda68_tr_1609396607780.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "57641b413ac8b4030022696d",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 14.95,
+        "priceText": "₺14,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "tampap-bambu-uzun-corap-SM8AFOd1pt",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f2dcb9bd3f5ae5b5b4fdbe9",
+        "name": "Berrak Siyah Boxer",
+        "shortName": "Berrak Boxer",
+        "shortDescription": "Beden: XL",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f2dcb9bd3f5ae5b5b4fdbe9_tr_1609396579266.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f2dcb9bd3f5ae5b5b4fdbe9_tr_1609396579266.jpeg",
+          "http://cdn.getir.com/product/5f2dcb9bd3f5ae5b5b4fdbe9_tr_1603870630709.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "5a7ef57dc7db5b0004530ce0",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 29.9,
+        "priceText": "₺29,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "berrak-siyah-boxer-vEwTK4pWic",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f2dcab967a320dc8efbd6d4",
+        "name": "Berrak Siyah Boxer",
+        "shortName": "Berrak Boxer",
+        "shortDescription": "Beden: L",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f2dcab967a320dc8efbd6d4_tr_1609396545483.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f2dcab967a320dc8efbd6d4_tr_1609396545483.jpeg",
+          "http://cdn.getir.com/product/5f2dcab967a320dc8efbd6d4_tr_1603870595053.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "5a7ef57dc7db5b0004530ce0",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 29.9,
+        "priceText": "₺29,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "berrak-siyah-boxer-Q930Zwie81",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f2dc051310aadccccd08372",
+        "name": "Berrak Siyah Boxer",
+        "shortName": "Berrak Boxer",
+        "shortDescription": "Beden: M",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f2dc051310aadccccd08372_tr_1609396506632.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f2dc051310aadccccd08372_tr_1609396506632.jpeg",
+          "http://cdn.getir.com/product/5f2dc051310aadccccd08372_tr_1603870538020.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "5a7ef57dc7db5b0004530ce0",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 29.9,
+        "priceText": "₺29,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "berrak-siyah-boxer-imXMeMkJ3b",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c66a843ba96060001f2c6b2",
+        "name": "Twigy Erkek Terlik",
+        "shortName": "Twigy Erkek Terlik",
+        "shortDescription": "41/42",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c66a843ba96060001f2c6b2_tr_1612852159878.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c66a843ba96060001f2c6b2_tr_1612852159878.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "5c6bc37d6cbded000179e6f2",
+          "5d95d1e4c947bf541d5ed19f",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 69.9,
+        "priceText": "₺69,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "twigy-erkek-terlik-Y2RRVEs2G7",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c66a98d3d4b940001a4e58b",
+        "name": "Twigy Kadın Terlik",
+        "shortName": "Twigy Kadın Terlik",
+        "shortDescription": "40",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c66a98d3d4b940001a4e58b_tr_1612852397565.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c66a98d3d4b940001a4e58b_tr_1612852397565.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "5c6bc37d6cbded000179e6f2",
+          "5d95d1e4c947bf541d5ed19f",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 69.9,
+        "priceText": "₺69,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "twigy-kadin-terlik-xphAASdI8n",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c66a87b3d4b940001a4e454",
+        "name": "Twigy Erkek Terlik",
+        "shortName": "Twigy Erkek Terlik",
+        "shortDescription": "43/44",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c66a87b3d4b940001a4e454_tr_1612852221474.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c66a87b3d4b940001a4e454_tr_1612852221474.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "5c6bc37d6cbded000179e6f2",
+          "5d95d1e4c947bf541d5ed19f",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 69.9,
+        "priceText": "₺69,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "twigy-erkek-terlik-Wj0imnfslW",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c66a89c3d4b940001a4e481",
+        "name": "Twigy Erkek Terlik",
+        "shortName": "Twigy Erkek Terlik",
+        "shortDescription": "45/46",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c66a89c3d4b940001a4e481_tr_1612852257322.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c66a89c3d4b940001a4e481_tr_1612852257322.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "5c6bc37d6cbded000179e6f2",
+          "5d95d1e4c947bf541d5ed19f",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 69.9,
+        "priceText": "₺69,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "twigy-erkek-terlik-8QQ8NlMcEn",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c66a96bba96060001f2c7f1",
+        "name": "Twigy Kadın Terlik",
+        "shortName": "Twigy Kadın Terlik",
+        "shortDescription": "39",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c66a96bba96060001f2c7f1_tr_1612852372975.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c66a96bba96060001f2c7f1_tr_1612852372975.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "5c6bc37d6cbded000179e6f2",
+          "5d95d1e4c947bf541d5ed19f",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 69.9,
+        "priceText": "₺69,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "twigy-kadin-terlik-ujoMxch1jo",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c66a94fba96060001f2c7cd",
+        "name": "Twigy Kadın Terlik",
+        "shortName": "Twigy Kadın Terlik",
+        "shortDescription": "38",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c66a94fba96060001f2c7cd_tr_1612852351408.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c66a94fba96060001f2c7cd_tr_1612852351408.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "5c6bc37d6cbded000179e6f2",
+          "5d95d1e4c947bf541d5ed19f",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 69.9,
+        "priceText": "₺69,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "twigy-kadin-terlik-X1cCj6uz3L",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c66a92eba96060001f2c7b0",
+        "name": "Twigy Kadın Terlik",
+        "shortName": "Twigy Kadın Terlik",
+        "shortDescription": "37",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c66a92eba96060001f2c7b0_tr_1612852330786.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c66a92eba96060001f2c7b0_tr_1612852330786.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "5c6bc37d6cbded000179e6f2",
+          "5d95d1e4c947bf541d5ed19f",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 69.9,
+        "priceText": "₺69,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "twigy-kadin-terlik-7orsBnQCZQ",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "582ec08e6d4b0500045ea2e4",
+        "name": "Penti Mikro Orta Kalın Mat Külotlu Çorap Siyah Renk 40 DEN",
+        "shortName": "Penti Mikro Siyah",
+        "shortDescription": "Beden: 3",
+        "squareThumbnailURL": "http://cdn.getir.com/product/582ec08e6d4b0500045ea2e4_tr_1609397477828.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/582ec08e6d4b0500045ea2e4_tr_1609397477828.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "56e013e08d5ef80300398aaf",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 24.9,
+        "priceText": "₺24,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "penti-mikro-orta-kalin-mat-kulotlu-corap-siyah-renk-40-den-bc2mpRTjBS",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5bf39fe31d255800310d7cfa",
+        "name": "Penti Termal Tayt Siyah Renk",
+        "shortName": "Penti Termal Tayt",
+        "shortDescription": "Beden: 3",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5bf39fe31d255800310d7cfa_tr_1609396566761.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5bf39fe31d255800310d7cfa_tr_1609396566761.jpeg",
+          "http://cdn.getir.com/product/5bf39fe31d255800310d7cfa_tr_1576565663405.jpeg",
+          "http://cdn.getir.com/product/5bf39fe31d255800310d7cfa_tr_1576565702105.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5f", "5b06b056b883b700044e3e4c"],
+        "subCategoryIds": [
+          "56e013e08d5ef80300398aaf",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 54.9,
+        "priceText": "₺54,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "penti-termal-tayt-siyah-renk-rx1FfSj4wt",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61826a2ffbd5891f7bafdecd",
+        "name": "Penti Fit 15 Pantolon Çorabı Ten Rengi",
+        "shortName": "Penti Pantolon Çorabı 15 Den",
+        "shortDescription": "Beden: Standart",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61826a2ffbd5891f7bafdecd_tr_1636104526136.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61826a2ffbd5891f7bafdecd_tr_1636104526136.jpeg"
+        ],
+        "categoryIds": [
+          "5697c78dc181490f00c99fea",
+          "551430043427d5010a3a5c5f",
+          "5b06b056b883b700044e3e4c"
+        ],
+        "subCategoryIds": [
+          "5a14017dad8d270004d1f2bb",
+          "56e013e08d5ef80300398aaf",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 7.95,
+        "priceText": "₺7,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "penti-fit-15-pantolon-corabi-ten-rengi-standart-beden-ojhtpueqjl",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61826c9dffaae51ce0c39d8f",
+        "name": "Penti Fit 15 Pantolon Çorabı Siyah Renk",
+        "shortName": "Penti Pantolon Çorabı 15 Den",
+        "shortDescription": "Beden: Standart",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61826c9dffaae51ce0c39d8f_tr_1636104352670.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61826c9dffaae51ce0c39d8f_tr_1636104352670.jpeg"
+        ],
+        "categoryIds": [
+          "5697c78dc181490f00c99fea",
+          "551430043427d5010a3a5c5f",
+          "5b06b056b883b700044e3e4c"
+        ],
+        "subCategoryIds": [
+          "5a14017dad8d270004d1f2bb",
+          "56e013e08d5ef80300398aaf",
+          "61a790876da4e657199d3860"
+        ],
+        "displayType": 0,
+        "price": 7.95,
+        "priceText": "₺7,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "penti-fit-15-pantolon-corabi-siyah-renk-standart-beden-suhzfqc0zg",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "giyim-sdbangrtsi"
+  }
+]

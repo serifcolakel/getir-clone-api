@@ -1,0 +1,2818 @@
+[
+  {
+    "id": "5fbcd17a9b964c3e063b192a",
+    "name": "Çubuk",
+    "productCount": 20,
+    "products": [
+      {
+        "id": "60e45108541322b9959b9ee3",
+        "name": "Golf Bravo Crazy Nuty",
+        "shortName": "Golf Bravo Crazy Nuty",
+        "shortDescription": "100 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60e45108541322b9959b9ee3_tr_1625731794906.jpeg",
+        "wideThumbnailURL": "http://cdn.getir.com/product/60e45108541322b9959b9ee3_wide_pic_tr_1626071456345.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60e45108541322b9959b9ee3_tr_1625731794906.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": ["5fbcd17a9b964c3e063b192a"],
+        "displayType": 1,
+        "price": 10,
+        "priceText": "₺10,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "golf-bravo-crazy-nuty-100-ml-52114-a3rrmafqcg",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "614adf7d976f260c81977356",
+        "name": "Magnum Double Karamel Gold La Casa De Papel",
+        "shortName": "Magnum Double Karamel Gold",
+        "shortDescription": "90 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/614adf7d976f260c81977356_d2956a75-03b2-4a07-8e6a-264aa3380a0c.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/614adf7d976f260c81977356_d2956a75-03b2-4a07-8e6a-264aa3380a0c.jpeg",
+          "http://cdn.getir.com/product/614adf7d976f260c81977356_16db82a2-888b-4bbc-812e-f395f8816964.jpeg",
+          "http://cdn.getir.com/product/614adf7d976f260c81977356_567be5e2-a602-4e1a-a957-ea0831d1c42d.jpeg",
+          "http://cdn.getir.com/product/614adf7d976f260c81977356_1781d6b8-3214-4f9a-a78e-873f6fc7a5b0.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80", "5697c78dc181490f00c99fea"],
+        "subCategoryIds": [
+          "5fbcd17a9b964c3e063b192a",
+          "5a14017dad8d270004d1f2bb"
+        ],
+        "displayType": 0,
+        "price": 7.5,
+        "priceText": "₺7,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "magnum-dbl-crmel-gold-lcdp-20x90ml-68716705-ockmrsxxdr",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "616d24a6e9dd2a17ad0e22a0",
+        "name": "Golf Karamel Paketi",
+        "shortName": "Golf Karamel Paketi",
+        "shortDescription": "4 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/616d24a6e9dd2a17ad0e22a0_tr_1634729911485.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/616d24a6e9dd2a17ad0e22a0_tr_1634729911485.jpeg"
+        ],
+        "categoryIds": [
+          "55bca8484dcda90c00e3aa80",
+          "5fd8a40cbb487c5a816f9f03",
+          "5fd8c58f3bdc2389a56e0fb0",
+          "61b9ed091a62a71f128e1fec"
+        ],
+        "subCategoryIds": [
+          "5fbcd101fb62ea2a262a0820",
+          "5fbcd17a9b964c3e063b192a",
+          "5fd8acc163a5044310064554",
+          "5fd90098dbbeb8ba7a12ff11",
+          "61bc3d6c810978d618f15bc3"
+        ],
+        "displayType": 0,
+        "price": 28.5,
+        "priceText": "₺28,50",
+        "status": 1,
+        "struckPrice": 38,
+        "struckPriceText": "₺38,00",
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "60d08cd1bbb1a4168908cbf7",
+            "count": 2,
+            "name": "Fantasia Caramel Ring",
+            "shortDescription": "140 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/60d08cd1bbb1a4168908cbf7_tr_1624345160161.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "5ef30873525a130753a2f2b2",
+            "count": 2,
+            "name": "Golf Bravo Karamel Dore Altın Çikolata",
+            "shortDescription": "100 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5ef30873525a130753a2f2b2_tr_1604782171652.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "golf-karamel-paketi-orcqkicdlk",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61b70b62c610b84cbdc29a3c",
+        "name": "Dondurma Üçlüsü Paketi",
+        "shortName": "Dondurma Üçlüsü Paketi",
+        "shortDescription": "3 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61b70b62c610b84cbdc29a3c_tr_1639480362597.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61b70b62c610b84cbdc29a3c_tr_1639480362597.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80", "61b9ed091a62a71f128e1fec"],
+        "subCategoryIds": [
+          "5fbcd101fb62ea2a262a0820",
+          "5fbcd17a9b964c3e063b192a",
+          "5fbcd1beb1b8a2c673204b1f",
+          "61bc3d6c810978d618f15bc3"
+        ],
+        "displayType": 0,
+        "price": 30.5,
+        "priceText": "₺30,50",
+        "status": 1,
+        "struckPrice": 35.9,
+        "struckPriceText": "₺35,90",
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "559fec01f462100c00461d5c",
+            "count": 1,
+            "name": "Magnum Badem",
+            "shortDescription": "100 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/559fec01f462100c00461d5c_tr_1618323765236.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "593e7bbef863e90004a70395",
+            "count": 1,
+            "name": "Carte d'Or Selection Çikolata Karnavalı",
+            "shortDescription": "850 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/593e7bbef863e90004a70395_tr_1590158400421.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "59e080ec58c5080004958f90",
+            "count": 1,
+            "name": "Cornetto Classico Kaymak",
+            "shortDescription": "125 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/59e080ec58c5080004958f90_1553498081989.jpeg?v=1553498085030",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "dondurma-uclusu-paketi-gqi9ajacgr",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "559fed86f462100c00461d8b",
+        "name": "Magnum Classic",
+        "shortName": "Magnum Classic",
+        "shortDescription": "100 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/559fed86f462100c00461d8b_tr_1618323792467.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/559fed86f462100c00461d8b_tr_1618323792467.jpeg",
+          "http://cdn.getir.com/product/559fed86f462100c00461d8b_a5356ecd-f66f-47e8-82f5-6ddf8c7e964c.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd17a9b964c3e063b192a",
+          "609e33d0af0d030d399fb22d"
+        ],
+        "displayType": 0,
+        "price": 7.5,
+        "priceText": "₺7,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "magnum-classic-boxzEMC2Ib",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "559fec01f462100c00461d5c",
+        "name": "Magnum Badem",
+        "shortName": "Magnum Badem",
+        "shortDescription": "100 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/559fec01f462100c00461d5c_tr_1618323765236.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/559fec01f462100c00461d5c_tr_1618323765236.jpeg",
+          "http://cdn.getir.com/product/559fec01f462100c00461d5c_809628d3-2df0-4341-8853-4407bcec97fb.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd17a9b964c3e063b192a",
+          "609e33d0af0d030d399fb22d"
+        ],
+        "displayType": 0,
+        "price": 7.5,
+        "priceText": "₺7,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "magnum-badem-wXU5xPyPIt",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e17391e5940577fa354b2a3",
+        "name": "Magnum Cookie",
+        "shortName": "Magnum Cookie",
+        "shortDescription": "95 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e17391e5940577fa354b2a3_tr_1618323966862.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e17391e5940577fa354b2a3_tr_1618323966862.jpeg",
+          "http://cdn.getir.com/product/5e17391e5940577fa354b2a3_7107de06-1254-42d5-a924-9a26a2d15a90.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd17a9b964c3e063b192a",
+          "609e33d0af0d030d399fb22d"
+        ],
+        "displayType": 0,
+        "price": 7.5,
+        "priceText": "₺7,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "magnum-cookie-3fuYdNZibN",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "58d38fbd09492e0004044254",
+        "name": "Magnum Beyaz",
+        "shortName": "Magnum Beyaz",
+        "shortDescription": "100 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/58d38fbd09492e0004044254_tr_1618323822610.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/58d38fbd09492e0004044254_tr_1618323822610.jpeg",
+          "http://cdn.getir.com/product/58d38fbd09492e0004044254_87d39dc6-e81a-46c9-b8b2-ce982a193ce6.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd17a9b964c3e063b192a",
+          "609e33d0af0d030d399fb22d"
+        ],
+        "displayType": 0,
+        "price": 7.5,
+        "priceText": "₺7,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "magnum-beyaz-sl0UImnSrc",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ef30873525a130753a2f2b2",
+        "name": "Golf Bravo Karamel Dore Altın Çikolata",
+        "shortName": "Golf Bravo Karamel Dore",
+        "shortDescription": "100 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ef30873525a130753a2f2b2_tr_1604782171652.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ef30873525a130753a2f2b2_tr_1604782171652.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd17a9b964c3e063b192a",
+          "609e33d0af0d030d399fb22d"
+        ],
+        "displayType": 0,
+        "price": 10,
+        "priceText": "₺10,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "golf-bravo-karamel-dore-altin-cikolata-HFdafzzX7X",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "602f592ddc0d6d5e2e1cdf4f",
+        "name": "Golf Bravo Beyaz Belçika Çikolatalı",
+        "shortName": "Golf Bravo Beyaz Çikolata",
+        "shortDescription": "100 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/602f592ddc0d6d5e2e1cdf4f_tr_1613724579315.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/602f592ddc0d6d5e2e1cdf4f_tr_1613724579315.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "5fbcd17a9b964c3e063b192a",
+          "609e33d0af0d030d399fb22d"
+        ],
+        "displayType": 0,
+        "price": 10,
+        "priceText": "₺10,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "golf-bravo-beyaz-belcika-cikolatali-41U89BjJ0S",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ef303e1757d7c7bf20ee826",
+        "name": "Golf Bravo Belçika Çikolatalı Red Velvet",
+        "shortName": "Golf Bravo Red Velvet",
+        "shortDescription": "100 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ef303e1757d7c7bf20ee826_tr_1604781703255.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ef303e1757d7c7bf20ee826_tr_1604781703255.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd17a9b964c3e063b192a",
+          "609e33d0af0d030d399fb22d"
+        ],
+        "displayType": 0,
+        "price": 10,
+        "priceText": "₺10,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "golf-bravo-belcika-cikolatali-red-velvet-Dkp21IFO4y",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "615ee2304565acec180de197",
+        "name": "Golf Bravo Karadut Belçika Çikolatalı",
+        "shortName": "Golf Bravo Karadut",
+        "shortDescription": "100 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/615ee2304565acec180de197_tr_1633933985739.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/615ee2304565acec180de197_tr_1633933985739.jpeg"
+        ],
+        "categoryIds": ["5697c78dc181490f00c99fea", "55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "5a14017dad8d270004d1f2bb",
+          "5fbcd17a9b964c3e063b192a"
+        ],
+        "displayType": 0,
+        "price": 10,
+        "priceText": "₺10,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "bravo-karadut-100-ml-bel-cik-59601-wajcto3q9h",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c8a81d28b850900015f3a81",
+        "name": "Algida Frigola",
+        "shortName": "Algida Frigola",
+        "shortDescription": "65 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c8a81d28b850900015f3a81_aa57c2cc-9149-4c10-9bb6-cb6915079b66.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c8a81d28b850900015f3a81_aa57c2cc-9149-4c10-9bb6-cb6915079b66.jpeg",
+          "http://cdn.getir.com/product/5c8a81d28b850900015f3a81_ef758bd1-b3a4-437e-80ab-40303b98f559.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd17a9b964c3e063b192a",
+          "609e33d0af0d030d399fb22d"
+        ],
+        "displayType": 0,
+        "price": 3,
+        "priceText": "₺3,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "algida-frigola-EscMHKLmay",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "58d6653f6ec7ea000456a3d4",
+        "name": "Algida Boom Boom",
+        "shortName": "Algida Boom Boom",
+        "shortDescription": "90 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/58d6653f6ec7ea000456a3d4_5146d28d-41e6-45ca-9067-b62837dcdcf9.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/58d6653f6ec7ea000456a3d4_5146d28d-41e6-45ca-9067-b62837dcdcf9.jpeg",
+          "http://cdn.getir.com/product/58d6653f6ec7ea000456a3d4_d3638cf5-bf29-4444-b0c7-2267a60717e8.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd17a9b964c3e063b192a"
+        ],
+        "displayType": 0,
+        "price": 4,
+        "priceText": "₺4,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "algida-boom-boom-sVaciRACWW",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ef3121b525a13eb5aa2f468",
+        "name": "Golf Roko Çikolatalı",
+        "shortName": "Golf Roko",
+        "shortDescription": "65 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ef3121b525a13eb5aa2f468_tr_1592994088130.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ef3121b525a13eb5aa2f468_tr_1592994088130.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd17a9b964c3e063b192a",
+          "609e33d0af0d030d399fb22d"
+        ],
+        "displayType": 0,
+        "price": 5,
+        "priceText": "₺5,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "golf-roko-cikolatali-H61KsRc3nB",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f75c40e9e33d9ad9f895762",
+        "name": "Danino Ice Çilekli Dondurma",
+        "shortName": "Danino Ice Çilekli Dondurma",
+        "shortDescription": "47 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f75c40e9e33d9ad9f895762_tr_1601558052182.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f75c40e9e33d9ad9f895762_tr_1601558052182.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd17a9b964c3e063b192a",
+          "609e33d0af0d030d399fb22d"
+        ],
+        "displayType": 0,
+        "price": 2.5,
+        "priceText": "₺2,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "danino-ice-cilekli-dondurma-ieZFGZCYXj",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f75c69a3c957aa799469de6",
+        "name": "Danone Kids Kar Tanesi Yaban Mersini & Vanilya Dondurma",
+        "shortName": "Danone Kids Kar Tanesi",
+        "shortDescription": "75 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f75c69a3c957aa799469de6_tr_1601558020368.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f75c69a3c957aa799469de6_tr_1601558020368.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd17a9b964c3e063b192a",
+          "609e33d0af0d030d399fb22d"
+        ],
+        "displayType": 0,
+        "price": 3,
+        "priceText": "₺3,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "danone-kids-kar-tanesi-yaban-mersini-vanilya-dondurma-2MpfSzlHZ7",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fc7a6f62fba440212511188",
+        "name": "Danone Kids Kar Tanesi Yaban Mersini & Vanilya Dondurma",
+        "shortName": "Danone Kids Kar Tanesi",
+        "shortDescription": "5 x 75 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fc7a6f62fba440212511188_tr_1606983007167.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fc7a6f62fba440212511188_tr_1606983007167.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "5fbcd17a9b964c3e063b192a",
+          "609e33d0af0d030d399fb22d"
+        ],
+        "displayType": 0,
+        "price": 15,
+        "priceText": "₺15,00",
+        "status": 1,
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "5f75c69a3c957aa799469de6",
+            "count": 5,
+            "name": "Danone Kids Kar Tanesi Yaban Mersini & Vanilya Dondurma",
+            "shortDescription": "75 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5f75c69a3c957aa799469de6_tr_1601558020368.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "danone-kids-kar-tanesi-yaban-mersini-vanilya-dondurma-yOzyiMv2Ez",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61a8ab947a638db1338abf82",
+        "name": "Geri Sayım Paketi",
+        "shortName": "Geri Sayım Paketi",
+        "shortDescription": "4 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61a8ab947a638db1338abf82_tr_1640356877127.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61a8ab947a638db1338abf82_tr_1640356877127.jpeg"
+        ],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "55bca8484dcda90c00e3aa80",
+          "551430043427d5010a3a5c5e"
+        ],
+        "subCategoryIds": [
+          "56dfecc9cf3fd40300ebcd7e",
+          "564c7fc227652f0c007457c8",
+          "5fbcd17a9b964c3e063b192a",
+          "584fa72fe55b6600045080ac",
+          "564c826c27652f0c007459c5"
+        ],
+        "displayType": 0,
+        "price": 24,
+        "priceText": "₺24,00",
+        "status": 1,
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "5c3318f4c3714800019a1601",
+            "count": 1,
+            "name": "Peyman Çitliyo Kara Şimşek Klasik",
+            "shortDescription": "120 g",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5c3318f4c3714800019a1601_tr_1624548472839.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "5f4418ee77d7c2cc98983a11",
+            "count": 1,
+            "name": "Ülker 9 Kat Tat İnce İnce Fındıklı",
+            "shortDescription": "114 g",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5f4418ee77d7c2cc98983a11_tr_1603569796648.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "602a1b760b6bd1455b22d305",
+            "count": 1,
+            "name": "Biscolata Mood Çikolatalı",
+            "shortDescription": "40 g",
+            "squareThumbnailURL": "http://cdn.getir.com/product/602a1b760b6bd1455b22d305_tr_1614784613346.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "559fed86f462100c00461d8b",
+            "count": 1,
+            "name": "Magnum Classic",
+            "shortDescription": "100 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/559fed86f462100c00461d8b_tr_1618323792467.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "aylin-super-eglence-paketi-ta1u3aejum",
+        "badgeImages": [
+          {
+            "picUrl": "http://cdn.getir.com/product/61bb15219dc588933c49680f_4bdd3493-8a73-4830-b9c6-658da157d69f.png",
+            "position": "topLeft"
+          }
+        ],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61a5e41b48db4f02aa999249",
+        "name": "Kutlama Paketi",
+        "shortName": "Kutlama Paketi",
+        "shortDescription": "5 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61a5e41b48db4f02aa999249_tr_1640182152866.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61a5e41b48db4f02aa999249_tr_1640182152866.jpeg"
+        ],
+        "categoryIds": [
+          "551430043427d5010a3a5c5e",
+          "56dfe03cf82055030022cdc0",
+          "55bca8484dcda90c00e3aa80"
+        ],
+        "subCategoryIds": [
+          "56e00e558d5ef8030039872a",
+          "564c7fc227652f0c007457c8",
+          "5fbcd17a9b964c3e063b192a"
+        ],
+        "displayType": 0,
+        "price": 32.39,
+        "priceText": "₺32,39",
+        "status": 1,
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "5c3318f4c3714800019a1601",
+            "count": 1,
+            "name": "Peyman Çitliyo Kara Şimşek Klasik",
+            "shortDescription": "120 g",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5c3318f4c3714800019a1601_tr_1624548472839.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "60a66070a3d5a93df486e9f4",
+            "count": 1,
+            "name": "Çamlıca Gazoz Şekersiz",
+            "shortDescription": "1 L",
+            "squareThumbnailURL": "http://cdn.getir.com/product/60a66070a3d5a93df486e9f4_tr_1622012565078.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "60a6535b61468256a009650f",
+            "count": 1,
+            "name": "Maltana Ananas Aromalı Alkolsüz Malt İçeceği",
+            "shortDescription": "250 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/60a6535b61468256a009650f_tr_1622098943670.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "619b51939ced92471b00b462",
+            "count": 1,
+            "name": "Ülker Dido Gold Çikolatalı Gofret",
+            "shortDescription": "36 g",
+            "squareThumbnailURL": "http://cdn.getir.com/product/619b51939ced92471b00b462_tr_1637852801832.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "60e45108541322b9959b9ee3",
+            "count": 1,
+            "name": "Golf Bravo Crazy Nuty",
+            "shortDescription": "100 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/60e45108541322b9959b9ee3_tr_1625731794906.jpeg",
+            "wideThumbnailURL": "http://cdn.getir.com/product/60e45108541322b9959b9ee3_wide_pic_tr_1626071456345.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "icecek-paketi-b1glstujqt",
+        "badgeImages": [
+          {
+            "picUrl": "http://cdn.getir.com/product/61bb15219dc588933c49680f_4bdd3493-8a73-4830-b9c6-658da157d69f.png",
+            "position": "topLeft"
+          }
+        ],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "cubuk-UcSoKiKi2l"
+  },
+  {
+    "id": "5fbcd1beb1b8a2c673204b1f",
+    "name": "Kutu",
+    "productCount": 23,
+    "products": [
+      {
+        "id": "5e173011f1ccf294ca944331",
+        "name": "Carte d'Or Kat Kat Çikolatalı Brownie",
+        "shortName": "Carte d'Or Brownie",
+        "shortDescription": "485 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e173011f1ccf294ca944331_tr_1583506695592.jpeg",
+        "wideThumbnailURL": "http://cdn.getir.com/product/5e173011f1ccf294ca944331_wide_pic_tr_1631522034209.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e173011f1ccf294ca944331_tr_1583506695592.jpeg",
+          "http://cdn.getir.com/product/5e173011f1ccf294ca944331_tr_1581694165723.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd1beb1b8a2c673204b1f"
+        ],
+        "displayType": 1,
+        "price": 23.9,
+        "priceText": "₺23,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "carte-d-or-kat-kat-cikolatali-brownie-Tr7QIb60nI",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61b70b62c610b84cbdc29a3c",
+        "name": "Dondurma Üçlüsü Paketi",
+        "shortName": "Dondurma Üçlüsü Paketi",
+        "shortDescription": "3 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61b70b62c610b84cbdc29a3c_tr_1639480362597.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61b70b62c610b84cbdc29a3c_tr_1639480362597.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80", "61b9ed091a62a71f128e1fec"],
+        "subCategoryIds": [
+          "5fbcd101fb62ea2a262a0820",
+          "5fbcd17a9b964c3e063b192a",
+          "5fbcd1beb1b8a2c673204b1f",
+          "61bc3d6c810978d618f15bc3"
+        ],
+        "displayType": 0,
+        "price": 30.5,
+        "priceText": "₺30,50",
+        "status": 1,
+        "struckPrice": 35.9,
+        "struckPriceText": "₺35,90",
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "559fec01f462100c00461d5c",
+            "count": 1,
+            "name": "Magnum Badem",
+            "shortDescription": "100 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/559fec01f462100c00461d5c_tr_1618323765236.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "593e7bbef863e90004a70395",
+            "count": 1,
+            "name": "Carte d'Or Selection Çikolata Karnavalı",
+            "shortDescription": "850 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/593e7bbef863e90004a70395_tr_1590158400421.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "59e080ec58c5080004958f90",
+            "count": 1,
+            "name": "Cornetto Classico Kaymak",
+            "shortDescription": "125 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/59e080ec58c5080004958f90_1553498081989.jpeg?v=1553498085030",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "dondurma-uclusu-paketi-gqi9ajacgr",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "618e9db592035ee8fbf8df6e",
+        "name": "Maraş Rüyası",
+        "shortName": "Maraş Rüyası",
+        "shortDescription": "2 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/618e9db592035ee8fbf8df6e_tr_1636745330039.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/618e9db592035ee8fbf8df6e_tr_1636745330039.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80", "61b9ed091a62a71f128e1fec"],
+        "subCategoryIds": [
+          "5fbcd1beb1b8a2c673204b1f",
+          "61bc3d6c810978d618f15bc3"
+        ],
+        "displayType": 0,
+        "price": 19.5,
+        "priceText": "₺19,50",
+        "status": 1,
+        "struckPrice": 23.9,
+        "struckPriceText": "₺23,90",
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "57075944cde6070300eb5d10",
+            "count": 1,
+            "name": "Algida Maraş Usulü Sade Dondurma",
+            "shortDescription": "500 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/57075944cde6070300eb5d10_tr_1618334445534.png",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "570757d0cde6070300eb4fa2",
+            "count": 1,
+            "name": "Algida Maraş Usulü Dondurma Külah",
+            "shortDescription": "120 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/570757d0cde6070300eb4fa2_tr_1609121447560.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "maras-ruyasi-v8c0rhdpdm",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "601be38c9ea47d09ccc13774",
+        "name": "Carte d'Or Classic Çilek Çikolata Cookie Vanilya",
+        "shortName": "Carte d'Or Cookie",
+        "shortDescription": "925 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/601be38c9ea47d09ccc13774_tr_1612445439203.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/601be38c9ea47d09ccc13774_tr_1612445439203.jpeg",
+          "http://cdn.getir.com/product/601be38c9ea47d09ccc13774_9caea992-cc01-4db2-836b-b4ce53863171.jpeg",
+          "http://cdn.getir.com/product/601be38c9ea47d09ccc13774_de80ad78-6de1-4f76-952d-88fcdae92c0f.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": ["5fbcd1beb1b8a2c673204b1f"],
+        "displayType": 0,
+        "price": 22.9,
+        "priceText": "₺22,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "carte-d-or-classic-cilek-cikolata-cookie-vanilya-kiImaIJPhv",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5af1bda786fbaa0004940d21",
+        "name": "Carte d'Or Classic Kaymak Vişne Bitter",
+        "shortName": "Carte d'Or Classic Vişneli",
+        "shortDescription": "925 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5af1bda786fbaa0004940d21_tr_1592214371174.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5af1bda786fbaa0004940d21_tr_1592214371174.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd1beb1b8a2c673204b1f"
+        ],
+        "displayType": 0,
+        "price": 22.9,
+        "priceText": "₺22,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "carte-d-or-classic-kaymak-visne-bitter-kVJ9OTGYcr",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "593e7bbef863e90004a70395",
+        "name": "Carte d'Or Selection Çikolata Karnavalı",
+        "shortName": "Carte d'Or Çikolata",
+        "shortDescription": "850 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/593e7bbef863e90004a70395_tr_1590158400421.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/593e7bbef863e90004a70395_tr_1590158400421.jpeg",
+          "http://cdn.getir.com/product/593e7bbef863e90004a70395_tr_1590158418233.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd1beb1b8a2c673204b1f"
+        ],
+        "displayType": 0,
+        "price": 23.9,
+        "priceText": "₺23,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "carte-d-or-selection-cikolata-karnavali-aU0nEG4fs0",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "58d3b2cf09492e000404520a",
+        "name": "Carte d'Or Selection Meyve Şöleni",
+        "shortName": "Carte d'Or Meyve Şöleni",
+        "shortDescription": "850 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/58d3b2cf09492e000404520a_tr_1609410559908.png",
+        "picURLs": [
+          "http://cdn.getir.com/product/58d3b2cf09492e000404520a_tr_1609410559908.png",
+          "http://cdn.getir.com/product/58d3b2cf09492e000404520a_tr_1590157785438.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd1beb1b8a2c673204b1f"
+        ],
+        "displayType": 0,
+        "price": 23.9,
+        "priceText": "₺23,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "carte-d-or-selection-meyve-soleni-IamdQvbETB",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ff37a7228a9be0964a48697",
+        "name": "Carte d'Or Kat Kat Tiramisu",
+        "shortName": "Carte d'Or Tiramisu",
+        "shortDescription": "485 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ff37a7228a9be0964a48697_tr_1609852893609.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ff37a7228a9be0964a48697_tr_1609852893609.jpeg",
+          "http://cdn.getir.com/product/5ff37a7228a9be0964a48697_f50ae85a-a9e8-43f6-8874-4869de1ed720.jpeg",
+          "http://cdn.getir.com/product/5ff37a7228a9be0964a48697_911465d3-d946-43dd-9f80-9f1eaead6b7a.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": ["5fbcd1beb1b8a2c673204b1f"],
+        "displayType": 0,
+        "price": 23.9,
+        "priceText": "₺23,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "carte-d-or-kat-kat-tiramisu-ZYuOlbqs1v",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ef32871365fb13f7bda8ee3",
+        "name": "Golf Royal Gourmet Madagaskar Vanilyası",
+        "shortName": "Royal Madagaskar Vanilyası",
+        "shortDescription": "850 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ef32871365fb13f7bda8ee3_tr_1634538385219.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ef32871365fb13f7bda8ee3_tr_1634538385219.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd1beb1b8a2c673204b1f"
+        ],
+        "displayType": 0,
+        "price": 33,
+        "priceText": "₺33,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "golf-royal-gourmet-madagaskar-vanilyasi-9aXcCsQXA0",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ef329ea2163d982e5b49fd5",
+        "name": "Golf Royal Gourmet Meyve Sepeti",
+        "shortName": "Royal Meyve Sepeti",
+        "shortDescription": "850 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ef329ea2163d982e5b49fd5_tr_1603051783742.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ef329ea2163d982e5b49fd5_tr_1603051783742.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd1beb1b8a2c673204b1f"
+        ],
+        "displayType": 0,
+        "price": 33,
+        "priceText": "₺33,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "golf-royal-gourmet-meyve-sepeti-bTR97aCEYb",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5db14ef20ca56b1d00c68863",
+        "name": "Algida Maraş Usulü Sütü Bol Dondurma",
+        "shortName": "Algida Maraş Sütü Bol",
+        "shortDescription": "500 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5db14ef20ca56b1d00c68863_tr_1618497205524.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5db14ef20ca56b1d00c68863_tr_1618497205524.jpeg",
+          "http://cdn.getir.com/product/5db14ef20ca56b1d00c68863_5c73332c-03f7-4562-a19b-ba13759a48f7.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd1beb1b8a2c673204b1f"
+        ],
+        "displayType": 0,
+        "price": 19.5,
+        "priceText": "₺19,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "algida-maras-usulu-sutu-bol-dondurma-QSZb46Fzeh",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "57075944cde6070300eb5d10",
+        "name": "Algida Maraş Usulü Sade Dondurma",
+        "shortName": "Algida Maraş Sade",
+        "shortDescription": "500 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/57075944cde6070300eb5d10_tr_1618334445534.png",
+        "picURLs": [
+          "http://cdn.getir.com/product/57075944cde6070300eb5d10_tr_1618334445534.png",
+          "http://cdn.getir.com/product/57075944cde6070300eb5d10_0d2cef2c-f180-405f-919e-484cbedd364f.jpeg",
+          "http://cdn.getir.com/product/57075944cde6070300eb5d10_ce128eb1-c366-4863-a47b-7aaa8fb84af9.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd1beb1b8a2c673204b1f"
+        ],
+        "displayType": 0,
+        "price": 17.9,
+        "priceText": "₺17,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "algida-maras-usulu-sade-dondurma-X10gMagrVv",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5cc1a8b36fd0e600011f14c9",
+        "name": "Algida Maraş Usulü Çikolatalı Sade Dondurma",
+        "shortName": "Algida Maraş Çikolatalı",
+        "shortDescription": "500 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5cc1a8b36fd0e600011f14c9_tr_1618334472312.png",
+        "picURLs": [
+          "http://cdn.getir.com/product/5cc1a8b36fd0e600011f14c9_tr_1618334472312.png",
+          "http://cdn.getir.com/product/5cc1a8b36fd0e600011f14c9_5b0e01d6-68ca-4383-8b1c-450101d53c7c.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd1beb1b8a2c673204b1f"
+        ],
+        "displayType": 0,
+        "price": 17.9,
+        "priceText": "₺17,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "algida-maras-usulu-cikolatali-sade-dondurma-tNkCYCr0gn",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ef3140c6b28dc4894aaec11",
+        "name": "Golf Maraşım Sade",
+        "shortName": "Golf Maraşım Sade",
+        "shortDescription": "500 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ef3140c6b28dc4894aaec11_tr_1592994174573.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ef3140c6b28dc4894aaec11_tr_1592994174573.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd1beb1b8a2c673204b1f"
+        ],
+        "displayType": 0,
+        "price": 29.5,
+        "priceText": "₺29,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "golf-marasim-sade-odOvcgfew2",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "602f59815fdd075614da5cff",
+        "name": "Golf Maraşım Çikolata Sade",
+        "shortName": "Golf Maraşım Çikolata Sade",
+        "shortDescription": "500 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/602f59815fdd075614da5cff_tr_1613725181805.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/602f59815fdd075614da5cff_tr_1613725181805.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": ["5fbcd1beb1b8a2c673204b1f"],
+        "displayType": 0,
+        "price": 29.5,
+        "priceText": "₺29,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "golf-marasim-cikolata-sade-IqWb5X5i9Z",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "615ee39c3f9c3313db7864e2",
+        "name": "Golf Maraşım Antep Fıstık Sade",
+        "shortName": "Golf Maraşım Fıstık Sade",
+        "shortDescription": "500 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/615ee39c3f9c3313db7864e2_tr_1633706188832.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/615ee39c3f9c3313db7864e2_tr_1633706188832.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80", "5697c78dc181490f00c99fea"],
+        "subCategoryIds": [
+          "5fbcd1beb1b8a2c673204b1f",
+          "5a14017dad8d270004d1f2bb"
+        ],
+        "displayType": 0,
+        "price": 29.5,
+        "priceText": "₺29,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "marasim-antep-kaymak-0-5l-58894-gmgojhubn7",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c8a822ac7606200016727c4",
+        "name": "Algida Viennetta Çikolata Vanilya",
+        "shortName": "Algida Viennetta",
+        "shortDescription": "800 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c8a822ac7606200016727c4_tr_1618334617904.png",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c8a822ac7606200016727c4_tr_1618334617904.png"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd1beb1b8a2c673204b1f"
+        ],
+        "displayType": 0,
+        "price": 17.9,
+        "priceText": "₺17,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "algida-viennetta-cikolata-vanilya-Iy9fm8Glji",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "605a03ee13f01f45abb3dc28",
+        "name": "Algida Milka Cup",
+        "shortName": "Algida Milka Cup",
+        "shortDescription": "105 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/605a03ee13f01f45abb3dc28_tr_1619465350377.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/605a03ee13f01f45abb3dc28_tr_1619465350377.jpeg",
+          "http://cdn.getir.com/product/605a03ee13f01f45abb3dc28_e0bcd992-3691-46fb-91d6-8977a300002e.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": ["5fbcd1beb1b8a2c673204b1f"],
+        "displayType": 0,
+        "price": 5,
+        "priceText": "₺5,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "algida-milka-cup-MRq1j5DVzq",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "605a0410676dea41d74bf8b0",
+        "name": "Algida Oreo Cup",
+        "shortName": "Algida Oreo Cup",
+        "shortDescription": "105 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/605a0410676dea41d74bf8b0_tr_1616673370943.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/605a0410676dea41d74bf8b0_tr_1616673370943.jpeg",
+          "http://cdn.getir.com/product/605a0410676dea41d74bf8b0_83259669-6f82-498e-9e6d-ffb5780b53f8.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": ["5fbcd1beb1b8a2c673204b1f"],
+        "displayType": 0,
+        "price": 5,
+        "priceText": "₺5,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "algida-oreo-cup-a4B1WEijQK",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5b50aaa330a49f00042b5100",
+        "name": "Balkos Sade Kağıt Helva",
+        "shortName": "Balkos Kağıt Helva",
+        "shortDescription": "45 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5b50aaa330a49f00042b5100_tr_1564658861584.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5b50aaa330a49f00042b5100_tr_1564658861584.jpeg"
+        ],
+        "categoryIds": ["56dfe03cf82055030022cdc0", "55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "5bcd88c44d03af001ea77e5e",
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd1beb1b8a2c673204b1f"
+        ],
+        "displayType": 0,
+        "price": 2.5,
+        "priceText": "₺2,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "balkos-sade-kagit-helva-1Sd5vFO9bv",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ce68c1afd9b330001c50677",
+        "name": "Koska Dondurma Külahı",
+        "shortName": "Dondurma Külahı",
+        "shortDescription": "10 Adet",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ce68c1afd9b330001c50677_tr_1560327592891.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ce68c1afd9b330001c50677_tr_1560327592891.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd101fb62ea2a262a0820",
+          "5fbcd1beb1b8a2c673204b1f"
+        ],
+        "displayType": 0,
+        "price": 5.95,
+        "priceText": "₺5,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "koska-dondurma-kulahi-17a03DWM3b",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ce68be4fd9b330001c505f5",
+        "name": "Koska Tost Kağıt Helva 6'lı Paket",
+        "shortName": "Koska Kağıt Helva",
+        "shortDescription": "140 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ce68be4fd9b330001c505f5_tr_1564992163547.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ce68be4fd9b330001c505f5_tr_1564992163547.jpeg"
+        ],
+        "categoryIds": [
+          "551430043427d5010a3a5c5d",
+          "56dfe03cf82055030022cdc0",
+          "55bca8484dcda90c00e3aa80"
+        ],
+        "subCategoryIds": [
+          "56dfdd4351b4ec0300aab2ac",
+          "5bcd88c44d03af001ea77e5e",
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd1beb1b8a2c673204b1f"
+        ],
+        "displayType": 0,
+        "price": 17.25,
+        "priceText": "₺17,25",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "koska-tost-kagit-helva-6-li-paket-muUtRxXc17",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5a425fa29aca730004a5e7cc",
+        "name": "Metaltex Imperial Metal Dondurma Kaşığı",
+        "shortName": "Metaltex Dondurma Kaşığı",
+        "shortDescription": "Metal",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5a425fa29aca730004a5e7cc_tr_1634538510393.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5a425fa29aca730004a5e7cc_tr_1634538510393.jpeg"
+        ],
+        "categoryIds": ["5b06b056b883b700044e3e4c", "55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "5b06b1dcd5bff900046190de",
+          "5fbcd1beb1b8a2c673204b1f"
+        ],
+        "displayType": 0,
+        "price": 41.9,
+        "priceText": "₺41,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "metaltex-imperial-metal-dondurma-kasigi-HzLmvVEpj3",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "kutu-A3ddI2zByB"
+  },
+  {
+    "id": "5fbcd101fb62ea2a262a0820",
+    "name": "Külah",
+    "productCount": 16,
+    "products": [
+      {
+        "id": "5ef30986403a0f07a384dc5a",
+        "name": "Golf Maraşım Kornet Sade",
+        "shortName": "Golf Maraşım Kornet Sade",
+        "shortDescription": "120 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ef30986403a0f07a384dc5a_tr_1593162024012.jpeg",
+        "wideThumbnailURL": "http://cdn.getir.com/product/5ef30986403a0f07a384dc5a_wide_pic_tr_1639382975661.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ef30986403a0f07a384dc5a_tr_1593162024012.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80", "5fd8c58f3bdc2389a56e0fb0"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd101fb62ea2a262a0820",
+          "5fd90098dbbeb8ba7a12ff11"
+        ],
+        "displayType": 1,
+        "price": 9.5,
+        "priceText": "₺9,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "golf-marasim-kornet-sade-TOQH4gCZvL",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "59b665f9e5960a0004ce2a5a",
+        "name": "Cornetto Disc Antep Fıstık & Çikolata",
+        "shortName": "Cornetto Antep Fıstık",
+        "shortDescription": "140 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/59b665f9e5960a0004ce2a5a_tr_1609122128188.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/59b665f9e5960a0004ce2a5a_tr_1609122128188.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd101fb62ea2a262a0820"
+        ],
+        "displayType": 0,
+        "price": 6.5,
+        "priceText": "₺6,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "cornetto-disc-antep-fistik-cikolata-MDNKF12Mrr",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "616d24a6e9dd2a17ad0e22a0",
+        "name": "Golf Karamel Paketi",
+        "shortName": "Golf Karamel Paketi",
+        "shortDescription": "4 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/616d24a6e9dd2a17ad0e22a0_tr_1634729911485.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/616d24a6e9dd2a17ad0e22a0_tr_1634729911485.jpeg"
+        ],
+        "categoryIds": [
+          "55bca8484dcda90c00e3aa80",
+          "5fd8a40cbb487c5a816f9f03",
+          "5fd8c58f3bdc2389a56e0fb0",
+          "61b9ed091a62a71f128e1fec"
+        ],
+        "subCategoryIds": [
+          "5fbcd101fb62ea2a262a0820",
+          "5fbcd17a9b964c3e063b192a",
+          "5fd8acc163a5044310064554",
+          "5fd90098dbbeb8ba7a12ff11",
+          "61bc3d6c810978d618f15bc3"
+        ],
+        "displayType": 0,
+        "price": 28.5,
+        "priceText": "₺28,50",
+        "status": 1,
+        "struckPrice": 38,
+        "struckPriceText": "₺38,00",
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "60d08cd1bbb1a4168908cbf7",
+            "count": 2,
+            "name": "Fantasia Caramel Ring",
+            "shortDescription": "140 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/60d08cd1bbb1a4168908cbf7_tr_1624345160161.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "5ef30873525a130753a2f2b2",
+            "count": 2,
+            "name": "Golf Bravo Karamel Dore Altın Çikolata",
+            "shortDescription": "100 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5ef30873525a130753a2f2b2_tr_1604782171652.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "golf-karamel-paketi-orcqkicdlk",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61b70b62c610b84cbdc29a3c",
+        "name": "Dondurma Üçlüsü Paketi",
+        "shortName": "Dondurma Üçlüsü Paketi",
+        "shortDescription": "3 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61b70b62c610b84cbdc29a3c_tr_1639480362597.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61b70b62c610b84cbdc29a3c_tr_1639480362597.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80", "61b9ed091a62a71f128e1fec"],
+        "subCategoryIds": [
+          "5fbcd101fb62ea2a262a0820",
+          "5fbcd17a9b964c3e063b192a",
+          "5fbcd1beb1b8a2c673204b1f",
+          "61bc3d6c810978d618f15bc3"
+        ],
+        "displayType": 0,
+        "price": 30.5,
+        "priceText": "₺30,50",
+        "status": 1,
+        "struckPrice": 35.9,
+        "struckPriceText": "₺35,90",
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "559fec01f462100c00461d5c",
+            "count": 1,
+            "name": "Magnum Badem",
+            "shortDescription": "100 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/559fec01f462100c00461d5c_tr_1618323765236.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "593e7bbef863e90004a70395",
+            "count": 1,
+            "name": "Carte d'Or Selection Çikolata Karnavalı",
+            "shortDescription": "850 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/593e7bbef863e90004a70395_tr_1590158400421.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "59e080ec58c5080004958f90",
+            "count": 1,
+            "name": "Cornetto Classico Kaymak",
+            "shortDescription": "125 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/59e080ec58c5080004958f90_1553498081989.jpeg?v=1553498085030",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "dondurma-uclusu-paketi-gqi9ajacgr",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6140a7d66635039c5b37ef09",
+        "name": "Golf Maraşım Paketi",
+        "shortName": "Golf Maraşım Paketi",
+        "shortDescription": "5 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6140a7d66635039c5b37ef09_tr_1631628791198.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6140a7d66635039c5b37ef09_tr_1631628791198.jpeg"
+        ],
+        "categoryIds": [
+          "55bca8484dcda90c00e3aa80",
+          "5fd8a40cbb487c5a816f9f03",
+          "5fd8c58f3bdc2389a56e0fb0",
+          "61b9ed091a62a71f128e1fec"
+        ],
+        "subCategoryIds": [
+          "5fbcd101fb62ea2a262a0820",
+          "5fd8acc163a5044310064554",
+          "5fd90098dbbeb8ba7a12ff11",
+          "61bc3d6c810978d618f15bc3"
+        ],
+        "displayType": 0,
+        "price": 49.15,
+        "priceText": "₺49,15",
+        "status": 1,
+        "struckPrice": 65.5,
+        "struckPriceText": "₺65,50",
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "5ef3140c6b28dc4894aaec11",
+            "count": 1,
+            "name": "Golf Maraşım Sade",
+            "shortDescription": "500 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5ef3140c6b28dc4894aaec11_tr_1592994174573.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "5ef30986403a0f07a384dc5a",
+            "count": 2,
+            "name": "Golf Maraşım Kornet Sade",
+            "shortDescription": "120 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5ef30986403a0f07a384dc5a_tr_1593162024012.jpeg",
+            "wideThumbnailURL": "http://cdn.getir.com/product/5ef30986403a0f07a384dc5a_wide_pic_tr_1639382975661.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "5ef30b8a0b42fb64315f2f56",
+            "count": 2,
+            "name": "Golf Maraşım Sandwich",
+            "shortDescription": "120 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5ef30b8a0b42fb64315f2f56_tr_1619507985229.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "golf-marasim-paketi-fuqbpe9vmg",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "59e080ec58c5080004958f90",
+        "name": "Cornetto Classico Kaymak",
+        "shortName": "Cornetto Kaymak",
+        "shortDescription": "125 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/59e080ec58c5080004958f90_1553498081989.jpeg?v=1553498085030",
+        "picURLs": [
+          "http://cdn.getir.com/product/59e080ec58c5080004958f90_1553498081989.jpeg?v=1553498085030"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd101fb62ea2a262a0820"
+        ],
+        "displayType": 0,
+        "price": 4.5,
+        "priceText": "₺4,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "cornetto-classico-kaymak-lgltl76kC2",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c81044d33e5ed00011d41c8",
+        "name": "Cornetto Classico Çikolata",
+        "shortName": "Cornetto Çikolata",
+        "shortDescription": "125 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c81044d33e5ed00011d41c8_tr_1609122184176.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c81044d33e5ed00011d41c8_tr_1609122184176.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd101fb62ea2a262a0820"
+        ],
+        "displayType": 0,
+        "price": 4.5,
+        "priceText": "₺4,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "cornetto-classico-cikolata-gl08AE1MGN",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e1731d8594057b67254ab8b",
+        "name": "Cornetto Disc Milka",
+        "shortName": "Cornetto Milka",
+        "shortDescription": "135 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e1731d8594057b67254ab8b_tr_1609122217836.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e1731d8594057b67254ab8b_tr_1609122217836.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd101fb62ea2a262a0820"
+        ],
+        "displayType": 0,
+        "price": 7,
+        "priceText": "₺7,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "cornetto-disc-milka-elJt1FMbz5",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "559fe8d9f462100c00461cfa",
+        "name": "Cornetto Disc Vanilya Karamel",
+        "shortName": "Cornetto Karamel",
+        "shortDescription": "140 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/559fe8d9f462100c00461cfa_1553498106784.jpeg?v=1553498109657",
+        "picURLs": [
+          "http://cdn.getir.com/product/559fe8d9f462100c00461cfa_1553498106784.jpeg?v=1553498109657"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd101fb62ea2a262a0820"
+        ],
+        "displayType": 0,
+        "price": 6.5,
+        "priceText": "₺6,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "cornetto-disc-vanilya-karamel-rTgFEcshYo",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "56f28185e14e220300d7ad0e",
+        "name": "Cornetto Disc Oreo",
+        "shortName": "Cornetto Oreo",
+        "shortDescription": "145 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/56f28185e14e220300d7ad0e_1553497810528.jpeg?v=1553497813318",
+        "picURLs": [
+          "http://cdn.getir.com/product/56f28185e14e220300d7ad0e_1553497810528.jpeg?v=1553497813318"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd101fb62ea2a262a0820"
+        ],
+        "displayType": 0,
+        "price": 7,
+        "priceText": "₺7,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "super-cornetto-disc-oreo-cPTKlOZoAs",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "570757d0cde6070300eb4fa2",
+        "name": "Algida Maraş Usulü Dondurma Külah",
+        "shortName": "Algida Maraş",
+        "shortDescription": "120 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/570757d0cde6070300eb4fa2_tr_1609121447560.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/570757d0cde6070300eb4fa2_tr_1609121447560.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd101fb62ea2a262a0820"
+        ],
+        "displayType": 0,
+        "price": 6,
+        "priceText": "₺6,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "algida-maras-usulu-dondurma-kulah-I7v2DkVACn",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e1817fde2a40bb9cdcfd6e6",
+        "name": "Cornetto UniCornetto",
+        "shortName": "UniCornetto",
+        "shortDescription": "135 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e1817fde2a40bb9cdcfd6e6_tr_1609124615975.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e1817fde2a40bb9cdcfd6e6_tr_1609124615975.jpeg",
+          "http://cdn.getir.com/product/5e1817fde2a40bb9cdcfd6e6_tr_1579158668104.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd101fb62ea2a262a0820"
+        ],
+        "displayType": 0,
+        "price": 5,
+        "priceText": "₺5,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "unicornetto-8sVkUpo931",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "600e6706a4cfc24deff93ede",
+        "name": "Cornetto Rose Karadut",
+        "shortName": "Cornetto Rose İlk Bakışma",
+        "shortDescription": "130 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/600e6706a4cfc24deff93ede_tr_1611847269160.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/600e6706a4cfc24deff93ede_tr_1611847269160.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": ["5fbcd101fb62ea2a262a0820"],
+        "displayType": 0,
+        "price": 5,
+        "priceText": "₺5,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "cornetto-rose-karadut-7ReBiajDDD",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60d08cd1bbb1a4168908cbf7",
+        "name": "Fantasia Caramel Ring",
+        "shortName": "Fantasia Caramel Ring",
+        "shortDescription": "140 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60d08cd1bbb1a4168908cbf7_tr_1624345160161.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60d08cd1bbb1a4168908cbf7_tr_1624345160161.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": ["5fbcd101fb62ea2a262a0820"],
+        "displayType": 0,
+        "price": 9,
+        "priceText": "₺9,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "s-fantasia-caramel-ring-140-ml-52101-e9ofebhhym",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ef30d5c16e7e7cbbe21f6b9",
+        "name": "Fantasia Black",
+        "shortName": "Fantasia Black",
+        "shortDescription": "125 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ef30d5c16e7e7cbbe21f6b9_tr_1592995937620.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ef30d5c16e7e7cbbe21f6b9_tr_1592995937620.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd101fb62ea2a262a0820"
+        ],
+        "displayType": 0,
+        "price": 7.5,
+        "priceText": "₺7,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "fantasia-black-XcayiJrVtV",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ce68c1afd9b330001c50677",
+        "name": "Koska Dondurma Külahı",
+        "shortName": "Dondurma Külahı",
+        "shortDescription": "10 Adet",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ce68c1afd9b330001c50677_tr_1560327592891.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ce68c1afd9b330001c50677_tr_1560327592891.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd101fb62ea2a262a0820",
+          "5fbcd1beb1b8a2c673204b1f"
+        ],
+        "displayType": 0,
+        "price": 5.95,
+        "priceText": "₺5,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "koska-dondurma-kulahi-17a03DWM3b",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "kulah-LXEohnY9iA"
+  },
+  {
+    "id": "5fbcd197a7a1a37f48a863c9",
+    "name": "Çoklu",
+    "productCount": 6,
+    "products": [
+      {
+        "id": "5ff4299a0098716d5c4e10a3",
+        "name": "Magnum Mini Classic",
+        "shortName": "Magnum Mini Classic",
+        "shortDescription": "6'lı",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ff4299a0098716d5c4e10a3_17b6416c-edda-4752-b7f3-d0438ab85265.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ff4299a0098716d5c4e10a3_17b6416c-edda-4752-b7f3-d0438ab85265.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": ["5fbcd197a7a1a37f48a863c9"],
+        "displayType": 0,
+        "price": 27.5,
+        "priceText": "₺27,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "magnum-mini-classic-mEwMe0uv3T",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "559fef68f462100c00461dbf",
+        "name": "Magnum Mini Classic, Badem, Beyaz",
+        "shortName": "Magnum Mini Classic & Badem",
+        "shortDescription": "6'lı",
+        "squareThumbnailURL": "http://cdn.getir.com/product/559fef68f462100c00461dbf_1881fcdb-d738-41c1-9ab5-e56a34e4a4c9.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/559fef68f462100c00461dbf_1881fcdb-d738-41c1-9ab5-e56a34e4a4c9.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd197a7a1a37f48a863c9"
+        ],
+        "displayType": 0,
+        "price": 27.5,
+        "priceText": "₺27,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "magnum-mini-classic-badem-beyaz-TQJBFJkkhF",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "55db3c1ef9e1c10c004359c5",
+        "name": "Magnum Mini Badem",
+        "shortName": "Magnum Mini Badem",
+        "shortDescription": "6'lı",
+        "squareThumbnailURL": "http://cdn.getir.com/product/55db3c1ef9e1c10c004359c5_96f0e62d-7cb3-4af1-9f81-667c2517017d.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/55db3c1ef9e1c10c004359c5_96f0e62d-7cb3-4af1-9f81-667c2517017d.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd197a7a1a37f48a863c9"
+        ],
+        "displayType": 0,
+        "price": 27.5,
+        "priceText": "₺27,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "magnum-mini-badem-UbthNixYc8",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ff425ec2737728fff36554c",
+        "name": "Magnum Mini Cookie",
+        "shortName": "Magnum Mini Cookie",
+        "shortDescription": "6'lı",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ff425ec2737728fff36554c_56b84996-a512-4a21-aced-6cedca352eb2.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ff425ec2737728fff36554c_56b84996-a512-4a21-aced-6cedca352eb2.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": ["5fbcd197a7a1a37f48a863c9"],
+        "displayType": 0,
+        "price": 27.5,
+        "priceText": "₺27,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "magnum-mini-cookie-WYkmpiz4Ar",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ff41b99738fb094ac517171",
+        "name": "Magnum Mini Karamel Gold & Badem",
+        "shortName": "Magnum Mini Karamel & Badem",
+        "shortDescription": "6'lı",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ff41b99738fb094ac517171_tr_1634538586065.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ff41b99738fb094ac517171_tr_1634538586065.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": ["5fbcd197a7a1a37f48a863c9"],
+        "displayType": 0,
+        "price": 27.5,
+        "priceText": "₺27,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "magnum-mini-karamel-gold-badem-M3ijrOpKFo",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "55db3bc6f9e1c10c004359a4",
+        "name": "Magnum Mini Double Çikolata, Karadut & Böğürtlen, Karamel",
+        "shortName": "Magnum Mini Double",
+        "shortDescription": "6'lı",
+        "squareThumbnailURL": "http://cdn.getir.com/product/55db3bc6f9e1c10c004359a4_5417e937-e235-4737-9743-561574f8bb30.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/55db3bc6f9e1c10c004359a4_5417e937-e235-4737-9743-561574f8bb30.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd197a7a1a37f48a863c9"
+        ],
+        "displayType": 0,
+        "price": 27.5,
+        "priceText": "₺27,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "magnum-mini-double-cikolata-karadut-bogurtlen-karamel-BFeWl9gmop",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "coklu-o9b0Zhv962"
+  },
+  {
+    "id": "5fbcd12305866908b9089586",
+    "name": "Bar",
+    "productCount": 4,
+    "products": [
+      {
+        "id": "559fea46f462100c00461d32",
+        "name": "Nogger Sandwich",
+        "shortName": "Nogger Sandwich",
+        "shortDescription": "145 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/559fea46f462100c00461d32_tr_1619465108027.jpeg",
+        "wideThumbnailURL": "http://cdn.getir.com/product/559fea46f462100c00461d32_wide_pic_tr_1634564062649.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/559fea46f462100c00461d32_tr_1619465108027.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": ["5fbcd12305866908b9089586"],
+        "displayType": 1,
+        "price": 5,
+        "priceText": "₺5,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "nogger-sandwich-xqZfJwQY7o",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e219e0692caad092cc53f0a",
+        "name": "Algida Big Bold Karamel & Çikolatalı",
+        "shortName": "Algida Big Bold",
+        "shortDescription": "95 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e219e0692caad092cc53f0a_ddd92ee8-eb0f-4aaf-b5d4-8585a3d07158.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e219e0692caad092cc53f0a_ddd92ee8-eb0f-4aaf-b5d4-8585a3d07158.jpeg",
+          "http://cdn.getir.com/product/5e219e0692caad092cc53f0a_4ec82cb4-fcd4-48af-ad2b-0d787ce81507.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd12305866908b9089586"
+        ],
+        "displayType": 0,
+        "price": 6,
+        "priceText": "₺6,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "algida-big-bold-karamel-cikolatali-lDR5TKoe4A",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "611ba4f32ea3baf975e3c0cf",
+        "name": "Oyun Paketi",
+        "shortName": "Oyun Paketi",
+        "shortDescription": "4 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/611ba4f32ea3baf975e3c0cf_tr_1629215005725.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/611ba4f32ea3baf975e3c0cf_tr_1629215005725.jpeg"
+        ],
+        "categoryIds": [
+          "55bca8484dcda90c00e3aa80",
+          "5fd8c58f3bdc2389a56e0fb0",
+          "61b9ed091a62a71f128e1fec"
+        ],
+        "subCategoryIds": [
+          "5fbcd12305866908b9089586",
+          "5fd90098dbbeb8ba7a12ff11",
+          "61bc3d6c810978d618f15bc3"
+        ],
+        "displayType": 0,
+        "price": 18.5,
+        "priceText": "₺18,50",
+        "status": 1,
+        "struckPrice": 22,
+        "struckPriceText": "₺22,00",
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "5e219e0692caad092cc53f0a",
+            "count": 2,
+            "name": "Algida Big Bold Karamel & Çikolatalı",
+            "shortDescription": "95 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5e219e0692caad092cc53f0a_ddd92ee8-eb0f-4aaf-b5d4-8585a3d07158.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "559fea46f462100c00461d32",
+            "count": 2,
+            "name": "Nogger Sandwich",
+            "shortDescription": "145 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/559fea46f462100c00461d32_tr_1619465108027.jpeg",
+            "wideThumbnailURL": "http://cdn.getir.com/product/559fea46f462100c00461d32_wide_pic_tr_1634564062649.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "buz-gibi-atistirmalik-paketi-wfjmecxsxi",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ef30b8a0b42fb64315f2f56",
+        "name": "Golf Maraşım Sandwich",
+        "shortName": "Golf Maraşım Sandwich",
+        "shortDescription": "120 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ef30b8a0b42fb64315f2f56_tr_1619507985229.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ef30b8a0b42fb64315f2f56_tr_1619507985229.jpeg"
+        ],
+        "categoryIds": ["55bca8484dcda90c00e3aa80"],
+        "subCategoryIds": [
+          "564c6b92d35e7d0c002bd7f6",
+          "5fbcd12305866908b9089586"
+        ],
+        "displayType": 0,
+        "price": 8.5,
+        "priceText": "₺8,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "golf-marasim-sandwich-3rGzKVgEnl",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "bar-m3wu92XHqg"
+  }
+]

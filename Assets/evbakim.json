@@ -1,0 +1,2803 @@
+[
+  {
+    "id": "61387fe6ad1c45f27ba549ba",
+    "name": "Öne Çıkanlar",
+    "productCount": 3,
+    "products": [
+      {
+        "id": "5d49246f3352f60001af5667",
+        "name": "Vernel Max Konsantre Çamaşır Yumuşatıcı Şakayık & Beyaz Çay 60 Yıkama",
+        "shortName": "Vernel Max Şakayık Beyaz Çay",
+        "shortDescription": "1440 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5d49246f3352f60001af5667_tr_1614320262529.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5d49246f3352f60001af5667_tr_1614320262529.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "564c6a2dd35e7d0c002bd6d6",
+          "5fd8a93d5a43157ae2066c69",
+          "61387fe6ad1c45f27ba549ba"
+        ],
+        "displayType": 0,
+        "price": 32.99,
+        "priceText": "₺32,99",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "vernel-max-konsantre-camasir-yumusatici-sakayik-beyaz-cay-60-yikama-5f9yVdBBKt",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "600e6892d238651d260387eb",
+        "name": "Pril Gold Bulaşık Makinesi Deterjanı Tablet",
+        "shortName": "Pril Gold Tablet",
+        "shortDescription": "30'lu",
+        "squareThumbnailURL": "http://cdn.getir.com/product/600e6892d238651d260387eb_tr_1611743048866.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/600e6892d238651d260387eb_tr_1611743048866.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": [
+          "564c6976d35e7d0c002bd55b",
+          "61387fe6ad1c45f27ba549ba"
+        ],
+        "displayType": 0,
+        "price": 52.9,
+        "priceText": "₺52,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "pril-gold-bulasik-makinesi-deterjani-tablet-Gm5G8tnwPo",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5df1dee2d16a4576ddb66705",
+        "name": "Bref DeLuxe Katı Tuvalet Bloğu Manolya",
+        "shortName": "Bref DeLuxe Manolya",
+        "shortDescription": "2'li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5df1dee2d16a4576ddb66705_tr_1601151073216.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5df1dee2d16a4576ddb66705_tr_1601151073216.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": [
+          "564c881027652f0c007460f0",
+          "61387fe6ad1c45f27ba549ba"
+        ],
+        "displayType": 0,
+        "price": 25.5,
+        "priceText": "₺25,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "bref-deluxe-kati-tuvalet-blogu-manolya-Qp7xTA7ITZ",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "one-cikanlar-jwmrijrozi"
+  },
+  {
+    "id": "564c881027652f0c007460f0",
+    "name": "Temizlik",
+    "productCount": 26,
+    "products": [
+      {
+        "id": "5ac7795b599fa70004cb73d4",
+        "name": "Cif Power & Shine Banyo",
+        "shortName": "Cif Power & Shine Banyo",
+        "shortDescription": "750 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ac7795b599fa70004cb73d4_3b29db25-437e-4fed-b09b-71d9ae236d3b.jpeg",
+        "wideThumbnailURL": "http://cdn.getir.com/product/5ac7795b599fa70004cb73d4_wide_pic_tr_1640600933797.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ac7795b599fa70004cb73d4_3b29db25-437e-4fed-b09b-71d9ae236d3b.jpeg",
+          "http://cdn.getir.com/product/5ac7795b599fa70004cb73d4_89e2b6da-df24-4493-8a13-9e3c634c7ff5.jpeg",
+          "http://cdn.getir.com/product/5ac7795b599fa70004cb73d4_e10afd7f-8614-409a-8de3-f91f7b7d519d.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564c881027652f0c007460f0"],
+        "displayType": 1,
+        "price": 25.9,
+        "priceText": "₺25,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "cif-power-shine-banyo-t8FViLYA9t",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ce6581bfd9b330001c4a877",
+        "name": "Mr Muscle Yüzey Temizleyici Floral",
+        "shortName": "Mr Muscle Yüzey Temizleyici",
+        "shortDescription": "2,5 L",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ce6581bfd9b330001c4a877_tr_1628239918701.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ce6581bfd9b330001c4a877_tr_1628239918701.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564c881027652f0c007460f0"],
+        "displayType": 0,
+        "price": 24.9,
+        "priceText": "₺24,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "mr-muscle-yuzey-temizleyici-floral-tGad1S5EWq",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60af39dac5f628415b75dbfc",
+        "name": "Pronto Ahşap Yüzey Temizleyici Klasik",
+        "shortName": "Pronto Ahşap Yüzey",
+        "shortDescription": "1 L",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60af39dac5f628415b75dbfc_tr_1623082552105.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60af39dac5f628415b75dbfc_tr_1623082552105.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564c881027652f0c007460f0"],
+        "displayType": 0,
+        "price": 24.9,
+        "priceText": "₺24,90",
+        "status": 1,
+        "struckPrice": 32.5,
+        "struckPriceText": "₺32,50",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "pronto-ahsap-yuzey-temizleyici-klasik-S7GG6J0WCk",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e6b2859652a20d93acd379d",
+        "name": "Domestos Köpük Çamaşır Suyu Okyanus Ferahlığı",
+        "shortName": "Domestos Köpük Mutfak",
+        "shortDescription": "450 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e6b2859652a20d93acd379d_afc2a352-ad48-4ff9-bb28-2f9642e3af4b.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e6b2859652a20d93acd379d_afc2a352-ad48-4ff9-bb28-2f9642e3af4b.jpeg",
+          "http://cdn.getir.com/product/5e6b2859652a20d93acd379d_b0a49746-29e4-4471-a187-25975394befd.jpeg",
+          "http://cdn.getir.com/product/5e6b2859652a20d93acd379d_b187a6a4-2942-4790-98aa-a2567d359056.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "564c881027652f0c007460f0",
+          "5fd8a93d5a43157ae2066c69"
+        ],
+        "displayType": 0,
+        "price": 24.9,
+        "priceText": "₺24,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "domestos-kopuk-camasir-suyu-okyanus-ferahligi-oMVNrpbLhk",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e6b286802c30fc5c763a4c9",
+        "name": "Domestos Köpük Çamaşır Suyu Kutup Ferahlığı",
+        "shortName": "Domestos Köpük Banyo",
+        "shortDescription": "450 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e6b286802c30fc5c763a4c9_c9e40e1e-f42d-42d0-b0aa-3f71905bfe95.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e6b286802c30fc5c763a4c9_c9e40e1e-f42d-42d0-b0aa-3f71905bfe95.jpeg",
+          "http://cdn.getir.com/product/5e6b286802c30fc5c763a4c9_550934d8-48d3-4332-9c51-7495ecc467b9.jpeg",
+          "http://cdn.getir.com/product/5e6b286802c30fc5c763a4c9_dc4c0644-2799-42c6-9f21-c02a96836c96.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "564c881027652f0c007460f0",
+          "5fd8a93d5a43157ae2066c69"
+        ],
+        "displayType": 0,
+        "price": 24.9,
+        "priceText": "₺24,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "domestos-kopuk-camasir-suyu-kutup-ferahligi-7vFroE3i18",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "619c9ff70af1ada0a41439fe",
+        "name": "ACE Ultra Köpük Çamaşır Susuz Mutfak Sprey",
+        "shortName": "ACE Ultra Mutfak Sprey",
+        "shortDescription": "700 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/619c9ff70af1ada0a41439fe_tr_1637849023713.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/619c9ff70af1ada0a41439fe_tr_1637849023713.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564c881027652f0c007460f0"],
+        "displayType": 0,
+        "price": 22.9,
+        "priceText": "₺22,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "ace-ultra-kopuk-camasir-susuz-mutfak-700ml-wq6vnbwe8b",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "619c9e9373ed7b7f125ae54d",
+        "name": "Ace Ultra Köpük Çamaşır Susuz Banyo",
+        "shortName": "Ace Çamaşır Susuz Banyo",
+        "shortDescription": "700 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/619c9e9373ed7b7f125ae54d_tr_1637851205195.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/619c9e9373ed7b7f125ae54d_tr_1637851205195.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564c881027652f0c007460f0"],
+        "displayType": 0,
+        "price": 22.9,
+        "priceText": "₺22,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "ace-ultra-kopuk-camasir-susuz-banyo-700ml-gez7rsc8jv",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ac7798ec68ac90004a070bb",
+        "name": "Cif Power & Shine Mutfak",
+        "shortName": "Cif Power & Shine Mutfak",
+        "shortDescription": "750 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ac7798ec68ac90004a070bb_2410cc62-778b-4b92-90de-7d7440f12f09.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ac7798ec68ac90004a070bb_2410cc62-778b-4b92-90de-7d7440f12f09.jpeg",
+          "http://cdn.getir.com/product/5ac7798ec68ac90004a070bb_f0343ebd-6cac-4e04-ad23-56e548c24e74.jpeg",
+          "http://cdn.getir.com/product/5ac7798ec68ac90004a070bb_9a954e7c-f872-43fa-8c9f-208eaf07a77e.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564c881027652f0c007460f0"],
+        "displayType": 0,
+        "price": 25.9,
+        "priceText": "₺25,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "cif-power-shine-mutfak-Gr6HDURwmo",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "603f5cddac80118798994b1a",
+        "name": "Cif Ultra Serum Kapsül Mutfak Temizleyici",
+        "shortName": "Cif Ultra Serum Mutfak",
+        "shortDescription": "70 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/603f5cddac80118798994b1a_tr_1624954879248.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/603f5cddac80118798994b1a_tr_1624954879248.jpeg",
+          "http://cdn.getir.com/product/603f5cddac80118798994b1a_b55d940b-1ec7-4d45-b472-e6a1c8525ca2.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564c881027652f0c007460f0"],
+        "displayType": 0,
+        "price": 14.95,
+        "priceText": "₺14,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "cif-ultra-serum-kapsul-mutfak-temizleyici-rcQNFGlpVF",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "603f5d6f548f441807c43411",
+        "name": "Cif Ultra Serum Kapsül Banyo Temizleyici",
+        "shortName": "Cif Ultra Serum Banyo",
+        "shortDescription": "70 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/603f5d6f548f441807c43411_tr_1624954922493.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/603f5d6f548f441807c43411_tr_1624954922493.jpeg",
+          "http://cdn.getir.com/product/603f5d6f548f441807c43411_c2a2c00b-00cd-42cc-b952-7b4a4977c184.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564c881027652f0c007460f0"],
+        "displayType": 0,
+        "price": 14.95,
+        "priceText": "₺14,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "cif-ultra-serum-kapsul-banyo-temizleyici-0GNAZoYt38",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60a74ea85ffd1aa03cd75bce",
+        "name": "Cillit Bang %100 Doğal Güç Mutfak Yağ ve Kir Çözücü Karbonatlı Sprey",
+        "shortName": "Cillit Bang Doğal Sprey Mutfak",
+        "shortDescription": "750 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60a74ea85ffd1aa03cd75bce_tr_1624801366030.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60a74ea85ffd1aa03cd75bce_tr_1624801366030.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564c881027652f0c007460f0"],
+        "displayType": 0,
+        "price": 32.9,
+        "priceText": "₺32,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "cillit-bang-100-dogal-guc-mutfak-yag-ve-kir-cozucu-karbonatli-sprey-EUFfqsZLEw",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f7dd93aa3eda07acbdf043a",
+        "name": "Lysol Dezenfektan Sprey",
+        "shortName": "Lysol Dezenfektan",
+        "shortDescription": "400 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f7dd93aa3eda07acbdf043a_tr_1624955714669.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f7dd93aa3eda07acbdf043a_tr_1624955714669.jpeg"
+        ],
+        "categoryIds": [
+          "55449fdf02632e11003c2da8",
+          "5fd8a40cbb487c5a816f9f03",
+          "5fd8c58f3bdc2389a56e0fb0"
+        ],
+        "subCategoryIds": [
+          "564c881027652f0c007460f0",
+          "5fd8a93d5a43157ae2066c69",
+          "5fd90098dbbeb8ba7a12ff11"
+        ],
+        "displayType": 0,
+        "price": 54.9,
+        "priceText": "₺54,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "lysol-dezenfektan-sprey-zETB5VTgI3",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fb37c9383edc5b8d1ab9c6f",
+        "name": "Domestos Pratik Yüzey Spreyi",
+        "shortName": "Domestos Pratik Yüzey Spreyi",
+        "shortDescription": "400 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fb37c9383edc5b8d1ab9c6f_757d7e73-a181-43bd-9bf5-7d49502a137e.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fb37c9383edc5b8d1ab9c6f_757d7e73-a181-43bd-9bf5-7d49502a137e.jpeg",
+          "http://cdn.getir.com/product/5fb37c9383edc5b8d1ab9c6f_232fd8e5-7ec5-4bc5-a172-5b10e3e70443.jpeg",
+          "http://cdn.getir.com/product/5fb37c9383edc5b8d1ab9c6f_5e36fcba-d646-402c-89f3-11befa0ee2a1.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564c881027652f0c007460f0"],
+        "displayType": 0,
+        "price": 31.9,
+        "priceText": "₺31,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "domestos-pratik-yuzey-spreyi-FyeeB4VzQU",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6140a0294394e2ac26dee043",
+        "name": "Bref Color Aktiv Katı Tuvalet Bloğu Turkuaz",
+        "shortName": "Bref Color Aktiv Turkuaz",
+        "shortDescription": "2'li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6140a0294394e2ac26dee043_tr_1631704105983.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6140a0294394e2ac26dee043_tr_1631704105983.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564c881027652f0c007460f0"],
+        "displayType": 0,
+        "price": 23.5,
+        "priceText": "₺23,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "bref-kati-tuvalet-blogu-turkuaz-aktiv-2-li-5q1jyge7tf",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c3f2a4a0f60030001c22e69",
+        "name": "Bref Power Aktiv Katı Tuvalet Bloğu Çam",
+        "shortName": "Bref Power Aktiv Çam",
+        "shortDescription": "2'li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c3f2a4a0f60030001c22e69_tr_1604130353556.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c3f2a4a0f60030001c22e69_tr_1604130353556.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564c881027652f0c007460f0"],
+        "displayType": 0,
+        "price": 22.9,
+        "priceText": "₺22,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "bref-power-aktiv-kati-tuvalet-blogu-cam-pIu25L4xUk",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5df1dee2d16a4576ddb66705",
+        "name": "Bref DeLuxe Katı Tuvalet Bloğu Manolya",
+        "shortName": "Bref DeLuxe Manolya",
+        "shortDescription": "2'li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5df1dee2d16a4576ddb66705_tr_1601151073216.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5df1dee2d16a4576ddb66705_tr_1601151073216.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": [
+          "564c881027652f0c007460f0",
+          "61387fe6ad1c45f27ba549ba"
+        ],
+        "displayType": 0,
+        "price": 25.5,
+        "priceText": "₺25,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "bref-deluxe-kati-tuvalet-blogu-manolya-Qp7xTA7ITZ",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "57176652d7c84003001e27cc",
+        "name": "Mr Muscle Lavabo Açıcı",
+        "shortName": "Mr Muscle Lavabo Açıcı",
+        "shortDescription": "2’li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/57176652d7c84003001e27cc_tr_1566300644621.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/57176652d7c84003001e27cc_tr_1566300644621.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564c881027652f0c007460f0"],
+        "displayType": 0,
+        "price": 15.25,
+        "priceText": "₺15,25",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "mr-muscle-lavabo-acici-jO5LWzwfql",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f58cd8dc27a514b800e47d7",
+        "name": "Solo Tüm Yüzeyler Islak Temizlik Mendili",
+        "shortName": "Solo Islak Temizlik Mendili",
+        "shortDescription": "40 Yaprak",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f58cd8dc27a514b800e47d7_tr_1637302345731.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f58cd8dc27a514b800e47d7_tr_1637302345731.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "564c881027652f0c007460f0",
+          "5fd8a93d5a43157ae2066c69"
+        ],
+        "displayType": 0,
+        "price": 16.45,
+        "priceText": "₺16,45",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "solo-tum-yuzeyler-islak-temizlik-mendili-j3BfZCdCue",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f58cddad5b3bf6952086fdf",
+        "name": "Solo Banyo & Mutfak Islak Temizlik Mendili",
+        "shortName": "Solo Islak Temizlik Mendili",
+        "shortDescription": "40 Yaprak",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f58cddad5b3bf6952086fdf_tr_1637302388835.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f58cddad5b3bf6952086fdf_tr_1637302388835.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "564c881027652f0c007460f0",
+          "5fd8a93d5a43157ae2066c69",
+          "6091047ea6dae4bb78e72bdc"
+        ],
+        "displayType": 0,
+        "price": 16.45,
+        "priceText": "₺16,45",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "solo-banyo-mutfak-islak-temizlik-mendili-tqmHvUrdwy",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60098ab7ad89ed352fca7207",
+        "name": "Vileda Standart Temizlik Eldiveni",
+        "shortName": "Vileda Standart Eldiven",
+        "shortDescription": "Orta Boy",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60098ab7ad89ed352fca7207_tr_1611247980060.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60098ab7ad89ed352fca7207_tr_1611247980060.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564c881027652f0c007460f0"],
+        "displayType": 0,
+        "price": 20.9,
+        "priceText": "₺20,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "vileda-standart-temizlik-eldiveni-5cNmPLPNpE",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c08e16fa6be5c001207c8ec",
+        "name": "Parex Temizlik Bezi",
+        "shortName": "Parex Temizlik Bezi",
+        "shortDescription": "5'li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c08e16fa6be5c001207c8ec_tr_1603570570325.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c08e16fa6be5c001207c8ec_tr_1603570570325.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "564c881027652f0c007460f0",
+          "5fd8a93d5a43157ae2066c69"
+        ],
+        "displayType": 0,
+        "price": 21.9,
+        "priceText": "₺21,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "parex-temizlik-bezi-Q4rTMaaCYk",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fd657c435e7f7aa01b672f4",
+        "name": "Scotch Brite Mikrofiber Temizlik Bezi",
+        "shortName": "Scotch Brite Temizlik Bezi",
+        "shortDescription": "3'lü",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fd657c435e7f7aa01b672f4_tr_1614334463902.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fd657c435e7f7aa01b672f4_tr_1614334463902.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564c881027652f0c007460f0"],
+        "displayType": 0,
+        "price": 30.9,
+        "priceText": "₺30,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "scotch-brite-mikrofiber-temizlik-bezi-IjxuwPF4vV",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c08e354a6be5c001207c983",
+        "name": "Parex Oluklu Klasik Yeşil Sünger",
+        "shortName": "Parex Klasik Sünger",
+        "shortDescription": "5'li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c08e354a6be5c001207c983_tr_1604781354011.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c08e354a6be5c001207c983_tr_1604781354011.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "564c881027652f0c007460f0",
+          "564c6976d35e7d0c002bd55b",
+          "5fd8a93d5a43157ae2066c69"
+        ],
+        "displayType": 0,
+        "price": 20.9,
+        "priceText": "₺20,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "parex-oluklu-klasik-yesil-sunger-i3kMFiRJVk",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6080214a3d7d9f6e41491c19",
+        "name": "Scotch Brite Silgi Sünger",
+        "shortName": "Scotch Brite Silgi Sünger",
+        "shortDescription": "2'li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6080214a3d7d9f6e41491c19_tr_1619623096596.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6080214a3d7d9f6e41491c19_tr_1619623096596.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564c881027652f0c007460f0"],
+        "displayType": 0,
+        "price": 36.95,
+        "priceText": "₺36,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "scotch-brite-silgi-sunger-LGTKgt6MoV",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5d4146007512880001a8ecee",
+        "name": "Smarter Tüy Toplayıcı Rulo",
+        "shortName": "Smarter Tüy Toplayıcı Rulo",
+        "shortDescription": "56'lı",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5d4146007512880001a8ecee_tr_1604781695896.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5d4146007512880001a8ecee_tr_1604781695896.jpeg"
+        ],
+        "categoryIds": [
+          "55449fdf02632e11003c2da8",
+          "551430043427d5010a3a5c63",
+          "5fd8a40cbb487c5a816f9f03"
+        ],
+        "subCategoryIds": [
+          "564c881027652f0c007460f0",
+          "56e0139fdc83940300af403b",
+          "56e013ac8d5ef80300398a8b",
+          "5fd8ab2c7f945947364a2395",
+          "5fd8a93d5a43157ae2066c69"
+        ],
+        "displayType": 0,
+        "price": 31.9,
+        "priceText": "₺31,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "smarter-tuy-toplayici-rulo-zidjqRKT2i",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ced482ad349d10001e70512",
+        "name": "Kemal Kükrer Beyaz Sirke",
+        "shortName": "Kemal Kükrer Beyaz Sirke",
+        "shortDescription": "2 L",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ced482ad349d10001e70512_tr_1598732135370.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ced482ad349d10001e70512_tr_1598732135370.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d", "55449fdf02632e11003c2da8"],
+        "subCategoryIds": [
+          "5916d507ad08080004ed3f5a",
+          "564c881027652f0c007460f0"
+        ],
+        "displayType": 0,
+        "price": 11.45,
+        "priceText": "₺11,45",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "kemal-kukrer-beyaz-sirke-TZW76X8cgv",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "temizlik-AqKZXgAb9w"
+  },
+  {
+    "id": "564c6a2dd35e7d0c002bd6d6",
+    "name": "Çamaşır",
+    "productCount": 11,
+    "products": [
+      {
+        "id": "5c3f1868f9ba5f0001e77bc9",
+        "name": "Vernel Max Konsantre Çamaşır Yumuşatıcı Taze Gül 60 Yıkama",
+        "shortName": "Vernel Max Taze Gül",
+        "shortDescription": "1440 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c3f1868f9ba5f0001e77bc9_tr_1614320240081.jpeg",
+        "wideThumbnailURL": "http://cdn.getir.com/product/5c3f1868f9ba5f0001e77bc9_wide_pic_tr_1639383807483.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c3f1868f9ba5f0001e77bc9_tr_1614320240081.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "564c6a2dd35e7d0c002bd6d6",
+          "5fd8a93d5a43157ae2066c69"
+        ],
+        "displayType": 1,
+        "price": 32.99,
+        "priceText": "₺32,99",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "vernel-max-konsantre-camasir-yumusatici-taze-gul-60-yikama-vUv7cg64Pc",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c50064024268000017a0269",
+        "name": "Omo Sıvı Çamaşır Deterjanı Renkliler 30 Yıkama",
+        "shortName": "Omo Renkliler",
+        "shortDescription": "1950 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c50064024268000017a0269_tr_1636009328066.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c50064024268000017a0269_tr_1636009328066.jpeg",
+          "http://cdn.getir.com/product/5c50064024268000017a0269_fa888b11-f827-414c-b966-3e1d54d6ee77.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "564c6a2dd35e7d0c002bd6d6",
+          "5fd8a93d5a43157ae2066c69"
+        ],
+        "displayType": 0,
+        "price": 57.99,
+        "priceText": "₺57,99",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "omo-sivi-camasir-deterjani-color-30-yikama-3oP3mopiqf",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c5005e324268000017a01e7",
+        "name": "Omo Sıvı Çamaşır Deterjanı Active Fresh 30 Yıkama",
+        "shortName": "Omo Active Fresh",
+        "shortDescription": "1950 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c5005e324268000017a01e7_tr_1636009345421.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c5005e324268000017a01e7_tr_1636009345421.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564c6a2dd35e7d0c002bd6d6"],
+        "displayType": 0,
+        "price": 57.99,
+        "priceText": "₺57,99",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "omo-sivi-camasir-deterjani-active-fresh-30-yikama-pyES5pnViq",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5a0082b1399b7700045a325b",
+        "name": "Yumoş Extra Konsantre Çamaşır Yumuşatıcı Hanımeli 60 Yıkama",
+        "shortName": "Yumoş Extra Hanımeli",
+        "shortDescription": "1440 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5a0082b1399b7700045a325b_0d82bd84-950b-4817-812c-627bcd6f3d04.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5a0082b1399b7700045a325b_0d82bd84-950b-4817-812c-627bcd6f3d04.jpeg",
+          "http://cdn.getir.com/product/5a0082b1399b7700045a325b_a8dd5746-3ed1-497d-9a4b-356cde92f498.jpeg",
+          "http://cdn.getir.com/product/5a0082b1399b7700045a325b_cf4fec51-613b-4b31-bb0e-c7850884a535.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564c6a2dd35e7d0c002bd6d6"],
+        "displayType": 0,
+        "price": 35.99,
+        "priceText": "₺35,99",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "yumos-extra-konsantre-camasir-yumusatici-hanimeli-60-yikama-zYGWSIOzlz",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "58a1b3f4f24e4d00048d7f62",
+        "name": "Yumoş Extra Konsantre Çamaşır Yumuşatıcı Yabani Orkide & Yasemin 60 Yıkama",
+        "shortName": "Yumoş Extra Orkide Yasemin",
+        "shortDescription": "1440 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/58a1b3f4f24e4d00048d7f62_771879ea-59b7-4305-8c66-0b850ba6c0a7.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/58a1b3f4f24e4d00048d7f62_771879ea-59b7-4305-8c66-0b850ba6c0a7.jpeg",
+          "http://cdn.getir.com/product/58a1b3f4f24e4d00048d7f62_025518d0-a562-4fbd-8631-23f599e88c25.jpeg",
+          "http://cdn.getir.com/product/58a1b3f4f24e4d00048d7f62_2bbabf58-3447-465d-a1e5-d60a834efd56.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564c6a2dd35e7d0c002bd6d6"],
+        "displayType": 0,
+        "price": 35.99,
+        "priceText": "₺35,99",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "yumos-extra-konsantre-camasir-yumusatici-yabani-orkide-yasemin-60-yikama-YEDhZdj47v",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ced482c4a8a2a000137da56",
+        "name": "Vernel Max Konsantre Çamaşır Yumuşatıcı Nergis & Lavanta Çiçeği 60 Yıkama",
+        "shortName": "Vernel Max Nergis & Lavanta",
+        "shortDescription": "1440 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ced482c4a8a2a000137da56_tr_1614320287473.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ced482c4a8a2a000137da56_tr_1614320287473.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "564c6a2dd35e7d0c002bd6d6",
+          "5fd8a93d5a43157ae2066c69"
+        ],
+        "displayType": 0,
+        "price": 32.99,
+        "priceText": "₺32,99",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "vernel-max-konsantre-camasir-yumusatici-nergis-lavanta-cicegi-60-yikama-BsgP1vbsMk",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5d49246f3352f60001af5667",
+        "name": "Vernel Max Konsantre Çamaşır Yumuşatıcı Şakayık & Beyaz Çay 60 Yıkama",
+        "shortName": "Vernel Max Şakayık Beyaz Çay",
+        "shortDescription": "1440 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5d49246f3352f60001af5667_tr_1614320262529.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5d49246f3352f60001af5667_tr_1614320262529.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "564c6a2dd35e7d0c002bd6d6",
+          "5fd8a93d5a43157ae2066c69",
+          "61387fe6ad1c45f27ba549ba"
+        ],
+        "displayType": 0,
+        "price": 32.99,
+        "priceText": "₺32,99",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "vernel-max-konsantre-camasir-yumusatici-sakayik-beyaz-cay-60-yikama-5f9yVdBBKt",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ced48314a8a2a000137dab5",
+        "name": "Vernel Max Supreme Konsantre Çamaşır Yumuşatıcı Romance 50 Yıkama",
+        "shortName": "Vernel Max Supreme",
+        "shortDescription": "1200 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ced48314a8a2a000137dab5_tr_1616393262098.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ced48314a8a2a000137dab5_tr_1616393262098.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564c6a2dd35e7d0c002bd6d6"],
+        "displayType": 0,
+        "price": 32.99,
+        "priceText": "₺32,99",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "vernel-max-supreme-konsantre-camasir-yumusatici-romance-50-yikama-m683GyD8oH",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6123cbefb5173fc227ec1cd7",
+        "name": "Vernel Max Konsantre Çamaşır Yumuşatıcı Fresh Control Çiçek Ferahlığı 50 Yıkama",
+        "shortName": "Vernel Max Çiçek Ferahlığı",
+        "shortDescription": "1200 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6123cbefb5173fc227ec1cd7_tr_1629805708150.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6123cbefb5173fc227ec1cd7_tr_1629805708150.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564c6a2dd35e7d0c002bd6d6"],
+        "displayType": 0,
+        "price": 32.99,
+        "priceText": "₺32,99",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "vernel-max-konsantre-sivi-camasir-deterjani-fresh-control-cicek-ferahligi-1200ml-uioztmnfj1",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5a7741092281600004506c34",
+        "name": "Uni Baby Bebekler İçin Sıvı Çamaşır Deterjanı",
+        "shortName": "Uni Baby Sıvı Deterjan",
+        "shortDescription": "1,5 L",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5a7741092281600004506c34_tr_1624974879240.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5a7741092281600004506c34_tr_1624974879240.jpeg",
+          "http://cdn.getir.com/product/5a7741092281600004506c34_ddda7ce3-258e-4814-8e98-0ce608dcfae8.jpeg"
+        ],
+        "categoryIds": [
+          "55449fdf02632e11003c2da8",
+          "551430043427d5010a3a5c5b",
+          "5fd8a40cbb487c5a816f9f03"
+        ],
+        "subCategoryIds": [
+          "564c6a2dd35e7d0c002bd6d6",
+          "5a14b3ddbf6e090004a2c214",
+          "5fd8a93d5a43157ae2066c69"
+        ],
+        "displayType": 0,
+        "price": 73.99,
+        "priceText": "₺73,99",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "uni-baby-bebekler-icin-sivi-camasir-deterjani-DHGNU5Pt1A",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5bb712034e5d2e001e91239a",
+        "name": "Vanish Kosla Gold Oxi Action Sıvı Leke Çıkarıcı",
+        "shortName": "Vanish Kosla Gold Sıvı",
+        "shortDescription": "1 L",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5bb712034e5d2e001e91239a_tr_1636009077540.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5bb712034e5d2e001e91239a_tr_1636009077540.jpeg"
+        ],
+        "categoryIds": ["5697c78dc181490f00c99fea", "55449fdf02632e11003c2da8"],
+        "subCategoryIds": [
+          "5a14017dad8d270004d1f2bb",
+          "564c6a2dd35e7d0c002bd6d6"
+        ],
+        "displayType": 0,
+        "price": 34.99,
+        "priceText": "₺34,99",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "vanish-kosla-gold-oxi-action-sivi-leke-cikarici-4FTHLHmKmu",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "camasir-AYSNlpN0qr"
+  },
+  {
+    "id": "564dbab45854f10c00a9edb6",
+    "name": "Kağıt Ürünleri",
+    "productCount": 15,
+    "products": [
+      {
+        "id": "55a004bf35a77b0c0075cd0c",
+        "name": "Selpak Tuvalet Kağıdı",
+        "shortName": "Selpak Tuvalet Kağıdı",
+        "shortDescription": "4'lü",
+        "squareThumbnailURL": "http://cdn.getir.com/product/55a004bf35a77b0c0075cd0c_tr_1602362018887.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/55a004bf35a77b0c0075cd0c_tr_1602362018887.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564dbab45854f10c00a9edb6"],
+        "displayType": 0,
+        "price": 27.9,
+        "priceText": "₺27,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "selpak-tuvalet-kagidi-J8iT4zvxv8",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "595b8c52fca4ec0004417ee8",
+        "name": "Selpak Tuvalet Kağıdı",
+        "shortName": "Selpak Tuvalet Kağıdı",
+        "shortDescription": "16'lı",
+        "squareThumbnailURL": "http://cdn.getir.com/product/595b8c52fca4ec0004417ee8_tr_1601369369934.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/595b8c52fca4ec0004417ee8_tr_1601369369934.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564dbab45854f10c00a9edb6"],
+        "displayType": 0,
+        "price": 89.9,
+        "priceText": "₺89,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "selpak-tuvalet-kagidi-rr1QSCCy9i",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60a4b1baa415b3197743e314",
+        "name": "Solo Tuvalet Kağıdı",
+        "shortName": "Solo Tuvalet Kağıdı",
+        "shortDescription": "16'lı",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60a4b1baa415b3197743e314_tr_1621694073698.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60a4b1baa415b3197743e314_tr_1621694073698.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564dbab45854f10c00a9edb6"],
+        "displayType": 0,
+        "price": 67.9,
+        "priceText": "₺67,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "solo-tuvalet-kagidi-U7mZ6zGNEk",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ce6581aa72a950001cc8780",
+        "name": "Sofia 3 Katlı Doğal Sabun Kokulu Tuvalet Kağıdı",
+        "shortName": "Sofia Tuvalet Kağıdı",
+        "shortDescription": "8'li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ce6581aa72a950001cc8780_tr_1609398540791.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ce6581aa72a950001cc8780_tr_1609398540791.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564dbab45854f10c00a9edb6"],
+        "displayType": 0,
+        "price": 38.9,
+        "priceText": "₺38,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sofia-3-katli-dogal-sabun-kokulu-tuvalet-kagidi-qujudYytYd",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5bbc5e02ebc0f5001735bb1e",
+        "name": "Sofia 3 Katlı Tuvalet Kağıdı",
+        "shortName": "Sofia Tuvalet Kağıdı",
+        "shortDescription": "16'lı",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5bbc5e02ebc0f5001735bb1e_tr_1640693308903.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5bbc5e02ebc0f5001735bb1e_tr_1640693308903.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564dbab45854f10c00a9edb6"],
+        "displayType": 0,
+        "price": 74.9,
+        "priceText": "₺74,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sofia-3-katli-tuvalet-kagidi-BaOMqZrWy9",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5a77491150157200046f1f10",
+        "name": "Selpak Kağıt Havlu",
+        "shortName": "Selpak Kağıt Havlu",
+        "shortDescription": "6'lı",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5a77491150157200046f1f10_tr_1601369602646.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5a77491150157200046f1f10_tr_1601369602646.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564dbab45854f10c00a9edb6"],
+        "displayType": 0,
+        "price": 53.9,
+        "priceText": "₺53,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "selpak-kagit-havlu-HjaDdZnm21",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60a67d32fca6274387762237",
+        "name": "Solo Kağıt Havlu",
+        "shortName": "Solo Kağıt Havlu",
+        "shortDescription": "12'li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60a67d32fca6274387762237_tr_1622014381055.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60a67d32fca6274387762237_tr_1622014381055.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564dbab45854f10c00a9edb6"],
+        "displayType": 0,
+        "price": 79.9,
+        "priceText": "₺79,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "solo-kagit-havlu-FVOpNnzHDa",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ce65815fd9b330001c4a820",
+        "name": "Sofia 3 Katlı Mutfak Havlusu",
+        "shortName": "Sofia Mutfak Havlusu",
+        "shortDescription": "6'lı",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ce65815fd9b330001c4a820_tr_1609396654163.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ce65815fd9b330001c4a820_tr_1609396654163.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564dbab45854f10c00a9edb6"],
+        "displayType": 0,
+        "price": 48.9,
+        "priceText": "₺48,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sofia-3-katli-mutfak-havlusu-kYqbzFxen3",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61288ef7bae81f2bb090d142",
+        "name": "Komili Yuvam Kağıt Havlu",
+        "shortName": "Komili Yuvam Kağıt Havlu",
+        "shortDescription": "6'lı",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61288ef7bae81f2bb090d142_tr_1630076059978.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61288ef7bae81f2bb090d142_tr_1630076059978.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564dbab45854f10c00a9edb6"],
+        "displayType": 0,
+        "price": 27.5,
+        "priceText": "₺27,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "komili-yuvam-kagit-havlu-6-li-8ityr55wi1",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ce65815a72a950001cc8751",
+        "name": "Maylo Dev Kağıt Havlu",
+        "shortName": "Maylo Dev Havlu",
+        "shortDescription": "Tekli",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ce65815a72a950001cc8751_tr_1626418218305.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ce65815a72a950001cc8751_tr_1626418218305.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564dbab45854f10c00a9edb6"],
+        "displayType": 0,
+        "price": 21.9,
+        "priceText": "₺21,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "maylo-dev-kagit-havlu-uFROqizynY",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "566eccc7f9facb0f00b1b638",
+        "name": "Selpak Süper Soft Kutu Mendil",
+        "shortName": "Selpak Süper Soft",
+        "shortDescription": "50'li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/566eccc7f9facb0f00b1b638_tr_1580399286724.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/566eccc7f9facb0f00b1b638_tr_1580399286724.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564dbab45854f10c00a9edb6"],
+        "displayType": 0,
+        "price": 19.95,
+        "priceText": "₺19,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "selpak-super-soft-kutu-mendil-sm7FnRlUhG",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5bbc5b4cf612c20ea3f4bcfc",
+        "name": "Maylo Puf Mendil",
+        "shortName": "Maylo Puf Mendil",
+        "shortDescription": "150'li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5bbc5b4cf612c20ea3f4bcfc_tr_1639059617140.png",
+        "picURLs": [
+          "http://cdn.getir.com/product/5bbc5b4cf612c20ea3f4bcfc_tr_1639059617140.png"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564dbab45854f10c00a9edb6"],
+        "displayType": 0,
+        "price": 12.95,
+        "priceText": "₺12,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "maylo-puf-mendil-I0zoR8S9tW",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "617a721336072e3b428726bd",
+        "name": "Activex Antibakteriyel Hassas Islak Mendil",
+        "shortName": "Activex Hassas Islak Mendil",
+        "shortDescription": "50 Yaprak",
+        "squareThumbnailURL": "http://cdn.getir.com/product/617a721336072e3b428726bd_tr_1635750975138.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/617a721336072e3b428726bd_tr_1635750975138.jpeg"
+        ],
+        "categoryIds": [
+          "55449fdf02632e11003c2da8",
+          "551430043427d5010a3a5c5c",
+          "5697c78dc181490f00c99fea"
+        ],
+        "subCategoryIds": [
+          "564dbab45854f10c00a9edb6",
+          "59f24af7beda820004122be0",
+          "5a14017dad8d270004d1f2bb"
+        ],
+        "displayType": 0,
+        "price": 15.55,
+        "priceText": "₺15,55",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "activex-antibakteriyel-islak-mendil-hassas-50-yaprak-a0bkeplu8e",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "617a7376c9f5a8f25cc96162",
+        "name": "Activex Antibakteriyel Islak Mendil Aktif",
+        "shortName": "Activex Islak Mendil",
+        "shortDescription": "50 Yaprak",
+        "squareThumbnailURL": "http://cdn.getir.com/product/617a7376c9f5a8f25cc96162_tr_1635751265684.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/617a7376c9f5a8f25cc96162_tr_1635751265684.jpeg"
+        ],
+        "categoryIds": [
+          "55449fdf02632e11003c2da8",
+          "551430043427d5010a3a5c5c",
+          "5697c78dc181490f00c99fea"
+        ],
+        "subCategoryIds": [
+          "564dbab45854f10c00a9edb6",
+          "59f24af7beda820004122be0",
+          "5a14017dad8d270004d1f2bb"
+        ],
+        "displayType": 0,
+        "price": 15.55,
+        "priceText": "₺15,55",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "activex-antibakteriyel-islak-mendil-aktif-50-yaprak-7furanutxs",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60acc38272a4ea0b73e72528",
+        "name": "Uni Baby Yenidoğan Islak Mendil",
+        "shortName": "Uni Baby Yenidoğan",
+        "shortDescription": "3 x 40 Yaprak",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60acc38272a4ea0b73e72528_tr_1621935225085.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60acc38272a4ea0b73e72528_tr_1621935225085.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5b", "55449fdf02632e11003c2da8"],
+        "subCategoryIds": [
+          "564c68b0d35e7d0c002bd4c2",
+          "564dbab45854f10c00a9edb6"
+        ],
+        "displayType": 0,
+        "price": 53.2002,
+        "priceText": "₺53,20",
+        "status": 1,
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "608910b1a2446aa62ca6e61c",
+            "count": 3,
+            "name": "Uni Baby Yenidoğan Islak Mendil",
+            "shortDescription": "40 Yaprak",
+            "squareThumbnailURL": "http://cdn.getir.com/product/608910b1a2446aa62ca6e61c_tr_1619621094280.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "uni-baby-yenidogan-islak-mendil-TBdqO2yjSn",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "kagit-urunleri-kE3DFautv5"
+  },
+  {
+    "id": "564c829b27652f0c007459f9",
+    "name": "Mutfak",
+    "productCount": 10,
+    "products": [
+      {
+        "id": "6087c91857b8bf015cd603d0",
+        "name": "Cook Çöp Torbası Küçük Boy",
+        "shortName": "Cook Çöp Torbası Küçük",
+        "shortDescription": "30'lu - 40 x 47 cm",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6087c91857b8bf015cd603d0_tr_1620745776723.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6087c91857b8bf015cd603d0_tr_1620745776723.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564c829b27652f0c007459f9"],
+        "displayType": 0,
+        "price": 8.95,
+        "priceText": "₺8,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "cook-cop-torbasi-kucuk-boy-CizYK9mGjP",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c29e82878654c00014ed0cb",
+        "name": "Cook Çöp Torbası Orta Boy",
+        "shortName": "Cook Çöp Torbası Orta",
+        "shortDescription": "15'li - 55 x 60 cm",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c29e82878654c00014ed0cb_tr_1604781196527.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c29e82878654c00014ed0cb_tr_1604781196527.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "564c829b27652f0c007459f9",
+          "5fd8a93d5a43157ae2066c69"
+        ],
+        "displayType": 0,
+        "price": 5.75,
+        "priceText": "₺5,75",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "cook-cop-torbasi-orta-boy-9ofM79y6ti",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c29e89a78654c00014ed147",
+        "name": "Cook Çöp Torbası Büyük Boy",
+        "shortName": "Cook Çöp Torbası Büyük",
+        "shortDescription": "7'li - 65 x 80 cm",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c29e89a78654c00014ed147_tr_1603570627314.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c29e89a78654c00014ed147_tr_1603570627314.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564c829b27652f0c007459f9"],
+        "displayType": 0,
+        "price": 7.49,
+        "priceText": "₺7,49",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "cook-cop-torbasi-buyuk-boy-HhsIRBS4xz",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e4fbaeb030cf654b881cf1a",
+        "name": "Cook Çöp Torbası Battal Boy",
+        "shortName": "Cook Çöp Torbası Battal Boy",
+        "shortDescription": "7'li - 72 x 95 cm",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e4fbaeb030cf654b881cf1a_tr_1604781115754.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e4fbaeb030cf654b881cf1a_tr_1604781115754.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564c829b27652f0c007459f9"],
+        "displayType": 0,
+        "price": 16.5,
+        "priceText": "₺16,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "cook-cop-torbasi-battal-boy-mEP76tZtod",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c29eb2838ade400012c74c9",
+        "name": "Cook Büzgülü Çöp Torbası Orta Boy Limon Kokulu",
+        "shortName": "Cook Çöp Torbası Orta",
+        "shortDescription": "15'li - 55 x 60 cm",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c29eb2838ade400012c74c9_tr_1594322495882.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c29eb2838ade400012c74c9_tr_1594322495882.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "564c829b27652f0c007459f9",
+          "5fd8a93d5a43157ae2066c69"
+        ],
+        "displayType": 0,
+        "price": 21.5,
+        "priceText": "₺21,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "cook-buzgulu-cop-torbasi-orta-boy-limon-kokulu-Z00f7zoMXe",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c29ec2478654c00014ed41e",
+        "name": "Cook Buzdolabı Poşeti",
+        "shortName": "Cook Buzdolabı Poşeti",
+        "shortDescription": "20'li - 24 x 38 cm",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c29ec2478654c00014ed41e_tr_1604259021178.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c29ec2478654c00014ed41e_tr_1604259021178.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564c829b27652f0c007459f9"],
+        "displayType": 0,
+        "price": 22.9,
+        "priceText": "₺22,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "cook-buzdolabi-poseti-O71skSQldm",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c29ecc978654c00014ed4fc",
+        "name": "Cook Kesilmiş Pişirme Kağıdı",
+        "shortName": "Cook Kesilmiş Pişirme Kağıdı",
+        "shortDescription": "42 x 37 cm",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c29ecc978654c00014ed4fc_tr_1601151502256.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c29ecc978654c00014ed4fc_tr_1601151502256.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "61b9ed091a62a71f128e1fec"],
+        "subCategoryIds": [
+          "564c829b27652f0c007459f9",
+          "61bc3e546da4e6b2a09d5028"
+        ],
+        "displayType": 0,
+        "price": 13.45,
+        "priceText": "₺13,45",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "cook-kesilmis-pisirme-kagidi-CS2kSj4J8E",
+        "badgeImages": [
+          {
+            "picUrl": "http://cdn.getir.com/product/61bb15219dc588933c49680f_4bdd3493-8a73-4830-b9c6-658da157d69f.png",
+            "position": "topLeft"
+          }
+        ],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c29ed2078654c00014ed591",
+        "name": "Cook Streç Film",
+        "shortName": "Cook Streç Film",
+        "shortDescription": "33 m",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c29ed2078654c00014ed591_tr_1605470886408.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c29ed2078654c00014ed591_tr_1605470886408.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "61b9ed091a62a71f128e1fec"],
+        "subCategoryIds": [
+          "564c829b27652f0c007459f9",
+          "61bc3e546da4e6b2a09d5028"
+        ],
+        "displayType": 0,
+        "price": 18.95,
+        "priceText": "₺18,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "cook-strec-film-0VXwNNsW4z",
+        "badgeImages": [
+          {
+            "picUrl": "http://cdn.getir.com/product/61bb15219dc588933c49680f_4bdd3493-8a73-4830-b9c6-658da157d69f.png",
+            "position": "topLeft"
+          }
+        ],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "55982541b1dc700c006a70b0",
+        "name": "Cook Alüminyum Folyo",
+        "shortName": "Cook Alüminyum Folyo",
+        "shortDescription": "10 m x 30 cm",
+        "squareThumbnailURL": "http://cdn.getir.com/product/55982541b1dc700c006a70b0_tr_1571067217549.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/55982541b1dc700c006a70b0_tr_1571067217549.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "61b9ed091a62a71f128e1fec"],
+        "subCategoryIds": [
+          "564c829b27652f0c007459f9",
+          "61bc3e546da4e6b2a09d5028"
+        ],
+        "displayType": 0,
+        "price": 15.95,
+        "priceText": "₺15,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "cook-aluminyum-folyo-KNPM6VochD",
+        "badgeImages": [
+          {
+            "picUrl": "http://cdn.getir.com/product/61bb15219dc588933c49680f_4bdd3493-8a73-4830-b9c6-658da157d69f.png",
+            "position": "topLeft"
+          }
+        ],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5faaa32a1b138f04cdce3426",
+        "name": "Pril Hijyen Sıvı Bulaşık Deterjanı",
+        "shortName": "Pril Hijyen",
+        "shortDescription": "653 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5faaa32a1b138f04cdce3426_tr_1624886153836.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5faaa32a1b138f04cdce3426_tr_1624886153836.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": [
+          "564c6976d35e7d0c002bd55b",
+          "564c829b27652f0c007459f9"
+        ],
+        "displayType": 0,
+        "price": 15.25,
+        "priceText": "₺15,25",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "pril-hijyen-sivi-bulasik-deterjani-ul33rwUeB5",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "mutfak-0NJ0EbXj8D"
+  },
+  {
+    "id": "564c6976d35e7d0c002bd55b",
+    "name": "Bulaşık",
+    "productCount": 8,
+    "products": [
+      {
+        "id": "5c3f27890f60030001c22b6f",
+        "name": "Pril Power Sıvı Bulaşık Deterjanı Limon",
+        "shortName": "Pril Power Limon",
+        "shortDescription": "1306 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c3f27890f60030001c22b6f_tr_1603519747163.jpeg",
+        "wideThumbnailURL": "http://cdn.getir.com/product/5c3f27890f60030001c22b6f_wide_pic_tr_1619679166771.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c3f27890f60030001c22b6f_tr_1603519747163.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "564c6976d35e7d0c002bd55b",
+          "5fd8a93d5a43157ae2066c69"
+        ],
+        "displayType": 1,
+        "price": 19.75,
+        "priceText": "₺19,75",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "pril-power-sivi-bulasik-deterjani-limon-m9my6nNphz",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5faaa32a1b138f04cdce3426",
+        "name": "Pril Hijyen Sıvı Bulaşık Deterjanı",
+        "shortName": "Pril Hijyen",
+        "shortDescription": "653 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5faaa32a1b138f04cdce3426_tr_1624886153836.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5faaa32a1b138f04cdce3426_tr_1624886153836.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": [
+          "564c6976d35e7d0c002bd55b",
+          "564c829b27652f0c007459f9"
+        ],
+        "displayType": 0,
+        "price": 15.25,
+        "priceText": "₺15,25",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "pril-hijyen-sivi-bulasik-deterjani-ul33rwUeB5",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e26bd388f2c3502b592c107",
+        "name": "Pril Bulaşık Makinesi Deterjanı Tablet Hepsi 1 Arada Extra",
+        "shortName": "Pril Hepsi 1 Arada Extra",
+        "shortDescription": "30'lu",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e26bd388f2c3502b592c107_tr_1591196717852.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e26bd388f2c3502b592c107_tr_1591196717852.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564c6976d35e7d0c002bd55b"],
+        "displayType": 0,
+        "price": 50.9,
+        "priceText": "₺50,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "pril-bulasik-makinesi-deterjani-tablet-hepsi-1-arada-extra-wT0ESiZ5w2",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "600e6892d238651d260387eb",
+        "name": "Pril Gold Bulaşık Makinesi Deterjanı Tablet",
+        "shortName": "Pril Gold Tablet",
+        "shortDescription": "30'lu",
+        "squareThumbnailURL": "http://cdn.getir.com/product/600e6892d238651d260387eb_tr_1611743048866.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/600e6892d238651d260387eb_tr_1611743048866.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": [
+          "564c6976d35e7d0c002bd55b",
+          "61387fe6ad1c45f27ba549ba"
+        ],
+        "displayType": 0,
+        "price": 52.9,
+        "priceText": "₺52,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "pril-gold-bulasik-makinesi-deterjani-tablet-Gm5G8tnwPo",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5eb3cc73d27f6821167c5491",
+        "name": "Finish Quantum Max Bulaşık Makinesi Deterjanı Tableti",
+        "shortName": "Finish Quantum Max",
+        "shortDescription": "22'li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5eb3cc73d27f6821167c5491_tr_1622727028495.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5eb3cc73d27f6821167c5491_tr_1622727028495.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564c6976d35e7d0c002bd55b"],
+        "displayType": 0,
+        "price": 59.9,
+        "priceText": "₺59,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "finish-quantum-max-bulasik-makinesi-deterjani-tableti-7PSwcoDXQv",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "611d1665acccf27b8296faa2",
+        "name": "Finish Ultimate Bulaşık Makinesi Deterjanı Tableti",
+        "shortName": "Finish Quantum Ultimate",
+        "shortDescription": "40'lı",
+        "squareThumbnailURL": "http://cdn.getir.com/product/611d1665acccf27b8296faa2_tr_1629707110891.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/611d1665acccf27b8296faa2_tr_1629707110891.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564c6976d35e7d0c002bd55b"],
+        "displayType": 0,
+        "price": 87.9,
+        "priceText": "₺87,90",
+        "status": 1,
+        "struckPrice": 99.9,
+        "struckPriceText": "₺99,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "finish-quantum-ultimate-bulasik-makinesi-deterjani-tableti-40-li-r8tpyg5fme",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "55a0060935a77b0c0075cd68",
+        "name": "Scotch Brite Yeşil Klasik Tırnak Koruyucu Sünger",
+        "shortName": "Scotch Brite Klasik Sünger",
+        "shortDescription": "8'li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/55a0060935a77b0c0075cd68_tr_1614942240838.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/55a0060935a77b0c0075cd68_tr_1614942240838.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["564c6976d35e7d0c002bd55b"],
+        "displayType": 0,
+        "price": 34.5,
+        "priceText": "₺34,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "scotch-brite-yesil-klasik-tirnak-koruyucu-sunger-qOghZyeeXE",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c08e354a6be5c001207c983",
+        "name": "Parex Oluklu Klasik Yeşil Sünger",
+        "shortName": "Parex Klasik Sünger",
+        "shortDescription": "5'li",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c08e354a6be5c001207c983_tr_1604781354011.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c08e354a6be5c001207c983_tr_1604781354011.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "5fd8a40cbb487c5a816f9f03"],
+        "subCategoryIds": [
+          "564c881027652f0c007460f0",
+          "564c6976d35e7d0c002bd55b",
+          "5fd8a93d5a43157ae2066c69"
+        ],
+        "displayType": 0,
+        "price": 20.9,
+        "priceText": "₺20,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "parex-oluklu-klasik-yesil-sunger-i3kMFiRJVk",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "bulasik-kd6dbOhUvu"
+  },
+  {
+    "id": "564c851227652f0c00745cba",
+    "name": "Sabun",
+    "productCount": 8,
+    "products": [
+      {
+        "id": "5e6b59d5370b07ce0c123ee1",
+        "name": "Protex Antibakteriyel Krem Sıvı Sabun",
+        "shortName": "Krem Sıvı Sabun",
+        "shortDescription": "300 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e6b59d5370b07ce0c123ee1_tr_1603570571382.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e6b59d5370b07ce0c123ee1_tr_1603570571382.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "551430043427d5010a3a5c5c"],
+        "subCategoryIds": [
+          "564c851227652f0c00745cba",
+          "5e3abc1be27a3c242b4de946"
+        ],
+        "displayType": 0,
+        "price": 15.75,
+        "priceText": "₺15,75",
+        "status": 1,
+        "struckPrice": 20.9,
+        "struckPriceText": "₺20,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "protex-antibakteriyel-krem-sivi-sabun-oCY5XbNp4v",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e7b215426aecd5512270b3e",
+        "name": "Protex Antibakteriyel Ultra Koruma Sıvı Sabun",
+        "shortName": "Ultra Koruma Sıvı Sabun",
+        "shortDescription": "1,5 L",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e7b215426aecd5512270b3e_tr_1604128736087.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e7b215426aecd5512270b3e_tr_1604128736087.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "551430043427d5010a3a5c5c"],
+        "subCategoryIds": [
+          "564c851227652f0c00745cba",
+          "5e3abc1be27a3c242b4de946"
+        ],
+        "displayType": 0,
+        "price": 52.4,
+        "priceText": "₺52,40",
+        "status": 1,
+        "struckPrice": 69.9,
+        "struckPriceText": "₺69,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "protex-antibakteriyel-ultra-koruma-sivi-sabun-ksIGTODtr0",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e9056518f097155e41c4f6f",
+        "name": "Activex Aktif Antibakteriyel Sıvı Sabun",
+        "shortName": "Antibakteriyel Sıvı Sabun",
+        "shortDescription": "700 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e9056518f097155e41c4f6f_tr_1607433477355.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e9056518f097155e41c4f6f_tr_1607433477355.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "551430043427d5010a3a5c5c"],
+        "subCategoryIds": [
+          "564c851227652f0c00745cba",
+          "5e3abc1be27a3c242b4de946"
+        ],
+        "displayType": 0,
+        "price": 25.9,
+        "priceText": "₺25,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "activex-aktif-antibakteriyel-sivi-sabun-uHsVQaOBjS",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "59280bbf37e22d0004eace9e",
+        "name": "Le Petit Marseillais Lavanta Sıvı Sabun",
+        "shortName": "Lavanta Sıvı Sabun",
+        "shortDescription": "300 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/59280bbf37e22d0004eace9e_tr_1561555862490.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/59280bbf37e22d0004eace9e_tr_1561555862490.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "551430043427d5010a3a5c5c"],
+        "subCategoryIds": [
+          "564c851227652f0c00745cba",
+          "5e3abc1be27a3c242b4de946"
+        ],
+        "displayType": 0,
+        "price": 15.95,
+        "priceText": "₺15,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "le-petit-marseillais-lavanta-sivi-sabun-opU3yiKDvE",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5947e9d5cb22570004a16270",
+        "name": "Le Petit Marseillais Pamuk Sütü Sıvı Sabun",
+        "shortName": "Pamuk Sütü Sıvı Sabun",
+        "shortDescription": "500 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5947e9d5cb22570004a16270.jpeg?v=1540207036607",
+        "picURLs": [
+          "http://cdn.getir.com/product/5947e9d5cb22570004a16270.jpeg?v=1540207036607"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "551430043427d5010a3a5c5c"],
+        "subCategoryIds": [
+          "564c851227652f0c00745cba",
+          "5e3abc1be27a3c242b4de946"
+        ],
+        "displayType": 0,
+        "price": 15.95,
+        "priceText": "₺15,95",
+        "status": 1,
+        "struckPrice": 21.9,
+        "struckPriceText": "₺21,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "le-petit-marseillais-pamuk-sutu-sivi-sabun-CysoqxbLlp",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "565c2e7c762af60c0079798c",
+        "name": "Dove Sıvı Sabun Beauty Cream Wash",
+        "shortName": "Beauty Cream Sıvı Sabun",
+        "shortDescription": "500 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/565c2e7c762af60c0079798c_tr_1609397772740.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/565c2e7c762af60c0079798c_tr_1609397772740.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "551430043427d5010a3a5c5c"],
+        "subCategoryIds": [
+          "564c851227652f0c00745cba",
+          "5e3abc1be27a3c242b4de946"
+        ],
+        "displayType": 0,
+        "price": 28.9,
+        "priceText": "₺28,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "dove-sivi-sabun-beauty-cream-wash-bQrd0kI0QU",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5d6fac66d3fc490001d036d4",
+        "name": "Duru Saf & Doğal Klasik Kalıp Sabun",
+        "shortName": "Saf & Doğal Sabun",
+        "shortDescription": "4 x 150 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5d6fac66d3fc490001d036d4_tr_1609842719609.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5d6fac66d3fc490001d036d4_tr_1609842719609.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "551430043427d5010a3a5c5c"],
+        "subCategoryIds": [
+          "564c851227652f0c00745cba",
+          "5e3abc1be27a3c242b4de946"
+        ],
+        "displayType": 0,
+        "price": 21.5,
+        "priceText": "₺21,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "duru-saf-dogal-klasik-kalip-sabun-wGFCdrzIG9",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ce6581efd9b330001c4a8da",
+        "name": "Hacı Şakir Doğal Geleneksel Kalıp Sabun",
+        "shortName": "Doğal Kalıp Sabun",
+        "shortDescription": "4 x 150 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ce6581efd9b330001c4a8da_tr_1609842761995.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ce6581efd9b330001c4a8da_tr_1609842761995.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "551430043427d5010a3a5c5c"],
+        "subCategoryIds": [
+          "564c851227652f0c00745cba",
+          "5e3abc1be27a3c242b4de946"
+        ],
+        "displayType": 0,
+        "price": 21.5,
+        "priceText": "₺21,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "haci-sakir-dogal-geleneksel-kalip-sabun-M18MYG6blP",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "sabun-EABpEicv45"
+  },
+  {
+    "id": "56e010208d5ef8030039885c",
+    "name": "Oda Kokusu",
+    "productCount": 3,
+    "products": [
+      {
+        "id": "605bbe6b39ba7b6702a28eca",
+        "name": "Glade Aerosol İpeksi Vanilya Oda Kokusu",
+        "shortName": "Glade İpeksi Vanilya",
+        "shortDescription": "300 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/605bbe6b39ba7b6702a28eca_tr_1628233933843.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/605bbe6b39ba7b6702a28eca_tr_1628233933843.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["56e010208d5ef8030039885c"],
+        "displayType": 0,
+        "price": 19.95,
+        "priceText": "₺19,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "glade-aerosol-ipeksi-vanilya-oda-kokusu-eCYeWYoWUJ",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ce65823a72a950001cc88de",
+        "name": "Glade Aerosol Aşkın Büyüsü Oda Kokusu",
+        "shortName": "Glade Aşkın Büyüsü",
+        "shortDescription": "300 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ce65823a72a950001cc88de_tr_1628233862112.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ce65823a72a950001cc88de_tr_1628233862112.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8"],
+        "subCategoryIds": ["56e010208d5ef8030039885c"],
+        "displayType": 0,
+        "price": 19.95,
+        "priceText": "₺19,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "glade-aerosol-askin-buyusu-oda-kokusu-uGTb0lb2u7",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "605bc32e2a22b6a1cc641c7f",
+        "name": "Air Wick Kokulu Çubuklar Okyanus Sesi",
+        "shortName": "Air Wick Okyanus Sesi",
+        "shortDescription": "30 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/605bc32e2a22b6a1cc641c7f_tr_1622614132083.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/605bc32e2a22b6a1cc641c7f_tr_1622614132083.jpeg",
+          "http://cdn.getir.com/product/605bc32e2a22b6a1cc641c7f_10fd7642-cf62-4dd0-a2eb-84cf565bbab6.jpeg"
+        ],
+        "categoryIds": ["55449fdf02632e11003c2da8", "5697c78dc181490f00c99fea"],
+        "subCategoryIds": [
+          "56e010208d5ef8030039885c",
+          "5a14017dad8d270004d1f2bb"
+        ],
+        "displayType": 0,
+        "price": 44.9,
+        "priceText": "₺44,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "air-wick-kokulu-cubuklar-okyanus-sesi-kFgXYkRttY",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "oda-kokusu-h3DHDzTvYu"
+  }
+]

@@ -1,0 +1,3696 @@
+[
+  {
+    "id": "5ffc3636db6c2f7b4ead1338",
+    "name": "Birlikte İyi Gider",
+    "productCount": 2,
+    "products": [
+      {
+        "id": "58232bc3d9a3db0004e64afb",
+        "name": "Sütaş Beyaz Peynir",
+        "shortName": "Sütaş Beyaz Peynir",
+        "shortDescription": "500 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/58232bc3d9a3db0004e64afb_tr_1593175637387.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/58232bc3d9a3db0004e64afb_tr_1593175637387.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5cfe685e25d48100016b7ea6",
+          "56dfcfba86004203000a870d"
+        ],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3",
+          "5ffc3636db6c2f7b4ead1338"
+        ],
+        "displayType": 0,
+        "price": 34.75,
+        "priceText": "₺34,75",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sutas-beyaz-peynir-C5T6wsxIZi",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "582337bb5b31d60004489be3",
+        "name": "Sütaş Süzme Peynir",
+        "shortName": "Sütaş Süzme Peynir",
+        "shortDescription": "500 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/582337bb5b31d60004489be3_tr_1579699634031.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/582337bb5b31d60004489be3_tr_1579699634031.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5cfe685e25d48100016b7ea6",
+          "566eeb85f9facb0f00b1cb16",
+          "56dfcfba86004203000a870d"
+        ],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3",
+          "5ff8444846c6e784f218aed7",
+          "5ffc3636db6c2f7b4ead1338"
+        ],
+        "displayType": 0,
+        "price": 32.95,
+        "priceText": "₺32,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sutas-suzme-peynir-fUi2QQnvB8",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "birlikte-iyi-gider-SyBEXxHBz0"
+  },
+  {
+    "id": "5e832943fbd613a6ceeaab4f",
+    "name": "Et, Tavuk & Balık",
+    "productCount": 2,
+    "products": [
+      {
+        "id": "6090daa0998adf55beaf5fdd",
+        "name": "Bonfilet Pişmiş Döner",
+        "shortName": "Bonfilet Pişmiş Döner",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6090daa0998adf55beaf5fdd_tr_1620214191748.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6090daa0998adf55beaf5fdd_tr_1620214191748.jpeg"
+        ],
+        "categoryIds": [
+          "551430043427d5010a3a5c5d",
+          "5d01535e7730a800019b09cf",
+          "56dfcfba86004203000a870d"
+        ],
+        "subCategoryIds": [
+          "5c755ac4bb1967000104b5a4",
+          "5d01544e7730a800019b0c9a",
+          "5e832943fbd613a6ceeaab4f"
+        ],
+        "displayType": 0,
+        "price": 26.9,
+        "priceText": "₺26,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "bonfilet-pismis-doner-9Ov2VxE7tE",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f72e28d9e4f771499356227",
+        "name": "Sultan %20 Yağlı Dana Kıyma",
+        "shortName": "Sultan %20 Yağlı Dana Kıyma",
+        "shortDescription": "400 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f72e28d9e4f771499356227_tr_1602237005702.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f72e28d9e4f771499356227_tr_1602237005702.jpeg"
+        ],
+        "categoryIds": ["5d01535e7730a800019b09cf", "56dfcfba86004203000a870d"],
+        "subCategoryIds": [
+          "5d01544e7730a800019b0c9a",
+          "5e832943fbd613a6ceeaab4f"
+        ],
+        "displayType": 0,
+        "price": 38.9,
+        "priceText": "₺38,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sultan-20-yagli-dana-kiyma-E22QP1jdtv",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "et-tavuk-balik-XkMT3d8J3p"
+  },
+  {
+    "id": "56def24e1cda0403006f9e0e",
+    "name": "Makarna",
+    "productCount": 12,
+    "products": [
+      {
+        "id": "5cf272539463890001c3fd30",
+        "name": "Filiz Burgu Makarna",
+        "shortName": "Filiz Burgu",
+        "shortDescription": "500 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5cf272539463890001c3fd30_tr_1586450141796.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5cf272539463890001c3fd30_tr_1586450141796.jpeg",
+          "http://cdn.getir.com/product/5cf272539463890001c3fd30_tr_1588606665186.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["56def24e1cda0403006f9e0e"],
+        "displayType": 0,
+        "price": 6.1,
+        "priceText": "₺6,10",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "filiz-burgu-makarna-qwrm3dKkwN",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "559fb113f462100c0046148f",
+        "name": "Nuh'un Ankara Fiyonk Makarna",
+        "shortName": "Nuh'un Ankara Fiyonk",
+        "shortDescription": "500 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/559fb113f462100c0046148f.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/559fb113f462100c0046148f.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["56def24e1cda0403006f9e0e"],
+        "displayType": 0,
+        "price": 7.5,
+        "priceText": "₺7,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "nuh-un-ankara-fiyonk-makarna-4DK58yLG1W",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "559fb052f462100c00461474",
+        "name": "Nuh'un Ankara Burgu Makarna",
+        "shortName": "Nuh'un Ankara Burgu",
+        "shortDescription": "500 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/559fb052f462100c00461474.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/559fb052f462100c00461474.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["56def24e1cda0403006f9e0e"],
+        "displayType": 0,
+        "price": 7.5,
+        "priceText": "₺7,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "nuh-un-ankara-burgu-makarna-zU4TdYvrNW",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "559fb12df462100c00461494",
+        "name": "Nuh'un Ankara Spaghetti",
+        "shortName": "Nuh'un Ankara Spaghetti",
+        "shortDescription": "500 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/559fb12df462100c00461494.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/559fb12df462100c00461494.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["56def24e1cda0403006f9e0e"],
+        "displayType": 0,
+        "price": 7.5,
+        "priceText": "₺7,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "nuh-un-ankara-spaghetti-tEQ5KPLh8g",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6197bb4211b083471dfa5b70",
+        "name": "Mutlu Fiyonk Makarna",
+        "shortName": "Mutlu Fiyonk Makarna",
+        "shortDescription": "500 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6197bb4211b083471dfa5b70_tr_1637829497992.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6197bb4211b083471dfa5b70_tr_1637829497992.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["56def24e1cda0403006f9e0e"],
+        "displayType": 0,
+        "price": 4.65,
+        "priceText": "₺4,65",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "fiyonk-makarna-8carbyxbaq",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6197badbd89cec3cfbab668d",
+        "name": "Mutlu Burgu Makarna",
+        "shortName": "Mutlu Burgu Makarna",
+        "shortDescription": "500 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6197badbd89cec3cfbab668d_tr_1637825662629.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6197badbd89cec3cfbab668d_tr_1637825662629.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["56def24e1cda0403006f9e0e"],
+        "displayType": 0,
+        "price": 4.65,
+        "priceText": "₺4,65",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "burgu-makarna-juureybcnd",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6197ba8c6316883bafe032e8",
+        "name": "Mutlu Spaghetti Makarna",
+        "shortName": "Mutlu Spaghetti",
+        "shortDescription": "500 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6197ba8c6316883bafe032e8_tr_1637825297183.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6197ba8c6316883bafe032e8_tr_1637825297183.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["56def24e1cda0403006f9e0e"],
+        "displayType": 0,
+        "price": 4.65,
+        "priceText": "₺4,65",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "spaghetti-makarna-d21qjijmk4",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ddfb4626f61f213272cc2d9",
+        "name": "Yayla Napoliten Soslu Makarna",
+        "shortName": "Napoliten Soslu Makarna",
+        "shortDescription": "250 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ddfb4626f61f213272cc2d9_tr_1612889512226.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ddfb4626f61f213272cc2d9_tr_1612889512226.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d", "551430043427d5010a3a5c5d"],
+        "subCategoryIds": [
+          "56def24e1cda0403006f9e0e",
+          "5c755ac4bb1967000104b5a4"
+        ],
+        "displayType": 0,
+        "price": 10.9,
+        "priceText": "₺10,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "yayla-napoliten-soslu-makarna-gCUPGHgiF4",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e41708cc30e40722b6519f9",
+        "name": "Yayla Arabiata Soslu Makarna",
+        "shortName": "Arabiata Soslu Makarna",
+        "shortDescription": "250 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e41708cc30e40722b6519f9_tr_1612889496946.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e41708cc30e40722b6519f9_tr_1612889496946.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d", "551430043427d5010a3a5c5d"],
+        "subCategoryIds": [
+          "56def24e1cda0403006f9e0e",
+          "5c755ac4bb1967000104b5a4"
+        ],
+        "displayType": 0,
+        "price": 10.9,
+        "priceText": "₺10,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "yayla-arabiata-soslu-makarna-wb7qMNGhqC",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5cac7a7eec184600019a1bd0",
+        "name": "Knorr 3 Peynirli Çabuk Makarna",
+        "shortName": "Knorr 3 Peynirli Çabuk Makarna",
+        "shortDescription": "67 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5cac7a7eec184600019a1bd0_tr_1579763278848.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5cac7a7eec184600019a1bd0_tr_1579763278848.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5d", "56dfcfba86004203000a870d"],
+        "subCategoryIds": [
+          "5c755ac4bb1967000104b5a4",
+          "56def24e1cda0403006f9e0e"
+        ],
+        "displayType": 0,
+        "price": 9.25,
+        "priceText": "₺9,25",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "knorr-3-peynirli-cabuk-makarna-EnywlOtls8",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61432ce9d2a1a4332cccba20",
+        "name": "Knorr Körili Çabuk Makarna",
+        "shortName": "Knorr Körili Çabuk Makarna",
+        "shortDescription": "70 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61432ce9d2a1a4332cccba20_642e84c4-4f68-485e-9344-7a55f983bacd.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61432ce9d2a1a4332cccba20_642e84c4-4f68-485e-9344-7a55f983bacd.jpeg",
+          "http://cdn.getir.com/product/61432ce9d2a1a4332cccba20_7203cba7-930e-4e1e-b841-67f4a9dfaa5d.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5d", "56dfcfba86004203000a870d"],
+        "subCategoryIds": [
+          "5c755ac4bb1967000104b5a4",
+          "56def24e1cda0403006f9e0e"
+        ],
+        "displayType": 0,
+        "price": 9.25,
+        "priceText": "₺9,25",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "knorr-cabuk-makarna-korili-un0trpya2u",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "612e2703a1be47192e3d7d0e",
+        "name": "Oba Mac & Cheese",
+        "shortName": "Oba Mac & Cheese",
+        "shortDescription": "206 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/612e2703a1be47192e3d7d0e_tr_1630651173235.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/612e2703a1be47192e3d7d0e_tr_1630651173235.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["56def24e1cda0403006f9e0e"],
+        "displayType": 0,
+        "price": 8.75,
+        "priceText": "₺8,75",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "oba-mac-cheese-qgomn4rxdb",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "makarna-QQZEfdvtij"
+  },
+  {
+    "id": "5d375f1adee74e00018b0c51",
+    "name": "Pirinç",
+    "productCount": 3,
+    "products": [
+      {
+        "id": "588af536f2532a0004000400",
+        "name": "Yayla Osmancık Pirinç",
+        "shortName": "Yayla Osmancık Pirinç",
+        "shortDescription": "1 kg",
+        "squareThumbnailURL": "http://cdn.getir.com/product/588af536f2532a0004000400_tr_1608534201472.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/588af536f2532a0004000400_tr_1608534201472.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["5d375f1adee74e00018b0c51"],
+        "displayType": 0,
+        "price": 25.85,
+        "priceText": "₺25,85",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "yayla-osmancik-pirinc-YHm0eOdfyi",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "588af4e6f2532a00040003c2",
+        "name": "Yayla Gönen Baldo Pirinç",
+        "shortName": "Yayla Baldo Pirinç",
+        "shortDescription": "1 kg",
+        "squareThumbnailURL": "http://cdn.getir.com/product/588af4e6f2532a00040003c2_tr_1608534191984.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/588af4e6f2532a00040003c2_tr_1608534191984.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["5d375f1adee74e00018b0c51"],
+        "displayType": 0,
+        "price": 24.75,
+        "priceText": "₺24,75",
+        "status": 1,
+        "struckPrice": 27.25,
+        "struckPriceText": "₺27,25",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "yayla-gonen-baldo-pirinc-DjJpTAkJdH",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6020ec318c9586ba30881361",
+        "name": "Yayla Yerli Pilavlık Pirinç",
+        "shortName": "Yayla Pilavlık Pirinç",
+        "shortDescription": "2 kg",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6020ec318c9586ba30881361_tr_1634138306870.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6020ec318c9586ba30881361_tr_1634138306870.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["5d375f1adee74e00018b0c51"],
+        "displayType": 0,
+        "price": 48.35,
+        "priceText": "₺48,35",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "yayla-yerli-pilavlik-pirinc-IwtDiqY1kT",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "pirinc-YHe3qmOWZ4"
+  },
+  {
+    "id": "5d3878d1a48d7500018965f3",
+    "name": "Bulgur",
+    "productCount": 2,
+    "products": [
+      {
+        "id": "588af61ef2532a0004000484",
+        "name": "Yayla Pilavlık Bulgur",
+        "shortName": "Yayla Pilavlık Bulgur",
+        "shortDescription": "1 kg",
+        "squareThumbnailURL": "http://cdn.getir.com/product/588af61ef2532a0004000484_tr_1564497668357.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/588af61ef2532a0004000484_tr_1564497668357.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["5d3878d1a48d7500018965f3"],
+        "displayType": 0,
+        "price": 17.5,
+        "priceText": "₺17,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "yayla-pilavlik-bulgur-TQCBZx1qAn",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "603f4af08331c52d476bd3a8",
+        "name": "Yayla Köftelik Bulgur",
+        "shortName": "Yayla Köftelik Bulgur",
+        "shortDescription": "1 kg",
+        "squareThumbnailURL": "http://cdn.getir.com/product/603f4af08331c52d476bd3a8_tr_1615191114867.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/603f4af08331c52d476bd3a8_tr_1615191114867.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["5d3878d1a48d7500018965f3"],
+        "displayType": 0,
+        "price": 17.5,
+        "priceText": "₺17,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "yayla-koftelik-bulgur-fH6qpSWAuL",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "bulgur-ivRiviH7cC"
+  },
+  {
+    "id": "5d10af9806d6060001b1130f",
+    "name": "Bakliyat",
+    "productCount": 5,
+    "products": [
+      {
+        "id": "5bcd94162de1b21e73a57045",
+        "name": "Yayla Kırmızı Mercimek",
+        "shortName": "Yayla Kırmızı Mercimek",
+        "shortDescription": "1 kg",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5bcd94162de1b21e73a57045_tr_1604685116857.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5bcd94162de1b21e73a57045_tr_1604685116857.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["5d10af9806d6060001b1130f"],
+        "displayType": 0,
+        "price": 31.5,
+        "priceText": "₺31,50",
+        "status": 1,
+        "struckPrice": 34.65,
+        "struckPriceText": "₺34,65",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "yayla-kirmizi-mercimek-yMEScgMjq3",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5a5771df3bcb0900046ec6a5",
+        "name": "Yayla Yeşil Mercimek",
+        "shortName": "Yayla Yeşil Mercimek",
+        "shortDescription": "1 kg",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5a5771df3bcb0900046ec6a5_tr_1608534222607.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5a5771df3bcb0900046ec6a5_tr_1608534222607.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["5d10af9806d6060001b1130f"],
+        "displayType": 0,
+        "price": 40.65,
+        "priceText": "₺40,65",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "yayla-yesil-mercimek-YOrcWXRHgE",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "588af5decb0920000491758d",
+        "name": "Yayla Koçbaşı Nohut",
+        "shortName": "Yayla Koçbaşı Nohut",
+        "shortDescription": "1 kg",
+        "squareThumbnailURL": "http://cdn.getir.com/product/588af5decb0920000491758d_tr_1608534231249.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/588af5decb0920000491758d_tr_1608534231249.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["5d10af9806d6060001b1130f"],
+        "displayType": 0,
+        "price": 32.9,
+        "priceText": "₺32,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "yayla-kocbasi-nohut-m0ZE25nUVR",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "588af5b6cb09200004917578",
+        "name": "Yayla Dermason Fasulye",
+        "shortName": "Yayla Dermason Fasulye",
+        "shortDescription": "1 kg",
+        "squareThumbnailURL": "http://cdn.getir.com/product/588af5b6cb09200004917578_tr_1624266524075.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/588af5b6cb09200004917578_tr_1624266524075.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["5d10af9806d6060001b1130f"],
+        "displayType": 0,
+        "price": 29.95,
+        "priceText": "₺29,95",
+        "status": 1,
+        "struckPrice": 32.95,
+        "struckPriceText": "₺32,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "yayla-dermason-fasulye-Lwesll6Etl",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5bfbc3f775ca59003170046c",
+        "name": "Yayla Patlayan Mısır",
+        "shortName": "Yayla Mısır",
+        "shortDescription": "500 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5bfbc3f775ca59003170046c_tr_1609396154404.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5bfbc3f775ca59003170046c_tr_1609396154404.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["5d10af9806d6060001b1130f"],
+        "displayType": 0,
+        "price": 9.35,
+        "priceText": "₺9,35",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "yayla-patlayan-misir-OPU2Y15WTQ",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "bakliyat-6wRH2usJbC"
+  },
+  {
+    "id": "56dfd0a6e48b4f0300d2d271",
+    "name": "Salça & Sos",
+    "productCount": 20,
+    "products": [
+      {
+        "id": "595b6f7dfca4ec0004416e53",
+        "name": "Tat Köy Biber Salçası",
+        "shortName": "Tat Köy Biber Salçası",
+        "shortDescription": "550 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/595b6f7dfca4ec0004416e53_tr_1599938877564.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/595b6f7dfca4ec0004416e53_tr_1599938877564.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["56dfd0a6e48b4f0300d2d271"],
+        "displayType": 0,
+        "price": 26,
+        "priceText": "₺26,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "tat-koy-biber-salcasi-u5ptydLw9T",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e3024654694689d55775b65",
+        "name": "Tat Domates Rendesi",
+        "shortName": "Tat Domates Rendesi",
+        "shortDescription": "685 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e3024654694689d55775b65_tr_1580801694133.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e3024654694689d55775b65_tr_1580801694133.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["56dfd0a6e48b4f0300d2d271"],
+        "displayType": 0,
+        "price": 10.3,
+        "priceText": "₺10,30",
+        "status": 1,
+        "struckPrice": 11.45,
+        "struckPriceText": "₺11,45",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "tat-domates-rendesi-JAWmJr0MvH",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5d03bb6736e4a5000117bbe5",
+        "name": "Tat Menemen Harcı",
+        "shortName": "Tat Menemen Harcı",
+        "shortDescription": "340 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5d03bb6736e4a5000117bbe5_tr_1562224173243.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5d03bb6736e4a5000117bbe5_tr_1562224173243.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["56dfd0a6e48b4f0300d2d271"],
+        "displayType": 0,
+        "price": 8.55,
+        "priceText": "₺8,55",
+        "status": 1,
+        "struckPrice": 9.5,
+        "struckPriceText": "₺9,50",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "tat-menemen-harci-bb3VsNS0tb",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5cac7aefec184600019a1c4d",
+        "name": "Calve Salsa Acılı Meksika Dip Sos",
+        "shortName": "Calve Salsa Acılı Meksika Sos",
+        "shortDescription": "300 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5cac7aefec184600019a1c4d_tr_1630055052115.png",
+        "picURLs": [
+          "http://cdn.getir.com/product/5cac7aefec184600019a1c4d_tr_1630055052115.png"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "56dfcfba86004203000a870d",
+          "5cfe685e25d48100016b7ea6",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "5c13d4a512dc7200187ed969",
+          "56dfd0a6e48b4f0300d2d271",
+          "5a14ac59b06405000474b92d",
+          "61a8d571ee4893000e97351a",
+          "61baf01d1625b3bfe931259c"
+        ],
+        "displayType": 0,
+        "price": 20.95,
+        "priceText": "₺20,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "calve-salsa-acili-meksika-dip-sos-OI2agHdJpe",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "614329c8f48dbb583ca9b4e7",
+        "name": "Berrak Tatlı Dobipa Sos",
+        "shortName": "Berrak Tatlı Dobipa Sos",
+        "shortDescription": "310 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/614329c8f48dbb583ca9b4e7_tr_1631803905147.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/614329c8f48dbb583ca9b4e7_tr_1631803905147.jpeg"
+        ],
+        "categoryIds": [
+          "56dfcfba86004203000a870d",
+          "56dfed05ab747f03008d9379",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "56dfd0a6e48b4f0300d2d271",
+          "5a14ac59b06405000474b92d",
+          "61a78fad45075ce2c77d7c74"
+        ],
+        "displayType": 0,
+        "price": 15.95,
+        "priceText": "₺15,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "dobipa-sos-tatli-300ml-berrak-tr-hfopyfnouk",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "595b7176fca4ec0004417020",
+        "name": "Tat Cevizli Ezme",
+        "shortName": "Tat Cevizli Ezme",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/595b7176fca4ec0004417020_tr_1609395948628.png",
+        "picURLs": [
+          "http://cdn.getir.com/product/595b7176fca4ec0004417020_tr_1609395948628.png"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d", "56dfed05ab747f03008d9379"],
+        "subCategoryIds": [
+          "56dfd0a6e48b4f0300d2d271",
+          "5a14ac59b06405000474b92d"
+        ],
+        "displayType": 0,
+        "price": 13.95,
+        "priceText": "₺13,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "tat-cevizli-ezme-kBt73aJzil",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "617fc7e9089320acb878553c",
+        "name": "Heinz Sarımsaklı Ketçap",
+        "shortName": "Heinz Sarımsaklı Ketçap",
+        "shortDescription": "460 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/617fc7e9089320acb878553c_tr_1636958599494.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/617fc7e9089320acb878553c_tr_1636958599494.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["56dfd0a6e48b4f0300d2d271"],
+        "displayType": 0,
+        "price": 24.75,
+        "priceText": "₺24,75",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "heinz-sarimsakli-ketcap-gs8yslkofi",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "565965be783d200c00662501",
+        "name": "Heinz Mayonez",
+        "shortName": "Heinz Mayonez ",
+        "shortDescription": "400 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/565965be783d200c00662501_tr_1598732101218.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/565965be783d200c00662501_tr_1598732101218.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["56dfd0a6e48b4f0300d2d271"],
+        "displayType": 0,
+        "price": 31.65,
+        "priceText": "₺31,65",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "heinz-mayonez-0KLUz4SGjs",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5dfca684ea53130ef4def88e",
+        "name": "Heinz Sarımsaklı Mayonez",
+        "shortName": "Heinz Sarımsaklı Mayonez",
+        "shortDescription": "400 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5dfca684ea53130ef4def88e_tr_1604782027169.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5dfca684ea53130ef4def88e_tr_1604782027169.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["56dfd0a6e48b4f0300d2d271"],
+        "displayType": 0,
+        "price": 36.9,
+        "priceText": "₺36,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "heinz-sarimsakli-mayonez-PwBQlyaFBM",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c8787f11f5acb000125d153",
+        "name": "Heinz Hardal",
+        "shortName": "Heinz Hardal",
+        "shortDescription": "445 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c8787f11f5acb000125d153_tr_1576682903645.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c8787f11f5acb000125d153_tr_1576682903645.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["56dfd0a6e48b4f0300d2d271"],
+        "displayType": 0,
+        "price": 35.5,
+        "priceText": "₺35,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "heinz-hardal-byLcWE3cOU",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c07d8cebe1c080018f985fd",
+        "name": "Calve Barbekü Sos",
+        "shortName": "Calve Barbekü Sos",
+        "shortDescription": "290 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c07d8cebe1c080018f985fd_tr_1630054434053.png",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c07d8cebe1c080018f985fd_tr_1630054434053.png"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["56dfd0a6e48b4f0300d2d271"],
+        "displayType": 0,
+        "price": 18.65,
+        "priceText": "₺18,65",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "calve-barbeku-sos-9702NZthLi",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c87b617a2dee400010f87c5",
+        "name": "Calve Ranch Sos",
+        "shortName": "Calve Ranch Sos",
+        "shortDescription": "245 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c87b617a2dee400010f87c5_tr_1630054982778.png",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c87b617a2dee400010f87c5_tr_1630054982778.png"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["56dfd0a6e48b4f0300d2d271"],
+        "displayType": 0,
+        "price": 18.65,
+        "priceText": "₺18,65",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "calve-ranch-sos-Jk0lDW0R86",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f734bb5ea14c2568b47e943",
+        "name": "Calve Köri Sos",
+        "shortName": "Calve Köri Sos",
+        "shortDescription": "260 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f734bb5ea14c2568b47e943_tr_1601392405843.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f734bb5ea14c2568b47e943_tr_1601392405843.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["56dfd0a6e48b4f0300d2d271"],
+        "displayType": 0,
+        "price": 18.65,
+        "priceText": "₺18,65",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "calve-kori-sos-KObV3vttTB",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5cf00cd28ebae600018b93ec",
+        "name": "Calve Cheddar Sos",
+        "shortName": "Calve Cheddar Sos",
+        "shortDescription": "240 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5cf00cd28ebae600018b93ec_tr_1630054467570.png",
+        "picURLs": [
+          "http://cdn.getir.com/product/5cf00cd28ebae600018b93ec_tr_1630054467570.png"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["56dfd0a6e48b4f0300d2d271"],
+        "displayType": 0,
+        "price": 18.65,
+        "priceText": "₺18,65",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "calve-cheddar-sos-zb9vt0ovzV",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5dfcad20422a1a4b266b004c",
+        "name": "Heinz Acılı Mayonez",
+        "shortName": "Heinz Acılı Mayonez",
+        "shortDescription": "405 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5dfcad20422a1a4b266b004c_tr_1636958379933.octet-stream",
+        "picURLs": [
+          "http://cdn.getir.com/product/5dfcad20422a1a4b266b004c_tr_1636958379933.octet-stream"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["56dfd0a6e48b4f0300d2d271"],
+        "displayType": 0,
+        "price": 36.9,
+        "priceText": "₺36,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "heinz-acili-mayonez-405-gr-rzZdXu9fnE",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f182542681e442de8aa67dd",
+        "name": "Tat Mayonez",
+        "shortName": "Tat Mayonez",
+        "shortDescription": "550 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f182542681e442de8aa67dd_tr_1628262658320.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f182542681e442de8aa67dd_tr_1628262658320.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["56dfd0a6e48b4f0300d2d271"],
+        "displayType": 0,
+        "price": 28.55,
+        "priceText": "₺28,55",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "tat-mayonez-AsQJwmUrsY",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fd8c75f11fe789967aeb7fa",
+        "name": "Kemal Kükrer Soya Sosu",
+        "shortName": "Kemal Kükrer Soya Sosu",
+        "shortDescription": "250 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fd8c75f11fe789967aeb7fa_tr_1633699401289.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fd8c75f11fe789967aeb7fa_tr_1633699401289.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["56dfd0a6e48b4f0300d2d271"],
+        "displayType": 0,
+        "price": 16.95,
+        "priceText": "₺16,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "kemal-kukrer-soya-sosu-Wy7fIvCeez",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5cf00cd4cc444f0001d34ba0",
+        "name": "Tabasco Acı Biber Sosu",
+        "shortName": "Tabasco Acı Biber Sosu",
+        "shortDescription": "60 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5cf00cd4cc444f0001d34ba0_tr_1594026500302.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5cf00cd4cc444f0001d34ba0_tr_1594026500302.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["56dfd0a6e48b4f0300d2d271"],
+        "displayType": 0,
+        "price": 48.5,
+        "priceText": "₺48,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "tabasco-aci-biber-sosu-bSwoHKyhvu",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60b89e81642a0c03d88a6037",
+        "name": "Amoy Soya Sosu",
+        "shortName": "Amoy Soya Sosu",
+        "shortDescription": "750 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60b89e81642a0c03d88a6037_tr_1633699437456.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60b89e81642a0c03d88a6037_tr_1633699437456.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["56dfd0a6e48b4f0300d2d271"],
+        "displayType": 0,
+        "price": 43.9,
+        "priceText": "₺43,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "amoy-soya-sosu-qKvJElOlPM",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5cf2724d130f3a00011f4deb",
+        "name": "Barilla Napoletana Makarna Sosu",
+        "shortName": "Barilla Napoletana Sos",
+        "shortDescription": "400 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5cf2724d130f3a00011f4deb_tr_1634815031234.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5cf2724d130f3a00011f4deb_tr_1634815031234.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["56dfd0a6e48b4f0300d2d271"],
+        "displayType": 0,
+        "price": 29.9,
+        "priceText": "₺29,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "barilla-napoletana-makarna-sosu-KiTubBIlG7",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "salca-sos-9usaJ6tcgm"
+  },
+  {
+    "id": "5e3a6ae86e48c150cfdab57c",
+    "name": "Un",
+    "productCount": 5,
+    "products": [
+      {
+        "id": "619de330a9030d3631b7080f",
+        "name": "Eriş Un",
+        "shortName": "Eriş Un",
+        "shortDescription": "1 kg",
+        "squareThumbnailURL": "http://cdn.getir.com/product/619de330a9030d3631b7080f_tr_1638435275377.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/619de330a9030d3631b7080f_tr_1638435275377.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d", "5697c78dc181490f00c99fea"],
+        "subCategoryIds": [
+          "5e3a6ae86e48c150cfdab57c",
+          "5a14017dad8d270004d1f2bb"
+        ],
+        "displayType": 0,
+        "price": 12.95,
+        "priceText": "₺12,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "eris-un-okgjy6dxzq",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "619de40309e9a420c9441366",
+        "name": "Eriş Un",
+        "shortName": "Eriş Un",
+        "shortDescription": "2 kg",
+        "squareThumbnailURL": "http://cdn.getir.com/product/619de40309e9a420c9441366_tr_1638434905556.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/619de40309e9a420c9441366_tr_1638434905556.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d", "5697c78dc181490f00c99fea"],
+        "subCategoryIds": [
+          "5e3a6ae86e48c150cfdab57c",
+          "5a14017dad8d270004d1f2bb"
+        ],
+        "displayType": 0,
+        "price": 23.95,
+        "priceText": "₺23,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "eris-un-pjhdmemtam",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ce65818fd9b330001c4a83e",
+        "name": "Sinangil Un",
+        "shortName": "Sinangil Un",
+        "shortDescription": "1 kg",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ce65818fd9b330001c4a83e_tr_1635235609544.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ce65818fd9b330001c4a83e_tr_1635235609544.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["5e3a6ae86e48c150cfdab57c"],
+        "displayType": 0,
+        "price": 12.95,
+        "priceText": "₺12,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sinangil-un-Zwl6gHRi2y",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ce65823fd9b330001c4a9c1",
+        "name": "Sinangil Un",
+        "shortName": "Sinangil Un",
+        "shortDescription": "2 kg",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ce65823fd9b330001c4a9c1_tr_1635235643648.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ce65823fd9b330001c4a9c1_tr_1635235643648.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["5e3a6ae86e48c150cfdab57c"],
+        "displayType": 0,
+        "price": 23.95,
+        "priceText": "₺23,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sinangil-un-v4X9IyqG7h",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ce65818a72a950001cc876d",
+        "name": "Sinangil Tam Buğday Unu",
+        "shortName": "Sinangil Tam Buğday Unu",
+        "shortDescription": "1 kg",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ce65818a72a950001cc876d_tr_1612885917566.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ce65818a72a950001cc876d_tr_1612885917566.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["5e3a6ae86e48c150cfdab57c"],
+        "displayType": 0,
+        "price": 14.75,
+        "priceText": "₺14,75",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sinangil-tam-bugday-unu-gzXJEyxPui",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "un-FJ47JatwYq"
+  },
+  {
+    "id": "5ece83aff0027b247dc2730e",
+    "name": "Konserve",
+    "productCount": 11,
+    "products": [
+      {
+        "id": "576a6a9510200a0300f77876",
+        "name": "Dardanel Konserve Mısırlı Ton Balığı",
+        "shortName": "Dardanel Mısırlı Ton",
+        "shortDescription": "185 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/576a6a9510200a0300f77876_tr_1622021168135.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/576a6a9510200a0300f77876_tr_1622021168135.jpeg"
+        ],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "551430043427d5010a3a5c5d",
+          "56dfcfba86004203000a870d"
+        ],
+        "subCategoryIds": [
+          "5834246867cd2d00044413b0",
+          "564c7f1b27652f0c007456f7",
+          "5ece83aff0027b247dc2730e"
+        ],
+        "displayType": 0,
+        "price": 14.9,
+        "priceText": "₺14,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "dardanel-konserve-misirli-ton-baligi-NSAlySGPWQ",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "576a6a5c10200a0300f77852",
+        "name": "Dardanel Konserve Fasulyeli Ton Balığı",
+        "shortName": "Dardanel Fasulyeli Ton",
+        "shortDescription": "185 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/576a6a5c10200a0300f77852_tr_1622021205316.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/576a6a5c10200a0300f77852_tr_1622021205316.jpeg"
+        ],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "551430043427d5010a3a5c5d",
+          "56dfcfba86004203000a870d"
+        ],
+        "subCategoryIds": [
+          "5834246867cd2d00044413b0",
+          "564c7f1b27652f0c007456f7",
+          "5ece83aff0027b247dc2730e"
+        ],
+        "displayType": 0,
+        "price": 14.9,
+        "priceText": "₺14,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "dardanel-konserve-fasulyeli-ton-baligi-vR8VQJfAdY",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6177f9c4e1a6d8ea2be616ce",
+        "name": "Dardanel Konserve Kinoalı Ton Balığı",
+        "shortName": "Dardanel Kinoalı Ton",
+        "shortDescription": "185 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6177f9c4e1a6d8ea2be616ce_tr_1635767437980.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6177f9c4e1a6d8ea2be616ce_tr_1635767437980.jpeg"
+        ],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "551430043427d5010a3a5c5d",
+          "56dfcfba86004203000a870d"
+        ],
+        "subCategoryIds": [
+          "5834246867cd2d00044413b0",
+          "564c7f1b27652f0c007456f7",
+          "5ece83aff0027b247dc2730e"
+        ],
+        "displayType": 0,
+        "price": 14.9,
+        "priceText": "₺14,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "dardanel-konserve-kinoali-ton-baligi-185-g-mqjxtkgbdz",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e54db1c448af7ffd339fe48",
+        "name": "Dardanel Ayçiçek Yağlı Konserve Ton Balığı",
+        "shortName": "Dardanel Ton",
+        "shortDescription": "3 x 75 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e54db1c448af7ffd339fe48_tr_1599939656864.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e54db1c448af7ffd339fe48_tr_1599939656864.jpeg"
+        ],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "551430043427d5010a3a5c5d",
+          "56dfcfba86004203000a870d"
+        ],
+        "subCategoryIds": [
+          "5834246867cd2d00044413b0",
+          "564c7f1b27652f0c007456f7",
+          "5ece83aff0027b247dc2730e"
+        ],
+        "displayType": 0,
+        "price": 34.9,
+        "priceText": "₺34,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "dardanel-aycicek-yagli-konserve-ton-baligi-pQwakie6dm",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e9d506c122dbd7be187382f",
+        "name": "Dardanel Ayçiçek Yağlı Konserve Ton Balığı",
+        "shortName": "Dardanel Ton",
+        "shortDescription": "2 x 150 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e9d506c122dbd7be187382f_tr_1603570919715.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e9d506c122dbd7be187382f_tr_1603570919715.jpeg"
+        ],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "551430043427d5010a3a5c5d",
+          "56dfcfba86004203000a870d"
+        ],
+        "subCategoryIds": [
+          "5834246867cd2d00044413b0",
+          "564c7f1b27652f0c007456f7",
+          "5ece83aff0027b247dc2730e"
+        ],
+        "displayType": 0,
+        "price": 39.9,
+        "priceText": "₺39,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "dardanel-aycicek-yagli-konserve-ton-baligi-FDvYDl9lK8",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e9d569eca76537bc73182b9",
+        "name": "Dardanel Zeytinyağlı Konserve Ton Balığı",
+        "shortName": "Dardanel Zeytinyağlı Ton",
+        "shortDescription": "150 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e9d569eca76537bc73182b9_tr_1604781892181.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e9d569eca76537bc73182b9_tr_1604781892181.jpeg"
+        ],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "551430043427d5010a3a5c5d",
+          "56dfcfba86004203000a870d"
+        ],
+        "subCategoryIds": [
+          "5834246867cd2d00044413b0",
+          "564c7f1b27652f0c007456f7",
+          "5ece83aff0027b247dc2730e"
+        ],
+        "displayType": 0,
+        "price": 22.9,
+        "priceText": "₺22,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "dardanel-zeytinyagli-konserve-ton-baligi-gml7dhJYxF",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e54de90fe7476ab211ab079",
+        "name": "Dardanel Zeytinyağlı Konserve Ton Balığı",
+        "shortName": "Dardanel Zeytinyağlı Ton",
+        "shortDescription": "3 x 75 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e54de90fe7476ab211ab079_tr_1599939626700.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e54de90fe7476ab211ab079_tr_1599939626700.jpeg"
+        ],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "551430043427d5010a3a5c5d",
+          "56dfcfba86004203000a870d"
+        ],
+        "subCategoryIds": [
+          "5834246867cd2d00044413b0",
+          "564c7f1b27652f0c007456f7",
+          "5ece83aff0027b247dc2730e"
+        ],
+        "displayType": 0,
+        "price": 37.9,
+        "priceText": "₺37,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "dardanel-zeytinyagli-konserve-ton-baligi-tiv83uXeWv",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e3280775b780b0dcca88ba2",
+        "name": "Dardanel Zeytinyağlı Konserve Ton Balığı",
+        "shortName": "Dardanel Zeytinyağlı Ton",
+        "shortDescription": "2 x 150 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e3280775b780b0dcca88ba2_tr_1603570969905.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e3280775b780b0dcca88ba2_tr_1603570969905.jpeg"
+        ],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "551430043427d5010a3a5c5d",
+          "56dfcfba86004203000a870d"
+        ],
+        "subCategoryIds": [
+          "5834246867cd2d00044413b0",
+          "564c7f1b27652f0c007456f7",
+          "5ece83aff0027b247dc2730e"
+        ],
+        "displayType": 0,
+        "price": 44.9,
+        "priceText": "₺44,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "dardanel-zeytinyagli-konserve-ton-baligi-wUSWHyUpvW",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5684073006df100f00470ca1",
+        "name": "Dardanel Zeytinyağlı Poşet Somon",
+        "shortName": "Dardanel Poşet Somon",
+        "shortDescription": "85 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5684073006df100f00470ca1_tr_1609122396310.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5684073006df100f00470ca1_tr_1609122396310.jpeg"
+        ],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "551430043427d5010a3a5c5d",
+          "56dfcfba86004203000a870d"
+        ],
+        "subCategoryIds": [
+          "5834246867cd2d00044413b0",
+          "564c7f1b27652f0c007456f7",
+          "5ece83aff0027b247dc2730e"
+        ],
+        "displayType": 0,
+        "price": 27.9,
+        "priceText": "₺27,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "dardanel-zeytinyagli-poset-somon-1UmJ6cft82",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5a279c82895861000453f34f",
+        "name": "Tat Mısır",
+        "shortName": "Tat Mısır",
+        "shortDescription": "220 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5a279c82895861000453f34f_tr_1589468675995.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5a279c82895861000453f34f_tr_1589468675995.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5d", "56dfcfba86004203000a870d"],
+        "subCategoryIds": [
+          "564c7f1b27652f0c007456f7",
+          "5ece83aff0027b247dc2730e"
+        ],
+        "displayType": 0,
+        "price": 8.75,
+        "priceText": "₺8,75",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "tat-misir-SUF3J9jyJG",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5d03bb6736e4a5000117bbdc",
+        "name": "Tat Konserve Mısır",
+        "shortName": "Tat Konserve Mısır",
+        "shortDescription": "3'lü",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5d03bb6736e4a5000117bbdc_tr_1560944419221.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5d03bb6736e4a5000117bbdc_tr_1560944419221.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5d", "56dfcfba86004203000a870d"],
+        "subCategoryIds": [
+          "564c7f1b27652f0c007456f7",
+          "5ece83aff0027b247dc2730e"
+        ],
+        "displayType": 0,
+        "price": 18.65,
+        "priceText": "₺18,65",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "tat-konserve-misir-LIhxn7MgAS",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "konserve-32gQpEoCDV"
+  },
+  {
+    "id": "56dfd0e3a32e31030065ca49",
+    "name": "Sıvı Yağ",
+    "productCount": 2,
+    "products": [
+      {
+        "id": "5bc4b06c29536300309b072d",
+        "name": "Yudum Ayçiçek Yağı",
+        "shortName": "Yudum Ayçiçek Yağı",
+        "shortDescription": "2 L",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5bc4b06c29536300309b072d_tr_1591866820836.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5bc4b06c29536300309b072d_tr_1591866820836.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["56dfd0e3a32e31030065ca49"],
+        "displayType": 0,
+        "price": 72.9,
+        "priceText": "₺72,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "yudum-aycicek-yagi-zcjnx0us93",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f07277be7a1bc38a69744d3",
+        "name": "Halis Bey Natürel Sızma Zeytinyağı",
+        "shortName": "Halis Bey Natürel Zeytinyağı",
+        "shortDescription": "500 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f07277be7a1bc38a69744d3_tr_1628586042511.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f07277be7a1bc38a69744d3_tr_1628586042511.jpeg",
+          "http://cdn.getir.com/product/5f07277be7a1bc38a69744d3_f67e52e1-4e2d-4ddc-8e94-e7414e624a28.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["56dfd0e3a32e31030065ca49"],
+        "displayType": 0,
+        "price": 54.95,
+        "priceText": "₺54,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "halis-bey-naturel-sizma-zeytinyagi-5gjiQTHhhp",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "sivi-yag-MRlG9RwjJL"
+  },
+  {
+    "id": "5a14aed8b06405000474b9a9",
+    "name": "Tereyağ & Margarin",
+    "productCount": 8,
+    "products": [
+      {
+        "id": "5e3c5f48ca767aa5559a8ee2",
+        "name": "Mandıradan Erzincan Tereyağı",
+        "shortName": "Mandıradan Erzincan Tereyağı",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e3c5f48ca767aa5559a8ee2_tr_1638945539287.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e3c5f48ca767aa5559a8ee2_tr_1638945539287.jpeg",
+          "http://cdn.getir.com/product/5e3c5f48ca767aa5559a8ee2_tr_1583509692322.jpeg"
+        ],
+        "categoryIds": [
+          "56dfcfba86004203000a870d",
+          "56dfed05ab747f03008d9379",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "5a14aed8b06405000474b9a9",
+          "58ad6a4ca22f6900049514f0",
+          "5cfe769abb6504000119cf99"
+        ],
+        "displayType": 0,
+        "price": 32.45,
+        "priceText": "₺32,45",
+        "status": 1,
+        "struckPrice": 42.25,
+        "struckPriceText": "₺42,25",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "mandiradan-erzincan-tereyagi-vNs6eaw6oJ",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60ffd9dc9e977b9ebb9ac941",
+        "name": "İçim Tereyağı",
+        "shortName": "İçim Tereyağı",
+        "shortDescription": "500 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60ffd9dc9e977b9ebb9ac941_tr_1628504810994.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60ffd9dc9e977b9ebb9ac941_tr_1628504810994.jpeg"
+        ],
+        "categoryIds": [
+          "56dfcfba86004203000a870d",
+          "56dfed05ab747f03008d9379",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "5a14aed8b06405000474b9a9",
+          "58ad6a4ca22f6900049514f0",
+          "5cfe769abb6504000119cf99"
+        ],
+        "displayType": 0,
+        "price": 51.5,
+        "priceText": "₺51,50",
+        "status": 1,
+        "struckPrice": 57.25,
+        "struckPriceText": "₺57,25",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "icim-tereyagi-500g-dtopkxldte",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6025195202c219287e86904a",
+        "name": "Bahçıvan Tereyağı",
+        "shortName": "Bahçıvan Tereyağı",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6025195202c219287e86904a_tr_1613130032229.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6025195202c219287e86904a_tr_1613130032229.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "56dfcfba86004203000a870d",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "58ad6a4ca22f6900049514f0",
+          "5a14aed8b06405000474b9a9",
+          "5cfe769abb6504000119cf99"
+        ],
+        "displayType": 0,
+        "price": 26.95,
+        "priceText": "₺26,95",
+        "status": 1,
+        "struckPrice": 39.95,
+        "struckPriceText": "₺39,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "bahcivan-tereyagi-1Lb6r8wfKY",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61a635ad19fb6e63641eea11",
+        "name": "Teksüt Rulo Tereyağı",
+        "shortName": "Teksüt Rulo Tereyağı",
+        "shortDescription": "250 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61a635ad19fb6e63641eea11_tr_1638371450009.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61a635ad19fb6e63641eea11_tr_1638371450009.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "56dfcfba86004203000a870d",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "58ad6a4ca22f6900049514f0",
+          "5a14aed8b06405000474b9a9",
+          "5cfe769abb6504000119cf99"
+        ],
+        "displayType": 0,
+        "price": 28.95,
+        "priceText": "₺28,95",
+        "status": 1,
+        "struckPrice": 32.95,
+        "struckPriceText": "₺32,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "teksut-rulo-tereyagi-kv0r95zzov",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "592454e00b4731000404de7a",
+        "name": "Teremyağ Kase Margarin",
+        "shortName": "Teremyağ Kase Margarin",
+        "shortDescription": "250 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/592454e00b4731000404de7a_tr_1598730647909.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/592454e00b4731000404de7a_tr_1598730647909.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "56dfcfba86004203000a870d",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "58ad6a4ca22f6900049514f0",
+          "5a14aed8b06405000474b9a9",
+          "5cfe769abb6504000119cf99"
+        ],
+        "displayType": 0,
+        "price": 10.9,
+        "priceText": "₺10,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "teremyag-kase-margarin-BzX04OnndH",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ceae03a9d3ea8000196e150",
+        "name": "Bizim Paket Margarin",
+        "shortName": "Bizim Paket Margarin",
+        "shortDescription": "250 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ceae03a9d3ea8000196e150_tr_1603051862946.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ceae03a9d3ea8000196e150_tr_1603051862946.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5cfe685e25d48100016b7ea6",
+          "56dfcfba86004203000a870d"
+        ],
+        "subCategoryIds": [
+          "58ad6a4ca22f6900049514f0",
+          "5cfe769abb6504000119cf99",
+          "5a14aed8b06405000474b9a9"
+        ],
+        "displayType": 0,
+        "price": 9.8,
+        "priceText": "₺9,80",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "bizim-paket-margarin-LBKxFhACpG",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "59e87f9a9f82e90004d070b9",
+        "name": "Eker Kaymak",
+        "shortName": "Eker Kaymak",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/59e87f9a9f82e90004d070b9_tr_1627549062654.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/59e87f9a9f82e90004d070b9_tr_1627549062654.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "56dfcfba86004203000a870d",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "58ad6a4ca22f6900049514f0",
+          "5a14aed8b06405000474b9a9",
+          "5cfe769abb6504000119cf99"
+        ],
+        "displayType": 0,
+        "price": 21.95,
+        "priceText": "₺21,95",
+        "status": 1,
+        "struckPrice": 26.95,
+        "struckPriceText": "₺26,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "eker-kaymak-1ULjOLoR7c",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e149d406382ada5a35a002c",
+        "name": "Remziye Hanım Çiftliği Rulo Kaymak",
+        "shortName": "Remziye Hanım Çiftliği Kaymak",
+        "shortDescription": "150 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e149d406382ada5a35a002c_tr_1638950230537.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e149d406382ada5a35a002c_tr_1638950230537.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "56dfcfba86004203000a870d",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "58ad6a4ca22f6900049514f0",
+          "5a14aed8b06405000474b9a9",
+          "5cfe769abb6504000119cf99"
+        ],
+        "displayType": 0,
+        "price": 32.95,
+        "priceText": "₺32,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "remziye-hanim-ciftligi-rulo-kaymak-BeN0SxkgP4",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "tereyag-margarin-zVXeI5kyk3"
+  },
+  {
+    "id": "5916d507ad08080004ed3f5a",
+    "name": "Sirke & Salata Sosu",
+    "productCount": 4,
+    "products": [
+      {
+        "id": "5c9c6c104f14220001c5bfd8",
+        "name": "Kemal Kükrer Elma Sirkesi",
+        "shortName": "Kemal Kükrer Elma Sirkesi",
+        "shortDescription": "500 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c9c6c104f14220001c5bfd8_tr_1640695657524.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c9c6c104f14220001c5bfd8_tr_1640695657524.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["5916d507ad08080004ed3f5a"],
+        "displayType": 0,
+        "price": 12,
+        "priceText": "₺12,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "kemal-kukrer-elma-sirkesi-XzvPC6N1VS",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ced482e4a8a2a000137da7d",
+        "name": "Kemal Kükrer Balzamik Sirke",
+        "shortName": "Kemal Kükrer Balzamik Sirke",
+        "shortDescription": "500 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ced482e4a8a2a000137da7d_tr_1640695635442.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ced482e4a8a2a000137da7d_tr_1640695635442.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["5916d507ad08080004ed3f5a"],
+        "displayType": 0,
+        "price": 28,
+        "priceText": "₺28,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "kemal-kukrer-balzamik-sirke-hC2FTSwzk5",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ced482ad349d10001e70512",
+        "name": "Kemal Kükrer Beyaz Sirke",
+        "shortName": "Kemal Kükrer Beyaz Sirke",
+        "shortDescription": "2 L",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ced482ad349d10001e70512_tr_1598732135370.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ced482ad349d10001e70512_tr_1598732135370.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d", "55449fdf02632e11003c2da8"],
+        "subCategoryIds": [
+          "5916d507ad08080004ed3f5a",
+          "564c881027652f0c007460f0"
+        ],
+        "displayType": 0,
+        "price": 11.45,
+        "priceText": "₺11,45",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "kemal-kukrer-beyaz-sirke-TZW76X8cgv",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c9c6ab322b1cc0001ae3297",
+        "name": "Kemal Kükrer %100 Nar Ekşisi",
+        "shortName": "Kemal Kükrer %100 Nar Ekşisi",
+        "shortDescription": "250 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c9c6ab322b1cc0001ae3297_tr_1640695727230.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c9c6ab322b1cc0001ae3297_tr_1640695727230.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["5916d507ad08080004ed3f5a"],
+        "displayType": 0,
+        "price": 25.95,
+        "priceText": "₺25,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "kemal-kukrer-100-nar-eksisi-x748V8oVS3",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "sirke-salata-sosu-ffdDl67hUR"
+  },
+  {
+    "id": "564c682cd35e7d0c002bd2ed",
+    "name": "Baharat",
+    "productCount": 14,
+    "products": [
+      {
+        "id": "55dc28a260c7870c00381fd8",
+        "name": "Billur Tuz İyotlu Sofra Tuzu",
+        "shortName": "Billur Tuz",
+        "shortDescription": "750 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/55dc28a260c7870c00381fd8_tr_1636532602748.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/55dc28a260c7870c00381fd8_tr_1636532602748.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["564c682cd35e7d0c002bd2ed"],
+        "displayType": 0,
+        "price": 7.75,
+        "priceText": "₺7,75",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "billur-tuz-iyotlu-sofra-tuzu-dx3FXLW9SV",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5dc16e879366aa2eb3c8bb38",
+        "name": "Green Life Kırmızı Pul Biber",
+        "shortName": "Green Life Kırmızı Pul Biber",
+        "shortDescription": "70 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5dc16e879366aa2eb3c8bb38_tr_1608212756455.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5dc16e879366aa2eb3c8bb38_tr_1608212756455.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["564c682cd35e7d0c002bd2ed"],
+        "displayType": 0,
+        "price": 6.9,
+        "priceText": "₺6,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "green-life-kirmizi-pul-biber-X8EZ1cCfE1",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5dc176a28ebaa5f39131bfe5",
+        "name": "Green Life Nane",
+        "shortName": "Green Life Nane",
+        "shortDescription": "25 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5dc176a28ebaa5f39131bfe5_tr_1609914976254.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5dc176a28ebaa5f39131bfe5_tr_1609914976254.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["564c682cd35e7d0c002bd2ed"],
+        "displayType": 0,
+        "price": 4.45,
+        "priceText": "₺4,45",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "green-life-nane-VbaH1TBQlS",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5dc17a979366aa3ec4c8d3b5",
+        "name": "Green Life Kekik",
+        "shortName": "Green Life Kekik",
+        "shortDescription": "25 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5dc17a979366aa3ec4c8d3b5_tr_1609914913047.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5dc17a979366aa3ec4c8d3b5_tr_1609914913047.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["564c682cd35e7d0c002bd2ed"],
+        "displayType": 0,
+        "price": 5.9,
+        "priceText": "₺5,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "green-life-kekik-dj0oowmlno",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5dc1755f9366aa6518c8c760",
+        "name": "Green Life Öğütülmüş Kimyon",
+        "shortName": "Green Life Kimyon",
+        "shortDescription": "70 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5dc1755f9366aa6518c8c760_tr_1608212632501.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5dc1755f9366aa6518c8c760_tr_1608212632501.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["564c682cd35e7d0c002bd2ed"],
+        "displayType": 0,
+        "price": 8.85,
+        "priceText": "₺8,85",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "green-life-ogutulmus-kimyon-mk0pZCYzcU",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5dc17f2a4e4d53e184a116fc",
+        "name": "Green Life Öğütülmüş Tarçın",
+        "shortName": "Green Life Tarçın",
+        "shortDescription": "60 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5dc17f2a4e4d53e184a116fc_tr_1624455821952.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5dc17f2a4e4d53e184a116fc_tr_1624455821952.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["564c682cd35e7d0c002bd2ed"],
+        "displayType": 0,
+        "price": 11.25,
+        "priceText": "₺11,25",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "green-life-ogutulmus-tarcin-qnpD0gkCJH",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5dc18a574e4d533e21a12fa8",
+        "name": "Green Life Kabuk Tarçın",
+        "shortName": "Green Life Kabuk Tarçın",
+        "shortDescription": "100 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5dc18a574e4d533e21a12fa8_tr_1606225433042.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5dc18a574e4d533e21a12fa8_tr_1606225433042.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["564c682cd35e7d0c002bd2ed"],
+        "displayType": 0,
+        "price": 22.95,
+        "priceText": "₺22,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "green-life-kabuk-tarcin-fvEHD01lPd",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60924d9f8c6d80e45236b01f",
+        "name": "Knorr Kuru Nane",
+        "shortName": "Knorr Kuru Nane",
+        "shortDescription": "25 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60924d9f8c6d80e45236b01f_tr_1621262895009.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60924d9f8c6d80e45236b01f_tr_1621262895009.jpeg",
+          "http://cdn.getir.com/product/60924d9f8c6d80e45236b01f_e4f557df-6f81-4fd8-b7c1-044c98b7dd8c.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["564c682cd35e7d0c002bd2ed"],
+        "displayType": 0,
+        "price": 2.7,
+        "priceText": "₺2,70",
+        "status": 1,
+        "struckPrice": 3.15,
+        "struckPriceText": "₺3,15",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "knorr-kuru-nane-zBrGMl9Cey",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60924ee2615ec2d4abb8d704",
+        "name": "Knorr Kekik",
+        "shortName": "Knorr Kekik",
+        "shortDescription": "20 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60924ee2615ec2d4abb8d704_tr_1621263054898.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60924ee2615ec2d4abb8d704_tr_1621263054898.jpeg",
+          "http://cdn.getir.com/product/60924ee2615ec2d4abb8d704_5c6c44e6-b274-437a-b5b9-5b9c1ab8d7dd.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["564c682cd35e7d0c002bd2ed"],
+        "displayType": 0,
+        "price": 3,
+        "priceText": "₺3,00",
+        "status": 1,
+        "struckPrice": 3.5,
+        "struckPriceText": "₺3,50",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "knorr-kekik-dwDbhhRRxI",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "609249d95fc1de759a2b2c11",
+        "name": "Knorr Pul Biber",
+        "shortName": "Knorr Pul Biber",
+        "shortDescription": "65 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/609249d95fc1de759a2b2c11_tr_1621263156635.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/609249d95fc1de759a2b2c11_tr_1621263156635.jpeg",
+          "http://cdn.getir.com/product/609249d95fc1de759a2b2c11_3bbf3b9c-3be0-4ff2-9d95-0d163cef5abe.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["564c682cd35e7d0c002bd2ed"],
+        "displayType": 0,
+        "price": 6.6,
+        "priceText": "₺6,60",
+        "status": 1,
+        "struckPrice": 7.75,
+        "struckPriceText": "₺7,75",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "knorr-pul-biber-AxstzQyo9E",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60924a0e93f6512d6c8e222a",
+        "name": "Knorr Karabiber",
+        "shortName": "Knorr Karabiber",
+        "shortDescription": "60 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60924a0e93f6512d6c8e222a_tr_1621263402279.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60924a0e93f6512d6c8e222a_tr_1621263402279.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["564c682cd35e7d0c002bd2ed"],
+        "displayType": 0,
+        "price": 10.15,
+        "priceText": "₺10,15",
+        "status": 1,
+        "struckPrice": 11.95,
+        "struckPriceText": "₺11,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "knorr-karabiber-dx2nd8cjv8",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "609254bb5fc1de72f62b2e01",
+        "name": "Knorr Zencefil",
+        "shortName": "Knorr Zencefil",
+        "shortDescription": "50 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/609254bb5fc1de72f62b2e01_tr_1621263620387.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/609254bb5fc1de72f62b2e01_tr_1621263620387.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["564c682cd35e7d0c002bd2ed"],
+        "displayType": 0,
+        "price": 8.5,
+        "priceText": "₺8,50",
+        "status": 1,
+        "struckPrice": 9.95,
+        "struckPriceText": "₺9,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "knorr-zencefil-yuT8BjKhcX",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60925498e603bf290d916719",
+        "name": "Knorr Tarçın",
+        "shortName": "Knorr Tarçın",
+        "shortDescription": "40 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60925498e603bf290d916719_tr_1621263825659.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60925498e603bf290d916719_tr_1621263825659.jpeg",
+          "http://cdn.getir.com/product/60925498e603bf290d916719_56c8ee01-25cb-4157-bb81-774e816d0e47.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["564c682cd35e7d0c002bd2ed"],
+        "displayType": 0,
+        "price": 7.2,
+        "priceText": "₺7,20",
+        "status": 1,
+        "struckPrice": 8.5,
+        "struckPriceText": "₺8,50",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "knorr-tarcin-YxRDS7ZxSc",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "609251f707f1ca6bfd01705f",
+        "name": "Knorr Kimyon",
+        "shortName": "Knorr Kimyon",
+        "shortDescription": "65 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/609251f707f1ca6bfd01705f_tr_1621263903857.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/609251f707f1ca6bfd01705f_tr_1621263903857.jpeg",
+          "http://cdn.getir.com/product/609251f707f1ca6bfd01705f_f9200044-3df5-4363-b092-485c2df9f4de.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["564c682cd35e7d0c002bd2ed"],
+        "displayType": 0,
+        "price": 7.9,
+        "priceText": "₺7,90",
+        "status": 1,
+        "struckPrice": 9.25,
+        "struckPriceText": "₺9,25",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "knorr-kimyon-HfiuH4ffO4",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "baharat-9wXFHgf1kC"
+  },
+  {
+    "id": "56dfd0c33ff0d80300e2e1bc",
+    "name": "Çorba",
+    "productCount": 8,
+    "products": [
+      {
+        "id": "61cb0af8251f40491ee5cb2d",
+        "name": "Fide Çorba Paketi",
+        "shortName": "Fide Çorba Paketi",
+        "shortDescription": "2 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61cb0af8251f40491ee5cb2d_tr_1640697139910.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61cb0af8251f40491ee5cb2d_tr_1640697139910.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d", "551430043427d5010a3a5c5d"],
+        "subCategoryIds": [
+          "56dfd0c33ff0d80300e2e1bc",
+          "5a14b9f5f83df100044de585"
+        ],
+        "displayType": 0,
+        "price": 21.9,
+        "priceText": "₺21,90",
+        "status": 1,
+        "struckPrice": 31.4,
+        "struckPriceText": "₺31,40",
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "617117812946499648c703bb",
+            "count": 1,
+            "name": "Fide İlikli Kemik Suyu",
+            "shortDescription": "480 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/617117812946499648c703bb_tr_1635145949274.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "617129b12800fddab9ed31b6",
+            "count": 1,
+            "name": "Fide İlikli Kemik Sulu Kelle Paça Çorbası",
+            "shortDescription": "480 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/617129b12800fddab9ed31b6_tr_1635147669681.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "568cca737cf4d90f006f2080",
+        "name": "Knorr Kıtırlı Domates Çabuk Çorba",
+        "shortName": "Knorr Kıtırlı Domates Çabuk",
+        "shortDescription": "22 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/568cca737cf4d90f006f2080_45ed51eb-3b11-43cb-882b-13570c5eeadc.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/568cca737cf4d90f006f2080_45ed51eb-3b11-43cb-882b-13570c5eeadc.jpeg",
+          "http://cdn.getir.com/product/568cca737cf4d90f006f2080_192365c3-d6b3-4416-a658-468a6e816515.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d", "551430043427d5010a3a5c5d"],
+        "subCategoryIds": [
+          "56dfd0c33ff0d80300e2e1bc",
+          "5a14b9f5f83df100044de585"
+        ],
+        "displayType": 0,
+        "price": 2.45,
+        "priceText": "₺2,45",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "knorr-kitirli-domates-cabuk-corba-wLiGlyfwUh",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "572227d6d4549603004b8710",
+        "name": "Knorr Kremalı Mantar Çabuk Çorba",
+        "shortName": "Knorr Kremalı Mantar Çabuk",
+        "shortDescription": "19 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/572227d6d4549603004b8710_05a9028d-e6e7-454f-812b-87a23227a326.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/572227d6d4549603004b8710_05a9028d-e6e7-454f-812b-87a23227a326.jpeg",
+          "http://cdn.getir.com/product/572227d6d4549603004b8710_cbb09c8b-8044-4767-81d7-fc1d7310ab6e.jpeg"
+        ],
+        "categoryIds": ["551430043427d5010a3a5c5d", "56dfcfba86004203000a870d"],
+        "subCategoryIds": [
+          "5a14b9f5f83df100044de585",
+          "56dfd0c33ff0d80300e2e1bc"
+        ],
+        "displayType": 0,
+        "price": 2.45,
+        "priceText": "₺2,45",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "knorr-kremali-mantar-cabuk-corba-iBlwBMM3vu",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "605c637eb474585fdba1450d",
+        "name": "Knorr Zerdeçallı Mercimekli Yoğurt Çorbası",
+        "shortName": "Knorr Mercimekli Yoğurt",
+        "shortDescription": "98 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/605c637eb474585fdba1450d_tr_1617110228515.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/605c637eb474585fdba1450d_tr_1617110228515.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["56dfd0c33ff0d80300e2e1bc"],
+        "displayType": 0,
+        "price": 8.95,
+        "priceText": "₺8,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "knorr-zerdecalli-mercimekli-yogurt-corbasi-mts8oVcQVo",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ae99ae5a43d250004e2d271",
+        "name": "Knorr Şehriyeli Tavuk Çorbası",
+        "shortName": "Knorr Şehriyeli Tavuk",
+        "shortDescription": "51 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ae99ae5a43d250004e2d271_tr_1589788486331.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ae99ae5a43d250004e2d271_tr_1589788486331.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d", "551430043427d5010a3a5c5d"],
+        "subCategoryIds": [
+          "56dfd0c33ff0d80300e2e1bc",
+          "5a14b9f5f83df100044de585"
+        ],
+        "displayType": 0,
+        "price": 5.45,
+        "priceText": "₺5,45",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "knorr-sehriyeli-tavuk-corbasi-im93zw5Sus",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "561255cc1a6f060c00215e16",
+        "name": "Knorr Klasik Ezogelin Çorbası",
+        "shortName": "Knorr Ezogelin",
+        "shortDescription": "65 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/561255cc1a6f060c00215e16_tr_1589788505166.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/561255cc1a6f060c00215e16_tr_1589788505166.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d", "551430043427d5010a3a5c5d"],
+        "subCategoryIds": [
+          "56dfd0c33ff0d80300e2e1bc",
+          "5a14b9f5f83df100044de585"
+        ],
+        "displayType": 0,
+        "price": 5.15,
+        "priceText": "₺5,15",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "knorr-klasik-ezogelin-corbasi-1pUmc7A0RU",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "617117812946499648c703bb",
+        "name": "Fide İlikli Kemik Suyu",
+        "shortName": "Fide İlikli Kemik Suyu",
+        "shortDescription": "480 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/617117812946499648c703bb_tr_1635145949274.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/617117812946499648c703bb_tr_1635145949274.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d", "551430043427d5010a3a5c5d"],
+        "subCategoryIds": [
+          "56dfd0c33ff0d80300e2e1bc",
+          "5a14b9f5f83df100044de585"
+        ],
+        "displayType": 0,
+        "price": 9.75,
+        "priceText": "₺9,75",
+        "status": 1,
+        "struckPrice": 12.9,
+        "struckPriceText": "₺12,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "fide-ilikli-kemik-suyu-tmdrl6fufc",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "617129b12800fddab9ed31b6",
+        "name": "Fide İlikli Kemik Sulu Kelle Paça Çorbası",
+        "shortName": "Fide Kelle Paça Çorbası",
+        "shortDescription": "480 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/617129b12800fddab9ed31b6_tr_1635147669681.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/617129b12800fddab9ed31b6_tr_1635147669681.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d", "551430043427d5010a3a5c5d"],
+        "subCategoryIds": [
+          "56dfd0c33ff0d80300e2e1bc",
+          "5a14b9f5f83df100044de585"
+        ],
+        "displayType": 0,
+        "price": 13.9,
+        "priceText": "₺13,90",
+        "status": 1,
+        "struckPrice": 18.5,
+        "struckPriceText": "₺18,50",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "fide-ilikli-kemik-sulu-kelle-paca-corbasi-stpf37jjrp",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "corba-LNeHnYFXE0"
+  },
+  {
+    "id": "584fa9b446421000040272c7",
+    "name": "Krema",
+    "productCount": 4,
+    "products": [
+      {
+        "id": "60b6141f190bcee128ac87d6",
+        "name": "İçim Şef Krema",
+        "shortName": "İçim Krema",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60b6141f190bcee128ac87d6_tr_1623652446807.jpeg",
+        "wideThumbnailURL": "http://cdn.getir.com/product/60b6141f190bcee128ac87d6_wide_pic_tr_1629121889043.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60b6141f190bcee128ac87d6_tr_1623652446807.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["584fa9b446421000040272c7"],
+        "displayType": 1,
+        "price": 13.45,
+        "priceText": "₺13,45",
+        "status": 1,
+        "struckPrice": 15.45,
+        "struckPriceText": "₺15,45",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "icim-sef-krema-f5VTrdkCi9",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5cae01d93150750001edd9fb",
+        "name": "Tikveşli Krema",
+        "shortName": "Tikveşli Krema",
+        "shortDescription": "200 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5cae01d93150750001edd9fb_tr_1611242839112.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5cae01d93150750001edd9fb_tr_1611242839112.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["584fa9b446421000040272c7"],
+        "displayType": 0,
+        "price": 13.45,
+        "priceText": "₺13,45",
+        "status": 1,
+        "struckPrice": 16.45,
+        "struckPriceText": "₺16,45",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "tikvesli-krema-JNipcwRrcA",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "613b5feaa24520cd01ca6544",
+        "name": "Tikveşli %18 Yağlı Krema",
+        "shortName": "Tikveşli %18 Yağlı Krema",
+        "shortDescription": "200 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/613b5feaa24520cd01ca6544_977bbd83-0ef1-41e6-bcdf-1f8648573a5a.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/613b5feaa24520cd01ca6544_977bbd83-0ef1-41e6-bcdf-1f8648573a5a.jpeg",
+          "http://cdn.getir.com/product/613b5feaa24520cd01ca6544_a8712a2d-1a25-4893-8512-352e4681ae81.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["584fa9b446421000040272c7"],
+        "displayType": 0,
+        "price": 9.95,
+        "priceText": "₺9,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "tikvesli-18-yagli-krema-200ml-zmw0lmdlxa",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ffedcff77087ac471423262",
+        "name": "Sütaş Yemeklik Krema",
+        "shortName": "Sütaş Yemeklik Krema",
+        "shortDescription": "200 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ffedcff77087ac471423262_tr_1611238217930.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ffedcff77087ac471423262_tr_1611238217930.jpeg",
+          "http://cdn.getir.com/product/5ffedcff77087ac471423262_b3ee72c7-3438-42a7-9cbb-82581bf2f22b.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["584fa9b446421000040272c7"],
+        "displayType": 0,
+        "price": 11.5,
+        "priceText": "₺11,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sutas-yemeklik-krema-dRtDU51hNz",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "krema-AbvdXvW6b3"
+  },
+  {
+    "id": "5af1c60886fbaa0004941493",
+    "name": "Pasta Malzemeleri",
+    "productCount": 6,
+    "products": [
+      {
+        "id": "5ae3320bf28d7700043e1d1d",
+        "name": "Dr. Oetker Şekerli Vanilin",
+        "shortName": "Dr. Oetker Şekerli Vanilin",
+        "shortDescription": "15 x 75 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ae3320bf28d7700043e1d1d_tr_1564645458906.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ae3320bf28d7700043e1d1d_tr_1564645458906.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["5af1c60886fbaa0004941493"],
+        "displayType": 0,
+        "price": 5.55,
+        "priceText": "₺5,55",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "dr-oetker-sekerli-vanilin-eSEy1v4gRl",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ae33269f28d7700043e1d80",
+        "name": "Dr. Oetker Instant Maya",
+        "shortName": "Dr. Oetker Instant Maya",
+        "shortDescription": "3 x 10 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ae33269f28d7700043e1d80_tr_1564570484290.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ae33269f28d7700043e1d80_tr_1564570484290.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["5af1c60886fbaa0004941493"],
+        "displayType": 0,
+        "price": 2.75,
+        "priceText": "₺2,75",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "dr-oetker-instant-maya-tn4Nh6GVnd",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ae330343307340004d0853c",
+        "name": "Dr. Oetker Kakao",
+        "shortName": "Dr. Oetker Kakao",
+        "shortDescription": "2 x 25 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ae330343307340004d0853c_tr_1619427399270.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ae330343307340004d0853c_tr_1619427399270.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["5af1c60886fbaa0004941493"],
+        "displayType": 0,
+        "price": 5.65,
+        "priceText": "₺5,65",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "dr-oetker-kakao-uAaEOa26ir",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e0f01507ed7218e517a41b3",
+        "name": "Filiz İrmik",
+        "shortName": "Filiz İrmik",
+        "shortDescription": "500 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e0f01507ed7218e517a41b3_tr_1579763776672.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e0f01507ed7218e517a41b3_tr_1579763776672.jpeg",
+          "http://cdn.getir.com/product/5e0f01507ed7218e517a41b3_tr_1588606105925.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["5af1c60886fbaa0004941493"],
+        "displayType": 0,
+        "price": 6.55,
+        "priceText": "₺6,55",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "filiz-irmik-eMV6WEbnGq",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "584e88d458258d0004d88e31",
+        "name": "Uno Kakaolu Pastaban 2 Katlı",
+        "shortName": "Uno Kakaolu Pastaban",
+        "shortDescription": "250 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/584e88d458258d0004d88e31_tr_1608276867394.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/584e88d458258d0004d88e31_tr_1608276867394.jpeg"
+        ],
+        "categoryIds": ["566eeb85f9facb0f00b1cb16", "56dfcfba86004203000a870d"],
+        "subCategoryIds": [
+          "566edfa4f9facb0f00b1c4a1",
+          "5af1c60886fbaa0004941493"
+        ],
+        "displayType": 0,
+        "price": 16.95,
+        "priceText": "₺16,95",
+        "status": 1,
+        "struckPrice": 18.95,
+        "struckPriceText": "₺18,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "uno-kakaolu-pastaban-2-katli-vmfS6vAken",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ae3308af28d7700043e1c48",
+        "name": "Dr. Oetker Pudra Şekeri",
+        "shortName": "Dr. Oetker Pudra Şekeri",
+        "shortDescription": "150 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ae3308af28d7700043e1c48_tr_1602361051066.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ae3308af28d7700043e1c48_tr_1602361051066.jpeg"
+        ],
+        "categoryIds": ["56dfcfba86004203000a870d"],
+        "subCategoryIds": ["5af1c60886fbaa0004941493"],
+        "displayType": 0,
+        "price": 4.25,
+        "priceText": "₺4,25",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "dr-oetker-pudra-sekeri-MQR8JNX9wr",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "pasta-malzemeleri-bi2TGBGeCZ"
+  }
+]

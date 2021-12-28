@@ -1,0 +1,4918 @@
+[
+  {
+    "id": "61ba5cdbf4a8b0ad7a7f5ad2",
+    "name": "İlginizi Çekebilecekler",
+    "productCount": 2,
+    "products": [
+      {
+        "id": "5901c54a9d21350004cf6c4f",
+        "name": "Polonez Hindi Füme Et",
+        "shortName": "Polonez Hindi Füme Et",
+        "shortDescription": "60 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5901c54a9d21350004cf6c4f_tr_1602360505822.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5901c54a9d21350004cf6c4f_tr_1602360505822.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5d01535e7730a800019b09cf",
+          "61a78ebbdea800061135fd19",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "56751a78b1988e0f003da109",
+          "5a14a9dcb06405000474b85b",
+          "61a13ff5d3373238a36705b8",
+          "61a78f1ef4a8b07dce7f44d7",
+          "61ba5cd4dc47837d8f7913d0",
+          "61ba5cdbf4a8b0ad7a7f5ad2"
+        ],
+        "displayType": 0,
+        "price": 9.95,
+        "priceText": "₺9,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "polonez-hindi-fume-et-IbcaGSvAXY",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5a86dce11bc08f0004e03b78",
+        "name": "Polonez Hindi Jambon",
+        "shortName": "Polonez Hindi Jambon",
+        "shortDescription": "60 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5a86dce11bc08f0004e03b78_tr_1603571532967.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5a86dce11bc08f0004e03b78_tr_1603571532967.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5d01535e7730a800019b09cf",
+          "61a78ebbdea800061135fd19",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "56751a78b1988e0f003da109",
+          "5a14a9dcb06405000474b85b",
+          "61a13ff5d3373238a36705b8",
+          "61a78f1ef4a8b07dce7f44d7",
+          "61ba5cd4dc47837d8f7913d0",
+          "61ba5cdbf4a8b0ad7a7f5ad2"
+        ],
+        "displayType": 0,
+        "price": 7.95,
+        "priceText": "₺7,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "polonez-hindi-jambon-8autcE1Dry",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ]
+  },
+  {
+    "id": "5cfe6d7abb6504000119a6d7",
+    "name": "Süt",
+    "productCount": 19,
+    "products": [
+      {
+        "id": "5d03bb6789c5f10001c36b3f",
+        "name": "Sek Pastörize Taze Cam Şişe %3 Yağlı Süt",
+        "shortName": "Sek Taze Cam Şişe %3 Yağlı Süt",
+        "shortDescription": "1 L",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5d03bb6789c5f10001c36b3f_tr_1579526261277.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5d03bb6789c5f10001c36b3f_tr_1579526261277.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5cfe685e25d48100016b7ea6",
+          "551430043427d5010a3a5c5e"
+        ],
+        "subCategoryIds": [
+          "564c864927652f0c00745dab",
+          "5cfe6d7abb6504000119a6d7",
+          "5a149307afa7ea00042f4509"
+        ],
+        "displayType": 0,
+        "price": 16.95,
+        "priceText": "₺16,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sek-pastorize-taze-cam-sise-3-yagli-sut-VzuBeEnoVH",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ced482d4a8a2a000137da6d",
+        "name": "İçim %3 Yağlı Süt",
+        "shortName": "İçim %3 Yağlı Süt",
+        "shortDescription": "1 L",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ced482d4a8a2a000137da6d_tr_1623652387464.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ced482d4a8a2a000137da6d_tr_1623652387464.jpeg"
+        ],
+        "categoryIds": [
+          "551430043427d5010a3a5c5e",
+          "56dfed05ab747f03008d9379",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "5a149307afa7ea00042f4509",
+          "564c864927652f0c00745dab",
+          "5cfe6d7abb6504000119a6d7"
+        ],
+        "displayType": 0,
+        "price": 12.95,
+        "priceText": "₺12,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "icim-3-yagli-sut-WNhNk75Zqt",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ced482dd349d10001e70531",
+        "name": "İçim Laktozsuz Süt",
+        "shortName": "İçim Laktozsuz Süt",
+        "shortDescription": "1 L",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ced482dd349d10001e70531_tr_1623652157209.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ced482dd349d10001e70531_tr_1623652157209.jpeg"
+        ],
+        "categoryIds": [
+          "551430043427d5010a3a5c5e",
+          "56dfed05ab747f03008d9379",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "5a149307afa7ea00042f4509",
+          "564c864927652f0c00745dab",
+          "5cfe6d7abb6504000119a6d7"
+        ],
+        "displayType": 0,
+        "price": 13.15,
+        "priceText": "₺13,15",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "icim-laktozsuz-sut-Goh5T6sR79",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "582310505b31d60004487ebe",
+        "name": "Sütaş Light Süt",
+        "shortName": "Sütaş Light Süt",
+        "shortDescription": "1 L",
+        "squareThumbnailURL": "http://cdn.getir.com/product/582310505b31d60004487ebe_tr_1621960723731.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/582310505b31d60004487ebe_tr_1621960723731.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "551430043427d5010a3a5c5e",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "564c864927652f0c00745dab",
+          "58342453c603d300041b3bca",
+          "5a149307afa7ea00042f4509",
+          "5cfe6d7abb6504000119a6d7"
+        ],
+        "displayType": 0,
+        "price": 12.8,
+        "priceText": "₺12,80",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sutas-light-sut-N4HJAD1QPg",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ced4831d349d10001e7056e",
+        "name": "İçim %3 Yağlı Süt",
+        "shortName": "İçim %3 Yağlı Süt",
+        "shortDescription": "6 x 200 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ced4831d349d10001e7056e_tr_1623651981690.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ced4831d349d10001e7056e_tr_1623651981690.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "564c864927652f0c00745dab",
+          "5cfe6d7abb6504000119a6d7"
+        ],
+        "displayType": 0,
+        "price": 22.5,
+        "priceText": "₺22,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "icim-3-yagli-sut-n8cHPERbPG",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5b97864bf31c400004eb82b0",
+        "name": "Sek Pastörize %3 Yağlı Taze Süt",
+        "shortName": "Sek %3 Yağlı Süt",
+        "shortDescription": "200 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5b97864bf31c400004eb82b0_tr_1597514986492.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5b97864bf31c400004eb82b0_tr_1597514986492.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "551430043427d5010a3a5c5e",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "564c864927652f0c00745dab",
+          "5a149307afa7ea00042f4509",
+          "5cfe6d7abb6504000119a6d7"
+        ],
+        "displayType": 0,
+        "price": 6.55,
+        "priceText": "₺6,55",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sek-pastorize-3-yagli-taze-sut-9DUvwOomwE",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5eb08405d47840db4347bd27",
+        "name": "Sek Pastörize Taze Süt",
+        "shortName": "Sek Pastörize Süt",
+        "shortDescription": "6 x 200 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5eb08405d47840db4347bd27_tr_1588626937804.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5eb08405d47840db4347bd27_tr_1588626937804.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "551430043427d5010a3a5c5e",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "564c864927652f0c00745dab",
+          "5a149307afa7ea00042f4509",
+          "5cfe6d7abb6504000119a6d7"
+        ],
+        "displayType": 0,
+        "price": 26.1,
+        "priceText": "₺26,10",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sek-pastorize-taze-sut-0z2mOeVQXK",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "595b8847683fc200042c9ef1",
+        "name": "Sek Çikolatalı Pastörize Yarım Yağlı Süt",
+        "shortName": "Sek Çikolatalı Yarım Yağlı Süt",
+        "shortDescription": "200 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/595b8847683fc200042c9ef1_tr_1597515021047.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/595b8847683fc200042c9ef1_tr_1597515021047.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "551430043427d5010a3a5c5e",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "564c864927652f0c00745dab",
+          "5a149307afa7ea00042f4509",
+          "5cfe6d7abb6504000119a6d7"
+        ],
+        "displayType": 0,
+        "price": 6.55,
+        "priceText": "₺6,55",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sek-cikolatali-pastorize-yarim-yagli-sut-50RoOgLChU",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5eb07797474acd0166ea91a1",
+        "name": "Sek Çikolatalı Pastörize Süt",
+        "shortName": "Sek Çikolatalı Süt",
+        "shortDescription": "6 x 200 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5eb07797474acd0166ea91a1_tr_1588626092027.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5eb07797474acd0166ea91a1_tr_1588626092027.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "551430043427d5010a3a5c5e",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "564c864927652f0c00745dab",
+          "5a149307afa7ea00042f4509",
+          "5cfe6d7abb6504000119a6d7"
+        ],
+        "displayType": 0,
+        "price": 26.1,
+        "priceText": "₺26,10",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sek-cikolatali-pastorize-sut-27DzsRZJZl",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61bb517f47b197184b5681ac",
+        "name": "Danone Kolajen Çilek",
+        "shortName": "Danone Kolajen Çilek",
+        "shortDescription": "200 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61bb517f47b197184b5681ac_tr_1639750144747.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61bb517f47b197184b5681ac_tr_1639750144747.jpeg"
+        ],
+        "categoryIds": [
+          "551430043427d5010a3a5c5e",
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "5a149307afa7ea00042f4509",
+          "564c864927652f0c00745dab",
+          "58342453c603d300041b3bca",
+          "5cfe6d7abb6504000119a6d7"
+        ],
+        "displayType": 0,
+        "price": 7.45,
+        "priceText": "₺7,45",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ced48314a8a2a000137dab7",
+        "name": "İçim Fit Çikolatalı Süt",
+        "shortName": "İçim Fit Çikolatalı Süt",
+        "shortDescription": "500 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ced48314a8a2a000137dab7_tr_1626180225967.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ced48314a8a2a000137dab7_tr_1626180225967.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "551430043427d5010a3a5c5e",
+          "5cfe685e25d48100016b7ea6",
+          "57e2996551f3ee030027e28b"
+        ],
+        "subCategoryIds": [
+          "564c864927652f0c00745dab",
+          "5a149307afa7ea00042f4509",
+          "5cfe6d7abb6504000119a6d7",
+          "58342453c603d300041b3bca"
+        ],
+        "displayType": 0,
+        "price": 13.45,
+        "priceText": "₺13,45",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "icim-fit-cikolatali-sut-hspCe8SFKP",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ced4832d349d10001e7059c",
+        "name": "İçim Fit Kahveli Süt",
+        "shortName": "İçim Fit Kahveli Süt",
+        "shortDescription": "500 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ced4832d349d10001e7059c_tr_1623652559053.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ced4832d349d10001e7059c_tr_1623652559053.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "551430043427d5010a3a5c5e",
+          "5cfe685e25d48100016b7ea6",
+          "57e2996551f3ee030027e28b"
+        ],
+        "subCategoryIds": [
+          "564c864927652f0c00745dab",
+          "5a149307afa7ea00042f4509",
+          "5cfe6d7abb6504000119a6d7",
+          "58342453c603d300041b3bca"
+        ],
+        "displayType": 0,
+        "price": 13.45,
+        "priceText": "₺13,45",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "icim-fit-kahveli-sut-nL4WqmwnLf",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ce65817fd9b330001c4a834",
+        "name": "Alpro Badem İçeceği",
+        "shortName": "Alpro Badem İçeceği",
+        "shortDescription": "250 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ce65817fd9b330001c4a834_tr_1622814569094.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ce65817fd9b330001c4a834_tr_1622814569094.jpeg"
+        ],
+        "categoryIds": [
+          "551430043427d5010a3a5c5e",
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "5a149307afa7ea00042f4509",
+          "564c864927652f0c00745dab",
+          "58342453c603d300041b3bca",
+          "5c13d4a512dc7200187ed969",
+          "5cfe6d7abb6504000119a6d7",
+          "61a8d571ee4893000e97351a",
+          "61baf01d1625b3bfe931259c"
+        ],
+        "displayType": 0,
+        "price": 13.95,
+        "priceText": "₺13,95",
+        "status": 1,
+        "struckPrice": 17.55,
+        "struckPriceText": "₺17,55",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "alpro-badem-icecegi-0AaykK2ei7",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ce65820fd9b330001c4a933",
+        "name": "Alpro Badem İçeceği",
+        "shortName": "Alpro Badem İçeceği",
+        "shortDescription": "1 L",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ce65820fd9b330001c4a933_tr_1614239550003.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ce65820fd9b330001c4a933_tr_1614239550003.jpeg"
+        ],
+        "categoryIds": [
+          "551430043427d5010a3a5c5e",
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "5a149307afa7ea00042f4509",
+          "564c864927652f0c00745dab",
+          "58342453c603d300041b3bca",
+          "5c13d4a512dc7200187ed969",
+          "5cfe6d7abb6504000119a6d7",
+          "61a8d571ee4893000e97351a",
+          "61baf01d1625b3bfe931259c"
+        ],
+        "displayType": 0,
+        "price": 48.95,
+        "priceText": "₺48,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "alpro-badem-icecegi-v4TaQnvAoo",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5df88f90780ecc5c88d56839",
+        "name": "Alpro Badem İçeceği Şekersiz",
+        "shortName": "Alpro Badem İçeceği Şekersiz",
+        "shortDescription": "1 L",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5df88f90780ecc5c88d56839_tr_1614239639571.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5df88f90780ecc5c88d56839_tr_1614239639571.jpeg"
+        ],
+        "categoryIds": [
+          "551430043427d5010a3a5c5e",
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "5a149307afa7ea00042f4509",
+          "564c864927652f0c00745dab",
+          "58342453c603d300041b3bca",
+          "5c13d4a512dc7200187ed969",
+          "5cfe6d7abb6504000119a6d7",
+          "61a8d571ee4893000e97351a",
+          "61baf01d1625b3bfe931259c"
+        ],
+        "displayType": 0,
+        "price": 41.25,
+        "priceText": "₺41,25",
+        "status": 1,
+        "struckPrice": 53.75,
+        "struckPriceText": "₺53,75",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "alpro-badem-icecegi-sekersiz-BosWz9SLy2",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5bdab0731a09760011a16335",
+        "name": "Alpro Soya İçeceği",
+        "shortName": "Alpro Soya İçeceği",
+        "shortDescription": "1 L",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5bdab0731a09760011a16335_tr_1614238649249.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5bdab0731a09760011a16335_tr_1614238649249.jpeg"
+        ],
+        "categoryIds": [
+          "551430043427d5010a3a5c5e",
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "5a149307afa7ea00042f4509",
+          "564c864927652f0c00745dab",
+          "58342453c603d300041b3bca",
+          "5c13d4a512dc7200187ed969",
+          "5cfe6d7abb6504000119a6d7",
+          "61a8d571ee4893000e97351a",
+          "61baf01d1625b3bfe931259c"
+        ],
+        "displayType": 0,
+        "price": 39.95,
+        "priceText": "₺39,95",
+        "status": 1,
+        "struckPrice": 50.5,
+        "struckPriceText": "₺50,50",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "alpro-soya-icecegi-bnxNr3aeVU",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "619505804a7b972daf68355f",
+        "name": "Nilky Badem Sütü",
+        "shortName": "Nilky Badem Sütü",
+        "shortDescription": "500 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/619505804a7b972daf68355f_tr_1637243389993.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/619505804a7b972daf68355f_tr_1637243389993.jpeg"
+        ],
+        "categoryIds": [
+          "551430043427d5010a3a5c5e",
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6",
+          "61a78ebbdea800061135fd19"
+        ],
+        "subCategoryIds": [
+          "5a149307afa7ea00042f4509",
+          "564c864927652f0c00745dab",
+          "58342453c603d300041b3bca",
+          "5c13d4a512dc7200187ed969",
+          "5cfe6d7abb6504000119a6d7",
+          "61a8d571ee4893000e97351a",
+          "61baf01d1625b3bfe931259c"
+        ],
+        "displayType": 0,
+        "price": 13.95,
+        "priceText": "₺13,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "nilky-badem-sutu-500-ml-cjq0lzqf4u",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61c5757e20f2a8c2b16117ac",
+        "name": "Sağlıklı Atıştırmalık Paketi",
+        "shortName": "Sağlıklı Atıştırmalık Paketi",
+        "shortDescription": "2 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61c5757e20f2a8c2b16117ac_tr_1640330956875.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61c5757e20f2a8c2b16117ac_tr_1640330956875.jpeg"
+        ],
+        "categoryIds": ["5cfe685e25d48100016b7ea6", "61a78ebbdea800061135fd19"],
+        "subCategoryIds": [
+          "5cfe6d7abb6504000119a6d7",
+          "61a78f521a62a72a7a8e0b46"
+        ],
+        "displayType": 0,
+        "price": 18.75,
+        "priceText": "₺18,75",
+        "status": 1,
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "5ced48314a8a2a000137dab7",
+            "count": 1,
+            "name": "İçim Fit Çikolatalı Süt",
+            "shortDescription": "500 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5ced48314a8a2a000137dab7_tr_1626180225967.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "5f071fb6e502d25fe7af7ee4",
+            "count": 1,
+            "name": "Komili Olibites Limon Dolgulu Yeşil Zeytin",
+            "shortDescription": "30 g",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5f071fb6e502d25fe7af7ee4_tr_1605530607070.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61c57a8580f297d64dd24c8b",
+        "name": "Sağlıklı Atıştırmalık Paketi",
+        "shortName": "Sağlıklı Atıştırmalık Paketi",
+        "shortDescription": "2 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61c57a8580f297d64dd24c8b_tr_1640331931159.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61c57a8580f297d64dd24c8b_tr_1640331931159.jpeg"
+        ],
+        "categoryIds": ["5cfe685e25d48100016b7ea6", "61a78ebbdea800061135fd19"],
+        "subCategoryIds": [
+          "5cfe6d7abb6504000119a6d7",
+          "61a78f521a62a72a7a8e0b46"
+        ],
+        "displayType": 0,
+        "price": 18.75,
+        "priceText": "₺18,75",
+        "status": 1,
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "5ced4832d349d10001e7059c",
+            "count": 1,
+            "name": "İçim Fit Kahveli Süt",
+            "shortDescription": "500 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5ced4832d349d10001e7059c_tr_1623652559053.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "5f071fb6e502d25fe7af7ee4",
+            "count": 1,
+            "name": "Komili Olibites Limon Dolgulu Yeşil Zeytin",
+            "shortDescription": "30 g",
+            "squareThumbnailURL": "http://cdn.getir.com/product/5f071fb6e502d25fe7af7ee4_tr_1605530607070.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "sut-gKGx0lNsW8"
+  },
+  {
+    "id": "5dca595a8c5fd5ad9c6b8dc3",
+    "name": "Peynir",
+    "productCount": 67,
+    "products": [
+      {
+        "id": "582339dfd9a3db0004e65711",
+        "name": "Sütaş Labne Peynir",
+        "shortName": "Sütaş Labne",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/582339dfd9a3db0004e65711_tr_1632228115052.jpeg",
+        "wideThumbnailURL": "http://cdn.getir.com/product/582339dfd9a3db0004e65711_wide_pic_tr_1626260948238.png",
+        "picURLs": [
+          "http://cdn.getir.com/product/582339dfd9a3db0004e65711_tr_1632228115052.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 1,
+        "price": 18.25,
+        "priceText": "₺18,25",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sutas-labne-peynir-96YRjp5Qs4",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e3c1706726a3623a86cd272",
+        "name": "Mandıradan Tam Yağlı Olgunlaştırılmış Klasik İnek Beyaz Peyniri",
+        "shortName": "Mandıradan Klasik İnek Peyniri",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e3c1706726a3623a86cd272_tr_1638946293470.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e3c1706726a3623a86cd272_tr_1638946293470.jpeg",
+          "http://cdn.getir.com/product/5e3c1706726a3623a86cd272_tr_1602655258322.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 26.75,
+        "priceText": "₺26,75",
+        "status": 1,
+        "struckPrice": 34.75,
+        "struckPriceText": "₺34,75",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "mandiradan-tam-yagli-olgunlastirilmis-klasik-inek-beyaz-peyniri-XD72Dg2hVO",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fd795f741e4ec0f4d2f1c39",
+        "name": "Mandıradan Tam Yağlı Olgunlaştırılmış Klasik İnek Beyaz Peyniri",
+        "shortName": "Mandıradan Klasik İnek Peyniri",
+        "shortDescription": "600 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fd795f741e4ec0f4d2f1c39_tr_1638947992265.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fd795f741e4ec0f4d2f1c39_tr_1638947992265.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 37.95,
+        "priceText": "₺37,95",
+        "status": 1,
+        "struckPrice": 47.95,
+        "struckPriceText": "₺47,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "mandiradan-tam-yagli-olgunlastirilmis-klasik-inek-beyaz-peyniri-j46Vz5aTe5",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e3c1b679f57996a9c845b0f",
+        "name": "Mandıradan Tam Yağlı Olgunlaştırılmış Ezine Beyaz Peyniri",
+        "shortName": "Mandıradan Ezine Peyniri",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e3c1b679f57996a9c845b0f_tr_1638947477324.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e3c1b679f57996a9c845b0f_tr_1638947477324.jpeg",
+          "http://cdn.getir.com/product/5e3c1b679f57996a9c845b0f_tr_1583144256130.jpeg",
+          "http://cdn.getir.com/product/5e3c1b679f57996a9c845b0f_tr_1583497018873.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 33.75,
+        "priceText": "₺33,75",
+        "status": 1,
+        "struckPrice": 43.75,
+        "struckPriceText": "₺43,75",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "mandiradan-tam-yagli-olgunlastirilmis-ezine-beyaz-peyniri-HuTUSElOp9",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e3c6800fdf97eeb3cacc09b",
+        "name": "Mandıradan Tam Yağlı Olgunlaştırılmış Trakya Eski Kaşar Peyniri",
+        "shortName": "Mandıradan Trakya Eski Kaşarı",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e3c6800fdf97eeb3cacc09b_tr_1638948537617.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e3c6800fdf97eeb3cacc09b_tr_1638948537617.jpeg",
+          "http://cdn.getir.com/product/5e3c6800fdf97eeb3cacc09b_tr_1583136884338.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5cfe685e25d48100016b7ea6",
+          "61b9ed091a62a71f128e1fec"
+        ],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3",
+          "61bc3dcfc7c11f19636720d3"
+        ],
+        "displayType": 0,
+        "price": 43.75,
+        "priceText": "₺43,75",
+        "status": 1,
+        "struckPrice": 56.75,
+        "struckPriceText": "₺56,75",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "mandiradan-tam-yagli-olgunlastirilmis-trakya-eski-kasar-peyniri-bs6dgfZIxv",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e3c27758eec7598bed7c711",
+        "name": "Mandıradan Tam Yağlı Taze Dil Peyniri",
+        "shortName": "Mandıradan Dil Peyniri",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e3c27758eec7598bed7c711_tr_1638946694919.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e3c27758eec7598bed7c711_tr_1638946694919.jpeg",
+          "http://cdn.getir.com/product/5e3c27758eec7598bed7c711_tr_1583509837062.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 32.45,
+        "priceText": "₺32,45",
+        "status": 1,
+        "struckPrice": 41.95,
+        "struckPriceText": "₺41,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "mandiradan-tam-yagli-taze-dil-peyniri-8neTESGjJj",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e3c1ee69f57996813845e9c",
+        "name": "Mandıradan Tam Yağlı Olgunlaştırılmış İzmir Tulum Peyniri",
+        "shortName": "Mandıradan İzmir Tulumu",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e3c1ee69f57996813845e9c_tr_1638945639609.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e3c1ee69f57996813845e9c_tr_1638945639609.jpeg",
+          "http://cdn.getir.com/product/5e3c1ee69f57996813845e9c_tr_1583155111184.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 33.75,
+        "priceText": "₺33,75",
+        "status": 1,
+        "struckPrice": 43.75,
+        "struckPriceText": "₺43,75",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "mandiradan-tam-yagli-olgunlastirilmis-izmir-tulum-peyniri-u45TwLrye2",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e3c1d178eec75c8c8d7bdb1",
+        "name": "Mandıradan Tam Yağlı Olgunlaştırılmış Erzincan Tulum Peyniri",
+        "shortName": "Mandıradan Erzincan Tulumu",
+        "shortDescription": "175 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e3c1d178eec75c8c8d7bdb1_tr_1638947758977.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e3c1d178eec75c8c8d7bdb1_tr_1638947758977.jpeg",
+          "http://cdn.getir.com/product/5e3c1d178eec75c8c8d7bdb1_tr_1583509511083.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 31.95,
+        "priceText": "₺31,95",
+        "status": 1,
+        "struckPrice": 41.75,
+        "struckPriceText": "₺41,75",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "mandiradan-tam-yagli-olgunlastirilmis-erzincan-tulum-peyniri-vFCxkNoURu",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e3c206b5633dc41ccd87e60",
+        "name": "Mandıradan Tam Yağlı Kars Taze Kaşar Peyniri",
+        "shortName": "Mandıradan Kars Taze Kaşarı",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e3c206b5633dc41ccd87e60_tr_1638946079677.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e3c206b5633dc41ccd87e60_tr_1638946079677.jpeg",
+          "http://cdn.getir.com/product/5e3c206b5633dc41ccd87e60_tr_1583137883594.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 33.75,
+        "priceText": "₺33,75",
+        "status": 1,
+        "struckPrice": 43.75,
+        "struckPriceText": "₺43,75",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "mandiradan-tam-yagli-kars-taze-kasar-peyniri-mQkPvUlOhc",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e3c25b3fdf97e11d0ac91fc",
+        "name": "Mandıradan Tam Yağlı Olgunlaştırılmış Kars Eski Kaşar Peyniri",
+        "shortName": "Mandıradan Kars Eski Kaşarı",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e3c25b3fdf97e11d0ac91fc_tr_1638947931080.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e3c25b3fdf97e11d0ac91fc_tr_1638947931080.jpeg",
+          "http://cdn.getir.com/product/5e3c25b3fdf97e11d0ac91fc_tr_1583137337105.jpeg",
+          "http://cdn.getir.com/product/5e3c25b3fdf97e11d0ac91fc_tr_1583497059063.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 31.95,
+        "priceText": "₺31,95",
+        "status": 1,
+        "struckPrice": 41.75,
+        "struckPriceText": "₺41,75",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "mandiradan-tam-yagli-olgunlastirilmis-kars-eski-kasar-peyniri-Y26XKJSRXj",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f588387d08ca654b31288e7",
+        "name": "Mandıradan Van Otlu Peyniri",
+        "shortName": "Mandıradan Van Otlu Peyniri",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f588387d08ca654b31288e7_tr_1638946207214.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f588387d08ca654b31288e7_tr_1638946207214.jpeg",
+          "http://cdn.getir.com/product/5f588387d08ca654b31288e7_tr_1601301406990.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 27.95,
+        "priceText": "₺27,95",
+        "status": 1,
+        "struckPrice": 35.95,
+        "struckPriceText": "₺35,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "mandiradan-van-otlu-peyniri-55pgMqZmPK",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e3c7128aaf4fe1f412947a6",
+        "name": "Mandıradan Tam Yağlı Olgunlaştırılmış Boğatepe Gravyer Peyniri",
+        "shortName": "Mandıradan Boğatepe Gravyeri",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e3c7128aaf4fe1f412947a6_tr_1638947570130.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e3c7128aaf4fe1f412947a6_tr_1638947570130.jpeg",
+          "http://cdn.getir.com/product/5e3c7128aaf4fe1f412947a6_tr_1583151596501.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 62.75,
+        "priceText": "₺62,75",
+        "status": 1,
+        "struckPrice": 80.75,
+        "struckPriceText": "₺80,75",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "mandiradan-tam-yagli-olgunlastirilmis-bogatepe-gravyer-peyniri-pxED8s5Pi0",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f588177ede6dd53d8502a8b",
+        "name": "Mandıradan Tuzsuz Kaymak Lor Peyniri",
+        "shortName": "Mandıradan Lor Peyniri",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f588177ede6dd53d8502a8b_tr_1638947112818.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f588177ede6dd53d8502a8b_tr_1638947112818.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 22.25,
+        "priceText": "₺22,25",
+        "status": 1,
+        "struckPrice": 28.95,
+        "struckPriceText": "₺28,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "mandiradan-tuzsuz-kaymak-lor-peyniri-DH6F0ivX9o",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60ab91be4dc3483b24e4913e",
+        "name": "Cerroni Cheddar Peyniri",
+        "shortName": "Cerroni Cheddar Peyniri",
+        "shortDescription": "150 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60ab91be4dc3483b24e4913e_tr_1638956062110.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60ab91be4dc3483b24e4913e_tr_1638956062110.jpeg",
+          "http://cdn.getir.com/product/60ab91be4dc3483b24e4913e_85c2a63a-b214-4486-807b-6137c211e573.jpeg",
+          "http://cdn.getir.com/product/60ab91be4dc3483b24e4913e_bda04369-88dc-4a04-b36a-5d5d03c6b3e0.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 26.75,
+        "priceText": "₺26,75",
+        "status": 1,
+        "struckPrice": 53.45,
+        "struckPriceText": "₺53,45",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "cerroni-cheddar-peyniri-100-g-o3nKIQXmA4",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60ab8b42fcd5c002c7346ebd",
+        "name": "Cerroni Parmesan Peyniri",
+        "shortName": "Cerroni Parmesan Peyniri",
+        "shortDescription": "150 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60ab8b42fcd5c002c7346ebd_tr_1638957314610.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60ab8b42fcd5c002c7346ebd_tr_1638957314610.jpeg",
+          "http://cdn.getir.com/product/60ab8b42fcd5c002c7346ebd_5d88c86d-aac4-486d-ac21-d28f29dcff79.jpeg",
+          "http://cdn.getir.com/product/60ab8b42fcd5c002c7346ebd_ce4f64f6-0666-4752-8f2e-219a650e733e.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 34.95,
+        "priceText": "₺34,95",
+        "status": 1,
+        "struckPrice": 69.95,
+        "struckPriceText": "₺69,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "cerroni-parmesan-peyniri-150-g-MUVQvwjYz4",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60ab8e864002d3603fd1c049",
+        "name": "Cerroni Toz Parmesan Peyniri",
+        "shortName": "Cerroni Toz Parmesan",
+        "shortDescription": "80 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60ab8e864002d3603fd1c049_tr_1638956385743.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60ab8e864002d3603fd1c049_tr_1638956385743.jpeg",
+          "http://cdn.getir.com/product/60ab8e864002d3603fd1c049_50a6c0a0-604f-47d4-890c-e28210dc6d94.jpeg",
+          "http://cdn.getir.com/product/60ab8e864002d3603fd1c049_6022c4af-5232-4e96-bc81-0392262c3b66.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 20.75,
+        "priceText": "₺20,75",
+        "status": 1,
+        "struckPrice": 41.5,
+        "struckPriceText": "₺41,50",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "cerroni-toz-parmesan-peyniri-80-g-B6VtN4wyqo",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60ab8f5e75d16328c2aebc9d",
+        "name": "Cerroni Danish Blue Peyniri",
+        "shortName": "Cerroni Danish Blue Peyniri",
+        "shortDescription": "100 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60ab8f5e75d16328c2aebc9d_tr_1638957100609.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60ab8f5e75d16328c2aebc9d_tr_1638957100609.jpeg",
+          "http://cdn.getir.com/product/60ab8f5e75d16328c2aebc9d_738c4772-dd63-4147-9ab7-02a17676b72b.jpeg",
+          "http://cdn.getir.com/product/60ab8f5e75d16328c2aebc9d_738e8d3f-8dd0-4aad-be9c-45170c52f9a9.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 20.95,
+        "priceText": "₺20,95",
+        "status": 1,
+        "struckPrice": 41.75,
+        "struckPriceText": "₺41,75",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "cerroni-danish-blue-cheese-100-g-lKxfqR8AHr",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "59e5e8ea834566000452f471",
+        "name": "Altınkılıç Tam Yağlı Olgunlaştırılmış İnek Peyniri",
+        "shortName": "Altınkılıç İnek Peyniri",
+        "shortDescription": "150 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/59e5e8ea834566000452f471_tr_1609121500075.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/59e5e8ea834566000452f471_tr_1609121500075.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 16.95,
+        "priceText": "₺16,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "altinkilic-tam-yagli-olgunlastirilmis-inek-peyniri-N5FukfICLe",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "58c02729adec2b0004629154",
+        "name": "Altınkılıç Olgunlaştırılmış Dilimli İnek Peyniri",
+        "shortName": "Altınkılıç İnek Peyniri",
+        "shortDescription": "450 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/58c02729adec2b0004629154_tr_1604782447599.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/58c02729adec2b0004629154_tr_1604782447599.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 44.95,
+        "priceText": "₺44,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "altinkilic-olgunlastirilmis-dilimli-inek-peyniri-nuy1FYjBRs",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "57ac249f25459a03009be480",
+        "name": "Ariste Klasik İnek Peyniri",
+        "shortName": "Ariste Klasik İnek",
+        "shortDescription": "600 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/57ac249f25459a03009be480_tr_1609121575650.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/57ac249f25459a03009be480_tr_1609121575650.jpeg",
+          "http://cdn.getir.com/product/57ac249f25459a03009be480_tr_1584435306108.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 67.9,
+        "priceText": "₺67,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "ariste-klasik-inek-peyniri-Why9kiNviv",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60939d5f68ed9a5c245ae1dc",
+        "name": "Altınkılıç Olgunlaştırılmış Dilimli Koyun Peyniri",
+        "shortName": "Altınkılıç Koyun Peyniri",
+        "shortDescription": "450 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60939d5f68ed9a5c245ae1dc_tr_1620819937333.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60939d5f68ed9a5c245ae1dc_tr_1620819937333.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 54.5,
+        "priceText": "₺54,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "altinkilic-olgunlastirilmis-dilimli-koyun-peyniri-QJLiqtwdE3",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ced4832d349d10001e705ae",
+        "name": "Taciroğlu Klasik Koyun Peyniri",
+        "shortName": "Taciroğlu Klasik Koyun",
+        "shortDescription": "525 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ced4832d349d10001e705ae_tr_1630679324024.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ced4832d349d10001e705ae_tr_1630679324024.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 56.9,
+        "priceText": "₺56,90",
+        "status": 1,
+        "struckPrice": 65.9,
+        "struckPriceText": "₺65,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "taciroglu-klasik-koyun-peyniri-FDRJyE6R9S",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6093e4067d6086d25df16497",
+        "name": "Altınkılıç Olgunlaştırılmış Dilimli Keçi Peyniri",
+        "shortName": "Altınkılıç Keçi Peyniri",
+        "shortDescription": "450 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6093e4067d6086d25df16497_tr_1620819965401.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6093e4067d6086d25df16497_tr_1620819965401.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 54.5,
+        "priceText": "₺54,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "altinkilic-olgunlastirilmis-dilimli-keci-peyniri-bt2T1915p2",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ced48324a8a2a000137dad6",
+        "name": "Taciroğlu Klasik Keçi Peyniri",
+        "shortName": "Taciroğlu Klasik Keçi Peyniri",
+        "shortDescription": "525 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ced48324a8a2a000137dad6_tr_1630679210894.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ced48324a8a2a000137dad6_tr_1630679210894.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 56.9,
+        "priceText": "₺56,90",
+        "status": 1,
+        "struckPrice": 65.9,
+        "struckPriceText": "₺65,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "taciroglu-klasik-keci-peyniri-F2Dq5P7T5q",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "58232bc3d9a3db0004e64afb",
+        "name": "Sütaş Beyaz Peynir",
+        "shortName": "Sütaş Beyaz Peynir",
+        "shortDescription": "500 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/58232bc3d9a3db0004e64afb_tr_1593175637387.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/58232bc3d9a3db0004e64afb_tr_1593175637387.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5cfe685e25d48100016b7ea6",
+          "56dfcfba86004203000a870d"
+        ],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3",
+          "5ffc3636db6c2f7b4ead1338"
+        ],
+        "displayType": 0,
+        "price": 34.75,
+        "priceText": "₺34,75",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sutas-beyaz-peynir-C5T6wsxIZi",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "615bef90e57b06f7279c7b5d",
+        "name": "Bahçıvan Serpme Beyaz Peynir",
+        "shortName": "Bahçıvan Serpme Peynir",
+        "shortDescription": "220 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/615bef90e57b06f7279c7b5d_tr_1633508225269.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/615bef90e57b06f7279c7b5d_tr_1633508225269.jpeg",
+          "http://cdn.getir.com/product/615bef90e57b06f7279c7b5d_768492e4-e208-4ae1-ac0a-455ffcb59ae7.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 23.95,
+        "priceText": "₺23,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "bahcivan-beyaz-peynir-serpme-220-gr-18igxnywpg",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5bf52908dbaa09001e0dc38e",
+        "name": "Bahçıvan Dilimli Beyaz Peynir",
+        "shortName": "Bahçıvan Dilimli Beyaz",
+        "shortDescription": "420 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5bf52908dbaa09001e0dc38e_tr_1631805794351.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5bf52908dbaa09001e0dc38e_tr_1631805794351.jpeg",
+          "http://cdn.getir.com/product/5bf52908dbaa09001e0dc38e_c12148e7-8513-4a74-8425-44a19fa4ef58.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 32.9,
+        "priceText": "₺32,90",
+        "status": 1,
+        "struckPrice": 42.9,
+        "struckPriceText": "₺42,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "bahcivan-dilimli-beyaz-peynir-mq5E0AILSh",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "58b180d3f0994e000499f9a3",
+        "name": "Ariste 1 Dilim Beyaz Peynir",
+        "shortName": "Ariste 1 Dilim Peynir",
+        "shortDescription": "50 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/58b180d3f0994e000499f9a3_tr_1608365940584.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/58b180d3f0994e000499f9a3_tr_1608365940584.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 6.95,
+        "priceText": "₺6,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "ariste-1-dilim-beyaz-peynir-Yn6a4yFast",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f087e7110448ac7865b8477",
+        "name": "Ariste Bi' Öğün",
+        "shortName": "Ariste Bi' Öğün",
+        "shortDescription": "125 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f087e7110448ac7865b8477_tr_1608365888978.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f087e7110448ac7865b8477_tr_1608365888978.jpeg",
+          "http://cdn.getir.com/product/5f087e7110448ac7865b8477_tr_1595515123030.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "56dfe03cf82055030022cdc0",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "564c7fc227652f0c007457c8",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 19.95,
+        "priceText": "₺19,95",
+        "status": 1,
+        "struckPrice": 23.45,
+        "struckPriceText": "₺23,45",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "ariste-bi-ogun-XPoMzMtR7v",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61a630d90993545649889867",
+        "name": "Teksüt Antep Peyniri",
+        "shortName": "Teksüt Antep Peyniri",
+        "shortDescription": "250 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61a630d90993545649889867_tr_1638371365522.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61a630d90993545649889867_tr_1638371365522.jpeg",
+          "http://cdn.getir.com/product/61a630d90993545649889867_cef10bd5-953b-4e21-83b5-40718d5878c6.jpeg",
+          "http://cdn.getir.com/product/61a630d90993545649889867_71b231bb-6e27-425b-aa20-0c7e965e63c0.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 31.25,
+        "priceText": "₺31,25",
+        "status": 1,
+        "struckPrice": 36.25,
+        "struckPriceText": "₺36,25",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "teksut-antep-peyniri-ajuhti8j9b",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60b6028dcbd53755f4f0601e",
+        "name": "İçim Taze Kaşar Peyniri",
+        "shortName": "İçim Kaşar Peyniri",
+        "shortDescription": "700 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60b6028dcbd53755f4f0601e_tr_1623653648433.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60b6028dcbd53755f4f0601e_tr_1623653648433.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 57.95,
+        "priceText": "₺57,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "icim-taze-kasar-peyniri-QNIKFmc6QW",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "582331c25b31d60004489724",
+        "name": "Sütaş Taze Kaşar Peyniri",
+        "shortName": "Sütaş Kaşar Peyniri",
+        "shortDescription": "500 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/582331c25b31d60004489724_tr_1603570638221.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/582331c25b31d60004489724_tr_1603570638221.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5cfe685e25d48100016b7ea6",
+          "566eeb85f9facb0f00b1cb16"
+        ],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3",
+          "5ff8444846c6e784f218aed7"
+        ],
+        "displayType": 0,
+        "price": 49.95,
+        "priceText": "₺49,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sutas-taze-kasar-peyniri-A8e42yRelJ",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "58c02758adec2b0004629167",
+        "name": "Altınkılıç Eski Kaşar Peynir",
+        "shortName": "Altınkılıç Eski Kaşar",
+        "shortDescription": "300 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/58c02758adec2b0004629167_tr_1602604879793.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/58c02758adec2b0004629167_tr_1602604879793.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 32.5,
+        "priceText": "₺32,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "altinkilic-eski-kasar-peynir-yinVnXa1z7",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ced482dd349d10001e7052e",
+        "name": "İçim Tost Peyniri",
+        "shortName": "İçim Tost Peyniri",
+        "shortDescription": "400 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ced482dd349d10001e7052e_tr_1623651913199.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ced482dd349d10001e7052e_tr_1623651913199.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 38.5,
+        "priceText": "₺38,50",
+        "status": 1,
+        "struckPrice": 43.95,
+        "struckPriceText": "₺43,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "icim-tost-peyniri-KYA8xClmzG",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5bf528a4055731002e08fcd1",
+        "name": "Bahçıvan Dilimli Tost Peyniri",
+        "shortName": "Bahçıvan Dilimli Tost",
+        "shortDescription": "225 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5bf528a4055731002e08fcd1_tr_1588144397424.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5bf528a4055731002e08fcd1_tr_1588144397424.jpeg",
+          "http://cdn.getir.com/product/5bf528a4055731002e08fcd1_0b78ec6b-20c6-4b1f-ade6-d7775ad1934b.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 34.75,
+        "priceText": "₺34,75",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "bahcivan-dilimli-tost-peyniri-8vyF8xbm5D",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ffc0fcaf3db77dd01c76f7f",
+        "name": "Sütaş Dilimli Tost Peyniri",
+        "shortName": "Sütaş Dilimli Tost Peyniri",
+        "shortDescription": "350 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ffc0fcaf3db77dd01c76f7f_tr_1610433558692.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ffc0fcaf3db77dd01c76f7f_tr_1610433558692.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5cfe685e25d48100016b7ea6",
+          "566eeb85f9facb0f00b1cb16"
+        ],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3",
+          "5ff848bfdbccf0571dced44e"
+        ],
+        "displayType": 0,
+        "price": 44.5,
+        "priceText": "₺44,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sutas-dilimli-tost-peyniri-ETfzantqTY",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "58c02788adec2b000462917c",
+        "name": "Altınkılıç İzmir Tulum Peynir",
+        "shortName": "Altınkılıç İzmir Tulumu",
+        "shortDescription": "300 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/58c02788adec2b000462917c_tr_1603569435055.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/58c02788adec2b000462917c_tr_1603569435055.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 32.5,
+        "priceText": "₺32,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "altinkilic-izmir-tulum-peynir-XJdzt0bsSh",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ced482ed349d10001e70544",
+        "name": "Taciroğlu Tulum Peyniri",
+        "shortName": "Taciroğlu Tulum",
+        "shortDescription": "250 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ced482ed349d10001e70544_tr_1630679028032.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ced482ed349d10001e70544_tr_1630679028032.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 31.5,
+        "priceText": "₺31,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "taciroglu-tulum-peyniri-R0ColpHInI",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "57ac24e525459a03009be4b9",
+        "name": "Ariste Tulum Peyniri",
+        "shortName": "Ariste Tulum Peyniri",
+        "shortDescription": "250 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/57ac24e525459a03009be4b9_tr_1638865179516.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/57ac24e525459a03009be4b9_tr_1638865179516.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 29.5,
+        "priceText": "₺29,50",
+        "status": 1,
+        "struckPrice": 33.9,
+        "struckPriceText": "₺33,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "ariste-erzincan-tulum-peyniri-4xLugjRirt",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61b05d8298be56d6b3c9472d",
+        "name": "Ariste 1 Dilim İzmir Tulum Peyniri",
+        "shortName": "Ariste 1 Dilim İzmir Tulumu",
+        "shortDescription": "40 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61b05d8298be56d6b3c9472d_tr_1639116610881.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61b05d8298be56d6b3c9472d_tr_1639116610881.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 5.95,
+        "priceText": "₺5,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "ariste-1-dilim-izmir-tulum-peyniri-40-gr-cmzllxz1za",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f199bfc9e35ab6255dd54ca",
+        "name": "Bahçıvan Rende Mozzarella Peyniri",
+        "shortName": "Bahçıvan Rende Mozzarella",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f199bfc9e35ab6255dd54ca_tr_1595520953421.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f199bfc9e35ab6255dd54ca_tr_1595520953421.jpeg",
+          "http://cdn.getir.com/product/5f199bfc9e35ab6255dd54ca_e120aa4f-745c-413a-bb0a-fffc6cbd5965.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5fd8a40cbb487c5a816f9f03",
+          "5fd8c58f3bdc2389a56e0fb0",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5fd8ab791f8eea523507b59f",
+          "5fd90098dbbeb8ba7a12ff11",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 21.45,
+        "priceText": "₺21,45",
+        "status": 1,
+        "struckPrice": 27.45,
+        "struckPriceText": "₺27,45",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "bahcivan-rende-mozzarella-peyniri-I6OLoDk2au",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5bf52507dbaa09001e0dc2fe",
+        "name": "Bahçıvan Çeçil Peyniri",
+        "shortName": "Bahçıvan Çeçil Peyniri",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5bf52507dbaa09001e0dc2fe_tr_1608368368237.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5bf52507dbaa09001e0dc2fe_tr_1608368368237.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5fd8a40cbb487c5a816f9f03",
+          "5fd8c58f3bdc2389a56e0fb0",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5fd8ab791f8eea523507b59f",
+          "5fd90098dbbeb8ba7a12ff11",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 32.75,
+        "priceText": "₺32,75",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "bahcivan-cecil-peyniri-fGc8eNxrO5",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5bf522e30201d100172a2d94",
+        "name": "Bahçıvan Dil Peyniri",
+        "shortName": "Bahçıvan Dil Peyniri",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5bf522e30201d100172a2d94_tr_1609410830235.png",
+        "picURLs": [
+          "http://cdn.getir.com/product/5bf522e30201d100172a2d94_tr_1609410830235.png",
+          "http://cdn.getir.com/product/5bf522e30201d100172a2d94_681d1d26-4018-43e9-af92-527cb40bd9a3.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 31.25,
+        "priceText": "₺31,25",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "bahcivan-dil-peyniri-w4OLVCOn5X",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5c74d4710f1b010001a17049",
+        "name": "Ariste Dil Peyniri",
+        "shortName": "Ariste Dil Peyniri",
+        "shortDescription": "250 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5c74d4710f1b010001a17049_tr_1608365868051.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5c74d4710f1b010001a17049_tr_1608365868051.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 39.45,
+        "priceText": "₺39,45",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "ariste-dil-peyniri-LllZ5Fau5x",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5bf528150d369300118a36d1",
+        "name": "Bahçıvan Örgü Peyniri",
+        "shortName": "Bahçıvan Örgü Peyniri",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5bf528150d369300118a36d1_tr_1608368354471.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5bf528150d369300118a36d1_tr_1608368354471.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 31.25,
+        "priceText": "₺31,25",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "bahcivan-orgu-peyniri-GDcxGUNcaD",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ce65823a72a950001cc88c0",
+        "name": "Bahçıvan Süzme Peynir",
+        "shortName": "Bahçıvan Süzme Peynir",
+        "shortDescription": "500 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ce65823a72a950001cc88c0_tr_1609902381949.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ce65823a72a950001cc88c0_tr_1609902381949.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5fd8a40cbb487c5a816f9f03",
+          "5fd8c58f3bdc2389a56e0fb0",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5fd8ab791f8eea523507b59f",
+          "5fd90098dbbeb8ba7a12ff11",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 26.95,
+        "priceText": "₺26,95",
+        "status": 1,
+        "struckPrice": 30.95,
+        "struckPriceText": "₺30,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "bahcivan-suzme-peynir-w9IjCrvSqO",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fa40e2ac9fe76bfd02a4ca4",
+        "name": "Bahçıvan Probiyotik Süzme Peynir",
+        "shortName": "Bahçıvan Probiyotik Süzme",
+        "shortDescription": "500 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fa40e2ac9fe76bfd02a4ca4_tr_1609410788195.png",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fa40e2ac9fe76bfd02a4ca4_tr_1609410788195.png",
+          "http://cdn.getir.com/product/5fa40e2ac9fe76bfd02a4ca4_3f0f1752-033c-40a0-8385-ed6221f30cf2.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 37.25,
+        "priceText": "₺37,25",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "bahcivan-probiyotik-suzme-peynir-iR03hoSvYA",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "612dea29afe52615a6236338",
+        "name": "Bahçıvan Laktozsuz Süzme Peynir Yarım Yağlı",
+        "shortName": "Bahçıvan Yarım Yağlı Süzme",
+        "shortDescription": "500 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/612dea29afe52615a6236338_tr_1634539204321.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/612dea29afe52615a6236338_tr_1634539204321.jpeg",
+          "http://cdn.getir.com/product/612dea29afe52615a6236338_0adb49fb-b8d4-4cd2-bd43-bc503580c37b.jpeg"
+        ],
+        "categoryIds": ["5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": ["5dca595a8c5fd5ad9c6b8dc3"],
+        "displayType": 0,
+        "price": 37.25,
+        "priceText": "₺37,25",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "bahcivan-laktozsuz-suzme-peynir-yarim-yagli-500-g-sksibm5212",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "582337bb5b31d60004489be3",
+        "name": "Sütaş Süzme Peynir",
+        "shortName": "Sütaş Süzme Peynir",
+        "shortDescription": "500 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/582337bb5b31d60004489be3_tr_1579699634031.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/582337bb5b31d60004489be3_tr_1579699634031.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5cfe685e25d48100016b7ea6",
+          "566eeb85f9facb0f00b1cb16",
+          "56dfcfba86004203000a870d"
+        ],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3",
+          "5ff8444846c6e784f218aed7",
+          "5ffc3636db6c2f7b4ead1338"
+        ],
+        "displayType": 0,
+        "price": 32.95,
+        "priceText": "₺32,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sutas-suzme-peynir-fUi2QQnvB8",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "58d25a7aeab2a7000473b52c",
+        "name": "Meriç Hellim Peyniri",
+        "shortName": "Meriç Hellim Peyniri",
+        "shortDescription": "250 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/58d25a7aeab2a7000473b52c_tr_1611295597915.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/58d25a7aeab2a7000473b52c_tr_1611295597915.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 24.25,
+        "priceText": "₺24,25",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "meric-hellim-peyniri-afkBC8nuhh",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "607689230c2f7159e3ae35cc",
+        "name": "Bahçıvan Hellim Peyniri",
+        "shortName": "Bahçıvan Hellim Peyniri",
+        "shortDescription": "225 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/607689230c2f7159e3ae35cc_tr_1625642419678.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/607689230c2f7159e3ae35cc_tr_1625642419678.jpeg",
+          "http://cdn.getir.com/product/607689230c2f7159e3ae35cc_774fce65-d861-475c-8cd3-9899f1322370.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 22.95,
+        "priceText": "₺22,95",
+        "status": 1,
+        "struckPrice": 40.45,
+        "struckPriceText": "₺40,45",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "bahcivan-hellim-peyniri-qEO9JBSANy",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ffef42ac08ad4270acfcdf8",
+        "name": "Sütaş Izgarella Peynir",
+        "shortName": "Sütaş Izgarella Peynir",
+        "shortDescription": "6 x 60 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ffef42ac08ad4270acfcdf8_tr_1612599271201.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ffef42ac08ad4270acfcdf8_tr_1612599271201.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5cfe685e25d48100016b7ea6",
+          "566eeb85f9facb0f00b1cb16"
+        ],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3",
+          "5ff8444846c6e784f218aed7",
+          "5ff848bfdbccf0571dced44e"
+        ],
+        "displayType": 0,
+        "price": 57.25,
+        "priceText": "₺57,25",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sutas-izgarella-peynir-VLA3WdNQvF",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5cf1463fe327a40001eefae2",
+        "name": "Bahçıvan Parmesan Peynir",
+        "shortName": "Bahçıvan Parmesan",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5cf1463fe327a40001eefae2_tr_1588144931492.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5cf1463fe327a40001eefae2_tr_1588144931492.jpeg",
+          "http://cdn.getir.com/product/5cf1463fe327a40001eefae2_21d9d9f7-136c-4dc8-8583-0dcf03328fde.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 59.9,
+        "priceText": "₺59,90",
+        "status": 1,
+        "struckPrice": 89.9,
+        "struckPriceText": "₺89,90",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "bahcivan-parmesan-peynir-cB5Dprrwb7",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5bf523c10201d100172a2dce",
+        "name": "Bahçıvan Lezzetli Peynir Topları",
+        "shortName": "Bahçıvan Peynir Topları",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5bf523c10201d100172a2dce_tr_1585754222904.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5bf523c10201d100172a2dce_tr_1585754222904.jpeg",
+          "http://cdn.getir.com/product/5bf523c10201d100172a2dce_fd6f25da-b498-4827-be76-75487e0ab120.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5fd8a40cbb487c5a816f9f03",
+          "5fd8c58f3bdc2389a56e0fb0",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5fd8ab791f8eea523507b59f",
+          "5fd90098dbbeb8ba7a12ff11",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 27.9,
+        "priceText": "₺27,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "bahcivan-lezzetli-peynir-toplari-VRRCam4fUw",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "607550b1ad71921a8d4a84d8",
+        "name": "Sütaş Labne Peynir",
+        "shortName": "Sütaş Labne",
+        "shortDescription": "3 x 200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/607550b1ad71921a8d4a84d8_tr_1619678382071.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/607550b1ad71921a8d4a84d8_tr_1619678382071.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 53.75,
+        "priceText": "₺53,75",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sutas-labne-peynir-tZwFOahDfY",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ce6581ffd9b330001c4a905",
+        "name": "Bahçıvan Labne Peyniri",
+        "shortName": "Bahçıvan Labne",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ce6581ffd9b330001c4a905_tr_1589468539079.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ce6581ffd9b330001c4a905_tr_1589468539079.jpeg",
+          "http://cdn.getir.com/product/5ce6581ffd9b330001c4a905_43c7c611-fce8-4fbd-b3e0-e82e722f5cf8.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5fd8a40cbb487c5a816f9f03",
+          "5fd8c58f3bdc2389a56e0fb0",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5fd8ab791f8eea523507b59f",
+          "5fd90098dbbeb8ba7a12ff11",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 15.25,
+        "priceText": "₺15,25",
+        "status": 1,
+        "struckPrice": 17.95,
+        "struckPriceText": "₺17,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "bahcivan-labne-peyniri-FCoglsqqZ0",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "616957ff5683191aed8b1613",
+        "name": "Philadelphia Tam Yağlı Taze Peynir",
+        "shortName": "Philadelphia Taze Peynir",
+        "shortDescription": "125 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/616957ff5683191aed8b1613_tr_1635779043885.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/616957ff5683191aed8b1613_tr_1635779043885.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 33.95,
+        "priceText": "₺33,95",
+        "status": 1,
+        "struckPrice": 38.95,
+        "struckPriceText": "₺38,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "philadelphia-tam-yagli-taze-peynir-125-g-tlmmr3jzeq",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61693d84dfc97a6c6dc2ee03",
+        "name": "Philadelphia Milka Çikolatalı Krem Peynir",
+        "shortName": "Philadelphia Milka Çikolatalı",
+        "shortDescription": "175 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61693d84dfc97a6c6dc2ee03_tr_1634886570861.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61693d84dfc97a6c6dc2ee03_tr_1634886570861.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 27.25,
+        "priceText": "₺27,25",
+        "status": 1,
+        "struckPrice": 31.95,
+        "struckPriceText": "₺31,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "philadelphia-milka-cikolatali-krem-peynir-175-g-tj1otcfcam",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61795e516dd81c9e8b36c8b1",
+        "name": "Kiri Labne Taze Peynir",
+        "shortName": "Kiri Labne Taze Peynir",
+        "shortDescription": "150 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61795e516dd81c9e8b36c8b1_tr_1635836657629.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61795e516dd81c9e8b36c8b1_tr_1635836657629.jpeg",
+          "http://cdn.getir.com/product/61795e516dd81c9e8b36c8b1_0c63eafe-2957-4bef-adce-5a800671965f.jpeg",
+          "http://cdn.getir.com/product/61795e516dd81c9e8b36c8b1_5c4ab858-dab3-4c09-aea9-3d63309f10cb.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 18.75,
+        "priceText": "₺18,75",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "kiri-labne-taze-peynir-1mhzc4lzf0",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e1734c5d7487c79a3fa5780",
+        "name": "Kiri Sürülebilir Tam Yağlı Porsiyon Taze Peynir",
+        "shortName": "Kiri Taze Peynir",
+        "shortDescription": "100 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e1734c5d7487c79a3fa5780_tr_1581331915808.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e1734c5d7487c79a3fa5780_tr_1581331915808.jpeg",
+          "http://cdn.getir.com/product/5e1734c5d7487c79a3fa5780_7dec88fb-e9d7-4de6-af14-be7f3615231a.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 20.45,
+        "priceText": "₺20,45",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "kiri-surulebilir-tam-yagli-porsiyon-taze-peynir-vWO0xdOW9O",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5d66630ce9f977000106ddb1",
+        "name": "La Vache Qui Rit Krem Peynir",
+        "shortName": "La Vache Qui Rit Krem Peynir",
+        "shortDescription": "270 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5d66630ce9f977000106ddb1_tr_1567435984787.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5d66630ce9f977000106ddb1_tr_1567435984787.jpeg",
+          "http://cdn.getir.com/product/5d66630ce9f977000106ddb1_cb79cf31-f746-43dc-a55c-c1aec5702050.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 28.55,
+        "priceText": "₺28,55",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "la-vache-qui-rit-krem-peynir-qkDzHf4JFo",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "619ca5640e0680aa259bd449",
+        "name": "Karper Üçgen Peynir 8'li",
+        "shortName": "Karper Üçgen Peynir",
+        "shortDescription": "100 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/619ca5640e0680aa259bd449_tr_1637765824040.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/619ca5640e0680aa259bd449_tr_1637765824040.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 13.25,
+        "priceText": "₺13,25",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "karper-buyuk-ucgen-peynir-8-li-crjmi2vowz",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "617fe9ac5705a916c7a24c13",
+        "name": "Teksüt Lor Peyniri",
+        "shortName": "Teksüt Lor Peyniri",
+        "shortDescription": "500 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/617fe9ac5705a916c7a24c13_tr_1635865583503.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/617fe9ac5705a916c7a24c13_tr_1635865583503.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 13.25,
+        "priceText": "₺13,25",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "teksut-lor-peyniri-gpkdfljns6",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "57ac260a25459a03009be583",
+        "name": "Ariste Peynir Tabağı",
+        "shortName": "Ariste Peynir Tabağı",
+        "shortDescription": "250 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/57ac260a25459a03009be583_tr_1615191814972.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/57ac260a25459a03009be583_tr_1615191814972.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "551430043427d5010a3a5c5d",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "56dfd8655f009103000595d5",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 53.9,
+        "priceText": "₺53,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "ariste-peynir-tabagi-7Y1peEivvV",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5d70ffae8bc0cb00010d534a",
+        "name": "Sek Quark Sade",
+        "shortName": "Sek Quark Sade",
+        "shortDescription": "140 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5d70ffae8bc0cb00010d534a_tr_1632230738484.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5d70ffae8bc0cb00010d534a_tr_1632230738484.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5673bcdd258df00f006f0ec1",
+          "58342453c603d300041b3bca",
+          "5cfe7456bb6504000119c32a",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 10.95,
+        "priceText": "₺10,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sek-quark-sade-EnbYYtnblC",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5d70e0aca51b27000144f944",
+        "name": "Sek Quark Çilek",
+        "shortName": "Sek Quark Çilek",
+        "shortDescription": "140 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5d70e0aca51b27000144f944_tr_1632230698576.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5d70e0aca51b27000144f944_tr_1632230698576.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5673bcdd258df00f006f0ec1",
+          "58342453c603d300041b3bca",
+          "5cfe7456bb6504000119c32a",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 10.95,
+        "priceText": "₺10,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sek-quark-cilek-5ACCwOzBt9",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5d70e5dca51b27000145043b",
+        "name": "Sek Quark Yaban Mersini",
+        "shortName": "Sek Quark Yaban Mersini",
+        "shortDescription": "140 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5d70e5dca51b27000145043b_tr_1632231017919.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5d70e5dca51b27000145043b_tr_1632231017919.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5673bcdd258df00f006f0ec1",
+          "58342453c603d300041b3bca",
+          "5cfe7456bb6504000119c32a",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 10.95,
+        "priceText": "₺10,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sek-quark-yaban-mersini-Jh3ex13TXv",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "peynir-xALuVBwt4S"
+  },
+  {
+    "id": "5cfe7456bb6504000119c32a",
+    "name": "Yoğurt",
+    "productCount": 32,
+    "products": [
+      {
+        "id": "58232884d9a3db0004e64820",
+        "name": "Sütaş Sarımsaklı Yoğurt",
+        "shortName": "Sütaş Sarımsaklı Yoğurt",
+        "shortDescription": "500 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/58232884d9a3db0004e64820_tr_1609904499548.jpeg",
+        "wideThumbnailURL": "http://cdn.getir.com/product/58232884d9a3db0004e64820_wide_pic_tr_1610366000284.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/58232884d9a3db0004e64820_tr_1609904499548.jpeg",
+          "http://cdn.getir.com/product/58232884d9a3db0004e64820_d7c79508-cf3d-4ae9-8ef1-81a83c6fb3d5.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "5673bcdd258df00f006f0ec1",
+          "5cfe7456bb6504000119c32a"
+        ],
+        "displayType": 1,
+        "price": 13.75,
+        "priceText": "₺13,75",
+        "status": 1,
+        "struckPrice": 17.25,
+        "struckPriceText": "₺17,25",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sutas-sarimsakli-yogurt-emNKNQWCXE",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5b34db14c89934000467ba06",
+        "name": "Sütaş Tava Yoğurdu",
+        "shortName": "Sütaş Tava Yoğurdu",
+        "shortDescription": "450 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5b34db14c89934000467ba06_tr_1601150882083.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5b34db14c89934000467ba06_tr_1601150882083.jpeg",
+          "http://cdn.getir.com/product/5b34db14c89934000467ba06_36e485fd-1082-4ce6-b155-c18f4f295cdd.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "5673bcdd258df00f006f0ec1",
+          "5cfe7456bb6504000119c32a"
+        ],
+        "displayType": 0,
+        "price": 16.15,
+        "priceText": "₺16,15",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sutas-tava-yogurdu-z7DinU5gKI",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5d03bb6736e4a5000117bbf6",
+        "name": "Sek Çiftlik Kaymaksız Yoğurt",
+        "shortName": "Sek Çiftlik Yoğurt",
+        "shortDescription": "900 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5d03bb6736e4a5000117bbf6_tr_1608043802171.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5d03bb6736e4a5000117bbf6_tr_1608043802171.jpeg"
+        ],
+        "categoryIds": ["5cfe685e25d48100016b7ea6", "56dfed05ab747f03008d9379"],
+        "subCategoryIds": [
+          "5cfe7456bb6504000119c32a",
+          "5673bcdd258df00f006f0ec1"
+        ],
+        "displayType": 0,
+        "price": 20.9,
+        "priceText": "₺20,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sek-ciftlik-kaymaksiz-yogurt-mwlzsygct6",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "59e87cdcaee4410004c89a0e",
+        "name": "Eker Efsane Yoğurt",
+        "shortName": "Eker Efsane Yoğurt",
+        "shortDescription": "350 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/59e87cdcaee4410004c89a0e_tr_1628073520893.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/59e87cdcaee4410004c89a0e_tr_1628073520893.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5cfe685e25d48100016b7ea6",
+          "5fd8a40cbb487c5a816f9f03",
+          "5fd8c58f3bdc2389a56e0fb0"
+        ],
+        "subCategoryIds": [
+          "5673bcdd258df00f006f0ec1",
+          "5cfe7456bb6504000119c32a",
+          "5fd8ab791f8eea523507b59f",
+          "5fd90098dbbeb8ba7a12ff11"
+        ],
+        "displayType": 0,
+        "price": 9.75,
+        "priceText": "₺9,75",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "eker-efsane-yogurt-6tYQ9nuSXj",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5cf3d88e4b58210001f49589",
+        "name": "Eker Süzme Yoğurt",
+        "shortName": "Eker Süzme Yoğurt",
+        "shortDescription": "900 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5cf3d88e4b58210001f49589_tr_1560329519374.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5cf3d88e4b58210001f49589_tr_1560329519374.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "5673bcdd258df00f006f0ec1",
+          "5cfe7456bb6504000119c32a"
+        ],
+        "displayType": 0,
+        "price": 33.5,
+        "priceText": "₺33,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "eker-suzme-yogurt-8gNeJQGEG3",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61a077e486a7757184f69d45",
+        "name": "Activa Smoothie Paketi",
+        "shortName": "Activa Smoothie Paketi",
+        "shortDescription": "3 Ürün",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61a077e486a7757184f69d45_tr_1640262218588.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61a077e486a7757184f69d45_tr_1640262218588.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "551430043427d5010a3a5c5e",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "5673bcdd258df00f006f0ec1",
+          "56def22c672f0003003bb868",
+          "58342453c603d300041b3bca",
+          "5cfe7456bb6504000119c32a"
+        ],
+        "displayType": 0,
+        "price": 24.6,
+        "priceText": "₺24,60",
+        "status": 1,
+        "isFavorite": false,
+        "bundleItems": [
+          {
+            "id": "618e670c4d3c32601d0f3794",
+            "count": 1,
+            "name": "Activia Kavun & Salatalık & Chia",
+            "shortDescription": "200 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/618e670c4d3c32601d0f3794_tr_1636965371809.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "618e69badac662eb7dd3abd2",
+            "count": 1,
+            "name": "Activia Smoothie Çilek & Karadut",
+            "shortDescription": "200 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/618e69badac662eb7dd3abd2_tr_1636965332085.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          },
+          {
+            "id": "618e68740cfaa76da0056a4f",
+            "count": 1,
+            "name": "Activia Smoothie Ananas & Mango & Chia",
+            "shortDescription": "200 ml",
+            "squareThumbnailURL": "http://cdn.getir.com/product/618e68740cfaa76da0056a4f_tr_1636965278197.jpeg",
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "badgeImages": []
+          }
+        ],
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "activa-smoothie-paketi-72jh4fy6dn",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e74833d9ae11d1802f9cc2a",
+        "name": "Sütaş Kaymak Gibi Kaymaksız Yoğurt",
+        "shortName": "Sütaş Kaymak Gibi Yoğurt",
+        "shortDescription": "1250 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e74833d9ae11d1802f9cc2a_tr_1608043847847.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e74833d9ae11d1802f9cc2a_tr_1608043847847.jpeg",
+          "http://cdn.getir.com/product/5e74833d9ae11d1802f9cc2a_f9677803-79d3-4547-b89f-fce4add35c60.jpeg",
+          "http://cdn.getir.com/product/5e74833d9ae11d1802f9cc2a_f9677803-79d3-4547-b89f-fce4add35c60.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "5673bcdd258df00f006f0ec1",
+          "5cfe7456bb6504000119c32a"
+        ],
+        "displayType": 0,
+        "price": 24.95,
+        "priceText": "₺24,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sutas-kaymak-gibi-kaymaksiz-yogurt-jB2zUvxR2d",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "58232567d9a3db0004e64589",
+        "name": "Sütaş Sarımsaklı Cacık",
+        "shortName": "Sütaş Cacık",
+        "shortDescription": "500 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/58232567d9a3db0004e64589_tr_1610607573713.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/58232567d9a3db0004e64589_tr_1610607573713.jpeg",
+          "http://cdn.getir.com/product/58232567d9a3db0004e64589_3fe4f892-57ab-40f9-8b37-540ffd9d679b.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "551430043427d5010a3a5c5d",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "5673bcdd258df00f006f0ec1",
+          "56dfd8655f009103000595d5",
+          "58342453c603d300041b3bca",
+          "5cfe7456bb6504000119c32a",
+          "5ffc38154689c5f39e491751",
+          "5ffc38a20248a3391f57f8ab"
+        ],
+        "displayType": 0,
+        "price": 13.75,
+        "priceText": "₺13,75",
+        "status": 1,
+        "struckPrice": 17.25,
+        "struckPriceText": "₺17,25",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sutas-sarimsakli-cacik-ySCxeLRU5E",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e045e6f56d79d4439c55502",
+        "name": "Eker Probiyotik Yoğurt",
+        "shortName": "Eker Probiyotik Yoğurt",
+        "shortDescription": "500 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e045e6f56d79d4439c55502_tr_1599939324498.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e045e6f56d79d4439c55502_tr_1599939324498.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "5673bcdd258df00f006f0ec1",
+          "5cfe7456bb6504000119c32a"
+        ],
+        "displayType": 0,
+        "price": 13.15,
+        "priceText": "₺13,15",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "eker-probiyotik-yogurt-sH4EZ3YDem",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "56b5c0592fc3d00f005faf19",
+        "name": "Activia Karıştır & Atıştır Tam Buğday Gevreği & Çilek",
+        "shortName": "Activia Çilek",
+        "shortDescription": "140 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/56b5c0592fc3d00f005faf19_tr_1586435004920.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/56b5c0592fc3d00f005faf19_tr_1586435004920.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "5673bcdd258df00f006f0ec1",
+          "58342453c603d300041b3bca",
+          "5cfe7456bb6504000119c32a"
+        ],
+        "displayType": 0,
+        "price": 9.65,
+        "priceText": "₺9,65",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "activia-karistir-atistir-tam-bugday-gevregi-cilek-qfW8CgrTVq",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "559823ceb1dc700c006a7098",
+        "name": "Activia Sade",
+        "shortName": "Activia Sade",
+        "shortDescription": "4 x 100 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/559823ceb1dc700c006a7098_tr_1604404697434.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/559823ceb1dc700c006a7098_tr_1604404697434.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "5673bcdd258df00f006f0ec1",
+          "58342453c603d300041b3bca",
+          "5cfe7456bb6504000119c32a"
+        ],
+        "displayType": 0,
+        "price": 15.25,
+        "priceText": "₺15,25",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "activia-sade-EWwSLGIu2C",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "559823f7b1dc700c006a709c",
+        "name": "Activia Çilek",
+        "shortName": "Activia Çilek",
+        "shortDescription": "4 x 100 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/559823f7b1dc700c006a709c_tr_1604404750421.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/559823f7b1dc700c006a709c_tr_1604404750421.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "5673bcdd258df00f006f0ec1",
+          "58342453c603d300041b3bca",
+          "5cfe7456bb6504000119c32a"
+        ],
+        "displayType": 0,
+        "price": 15.25,
+        "priceText": "₺15,25",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "activia-cilek-vNURfmystW",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "55982415b1dc700c006a70a0",
+        "name": "Activia Ananas",
+        "shortName": "Activia Ananas",
+        "shortDescription": "4 x 100 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/55982415b1dc700c006a70a0_tr_1604404904760.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/55982415b1dc700c006a70a0_tr_1604404904760.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "5673bcdd258df00f006f0ec1",
+          "58342453c603d300041b3bca",
+          "5cfe7456bb6504000119c32a"
+        ],
+        "displayType": 0,
+        "price": 15.25,
+        "priceText": "₺15,25",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "activia-ananas-GrcjlPEJWn",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "573a0e675284820300279e09",
+        "name": "Activia Orman Meyveleri",
+        "shortName": "Activia Orman Meyveleri",
+        "shortDescription": "4 x 100 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/573a0e675284820300279e09_tr_1604404852167.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/573a0e675284820300279e09_tr_1604404852167.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "5673bcdd258df00f006f0ec1",
+          "58342453c603d300041b3bca",
+          "5cfe7456bb6504000119c32a"
+        ],
+        "displayType": 0,
+        "price": 15.25,
+        "priceText": "₺15,25",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "activia-orman-meyveleri-KwF5hhp8zo",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5df76c8566d8c9523cefbb6e",
+        "name": "Activia Shot Sade",
+        "shortName": "Activia Sade Probiyotik Shot",
+        "shortDescription": "80 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5df76c8566d8c9523cefbb6e_tr_1601150563717.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5df76c8566d8c9523cefbb6e_tr_1601150563717.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "551430043427d5010a3a5c5e",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "5673bcdd258df00f006f0ec1",
+          "56def22c672f0003003bb868",
+          "58342453c603d300041b3bca",
+          "5cfe7456bb6504000119c32a"
+        ],
+        "displayType": 0,
+        "price": 4.9,
+        "priceText": "₺4,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "activia-shot-sade-C8Bip4e2yu",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f18366211699086a99af632",
+        "name": "Activia Shot Ahududu & Hibiskus",
+        "shortName": "Activia Ahududu Probiyotik Shot",
+        "shortDescription": "80 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f18366211699086a99af632_tr_1601150547606.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f18366211699086a99af632_tr_1601150547606.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "551430043427d5010a3a5c5e",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "5673bcdd258df00f006f0ec1",
+          "56def22c672f0003003bb868",
+          "58342453c603d300041b3bca",
+          "5cfe7456bb6504000119c32a"
+        ],
+        "displayType": 0,
+        "price": 4.9,
+        "priceText": "₺4,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "activia-shot-ahududu-hibiskus-TUnrkoSbV4",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6053b855b1eb6d22404024e7",
+        "name": "Activia Shot+ Nar ve Çilek",
+        "shortName": "Activia Shot+ Nar",
+        "shortDescription": "80 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6053b855b1eb6d22404024e7_tr_1616155707901.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6053b855b1eb6d22404024e7_tr_1616155707901.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "551430043427d5010a3a5c5e",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "5673bcdd258df00f006f0ec1",
+          "56def22c672f0003003bb868",
+          "58342453c603d300041b3bca",
+          "5cfe7456bb6504000119c32a"
+        ],
+        "displayType": 0,
+        "price": 5.45,
+        "priceText": "₺5,45",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "activia-shot-nar-ve-cilekli-EgCMCc6GFh",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6053b9e275116b07a295652b",
+        "name": "Activia Shot+ Turunçgiller ve Propolis",
+        "shortName": "Activia Shot+ Turunçgiller",
+        "shortDescription": "80 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6053b9e275116b07a295652b_tr_1616155720423.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6053b9e275116b07a295652b_tr_1616155720423.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "551430043427d5010a3a5c5e",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "5673bcdd258df00f006f0ec1",
+          "56def22c672f0003003bb868",
+          "58342453c603d300041b3bca",
+          "5cfe7456bb6504000119c32a"
+        ],
+        "displayType": 0,
+        "price": 5.45,
+        "priceText": "₺5,45",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "activia-shot-turuncgiller-ve-propolis-2QSPqdPFfj",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6053b68ca5c963515dd585e7",
+        "name": "Activia Shot+ Kara Mürver ve Yaban Mersinli",
+        "shortName": "Activia Shot+ Kara Mürver",
+        "shortDescription": "80 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6053b68ca5c963515dd585e7_tr_1616155728712.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6053b68ca5c963515dd585e7_tr_1616155728712.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "551430043427d5010a3a5c5e",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "5673bcdd258df00f006f0ec1",
+          "56def22c672f0003003bb868",
+          "5cfe7456bb6504000119c32a"
+        ],
+        "displayType": 0,
+        "price": 4.7,
+        "priceText": "₺4,70",
+        "status": 1,
+        "struckPrice": 5.45,
+        "struckPriceText": "₺5,45",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "activia-shot-kara-murver-ve-yaban-mersinli-g0D0b608Vt",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "618e670c4d3c32601d0f3794",
+        "name": "Activia Kavun & Salatalık & Chia",
+        "shortName": "Activia Smoothie",
+        "shortDescription": "200 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/618e670c4d3c32601d0f3794_tr_1636965371809.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/618e670c4d3c32601d0f3794_tr_1636965371809.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "551430043427d5010a3a5c5e",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "5673bcdd258df00f006f0ec1",
+          "56def22c672f0003003bb868",
+          "58342453c603d300041b3bca",
+          "5cfe7456bb6504000119c32a"
+        ],
+        "displayType": 0,
+        "price": 8.2,
+        "priceText": "₺8,20",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "activia-smoothie-kavun-salatalik-chia-200ml-cyvxkwim5q",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "618e68740cfaa76da0056a4f",
+        "name": "Activia Smoothie Ananas & Mango & Chia",
+        "shortName": "Activia Smoothie",
+        "shortDescription": "200 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/618e68740cfaa76da0056a4f_tr_1636965278197.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/618e68740cfaa76da0056a4f_tr_1636965278197.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "551430043427d5010a3a5c5e",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "5673bcdd258df00f006f0ec1",
+          "56def22c672f0003003bb868",
+          "58342453c603d300041b3bca",
+          "5cfe7456bb6504000119c32a"
+        ],
+        "displayType": 0,
+        "price": 8.2,
+        "priceText": "₺8,20",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "activia-smoothie-ananas-mango-chia-200ml-g8iu3hyzku",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "618e69badac662eb7dd3abd2",
+        "name": "Activia Smoothie Çilek & Karadut",
+        "shortName": "Activia Smoothie",
+        "shortDescription": "200 ml",
+        "squareThumbnailURL": "http://cdn.getir.com/product/618e69badac662eb7dd3abd2_tr_1636965332085.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/618e69badac662eb7dd3abd2_tr_1636965332085.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "551430043427d5010a3a5c5e",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "5673bcdd258df00f006f0ec1",
+          "56def22c672f0003003bb868",
+          "58342453c603d300041b3bca",
+          "5cfe7456bb6504000119c32a"
+        ],
+        "displayType": 0,
+        "price": 8.2,
+        "priceText": "₺8,20",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "activia-smoothie-cilek-karadut-200ml-un7q4amvdn",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5d724f444a91ec0001433c1d",
+        "name": "Altınkılıç Kefirli Yoğurt Yaban Mersinli",
+        "shortName": "Altınkılıç Kefirli Yaban Mersinli",
+        "shortDescription": "150 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5d724f444a91ec0001433c1d_tr_1633517556704.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5d724f444a91ec0001433c1d_tr_1633517556704.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "5673bcdd258df00f006f0ec1",
+          "58342453c603d300041b3bca",
+          "5cfe7456bb6504000119c32a"
+        ],
+        "displayType": 0,
+        "price": 8.75,
+        "priceText": "₺8,75",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "altinkilic-kefirli-yogurt-yaban-mersinli-hLKsZxyIII",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5d7252434a91ec0001434461",
+        "name": "Altınkılıç Kefirli Probiyotik Yoğurt Kayısı ve Keten Tohumlu",
+        "shortName": "Altınkılıç Kefirli Kayısılı",
+        "shortDescription": "150 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5d7252434a91ec0001434461_tr_1633517758435.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5d7252434a91ec0001434461_tr_1633517758435.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "5673bcdd258df00f006f0ec1",
+          "58342453c603d300041b3bca",
+          "5cfe7456bb6504000119c32a"
+        ],
+        "displayType": 0,
+        "price": 8.75,
+        "priceText": "₺8,75",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "altinkilic-kefirli-probiyotik-yogurt-kayisi-ve-keten-tohumlu-nmx0Xj0Peh",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60939b0193f651262b8e4eeb",
+        "name": "Altınkılıç Kefirli Yoğurt Çilekli",
+        "shortName": "Altınkılıç Kefirli Çilekli",
+        "shortDescription": "150 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60939b0193f651262b8e4eeb_tr_1633517615274.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60939b0193f651262b8e4eeb_tr_1633517615274.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "5673bcdd258df00f006f0ec1",
+          "58342453c603d300041b3bca",
+          "5cfe7456bb6504000119c32a"
+        ],
+        "displayType": 0,
+        "price": 8.75,
+        "priceText": "₺8,75",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "altinkilic-kefirli-yogurt-cilekli-eEPEftqxhR",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60391612c84ee5dbc975a99f",
+        "name": "Eker Hurmalı & Chialı Probiyotik Yoğurt",
+        "shortName": "Eker Hurmalı & Chialı",
+        "shortDescription": "125 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60391612c84ee5dbc975a99f_tr_1624969577797.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60391612c84ee5dbc975a99f_tr_1624969577797.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "5673bcdd258df00f006f0ec1",
+          "5cfe7456bb6504000119c32a"
+        ],
+        "displayType": 0,
+        "price": 8.75,
+        "priceText": "₺8,75",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "eker-hurmali-chiali-probiyotik-yogurt-2xZlUPABxD",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6038f6b947ded84c2ce52423",
+        "name": "Eker İncirli & Yulaflı Probiyotik Yoğurt",
+        "shortName": "Eker İncirli & Yulaflı",
+        "shortDescription": "125 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6038f6b947ded84c2ce52423_tr_1624969608673.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6038f6b947ded84c2ce52423_tr_1624969608673.jpeg"
+        ],
+        "categoryIds": ["56dfed05ab747f03008d9379", "5cfe685e25d48100016b7ea6"],
+        "subCategoryIds": [
+          "5673bcdd258df00f006f0ec1",
+          "5cfe7456bb6504000119c32a"
+        ],
+        "displayType": 0,
+        "price": 8.75,
+        "priceText": "₺8,75",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "eker-incirli-yulafli-probiyotik-yogurt-egzLhvgEPY",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5d70ffae8bc0cb00010d534a",
+        "name": "Sek Quark Sade",
+        "shortName": "Sek Quark Sade",
+        "shortDescription": "140 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5d70ffae8bc0cb00010d534a_tr_1632230738484.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5d70ffae8bc0cb00010d534a_tr_1632230738484.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5673bcdd258df00f006f0ec1",
+          "58342453c603d300041b3bca",
+          "5cfe7456bb6504000119c32a",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 10.95,
+        "priceText": "₺10,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sek-quark-sade-EnbYYtnblC",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5d70e5dca51b27000145043b",
+        "name": "Sek Quark Yaban Mersini",
+        "shortName": "Sek Quark Yaban Mersini",
+        "shortDescription": "140 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5d70e5dca51b27000145043b_tr_1632231017919.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5d70e5dca51b27000145043b_tr_1632231017919.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5673bcdd258df00f006f0ec1",
+          "58342453c603d300041b3bca",
+          "5cfe7456bb6504000119c32a",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 10.95,
+        "priceText": "₺10,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sek-quark-yaban-mersini-Jh3ex13TXv",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5d70e0aca51b27000144f944",
+        "name": "Sek Quark Çilek",
+        "shortName": "Sek Quark Çilek",
+        "shortDescription": "140 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5d70e0aca51b27000144f944_tr_1632230698576.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5d70e0aca51b27000144f944_tr_1632230698576.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "57e2996551f3ee030027e28b",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "56dfed2f9633c303002b66db",
+          "5673bcdd258df00f006f0ec1",
+          "58342453c603d300041b3bca",
+          "5cfe7456bb6504000119c32a",
+          "5dca595a8c5fd5ad9c6b8dc3"
+        ],
+        "displayType": 0,
+        "price": 10.95,
+        "priceText": "₺10,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sek-quark-cilek-5ACCwOzBt9",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f4e3d39b0be1b9d9cf95a7b",
+        "name": "Danone Hüpper Frozen Çilekli Yoğurt",
+        "shortName": "Hüpper Frozen Çilekli",
+        "shortDescription": "67 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f4e3d39b0be1b9d9cf95a7b_tr_1604781928483.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f4e3d39b0be1b9d9cf95a7b_tr_1604781928483.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5cfe685e25d48100016b7ea6",
+          "5fd8a40cbb487c5a816f9f03",
+          "5fd8c58f3bdc2389a56e0fb0"
+        ],
+        "subCategoryIds": [
+          "5673bcdd258df00f006f0ec1",
+          "5cfe7456bb6504000119c32a",
+          "5fd8ab791f8eea523507b59f",
+          "5fd90098dbbeb8ba7a12ff11"
+        ],
+        "displayType": 0,
+        "price": 4.5,
+        "priceText": "₺4,50",
+        "status": 1,
+        "struckPrice": 5.45,
+        "struckPriceText": "₺5,45",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "danone-hupper-frozen-cilekli-yogurt-xVEenLaFNh",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f4e3727efc3266c5e68fb66",
+        "name": "Danone Hüpper Spiderman Çilekli Yoğurt",
+        "shortName": "Hüpper Spiderman Çilekli",
+        "shortDescription": "67 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f4e3727efc3266c5e68fb66_tr_1626261649540.png",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f4e3727efc3266c5e68fb66_tr_1626261649540.png"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5cfe685e25d48100016b7ea6",
+          "5fd8a40cbb487c5a816f9f03",
+          "5fd8c58f3bdc2389a56e0fb0"
+        ],
+        "subCategoryIds": [
+          "5673bcdd258df00f006f0ec1",
+          "5cfe7456bb6504000119c32a",
+          "5fd8ab791f8eea523507b59f",
+          "5fd90098dbbeb8ba7a12ff11"
+        ],
+        "displayType": 0,
+        "price": 4.5,
+        "priceText": "₺4,50",
+        "status": 1,
+        "struckPrice": 5.45,
+        "struckPriceText": "₺5,45",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "danone-hupper-spiderman-cilekli-yogurt-fyJU55F8Ah",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "yogurt-sA9gg98h5o"
+  },
+  {
+    "id": "5cfe769abb6504000119cf99",
+    "name": "Tereyağ & Margarin",
+    "productCount": 8,
+    "products": [
+      {
+        "id": "5e3c5f48ca767aa5559a8ee2",
+        "name": "Mandıradan Erzincan Tereyağı",
+        "shortName": "Mandıradan Erzincan Tereyağı",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e3c5f48ca767aa5559a8ee2_tr_1638945539287.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e3c5f48ca767aa5559a8ee2_tr_1638945539287.jpeg",
+          "http://cdn.getir.com/product/5e3c5f48ca767aa5559a8ee2_tr_1583509692322.jpeg"
+        ],
+        "categoryIds": [
+          "56dfcfba86004203000a870d",
+          "56dfed05ab747f03008d9379",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "5a14aed8b06405000474b9a9",
+          "58ad6a4ca22f6900049514f0",
+          "5cfe769abb6504000119cf99"
+        ],
+        "displayType": 0,
+        "price": 32.45,
+        "priceText": "₺32,45",
+        "status": 1,
+        "struckPrice": 42.25,
+        "struckPriceText": "₺42,25",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "mandiradan-erzincan-tereyagi-vNs6eaw6oJ",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6025195202c219287e86904a",
+        "name": "Bahçıvan Tereyağı",
+        "shortName": "Bahçıvan Tereyağı",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6025195202c219287e86904a_tr_1613130032229.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6025195202c219287e86904a_tr_1613130032229.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "56dfcfba86004203000a870d",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "58ad6a4ca22f6900049514f0",
+          "5a14aed8b06405000474b9a9",
+          "5cfe769abb6504000119cf99"
+        ],
+        "displayType": 0,
+        "price": 26.95,
+        "priceText": "₺26,95",
+        "status": 1,
+        "struckPrice": 39.95,
+        "struckPriceText": "₺39,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "bahcivan-tereyagi-1Lb6r8wfKY",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "60ffd9dc9e977b9ebb9ac941",
+        "name": "İçim Tereyağı",
+        "shortName": "İçim Tereyağı",
+        "shortDescription": "500 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/60ffd9dc9e977b9ebb9ac941_tr_1628504810994.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/60ffd9dc9e977b9ebb9ac941_tr_1628504810994.jpeg"
+        ],
+        "categoryIds": [
+          "56dfcfba86004203000a870d",
+          "56dfed05ab747f03008d9379",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "5a14aed8b06405000474b9a9",
+          "58ad6a4ca22f6900049514f0",
+          "5cfe769abb6504000119cf99"
+        ],
+        "displayType": 0,
+        "price": 51.5,
+        "priceText": "₺51,50",
+        "status": 1,
+        "struckPrice": 57.25,
+        "struckPriceText": "₺57,25",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "icim-tereyagi-500g-dtopkxldte",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61a635ad19fb6e63641eea11",
+        "name": "Teksüt Rulo Tereyağı",
+        "shortName": "Teksüt Rulo Tereyağı",
+        "shortDescription": "250 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61a635ad19fb6e63641eea11_tr_1638371450009.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61a635ad19fb6e63641eea11_tr_1638371450009.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "56dfcfba86004203000a870d",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "58ad6a4ca22f6900049514f0",
+          "5a14aed8b06405000474b9a9",
+          "5cfe769abb6504000119cf99"
+        ],
+        "displayType": 0,
+        "price": 28.95,
+        "priceText": "₺28,95",
+        "status": 1,
+        "struckPrice": 32.95,
+        "struckPriceText": "₺32,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "teksut-rulo-tereyagi-kv0r95zzov",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "592454e00b4731000404de7a",
+        "name": "Teremyağ Kase Margarin",
+        "shortName": "Teremyağ Kase Margarin",
+        "shortDescription": "250 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/592454e00b4731000404de7a_tr_1598730647909.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/592454e00b4731000404de7a_tr_1598730647909.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "56dfcfba86004203000a870d",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "58ad6a4ca22f6900049514f0",
+          "5a14aed8b06405000474b9a9",
+          "5cfe769abb6504000119cf99"
+        ],
+        "displayType": 0,
+        "price": 10.9,
+        "priceText": "₺10,90",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "teremyag-kase-margarin-BzX04OnndH",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5ceae03a9d3ea8000196e150",
+        "name": "Bizim Paket Margarin",
+        "shortName": "Bizim Paket Margarin",
+        "shortDescription": "250 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5ceae03a9d3ea8000196e150_tr_1603051862946.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5ceae03a9d3ea8000196e150_tr_1603051862946.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "5cfe685e25d48100016b7ea6",
+          "56dfcfba86004203000a870d"
+        ],
+        "subCategoryIds": [
+          "58ad6a4ca22f6900049514f0",
+          "5cfe769abb6504000119cf99",
+          "5a14aed8b06405000474b9a9"
+        ],
+        "displayType": 0,
+        "price": 9.8,
+        "priceText": "₺9,80",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "bizim-paket-margarin-LBKxFhACpG",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "59e87f9a9f82e90004d070b9",
+        "name": "Eker Kaymak",
+        "shortName": "Eker Kaymak",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/59e87f9a9f82e90004d070b9_tr_1627549062654.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/59e87f9a9f82e90004d070b9_tr_1627549062654.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "56dfcfba86004203000a870d",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "58ad6a4ca22f6900049514f0",
+          "5a14aed8b06405000474b9a9",
+          "5cfe769abb6504000119cf99"
+        ],
+        "displayType": 0,
+        "price": 21.95,
+        "priceText": "₺21,95",
+        "status": 1,
+        "struckPrice": 26.95,
+        "struckPriceText": "₺26,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "eker-kaymak-1ULjOLoR7c",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e149d406382ada5a35a002c",
+        "name": "Remziye Hanım Çiftliği Rulo Kaymak",
+        "shortName": "Remziye Hanım Çiftliği Kaymak",
+        "shortDescription": "150 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e149d406382ada5a35a002c_tr_1638950230537.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e149d406382ada5a35a002c_tr_1638950230537.jpeg"
+        ],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "56dfcfba86004203000a870d",
+          "5cfe685e25d48100016b7ea6"
+        ],
+        "subCategoryIds": [
+          "58ad6a4ca22f6900049514f0",
+          "5a14aed8b06405000474b9a9",
+          "5cfe769abb6504000119cf99"
+        ],
+        "displayType": 0,
+        "price": 32.95,
+        "priceText": "₺32,95",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "remziye-hanim-ciftligi-rulo-kaymak-BeN0SxkgP4",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "tereyag-margarin-jitewxflKt"
+  }
+]
