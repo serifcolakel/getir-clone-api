@@ -180,7 +180,7 @@ app.delete("/api/categories/:id", (req, res) => {
 
 // Atistirmalik API Endpoint
 app.get("/api/atistirmalik", (req, res) => {
-  es.status(200).send(atistirmalik);
+  res.status(200).send(atistirmalik);
 });
 app.get("/api/atistirmalik/:id", (req, res) => {
   if (isNaN(req.params.id)) {
