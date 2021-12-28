@@ -32,13 +32,13 @@ app.set("views", "./views");
 app.get("/", (req, res) => {
   res.render("index", {
     title: "Getir-API",
-    message: "Serif Colakel Getir-RESTful-API",
+    message: "Getir-Clone API",
   });
 });
 app.get("/api", (req, res) => {
   res.render("index", {
     title: "Getir-API",
-    message: "Serif Colakel Getir-RESTful-API",
+    message: "Getir-Clone API",
   });
 });
 

@@ -13,134 +13,208 @@ html
             }
             .container {
                 max-width: 960px;
-                margin: 0 auto;
-                padding: 0 20px;
+                margin: 10px auto;
+                padding: 30px 20px;
                 display: flex;
                 flex-direction: column;
                 align-items: start;
+                border: 2px solid #ccc;
+                border-radius: 5px;
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
             }
+
             .container h1 {
-                color:red;
-                margin: 0;
-                padding: 20px;
+                background: linear-gradient(to right, #ffd300 40%, #5d3ebc 50%);
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+            }
+            
+            .container button { 
+                padding: 5px;
+                background-color: #ffd300;
+                color: #5d3ebc;
+                text-transform: uppercase;
+                border: 2px solid #ccc;
+                border-radius: 5px;
+                font-weight: bold;
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+                cursor: pointer;
+            }
+
+            .container button:hover {
+                background-color: #5d3ebc;
+                border: 2px solid #5d3ebc;
+                color: #ffd300;
+                font-weight: extrabold;
+                transform: scale(1.1);
+                margin:0 20px;
+                transition: all 0.4s ease-in-out;
             }
     body
         div.container
-            h1= message
-            h3= "List of all favorites"
-            a(href='/api/favorite') Favorite JSON
-            h3= "List of Favorites id:1 (u can select id)"
-            a(href='/api/favorite/1') Favorite id:1 JSON
+            h1=message
+            p="Getir Clone API v1.0"
         div.container
-            h3= "List of all categories"
-            a(href='/api/categories') Categories JSON
-            h3= "List of Categories id:1 (u can select id)"
-            a(href='/api/categories/1') Categories id:1 JSON
+            h3= ">>>> List of all favorites"
+            a(href='/api/favorite')
+                button(type="button") Favorite JSON
+            h3= ">>>> List of Favorites id:1 (u can select id)"
+            a(href='/api/favorite/1')
+                button(type="button") Favorite id:1 JSON
         div.container
-            h3= "List of all atistirmalik"
-            a(href='/api/atistirmalik') atistirmalik JSON
-            h3= "List of atistirmalik id:1 (u can select id)"
-            a(href='/api/atistirmalik/1') atistirmalik id:1 JSON
+            h3= ">>>> List of all categories"
+            a(href='/api/categories')
+                button(type="button") Categories JSON
+            h3= ">>>> List of Categories id:1 (u can select id)"
+            a(href='/api/categories/1')
+                button(type="button") Categories id:1 JSON
         div.container
-            h3= "List of all bebek"
-            a(href='/api/bebek') bebek JSON
-            h3= "List of bebek id:1 (u can select id)"
-            a(href='/api/bebek/1') bebek id:1 JSON
+            h3= ">>>> List of all atistirmalik"
+            a(href='/api/atistirmalik')
+                button(type="button") atistirmalik JSON
+            h3= ">>>> List of atistirmalik id:1 (u can select id)"
+            a(href='/api/atistirmalik/1')
+                button(type="button") atistirmalik id:1 JSON
         div.container
-            h3= "List of all cards"
-            a(href='/api/cards') cards JSON
-            h3= "List of cards id:1 (u can select id)"
-            a(href='/api/cards/1') cards id:1 JSON
+            h3= ">>>> List of all bebek"
+            a(href='/api/bebek')
+                button(type="button") bebek JSON
+            h3= ">>>> List of bebek id:1 (u can select id)"
+            a(href='/api/bebek/1')
+                button(type="button") bebek id:1 JSON
         div.container
-            h3= "List of all cinselSaglik"
-            a(href='/api/cinselSaglik') cinselSaglik JSON
-            h3= "List of cinselSaglik id:1 (u can select id)"
-            a(href='/api/cinselSaglik/1') cinselSaglik id:1 JSON
+            h3= ">>>> List of all cards"
+            a(href='/api/cards')
+                button(type="button") cards JSON
+            h3= ">>>> List of cards id:1 (u can select id)"
+            a(href='/api/cards/1')
+                button(type="button") cards id:1 JSON
         div.container
-            h3= "List of all discount"
-            a(href='/api/discount') discount JSON
-            h3= "List of discount id:1 (u can select id)"
-            a(href='/api/discount/1') discount id:1 JSON
+            h3= ">>>> List of all cinselSaglik"
+            a(href='/api/cinselSaglik')
+                button(type="button") cinselSaglik JSON
+            h3= ">>>> List of cinselSaglik id:1 (u can select id)"
+            a(href='/api/cinselSaglik/1')
+                button(type="button") cinselSaglik id:1 JSON
         div.container
-            h3= "List of all dondurma"
-            a(href='/api/dondurma') dondurma JSON
-            h3= "List of dondurma id:1 (u can select id)"
-            a(href='/api/dondurma/1') dondurma id:1 JSON
+            h3= ">>>> List of all discount"
+            a(href='/api/discount')
+                button(type="button") discount JSON
+            h3= ">>>> List of discount id:1 (u can select id)"
+            a(href='/api/discount/1')
+                button(type="button") discount id:1 JSON
         div.container
-            h3= "List of all evyasam"
-            a(href='/api/evyasam') evyasam JSON
-            h3= "List of evyasam id:1 (u can select id)"
-            a(href='/api/evyasam/1') evyasam id:1 JSON
+            h3= ">>>> List of all dondurma"
+            a(href='/api/dondurma')
+                button(type="button") dondurma JSON
+            h3= ">>>> List of dondurma id:1 (u can select id)"
+            a(href='/api/dondurma/1')
+                button(type="button") dondurma id:1 JSON
         div.container
-            h3= "List of all evbakim"
-            a(href='/api/evbakim') evbakim JSON
-            h3= "List of evbakim id:1 (u can select id)"
-            a(href='/api/evbakim/1') evbakim id:1 JSON
+            h3= ">>>> List of all evyasam"
+            a(href='/api/evyasam')
+                button(type="button") evyasam JSON
+            h3= ">>>> List of evyasam id:1 (u can select id)"
+            a(href='/api/evyasam/1')
+                button(type="button") evyasam id:1 JSON
         div.container
-            h3= "List of all evcilHayvan"
-            a(href='/api/evcilHayvan') evcilHayvan JSON
-            h3= "List of evcilHayvan id:1 (u can select id)"
-            a(href='/api/evcilHayvan/1') evcilHayvan id:1 JSON
+            h3= ">>>> List of all evbakim"
+            a(href='/api/evbakim')
+                button(type="button") evbakim JSON
+            h3= ">>>> List of evbakim id:1 (u can select id)"
+            a(href='/api/evbakim/1')
+                button(type="button") evbakim id:1 JSON
         div.container
-            h3= "List of all firindan"
-            a(href='/api/firindan') firindan JSON
-            h3= "List of firindan id:1 (u can select id)"
-            a(href='/api/firindan/1') firindan id:1 JSON
+            h3= ">>>> List of all evcilHayvan"
+            a(href='/api/evcilHayvan')
+                button(type="button") evcilHayvan JSON
+            h3= ">>>> List of evcilHayvan id:1 (u can select id)"
+            a(href='/api/evcilHayvan/1')
+                button(type="button") evcilHayvan id:1 JSON
         div.container
-            h3= "List of all footerLink"
-            a(href='/api/footerLink') footerLink JSON
-            h3= "List of footerLink id:1 (u can select id)"
-            a(href='/api/footerLink/1') footerLink id:1 JSON
+            h3= ">>>> List of all firindan"
+            a(href='/api/firindan')
+                button(type="button") firindan JSON
+            h3= ">>>> List of firindan id:1 (u can select id)"
+            a(href='/api/firindan/1')
+                button(type="button") firindan id:1 JSON
         div.container
-            h3= "List of all kahvaltilik"
-            a(href='/api/kahvaltilik') kahvaltilik JSON
-            h3= "List of kahvaltilik id:1 (u can select id)"
-            a(href='/api/kahvaltilik/1') kahvaltilik id:1 JSON
+            h3= ">>>> List of all footerLink"
+            a(href='/api/footerLink')
+                button(type="button") footerLink JSON
+            h3= ">>>> List of footerLink id:1 (u can select id)"
+            a(href='/api/footerLink/1')
+                button(type="button") footerLink id:1 JSON
         div.container
-            h3= "List of all kisiselbakim"
-            a(href='/api/kisiselbakim') kisiselbakim JSON
-            h3= "List of kisiselbakim id:1 (u can select id)"
-            a(href='/api/kisiselbakim/1') kisiselbakim id:1 JSON
+            h3= ">>>> List of all kahvaltilik"
+            a(href='/api/kahvaltilik')
+                button(type="button") kahvaltilik JSON
+            h3= ">>>> List of kahvaltilik id:1 (u can select id)"
+            a(href='/api/kahvaltilik/1')
+                button(type="button") kahvaltilik id:1 JSON
         div.container
-            h3= "List of all meyvesebze"
-            a(href='/api/meyvesebze') meyvesebze JSON
-            h3= "List of meyvesebze id:1 (u can select id)"
-            a(href='/api/meyvesebze/1') meyvesebze id:1 JSON
+            h3= ">>>> List of all kisiselbakim"
+            a(href='/api/kisiselbakim')
+                button(type="button") kisiselbakim JSON
+            h3= ">>>> List of kisiselbakim id:1 (u can select id)"
+            a(href='/api/kisiselbakim/1')
+                button(type="button") kisiselbakim id:1 JSON
         div.container
-            h3= "List of all newItem"
-            a(href='/api/newItem') newItem JSON
-            h3= "List of newItem id:1 (u can select id)"
-            a(href='/api/newItem/1') newItem id:1 JSON
+            h3= ">>>> List of all meyvesebze"
+            a(href='/api/meyvesebze')
+                button(type="button") meyvesebze JSON
+            h3= ">>>> List of meyvesebze id:1 (u can select id)"
+            a(href='/api/meyvesebze/1')
+                button(type="button") meyvesebze id:1 JSON
         div.container
-            h3= "List of all sliderData"
-            a(href='/api/sliderData') sliderData JSON
-            h3= "List of sliderData id:1 (u can select id)"
-            a(href='/api/sliderData/1') sliderData id:1 JSON
+            h3= ">>>> List of all newItem"
+            a(href='/api/newItem')
+                button(type="button") newItem JSON
+            h3= ">>>> List of newItem id:1 (u can select id)"
+            a(href='/api/newItem/1')
+                button(type="button") newItem id:1 JSON
         div.container
-            h3= "List of all suicecek"
-            a(href='/api/suicecek') suicecek JSON
-            h3= "List of suicecek id:1 (u can select id)"
-            a(href='/api/suicecek/1') suicecek id:1 JSON
+            h3= ">>>> List of all sliderData"
+            a(href='/api/sliderData')
+                button(type="button") sliderData JSON
+            h3= ">>>> List of sliderData id:1 (u can select id)"
+            a(href='/api/sliderData/1')
+                button(type="button") sliderData id:1 JSON
         div.container
-            h3= "List of all suturunleri"
-            a(href='/api/suturunleri') suturunleri JSON
-            h3= "List of suturunleri id:1 (u can select id)"
-            a(href='/api/suturunleri/1') suturunleri id:1 JSON
+            h3= ">>>> List of all suicecek"
+            a(href='/api/suicecek')
+                button(type="button") suicecek JSON
+            h3= ">>>> List of suicecek id:1 (u can select id)"
+            a(href='/api/suicecek/1')
+                button(type="button") suicecek id:1 JSON
         div.container
-            h3= "List of all teknoloji"
-            a(href='/api/teknoloji') teknoloji JSON
-            h3= "List of teknoloji id:1 (u can select id)"
-            a(href='/api/teknoloji/1') teknoloji id:1 JSON
+            h3= ">>>> List of all suturunleri"
+            a(href='/api/suturunleri')
+                button(type="button") suturunleri JSON
+            h3= ">>>> List of suturunleri id:1 (u can select id)"
+            a(href='/api/suturunleri/1')
+                button(type="button") suturunleri id:1 JSON
         div.container
-            h3= "List of all temelgida"
-            a(href='/api/temelgida') temelgida JSON
-            h3= "List of temelgida id:1 (u can select id)"
-            a(href='/api/temelgida/1') temelgida id:1 JSON
+            h3= ">>>> List of all teknoloji"
+            a(href='/api/teknoloji')
+                button(type="button") teknoloji JSON
+            h3= ">>>> List of teknoloji id:1 (u can select id)"
+            a(href='/api/teknoloji/1')
+                button(type="button") teknoloji id:1 JSON
         div.container
-            h3= "List of all yiyecek"
-            a(href='/api/yiyecek') yiyecek JSON
-            h3= "List of yiyecek id:1 (u can select id)"
-            a(href='/api/yiyecek/1') yiyecek id:1 JSON
+            h3= ">>>> List of all temelgida"
+            a(href='/api/temelgida')
+                button(type="button") temelgida JSON
+            h3= ">>>> List of temelgida id:1 (u can select id)"
+            a(href='/api/temelgida/1')
+                button(type="button") temelgida id:1 JSON
+        div.container
+            h3= ">>>> List of all yiyecek"
+            a(href='/api/yiyecek')
+                button(type="button") yiyecek JSON
+            h3= ">>>> List of yiyecek id:1 (u can select id)"
+            a(href='/api/yiyecek/1')
+                button(type="button") yiyecek id:1 JSON
 
 
 
