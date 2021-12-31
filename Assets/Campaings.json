@@ -127,5 +127,19 @@
       "imgUrl": "https://cdn.getir.com/misc/611e55d33ea65bef40f9ba05_banner_tr_1629378026496.jpeg",
       "id": "619b6ed2241244b0adb24478c7127d0011"
     }
+  ],
+  "suCampaings": [
+    {
+      "imgUrl": "https://cdn.getir.com/misc/6041e17e8ba2923214ef6c6d_banner_tr_1632818421011.jpeg",
+      "id": "619b6ed24b0adb78c7127d0011aasdas"
+    },
+    {
+      "imgUrl": "https://cdn.getir.com/misc/6041e10d78933524001d4046_banner_tr_1632818257569.jpeg",
+      "id": "619b6ed24b0adb24478c7127d0011124"
+    },
+    {
+      "imgUrl": "https://cdn.getir.com/misc/603f2cae35e2441f767cd890_banner_tr_1634714037149.jpeg",
+      "id": "619b6ed2241244b0adb24478c7127d0011cz"
+    }
   ]
 }
