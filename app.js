@@ -23,6 +23,7 @@ const suturunleri = require("./Assets/suturunleri.json");
 const teknoloji = require("./Assets/teknoloji.json");
 const temelgida = require("./Assets/temelgida.json");
 const yiyecek = require("./Assets/yiyecek.json");
+const campaings = require("./Assets/Campaings.json");
 
 const bodyParser = require("body-parser");
 const cors = require("cors");
@@ -592,6 +593,24 @@ app.get("/api/yiyecek/:id", (req, res) => {
   } else {
     res.send(404, {
       message: req.params.id + " id'li yiyecek elemanı bulunamadı",
+    });
+  }
+});
+// campaings API Endpoint
+app.get("/api/campaings", (req, res) => {
+  res.status(200).send(campaings);
+});
+app.get("/api/campaings/:id", (req, res) => {
+  if (isNaN(req.params.id)) {
+    res.send(400, {
+      message: req.params.id + " id'li campaings elemanı bulunamadı",
+    });
+  }
+  if (campaings) {
+    res.send(200, campaings[req.params.id]);
+  } else {
+    res.send(404, {
+      message: req.params.id + " id'li campaings elemanı bulunamadı",
     });
   }
 });
