@@ -1,285 +1,573 @@
 [
-  {
-    "id": "5ef6014433d29146d369a403",
-    "name": "ttec Type-C Şarj Kablosu Beyaz",
-    "shortName": "ttec Type-C Şarj Kablosu",
-    "shortDescription": "30 cm",
-    "squareThumbnailURL": "http://cdn.getir.com/product/5ef6014433d29146d369a403_tr_1633009193278.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/5ef6014433d29146d369a403_tr_1633009193278.jpeg"
-    ],
-    "categoryIds": ["551430043427d5010a3a5c62"],
-    "subCategoryIds": ["56e014f68d5ef80300398b7c"],
-    "displayType": 0,
-    "price": 44.9,
-    "priceText": "₺44,90",
-    "status": 1,
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
+  [
+    {
+      "id": "56e014f68d5ef80300398b7c",
+      "name": "Şarj Aleti & Kablo",
+      "productCount": 12,
+      "products": [
+        {
+          "id": "5ef6014433d29146d369a403",
+          "name": "ttec Type-C Şarj Kablosu Beyaz",
+          "shortName": "ttec Type-C Şarj Kablosu",
+          "shortDescription": "30 cm",
+          "squareThumbnailURL": "http://cdn.getir.com/product/5ef6014433d29146d369a403_tr_1633009193278.jpeg",
+          "picURLs": [
+            "http://cdn.getir.com/product/5ef6014433d29146d369a403_tr_1633009193278.jpeg"
+          ],
+          "categoryIds": ["551430043427d5010a3a5c62"],
+          "subCategoryIds": ["56e014f68d5ef80300398b7c"],
+          "displayType": 0,
+          "price": 44.9,
+          "priceText": "₺44,90",
+          "status": 1,
+          "isFavorite": false,
+          "infoMessages": [],
+          "currency": {
+            "symbol": "₺",
+            "codeAlpha": "TRY",
+            "isSymbolFirst": true
+          },
+          "additionalPropertyTables": [],
+          "tags": [],
+          "slug": "ttec-type-c-sarj-kablosu-beyaz-ES0U1s2fkv",
+          "badgeImages": [],
+          "details": {
+            "additionalPropertyTables": []
+          }
+        },
+        {
+          "id": "5c66b5d83d4b940001a4fc64",
+          "name": "ttec Type-C Şarj Kablosu Beyaz",
+          "shortName": "ttec Type-C Şarj Kablosu",
+          "shortDescription": "120 cm",
+          "squareThumbnailURL": "http://cdn.getir.com/product/5c66b5d83d4b940001a4fc64_365324e1-f5ad-440f-b6e0-5c10e268824a.jpeg",
+          "picURLs": [
+            "http://cdn.getir.com/product/5c66b5d83d4b940001a4fc64_365324e1-f5ad-440f-b6e0-5c10e268824a.jpeg",
+            "http://cdn.getir.com/product/5c66b5d83d4b940001a4fc64_e2461b3f-87bc-4c8d-b0db-c6e7ece89d3a.jpeg"
+          ],
+          "categoryIds": ["551430043427d5010a3a5c62"],
+          "subCategoryIds": ["56e014f68d5ef80300398b7c"],
+          "displayType": 0,
+          "price": 54.9,
+          "priceText": "₺54,90",
+          "status": 1,
+          "isFavorite": false,
+          "infoMessages": [],
+          "currency": {
+            "symbol": "₺",
+            "codeAlpha": "TRY",
+            "isSymbolFirst": true
+          },
+          "additionalPropertyTables": [],
+          "tags": [],
+          "slug": "ttec-type-c-sarj-kablosu-beyaz-xnpYc7tbnP",
+          "badgeImages": [],
+          "details": {
+            "additionalPropertyTables": []
+          }
+        },
+        {
+          "id": "5f85544a309c71b12002d7d6",
+          "name": "ttec Type-C Lightning MFi Şarj Kablosu Beyaz",
+          "shortName": "ttec Type-C Şarj Kablosu",
+          "shortDescription": "150 cm",
+          "squareThumbnailURL": "http://cdn.getir.com/product/5f85544a309c71b12002d7d6_tr_1633007168562.jpeg",
+          "picURLs": [
+            "http://cdn.getir.com/product/5f85544a309c71b12002d7d6_tr_1633007168562.jpeg"
+          ],
+          "categoryIds": [
+            "551430043427d5010a3a5c62",
+            "5fd8a40cbb487c5a816f9f03",
+            "5fd8c58f3bdc2389a56e0fb0"
+          ],
+          "subCategoryIds": [
+            "56e014f68d5ef80300398b7c",
+            "5fd8adf339cabb86075838f8",
+            "5fd90098dbbeb8ba7a12ff11"
+          ],
+          "displayType": 0,
+          "price": 299,
+          "priceText": "₺299,00",
+          "status": 1,
+          "isFavorite": false,
+          "infoMessages": [],
+          "currency": {
+            "symbol": "₺",
+            "codeAlpha": "TRY",
+            "isSymbolFirst": true
+          },
+          "additionalPropertyTables": [],
+          "tags": [],
+          "slug": "ttec-type-c-lightning-mfi-sarj-kablosu-beyaz-5YBsVwAk4e",
+          "badgeImages": [],
+          "details": {
+            "additionalPropertyTables": []
+          }
+        },
+        {
+          "id": "5a7ae2888e19da0004bb0c07",
+          "name": "ttec Micro USB Kablo Beyaz",
+          "shortName": "ttec Micro USB Kablo",
+          "shortDescription": "30 cm",
+          "squareThumbnailURL": "http://cdn.getir.com/product/5a7ae2888e19da0004bb0c07_tr_1633009088873.jpeg",
+          "picURLs": [
+            "http://cdn.getir.com/product/5a7ae2888e19da0004bb0c07_tr_1633009088873.jpeg"
+          ],
+          "categoryIds": ["551430043427d5010a3a5c62"],
+          "subCategoryIds": ["56e014f68d5ef80300398b7c"],
+          "displayType": 0,
+          "price": 29.9,
+          "priceText": "₺29,90",
+          "status": 1,
+          "isFavorite": false,
+          "infoMessages": [],
+          "currency": {
+            "symbol": "₺",
+            "codeAlpha": "TRY",
+            "isSymbolFirst": true
+          },
+          "additionalPropertyTables": [],
+          "tags": [],
+          "slug": "ttec-micro-usb-kablo-beyaz-Us2k0Zw2ZG",
+          "badgeImages": [],
+          "details": {
+            "additionalPropertyTables": []
+          }
+        },
+        {
+          "id": "5a7ae31a8e19da0004bb0c36",
+          "name": "ttec Micro USB Kablo Beyaz",
+          "shortName": "ttec Micro USB Kablo",
+          "shortDescription": "120 cm",
+          "squareThumbnailURL": "http://cdn.getir.com/product/5a7ae31a8e19da0004bb0c36_tr_1633009013947.jpeg",
+          "picURLs": [
+            "http://cdn.getir.com/product/5a7ae31a8e19da0004bb0c36_tr_1633009013947.jpeg"
+          ],
+          "categoryIds": ["551430043427d5010a3a5c62"],
+          "subCategoryIds": ["56e014f68d5ef80300398b7c"],
+          "displayType": 0,
+          "price": 39.9,
+          "priceText": "₺39,90",
+          "status": 1,
+          "isFavorite": false,
+          "infoMessages": [],
+          "currency": {
+            "symbol": "₺",
+            "codeAlpha": "TRY",
+            "isSymbolFirst": true
+          },
+          "additionalPropertyTables": [],
+          "tags": [],
+          "slug": "ttec-micro-usb-kablo-beyaz-WQG3MrcNTe",
+          "badgeImages": [],
+          "details": {
+            "additionalPropertyTables": []
+          }
+        },
+        {
+          "id": "5a7ae2448e19da0004bb0bf4",
+          "name": "ttec iPhone Şarj Kablosu Beyaz",
+          "shortName": "ttec iPhone Şarj Kablosu",
+          "shortDescription": "30 cm",
+          "squareThumbnailURL": "http://cdn.getir.com/product/5a7ae2448e19da0004bb0bf4_tr_1633008950655.jpeg",
+          "picURLs": [
+            "http://cdn.getir.com/product/5a7ae2448e19da0004bb0bf4_tr_1633008950655.jpeg"
+          ],
+          "categoryIds": ["551430043427d5010a3a5c62"],
+          "subCategoryIds": ["56e014f68d5ef80300398b7c"],
+          "displayType": 0,
+          "price": 54.9,
+          "priceText": "₺54,90",
+          "status": 1,
+          "isFavorite": false,
+          "infoMessages": [],
+          "currency": {
+            "symbol": "₺",
+            "codeAlpha": "TRY",
+            "isSymbolFirst": true
+          },
+          "additionalPropertyTables": [],
+          "tags": [],
+          "slug": "ttec-iphone-sarj-kablosu-beyaz-SJgjh8DH7j",
+          "badgeImages": [],
+          "details": {
+            "additionalPropertyTables": []
+          }
+        },
+        {
+          "id": "58ff5653c71675000490e144",
+          "name": "ttec iPhone Şarj Kablosu Beyaz",
+          "shortName": "ttec iPhone Şarj Kablosu",
+          "shortDescription": "100 cm",
+          "squareThumbnailURL": "http://cdn.getir.com/product/58ff5653c71675000490e144_tr_1633008850052.jpeg",
+          "picURLs": [
+            "http://cdn.getir.com/product/58ff5653c71675000490e144_tr_1633008850052.jpeg"
+          ],
+          "categoryIds": ["551430043427d5010a3a5c62"],
+          "subCategoryIds": ["56e014f68d5ef80300398b7c"],
+          "displayType": 0,
+          "price": 69.9,
+          "priceText": "₺69,90",
+          "status": 1,
+          "isFavorite": false,
+          "infoMessages": [],
+          "currency": {
+            "symbol": "₺",
+            "codeAlpha": "TRY",
+            "isSymbolFirst": true
+          },
+          "additionalPropertyTables": [],
+          "tags": [],
+          "slug": "ttec-iphone-sarj-kablosu-beyaz-7ZkVW8ipIn",
+          "badgeImages": [],
+          "details": {
+            "additionalPropertyTables": []
+          }
+        },
+        {
+          "id": "56f50648707a850300a1d71d",
+          "name": "ttec Apple MFi Lisanslı iPhone Şarj Kablosu Beyaz",
+          "shortName": "ttec iPhone Şarj Kablosu",
+          "shortDescription": "120 cm",
+          "squareThumbnailURL": "http://cdn.getir.com/product/56f50648707a850300a1d71d_tr_1633008115234.jpeg",
+          "picURLs": [
+            "http://cdn.getir.com/product/56f50648707a850300a1d71d_tr_1633008115234.jpeg"
+          ],
+          "categoryIds": ["551430043427d5010a3a5c62"],
+          "subCategoryIds": ["56e014f68d5ef80300398b7c"],
+          "displayType": 0,
+          "price": 219,
+          "priceText": "₺219,00",
+          "status": 1,
+          "isFavorite": false,
+          "infoMessages": [],
+          "currency": {
+            "symbol": "₺",
+            "codeAlpha": "TRY",
+            "isSymbolFirst": true
+          },
+          "additionalPropertyTables": [],
+          "tags": [],
+          "slug": "ttec-apple-mfi-lisansli-iphone-sarj-kablosu-beyaz-Zr6q4EnanX",
+          "badgeImages": [],
+          "details": {
+            "additionalPropertyTables": []
+          }
+        },
+        {
+          "id": "5a945dff5140970004e3d643",
+          "name": "Apple Lightning 3,5 mm Kulaklık Jak Kablosu",
+          "shortName": "Apple Lightning Jak Kablosu",
+          "shortDescription": "3,5 mm",
+          "squareThumbnailURL": "http://cdn.getir.com/product/5a945dff5140970004e3d643.jpeg?v=1523100566150",
+          "picURLs": [
+            "http://cdn.getir.com/product/5a945dff5140970004e3d643.jpeg?v=1523100566150"
+          ],
+          "categoryIds": ["551430043427d5010a3a5c62"],
+          "subCategoryIds": [
+            "56e014f68d5ef80300398b7c",
+            "564c7f9327652f0c007457a2"
+          ],
+          "displayType": 0,
+          "price": 94,
+          "priceText": "₺94,00",
+          "status": 1,
+          "isFavorite": false,
+          "infoMessages": [],
+          "currency": {
+            "symbol": "₺",
+            "codeAlpha": "TRY",
+            "isSymbolFirst": true
+          },
+          "additionalPropertyTables": [],
+          "tags": [],
+          "slug": "apple-lightning-35-mm-kulaklik-jak-kablosu-h42NJeRBDE",
+          "badgeImages": [],
+          "details": {
+            "additionalPropertyTables": []
+          }
+        },
+        {
+          "id": "588f5e6bb119c800044b6576",
+          "name": "Apple Lightning - USB Kablosu",
+          "shortName": "Apple Lightning USB Kablosu",
+          "shortDescription": "100 cm",
+          "squareThumbnailURL": "http://cdn.getir.com/product/588f5e6bb119c800044b6576.jpeg?v=1523100550118",
+          "picURLs": [
+            "http://cdn.getir.com/product/588f5e6bb119c800044b6576.jpeg?v=1523100550118"
+          ],
+          "categoryIds": ["551430043427d5010a3a5c62"],
+          "subCategoryIds": ["56e014f68d5ef80300398b7c"],
+          "displayType": 0,
+          "price": 229,
+          "priceText": "₺229,00",
+          "status": 1,
+          "struckPrice": 269,
+          "struckPriceText": "₺269,00",
+          "isFavorite": false,
+          "infoMessages": [],
+          "currency": {
+            "symbol": "₺",
+            "codeAlpha": "TRY",
+            "isSymbolFirst": true
+          },
+          "additionalPropertyTables": [],
+          "tags": [],
+          "slug": "apple-lightning-usb-kablosu-XkqyZhwazr",
+          "badgeImages": [],
+          "details": {
+            "additionalPropertyTables": []
+          }
+        },
+        {
+          "id": "588f5e03274aea00046a1e89",
+          "name": "Apple USB Güç Adaptörü",
+          "shortName": "Apple Güç Adaptörü",
+          "shortDescription": "5 W",
+          "squareThumbnailURL": "http://cdn.getir.com/product/588f5e03274aea00046a1e89.jpeg?v=1523100493519",
+          "picURLs": [
+            "http://cdn.getir.com/product/588f5e03274aea00046a1e89.jpeg?v=1523100493519"
+          ],
+          "categoryIds": ["551430043427d5010a3a5c62"],
+          "subCategoryIds": ["56e014f68d5ef80300398b7c"],
+          "displayType": 0,
+          "price": 229,
+          "priceText": "₺229,00",
+          "status": 1,
+          "struckPrice": 269,
+          "struckPriceText": "₺269,00",
+          "isFavorite": false,
+          "infoMessages": [],
+          "currency": {
+            "symbol": "₺",
+            "codeAlpha": "TRY",
+            "isSymbolFirst": true
+          },
+          "additionalPropertyTables": [],
+          "tags": [],
+          "slug": "apple-usb-guc-adaptoru-1ouTnTww5O",
+          "badgeImages": [],
+          "details": {
+            "additionalPropertyTables": []
+          }
+        },
+        {
+          "id": "5aeab50dec34790004341814",
+          "name": "Apple USB Güç Adaptörü",
+          "shortName": "Apple Güç Adaptörü",
+          "shortDescription": "12 W",
+          "squareThumbnailURL": "http://cdn.getir.com/product/5aeab50dec34790004341814.jpeg?v=1528356710555",
+          "picURLs": [
+            "http://cdn.getir.com/product/5aeab50dec34790004341814.jpeg?v=1528356710555"
+          ],
+          "categoryIds": ["551430043427d5010a3a5c62"],
+          "subCategoryIds": ["56e014f68d5ef80300398b7c"],
+          "displayType": 0,
+          "price": 205,
+          "priceText": "₺205,00",
+          "status": 1,
+          "isFavorite": false,
+          "infoMessages": [],
+          "currency": {
+            "symbol": "₺",
+            "codeAlpha": "TRY",
+            "isSymbolFirst": true
+          },
+          "additionalPropertyTables": [],
+          "tags": [],
+          "slug": "apple-usb-guc-adaptoru-2ngSPYEvE5",
+          "badgeImages": [],
+          "details": {
+            "additionalPropertyTables": []
+          }
+        }
+      ],
+      "slug": "sarj-aleti-kablo-YNVhFYcXYE"
     },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "ttec-type-c-sarj-kablosu-beyaz-ES0U1s2fkv",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
+    {
+      "id": "564c7f9327652f0c007457a2",
+      "name": "Müzik",
+      "productCount": 5,
+      "products": [
+        {
+          "id": "5d396c817e10840001b69e50",
+          "name": "ttec Rio Mikrofonlu Kulak İçi Kulaklık",
+          "shortName": "ttec Rio Kulaklık",
+          "shortDescription": "Siyah",
+          "squareThumbnailURL": "http://cdn.getir.com/product/5d396c817e10840001b69e50_tr_1633087074079.jpeg",
+          "picURLs": [
+            "http://cdn.getir.com/product/5d396c817e10840001b69e50_tr_1633087074079.jpeg"
+          ],
+          "categoryIds": ["551430043427d5010a3a5c62"],
+          "subCategoryIds": ["564c7f9327652f0c007457a2"],
+          "displayType": 0,
+          "price": 79.9,
+          "priceText": "₺79,90",
+          "status": 1,
+          "isFavorite": false,
+          "infoMessages": [],
+          "currency": {
+            "symbol": "₺",
+            "codeAlpha": "TRY",
+            "isSymbolFirst": true
+          },
+          "additionalPropertyTables": [],
+          "tags": [],
+          "slug": "ttec-rio-mikrofonlu-kulak-ici-kulaklik-h8u7HfyPkO",
+          "badgeImages": [],
+          "details": {
+            "additionalPropertyTables": []
+          }
+        },
+        {
+          "id": "5aeab60b64d44100046bb5ec",
+          "name": "Apple Lightning Konnektörlü EarPods",
+          "shortName": "Apple Earpods",
+          "shortDescription": "Beyaz",
+          "squareThumbnailURL": "http://cdn.getir.com/product/5aeab60b64d44100046bb5ec.jpeg?v=1528357431611",
+          "picURLs": [
+            "http://cdn.getir.com/product/5aeab60b64d44100046bb5ec.jpeg?v=1528357431611"
+          ],
+          "categoryIds": ["551430043427d5010a3a5c62"],
+          "subCategoryIds": ["564c7f9327652f0c007457a2"],
+          "displayType": 0,
+          "price": 199,
+          "priceText": "₺199,00",
+          "status": 1,
+          "isFavorite": false,
+          "infoMessages": [],
+          "currency": {
+            "symbol": "₺",
+            "codeAlpha": "TRY",
+            "isSymbolFirst": true
+          },
+          "additionalPropertyTables": [],
+          "tags": [],
+          "slug": "apple-lightning-konnektorlu-earpods-ayYo0SjOsc",
+          "badgeImages": [],
+          "details": {
+            "additionalPropertyTables": []
+          }
+        },
+        {
+          "id": "5a945dff5140970004e3d643",
+          "name": "Apple Lightning 3,5 mm Kulaklık Jak Kablosu",
+          "shortName": "Apple Lightning Jak Kablosu",
+          "shortDescription": "3,5 mm",
+          "squareThumbnailURL": "http://cdn.getir.com/product/5a945dff5140970004e3d643.jpeg?v=1523100566150",
+          "picURLs": [
+            "http://cdn.getir.com/product/5a945dff5140970004e3d643.jpeg?v=1523100566150"
+          ],
+          "categoryIds": ["551430043427d5010a3a5c62"],
+          "subCategoryIds": [
+            "56e014f68d5ef80300398b7c",
+            "564c7f9327652f0c007457a2"
+          ],
+          "displayType": 0,
+          "price": 94,
+          "priceText": "₺94,00",
+          "status": 1,
+          "isFavorite": false,
+          "infoMessages": [],
+          "currency": {
+            "symbol": "₺",
+            "codeAlpha": "TRY",
+            "isSymbolFirst": true
+          },
+          "additionalPropertyTables": [],
+          "tags": [],
+          "slug": "apple-lightning-35-mm-kulaklik-jak-kablosu-h42NJeRBDE",
+          "badgeImages": [],
+          "details": {
+            "additionalPropertyTables": []
+          }
+        },
+        {
+          "id": "5ff48cedeee062436ec5cc93",
+          "name": "Hytech HY-XK30 Mobil Telefon Uyumlu Kulak İçi Mikrofonlu Kablolu Kulaklık",
+          "shortName": "Hytech Kablolu Kulaklık",
+          "shortDescription": "Beyaz",
+          "squareThumbnailURL": "http://cdn.getir.com/product/5ff48cedeee062436ec5cc93_tr_1624875702563.jpeg",
+          "picURLs": [
+            "http://cdn.getir.com/product/5ff48cedeee062436ec5cc93_tr_1624875702563.jpeg",
+            "http://cdn.getir.com/product/5ff48cedeee062436ec5cc93_0bf2d774-24de-47cf-9092-91c4fea3295a.jpeg",
+            "http://cdn.getir.com/product/5ff48cedeee062436ec5cc93_c32a7a02-b66c-4841-b841-47fb72a09010.jpeg",
+            "http://cdn.getir.com/product/5ff48cedeee062436ec5cc93_a850a9c8-30b1-461f-8b27-b785630e46dc.jpeg"
+          ],
+          "categoryIds": [
+            "551430043427d5010a3a5c62",
+            "5fd8a40cbb487c5a816f9f03"
+          ],
+          "subCategoryIds": [
+            "564c7f9327652f0c007457a2",
+            "5fd8adf339cabb86075838f8"
+          ],
+          "displayType": 0,
+          "price": 24.9,
+          "priceText": "₺24,90",
+          "status": 1,
+          "isFavorite": false,
+          "infoMessages": [],
+          "currency": {
+            "symbol": "₺",
+            "codeAlpha": "TRY",
+            "isSymbolFirst": true
+          },
+          "additionalPropertyTables": [],
+          "tags": [],
+          "slug": "hytech-hy-xk30-mobil-telefon-uyumlu-beyaz-kulak-ici-mikrofonlu-kablolu-kulaklik-D49j4btJxY",
+          "badgeImages": [],
+          "details": {
+            "additionalPropertyTables": []
+          }
+        },
+        {
+          "id": "60d1bedcb2d16d680d91b92f",
+          "name": "taks Taşınabilir Kablosuz Hoparlör",
+          "shortName": "taks Taşınabilir Hoparlör",
+          "shortDescription": "Kırmızı",
+          "squareThumbnailURL": "http://cdn.getir.com/product/60d1bedcb2d16d680d91b92f_tr_1624875462028.jpeg",
+          "picURLs": [
+            "http://cdn.getir.com/product/60d1bedcb2d16d680d91b92f_tr_1624875462028.jpeg",
+            "http://cdn.getir.com/product/60d1bedcb2d16d680d91b92f_212da0b8-e1a0-498b-aac4-3aca503fa6c4.png",
+            "http://cdn.getir.com/product/60d1bedcb2d16d680d91b92f_36193a48-704f-497f-8fb6-644d22223ce3.png"
+          ],
+          "categoryIds": [
+            "551430043427d5010a3a5c62",
+            "61b9ed091a62a71f128e1fec"
+          ],
+          "subCategoryIds": [
+            "564c7f9327652f0c007457a2",
+            "61bc3c61a491b66391da925b"
+          ],
+          "displayType": 0,
+          "price": 149,
+          "priceText": "₺149,00",
+          "status": 1,
+          "struckPrice": 199,
+          "struckPriceText": "₺199,00",
+          "isFavorite": false,
+          "infoMessages": [],
+          "currency": {
+            "symbol": "₺",
+            "codeAlpha": "TRY",
+            "isSymbolFirst": true
+          },
+          "additionalPropertyTables": [],
+          "tags": [],
+          "slug": "taks-kh01-tasinabilir-kablosuz-bluetooth-hoparlor-kirmizi-xbhozpfjxe",
+          "badgeImages": [
+            {
+              "picUrl": "http://cdn.getir.com/product/61bb15219dc588933c49680f_4bdd3493-8a73-4830-b9c6-658da157d69f.png",
+              "position": "topLeft"
+            }
+          ],
+          "details": {
+            "additionalPropertyTables": []
+          }
+        }
+      ],
+      "slug": "muzik-e2Aay8BlyJ"
     }
-  },
-  {
-    "id": "5c66b5d83d4b940001a4fc64",
-    "name": "ttec Type-C Şarj Kablosu Beyaz",
-    "shortName": "ttec Type-C Şarj Kablosu",
-    "shortDescription": "120 cm",
-    "squareThumbnailURL": "http://cdn.getir.com/product/5c66b5d83d4b940001a4fc64_365324e1-f5ad-440f-b6e0-5c10e268824a.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/5c66b5d83d4b940001a4fc64_365324e1-f5ad-440f-b6e0-5c10e268824a.jpeg",
-      "http://cdn.getir.com/product/5c66b5d83d4b940001a4fc64_e2461b3f-87bc-4c8d-b0db-c6e7ece89d3a.jpeg"
-    ],
-    "categoryIds": ["551430043427d5010a3a5c62"],
-    "subCategoryIds": ["56e014f68d5ef80300398b7c"],
-    "displayType": 0,
-    "price": 54.9,
-    "priceText": "₺54,90",
-    "status": 1,
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "ttec-type-c-sarj-kablosu-beyaz-xnpYc7tbnP",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "5f85544a309c71b12002d7d6",
-    "name": "ttec Type-C Lightning MFi Şarj Kablosu Beyaz",
-    "shortName": "ttec Type-C Şarj Kablosu",
-    "shortDescription": "150 cm",
-    "squareThumbnailURL": "http://cdn.getir.com/product/5f85544a309c71b12002d7d6_tr_1633007168562.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/5f85544a309c71b12002d7d6_tr_1633007168562.jpeg"
-    ],
-    "categoryIds": [
-      "551430043427d5010a3a5c62",
-      "5fd8a40cbb487c5a816f9f03",
-      "5fd8c58f3bdc2389a56e0fb0"
-    ],
-    "subCategoryIds": [
-      "56e014f68d5ef80300398b7c",
-      "5fd8adf339cabb86075838f8",
-      "5fd90098dbbeb8ba7a12ff11"
-    ],
-    "displayType": 0,
-    "price": 299,
-    "priceText": "₺299,00",
-    "status": 1,
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "ttec-type-c-lightning-mfi-sarj-kablosu-beyaz-5YBsVwAk4e",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "5a7ae31a8e19da0004bb0c36",
-    "name": "ttec Micro USB Kablo Beyaz",
-    "shortName": "ttec Micro USB Kablo",
-    "shortDescription": "120 cm",
-    "squareThumbnailURL": "http://cdn.getir.com/product/5a7ae31a8e19da0004bb0c36_tr_1633009013947.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/5a7ae31a8e19da0004bb0c36_tr_1633009013947.jpeg"
-    ],
-    "categoryIds": ["551430043427d5010a3a5c62"],
-    "subCategoryIds": ["56e014f68d5ef80300398b7c"],
-    "displayType": 0,
-    "price": 39.9,
-    "priceText": "₺39,90",
-    "status": 1,
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "ttec-micro-usb-kablo-beyaz-WQG3MrcNTe",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "5a7ae2448e19da0004bb0bf4",
-    "name": "ttec iPhone Şarj Kablosu Beyaz",
-    "shortName": "ttec iPhone Şarj Kablosu",
-    "shortDescription": "30 cm",
-    "squareThumbnailURL": "http://cdn.getir.com/product/5a7ae2448e19da0004bb0bf4_tr_1633008950655.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/5a7ae2448e19da0004bb0bf4_tr_1633008950655.jpeg"
-    ],
-    "categoryIds": ["551430043427d5010a3a5c62"],
-    "subCategoryIds": ["56e014f68d5ef80300398b7c"],
-    "displayType": 0,
-    "price": 54.9,
-    "priceText": "₺54,90",
-    "status": 1,
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "ttec-iphone-sarj-kablosu-beyaz-SJgjh8DH7j",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "58ff5653c71675000490e144",
-    "name": "ttec iPhone Şarj Kablosu Beyaz",
-    "shortName": "ttec iPhone Şarj Kablosu",
-    "shortDescription": "100 cm",
-    "squareThumbnailURL": "http://cdn.getir.com/product/58ff5653c71675000490e144_tr_1633008850052.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/58ff5653c71675000490e144_tr_1633008850052.jpeg"
-    ],
-    "categoryIds": ["551430043427d5010a3a5c62"],
-    "subCategoryIds": ["56e014f68d5ef80300398b7c"],
-    "displayType": 0,
-    "price": 69.9,
-    "priceText": "₺69,90",
-    "status": 1,
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "ttec-iphone-sarj-kablosu-beyaz-7ZkVW8ipIn",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "588f5e6bb119c800044b6576",
-    "name": "Apple Lightning - USB Kablosu",
-    "shortName": "Apple Lightning USB Kablosu",
-    "shortDescription": "100 cm",
-    "squareThumbnailURL": "http://cdn.getir.com/product/588f5e6bb119c800044b6576.jpeg?v=1523100550118",
-    "picURLs": [
-      "http://cdn.getir.com/product/588f5e6bb119c800044b6576.jpeg?v=1523100550118"
-    ],
-    "categoryIds": ["551430043427d5010a3a5c62"],
-    "subCategoryIds": ["56e014f68d5ef80300398b7c"],
-    "displayType": 0,
-    "price": 229,
-    "priceText": "₺229,00",
-    "status": 1,
-    "struckPrice": 269,
-    "struckPriceText": "₺269,00",
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "apple-lightning-usb-kablosu-XkqyZhwazr",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "5aeab50dec34790004341814",
-    "name": "Apple USB Güç Adaptörü",
-    "shortName": "Apple Güç Adaptörü",
-    "shortDescription": "12 W",
-    "squareThumbnailURL": "http://cdn.getir.com/product/5aeab50dec34790004341814.jpeg?v=1528356710555",
-    "picURLs": [
-      "http://cdn.getir.com/product/5aeab50dec34790004341814.jpeg?v=1528356710555"
-    ],
-    "categoryIds": ["551430043427d5010a3a5c62"],
-    "subCategoryIds": ["56e014f68d5ef80300398b7c"],
-    "displayType": 0,
-    "price": 205,
-    "priceText": "₺205,00",
-    "status": 1,
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "apple-usb-guc-adaptoru-2ngSPYEvE5",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "616fe0b0e66d180b0a1b5db7",
-    "name": "Duracell Powerbank",
-    "shortName": "Duracell Powerbank",
-    "shortDescription": "10050 mAh",
-    "squareThumbnailURL": "http://cdn.getir.com/product/616fe0b0e66d180b0a1b5db7_tr_1636115434982.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/616fe0b0e66d180b0a1b5db7_tr_1636115434982.jpeg"
-    ],
-    "categoryIds": ["551430043427d5010a3a5c62"],
-    "subCategoryIds": ["56e014f68d5ef80300398b7c"],
-    "displayType": 0,
-    "price": 199,
-    "priceText": "₺199,00",
-    "status": 1,
-    "struckPrice": 299,
-    "struckPriceText": "₺299,00",
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "duracell-10050-mah-powerbank-48nfp8qpbn",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  }
+  ]
 ]
