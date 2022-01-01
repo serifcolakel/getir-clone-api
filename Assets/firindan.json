@@ -1,32 +1,23 @@
 [
   {
     "id": "5ff8444846c6e784f218aed7",
-    "name": "Birlikte İyi Gider",
+    "name": "Taze Fırın",
     "productCount": 3,
     "products": [
       {
-        "id": "5ffef42ac08ad4270acfcdf8",
-        "name": "Sütaş Izgarella Peynir",
-        "shortName": "Sütaş Izgarella Peynir",
-        "shortDescription": "6 x 60 g",
-        "squareThumbnailURL": "http://cdn.getir.com/product/5ffef42ac08ad4270acfcdf8_tr_1612599271201.jpeg",
+        "id": "5f48f20af8295d94f0a366f9",
+        "name": "Simit",
+        "shortName": "Simit",
+        "shortDescription": "100 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f48f20af8295d94f0a366f9_tr_1599847822783.jpeg",
         "picURLs": [
-          "http://cdn.getir.com/product/5ffef42ac08ad4270acfcdf8_tr_1612599271201.jpeg"
+          "http://cdn.getir.com/product/5f48f20af8295d94f0a366f9_tr_1599847822783.jpeg"
         ],
-        "categoryIds": [
-          "56dfed05ab747f03008d9379",
-          "5cfe685e25d48100016b7ea6",
-          "566eeb85f9facb0f00b1cb16"
-        ],
-        "subCategoryIds": [
-          "56dfed2f9633c303002b66db",
-          "5dca595a8c5fd5ad9c6b8dc3",
-          "5ff8444846c6e784f218aed7",
-          "5ff848bfdbccf0571dced44e"
-        ],
+        "categoryIds": ["566eeb85f9facb0f00b1cb16"],
+        "subCategoryIds": ["5ac4906d2e46870004b465de"],
         "displayType": 0,
-        "price": 57.25,
-        "priceText": "₺57,25",
+        "price": 3.5,
+        "priceText": "₺3,50",
         "status": 1,
         "isFavorite": false,
         "infoMessages": [],
@@ -37,36 +28,26 @@
         },
         "additionalPropertyTables": [],
         "tags": [],
-        "slug": "sutas-izgarella-peynir-VLA3WdNQvF",
+        "slug": "simit-cuabCJurvI",
         "badgeImages": [],
         "details": {
           "additionalPropertyTables": []
         }
       },
       {
-        "id": "582337bb5b31d60004489be3",
-        "name": "Sütaş Süzme Peynir",
-        "shortName": "Sütaş Süzme Peynir",
-        "shortDescription": "500 g",
-        "squareThumbnailURL": "http://cdn.getir.com/product/582337bb5b31d60004489be3_tr_1579699634031.jpeg",
+        "id": "5f44be014952487ce5e44ac7",
+        "name": "Ekmek",
+        "shortName": "Ekmek",
+        "shortDescription": "200 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f44be014952487ce5e44ac7_tr_1637857968319.jpeg",
         "picURLs": [
-          "http://cdn.getir.com/product/582337bb5b31d60004489be3_tr_1579699634031.jpeg"
+          "http://cdn.getir.com/product/5f44be014952487ce5e44ac7_tr_1637857968319.jpeg"
         ],
-        "categoryIds": [
-          "56dfed05ab747f03008d9379",
-          "5cfe685e25d48100016b7ea6",
-          "566eeb85f9facb0f00b1cb16",
-          "56dfcfba86004203000a870d"
-        ],
-        "subCategoryIds": [
-          "56dfed2f9633c303002b66db",
-          "5dca595a8c5fd5ad9c6b8dc3",
-          "5ff8444846c6e784f218aed7",
-          "5ffc3636db6c2f7b4ead1338"
-        ],
+        "categoryIds": ["566eeb85f9facb0f00b1cb16"],
+        "subCategoryIds": ["5ac4906d2e46870004b465de"],
         "displayType": 0,
-        "price": 32.95,
-        "priceText": "₺32,95",
+        "price": 2.25,
+        "priceText": "₺2,25",
         "status": 1,
         "isFavorite": false,
         "infoMessages": [],
@@ -77,34 +58,26 @@
         },
         "additionalPropertyTables": [],
         "tags": [],
-        "slug": "sutas-suzme-peynir-fUi2QQnvB8",
+        "slug": "ekmek-fxBPm6VrSO",
         "badgeImages": [],
         "details": {
           "additionalPropertyTables": []
         }
       },
       {
-        "id": "582331c25b31d60004489724",
-        "name": "Sütaş Taze Kaşar Peyniri",
-        "shortName": "Sütaş Kaşar Peyniri",
-        "shortDescription": "500 g",
-        "squareThumbnailURL": "http://cdn.getir.com/product/582331c25b31d60004489724_tr_1603570638221.jpeg",
+        "id": "5f36a28b29d3b131b9d95548",
+        "name": "La Lorraine Tombul Ekmek",
+        "shortName": "La Lorraine Tombul Ekmek",
+        "shortDescription": "350 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f36a28b29d3b131b9d95548_tr_1637858193743.jpeg",
         "picURLs": [
-          "http://cdn.getir.com/product/582331c25b31d60004489724_tr_1603570638221.jpeg"
+          "http://cdn.getir.com/product/5f36a28b29d3b131b9d95548_tr_1637858193743.jpeg"
         ],
-        "categoryIds": [
-          "56dfed05ab747f03008d9379",
-          "5cfe685e25d48100016b7ea6",
-          "566eeb85f9facb0f00b1cb16"
-        ],
-        "subCategoryIds": [
-          "56dfed2f9633c303002b66db",
-          "5dca595a8c5fd5ad9c6b8dc3",
-          "5ff8444846c6e784f218aed7"
-        ],
+        "categoryIds": ["566eeb85f9facb0f00b1cb16"],
+        "subCategoryIds": ["5ac4906d2e46870004b465de"],
         "displayType": 0,
-        "price": 49.95,
-        "priceText": "₺49,95",
+        "price": 7.5,
+        "priceText": "₺7,50",
         "status": 1,
         "isFavorite": false,
         "infoMessages": [],
@@ -115,7 +88,251 @@
         },
         "additionalPropertyTables": [],
         "tags": [],
-        "slug": "sutas-taze-kasar-peyniri-A8e42yRelJ",
+        "slug": "la-lorraine-tombul-ekmek-T6nrGsXEMq",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f63101a9aa05474b76aa1f6",
+        "name": "La Lorraine Sade Baget",
+        "shortName": "La Lorraine Baget",
+        "shortDescription": "290 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f63101a9aa05474b76aa1f6_tr_1637858053868.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f63101a9aa05474b76aa1f6_tr_1637858053868.jpeg"
+        ],
+        "categoryIds": ["566eeb85f9facb0f00b1cb16"],
+        "subCategoryIds": ["5ac4906d2e46870004b465de"],
+        "displayType": 0,
+        "price": 7,
+        "priceText": "₺7,00",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "la-lorraine-sade-baget-5bNsipmZMs",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f368002b3a273ffb0115b16",
+        "name": "Superfresh Fırından İnce Burgulu Simit",
+        "shortName": "Superfresh Burgulu Simit",
+        "shortDescription": "100 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f368002b3a273ffb0115b16_tr_1597417651614.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f368002b3a273ffb0115b16_tr_1597417651614.jpeg"
+        ],
+        "categoryIds": ["566eeb85f9facb0f00b1cb16"],
+        "subCategoryIds": ["5ac4906d2e46870004b465de"],
+        "displayType": 0,
+        "price": 2.49,
+        "priceText": "₺2,49",
+        "status": 1,
+        "struckPrice": 3.5,
+        "struckPriceText": "₺3,50",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "superfresh-firindan-ince-burgulu-simit-fVVYAE9UBL",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e8ed1dee541f91d0658b75d",
+        "name": "Aslı Börek İnce Burgulu Simit",
+        "shortName": "Aslı Börek Simit",
+        "shortDescription": "100 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e8ed1dee541f91d0658b75d_tr_1637857711878.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e8ed1dee541f91d0658b75d_tr_1637857711878.jpeg"
+        ],
+        "categoryIds": ["566eeb85f9facb0f00b1cb16"],
+        "subCategoryIds": ["5ac4906d2e46870004b465de"],
+        "displayType": 0,
+        "price": 3,
+        "priceText": "₺3,00",
+        "status": 1,
+        "struckPrice": 3.5,
+        "struckPriceText": "₺3,50",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "asli-borek-ince-burgulu-simit-aIxn00VpkY",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fcf8c2162a01a7f06bd59f5",
+        "name": "Alsancak Dostlar Fırını İzmir Gevreği",
+        "shortName": "İzmir Gevreği",
+        "shortDescription": "100 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fcf8c2162a01a7f06bd59f5_tr_1610087543740.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fcf8c2162a01a7f06bd59f5_tr_1610087543740.jpeg"
+        ],
+        "categoryIds": ["566eeb85f9facb0f00b1cb16"],
+        "subCategoryIds": ["5ac4906d2e46870004b465de"],
+        "displayType": 0,
+        "price": 3.75,
+        "priceText": "₺3,75",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "alsancak-dostlar-firini-izmir-gevregi-Ul56RNBqRY",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5e8edb91240b2866e6b65112",
+        "name": "Aslı Börek Peynirli Poğaça",
+        "shortName": "Peynirli Poğaça",
+        "shortDescription": "75 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5e8edb91240b2866e6b65112_tr_1637857750910.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5e8edb91240b2866e6b65112_tr_1637857750910.jpeg"
+        ],
+        "categoryIds": ["566eeb85f9facb0f00b1cb16"],
+        "subCategoryIds": ["5ac4906d2e46870004b465de"],
+        "displayType": 0,
+        "price": 4.25,
+        "priceText": "₺4,25",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "asli-borek-peynirli-pogaca-J4QXp9y3QJ",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "612e0f398c9071404760f426",
+        "name": "La Lorraine Peynirli Poğaça",
+        "shortName": "La Lorraine Poğaça",
+        "shortDescription": "75 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/612e0f398c9071404760f426_tr_1637858225157.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/612e0f398c9071404760f426_tr_1637858225157.jpeg"
+        ],
+        "categoryIds": ["566eeb85f9facb0f00b1cb16"],
+        "subCategoryIds": ["5ac4906d2e46870004b465de"],
+        "displayType": 0,
+        "price": 4.25,
+        "priceText": "₺4,25",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "la-lorraine-pogaca-peynirli-75-g-vlz4wxcilv",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f743f0036f0b10ba1220315",
+        "name": "Alsancak Dostlar Fırını Sade Boyoz",
+        "shortName": "Sade Boyoz",
+        "shortDescription": "65 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f743f0036f0b10ba1220315_tr_1602141302711.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f743f0036f0b10ba1220315_tr_1602141302711.jpeg"
+        ],
+        "categoryIds": ["566eeb85f9facb0f00b1cb16"],
+        "subCategoryIds": ["5ac4906d2e46870004b465de"],
+        "displayType": 0,
+        "price": 4.25,
+        "priceText": "₺4,25",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "alsancak-dostlar-firini-sade-boyoz-J7B1zmzFWs",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5f748903fbbaab1986097560",
+        "name": "Alsancak Dostlar Fırını Çikolatalı Boyoz",
+        "shortName": "Çikolatalı Boyoz",
+        "shortDescription": "90 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5f748903fbbaab1986097560_tr_1602141336689.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5f748903fbbaab1986097560_tr_1602141336689.jpeg"
+        ],
+        "categoryIds": ["566eeb85f9facb0f00b1cb16"],
+        "subCategoryIds": ["5ac4906d2e46870004b465de"],
+        "displayType": 0,
+        "price": 7.5,
+        "priceText": "₺7,50",
+        "status": 1,
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "alsancak-dostlar-firini-cikolatali-boyoz-MSsgKnngfg",
         "badgeImages": [],
         "details": {
           "additionalPropertyTables": []
