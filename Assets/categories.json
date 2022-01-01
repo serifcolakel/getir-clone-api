@@ -1,17 +1,27 @@
 [
   {
+    "id": "5697c78dc181490f00c99fea",
+    "name": "Yeni Ürünler",
+    "picURL": "http://cdn.getir.com/cat/5697c78dc181490f00c99fea_f7ef7ccb-f3a4-4388-b787-232967c16320.jpeg",
+    "order": 1,
+    "productCount": 6,
+    "subCategories": [
+      {
+        "id": "5a14017dad8d270004d1f2bb",
+        "name": "Yeni Ürünler",
+        "productCount": 6,
+        "slug": "yeni-urunler-ABkHsaFket"
+      }
+    ],
+    "slug": "yeni-urunler-OcXAkcBF1S"
+  },
+  {
     "id": "5fd8c58f3bdc2389a56e0fb0",
     "name": "İndirimler",
     "picURL": "http://cdn.getir.com/cat/5fd8c58f3bdc2389a56e0fb0_3322c10f-2eed-4ce9-ab5a-90db5ce067f2.jpeg",
     "order": 2,
     "productCount": 302,
     "subCategories": [
-      {
-        "id": "5697c78dc181490f00c99fea",
-        "name": "Yeni Ürünler",
-        "productCount": 5,
-        "slug": "yeni-urunler-OcXAkcBF1S"
-      },
       {
         "id": "551430043427d5010a3a5c5e",
         "name": "Su & İçecek",
