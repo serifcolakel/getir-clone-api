@@ -14,7 +14,10 @@
           "http://cdn.getir.com/product/606d704a8ef652ac67c10ce4_tr_1626417652524.jpeg",
           "http://cdn.getir.com/product/606d704a8ef652ac67c10ce4_dfbc1e2c-6edb-45bd-875b-8a491015ba9d.jpeg"
         ],
-        "categoryIds": ["566eeb85f9facb0f00b1cb16", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "566eeb85f9facb0f00b1cb16",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "566edfa4f9facb0f00b1c4a1",
           "5ffb4843b861c85480fcdac7",
@@ -59,8 +62,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/566fc767f9facb0f00b2025c_tr_1622702021260.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 1,
         "price": 19.25,
         "priceText": "₺19,25",
@@ -175,7 +182,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/61bb1b4f0a7aec77c76d32cb_tr_1639751050933.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "5fd8c58f3bdc2389a56e0fb0"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "5fd8c58f3bdc2389a56e0fb0"
+        ],
         "subCategoryIds": [
           "56dfecc9cf3fd40300ebcd7e",
           "574e8eab622137030036f571",
@@ -252,8 +262,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f356711ee4a81caed04d412_tr_1608386009145.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 12.1,
         "priceText": "₺12,10",
@@ -282,8 +296,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5898a207d5b34d0004dcef4b_tr_1635952123639.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 6.15,
         "priceText": "₺6,15",
@@ -314,8 +332,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f43b616c59881189425eaa0_tr_1635952315969.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 8.8,
         "priceText": "₺8,80",
@@ -345,8 +367,12 @@
           "http://cdn.getir.com/product/5898a1d0a4502d0004af9aeb_tr_1608382862110.jpeg",
           "http://cdn.getir.com/product/5898a1d0a4502d0004af9aeb_2b22d917-0883-4cee-9d77-e7d5e4a96757.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 12.1,
         "priceText": "₺12,10",
@@ -375,8 +401,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f43b1baad2a859c1079b824_tr_1635952088604.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 12.1,
         "priceText": "₺12,10",
@@ -405,8 +435,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5898a229a4502d0004af9b2a_tr_1635952197951.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 7.7,
         "priceText": "₺7,70",
@@ -435,8 +469,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/608bdb710707842e99d58858_tr_1635952348887.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 9.9,
         "priceText": "₺9,90",
@@ -465,8 +503,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/618b9fe2edcd858993e1445d_tr_1636632464467.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 9.9,
         "priceText": "₺9,90",
@@ -495,8 +537,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5c6086ed8daabb0001cf396c_tr_1608386276464.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 7.05,
         "priceText": "₺7,05",
@@ -565,7 +611,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/616d87b0e9dd2a3c5a0f0fbd_tr_1634728805331.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "5fd8c58f3bdc2389a56e0fb0"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "5fd8c58f3bdc2389a56e0fb0"
+        ],
         "subCategoryIds": [
           "56e0332e8d5ef8030039a23a",
           "5fd90098dbbeb8ba7a12ff11"
@@ -600,8 +649,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/604f053946e23e865c36afa2_tr_1615810316214.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 8.8,
         "priceText": "₺8,80",
@@ -630,8 +683,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f561f853e0c6037d7bd9783_tr_1608385979052.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 7.7,
         "priceText": "₺7,70",
@@ -660,8 +717,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f561c7a5139390f8e89012e_tr_1608386042529.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 8.8,
         "priceText": "₺8,80",
@@ -690,8 +751,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f5621538639958f1fd3c05f_tr_1608385950588.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 12.1,
         "priceText": "₺12,10",
@@ -720,8 +785,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f8ca8709c12df5139cf94f3_tr_1608386066327.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 13.2,
         "priceText": "₺13,20",
@@ -750,8 +819,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f355f9fdfee4f24f7a67f34_tr_1608386108264.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 7.7,
         "priceText": "₺7,70",
@@ -780,8 +853,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f356342f79a589fbcac0115_tr_1608385470964.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 7.7,
         "priceText": "₺7,70",
@@ -810,8 +887,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/6153106e37c7c35bb0cebdbb_tr_1633009912126.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 19.25,
         "priceText": "₺19,25",
@@ -845,8 +926,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5ced4832d349d10001e705a6_tr_1622702156810.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 19.25,
         "priceText": "₺19,25",
@@ -880,8 +965,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5bffb74d30d150001ecfa693_tr_1622702074874.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 19.3,
         "priceText": "₺19,30",
@@ -915,8 +1004,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5ced4832d349d10001e705ac_tr_1622702129871.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 19.25,
         "priceText": "₺19,25",
@@ -950,8 +1043,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5bffb6395d134000314d9e6b_tr_1622702103814.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 19.3,
         "priceText": "₺19,30",
@@ -985,8 +1082,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f43f50751a895bf750276f1_tr_1608391022189.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 7.7,
         "priceText": "₺7,70",
@@ -1015,8 +1116,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f43dc17849f57633d14b047_tr_1608383823150.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 7.7,
         "priceText": "₺7,70",
@@ -1045,8 +1150,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f43bc91285b347e56fd3e0e_tr_1608386200510.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 12.1,
         "priceText": "₺12,10",
@@ -1075,8 +1184,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f43c6bc2e469d228143f712_tr_1608385536487.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 16.5,
         "priceText": "₺16,50",
@@ -1105,7 +1218,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/61ae013610279452481f2c36_tr_1640345058722.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "61b9ed091a62a71f128e1fec"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "61b9ed091a62a71f128e1fec"
+        ],
         "subCategoryIds": [
           "56e0332e8d5ef8030039a23a",
           "61bc3d6c810978d618f15bc3"
@@ -1145,7 +1261,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/61ae015dedddf760f103c71f_tr_1640345077351.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "61b9ed091a62a71f128e1fec"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "61b9ed091a62a71f128e1fec"
+        ],
         "subCategoryIds": [
           "56e0332e8d5ef8030039a23a",
           "61bc3d6c810978d618f15bc3"
@@ -1185,8 +1304,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/59f72d337d5da800048c5775_tr_1609403948192.png"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 37.95,
         "priceText": "₺37,95",
@@ -1215,8 +1338,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/60a3c4cec7fd709f5633bf2e_tr_1621864892435.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 24.05,
         "priceText": "₺24,05",
@@ -1245,8 +1372,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/574b2539e4e92303005fd168_tr_1589467618027.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 1.75,
         "priceText": "₺1,75",
@@ -1277,8 +1408,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f43cbae03564256136b01a9_tr_1602360347512.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 1.75,
         "priceText": "₺1,75",
@@ -1309,8 +1444,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f95df69f7d7fe7fec52af49_tr_1635951799275.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 2.75,
         "priceText": "₺2,75",
@@ -1339,8 +1478,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f931533198ae74ff1189d15_tr_1622551524487.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 4.4,
         "priceText": "₺4,40",
@@ -1370,8 +1513,12 @@
           "http://cdn.getir.com/product/5c5b04940de01d0001042350_tr_1622551398627.jpeg",
           "http://cdn.getir.com/product/5c5b04940de01d0001042350_718f4fed-32e3-41fb-b8d3-936a2ab96cca.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 2.2,
         "priceText": "₺2,20",
@@ -1402,8 +1549,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f43c8169d7e44a2f3fc199c_tr_1622551453764.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 2.75,
         "priceText": "₺2,75",
@@ -1432,7 +1583,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/574b2108dee8a90300f18cbf_tr_1581714488358.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "5fd8c58f3bdc2389a56e0fb0"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "5fd8c58f3bdc2389a56e0fb0"
+        ],
         "subCategoryIds": [
           "56e0332e8d5ef8030039a23a",
           "5fd90098dbbeb8ba7a12ff11"
@@ -1467,7 +1621,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/574b2219dee8a90300f18d24_tr_1638269157710.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "61b9ed091a62a71f128e1fec"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "61b9ed091a62a71f128e1fec"
+        ],
         "subCategoryIds": [
           "56e0332e8d5ef8030039a23a",
           "61bc3d6c810978d618f15bc3"
@@ -1502,8 +1659,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5a9ea9948ae71e0004f3e2e4_tr_1608384587025.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 7.9,
         "priceText": "₺7,90",
@@ -1532,8 +1693,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5a9eaa8da2ef5d00041983e0_tr_1609123672052.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 7.9,
         "priceText": "₺7,90",
@@ -1562,8 +1727,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5cb8e250ff9117000171adab_tr_1601027788013.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 4.95,
         "priceText": "₺4,95",
@@ -1592,8 +1761,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5614e08a88047e0c00c22740_tr_1579273709923.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 4.75,
         "priceText": "₺4,75",
@@ -1622,8 +1795,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5614e19d88047e0c00c22797_tr_1579273768508.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 5.45,
         "priceText": "₺5,45",
@@ -1652,8 +1829,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f356bec8f50a7454d4368ff_tr_1608384244050.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 4.4,
         "priceText": "₺4,40",
@@ -1682,8 +1863,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f353e0c8a7a31ef93b94a83_tr_1608384695491.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 1.75,
         "priceText": "₺1,75",
@@ -1714,8 +1899,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f3538dc71a71226677fba17_tr_1624437105104.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 3.3,
         "priceText": "₺3,30",
@@ -1744,8 +1933,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5ffffdc6275a2af8ea96cd83_tr_1633706781262.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 8.25,
         "priceText": "₺8,25",
@@ -1776,8 +1969,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/55984600ed30fe0c005b1a09_tr_1608388552940.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 18.65,
         "priceText": "₺18,65",
@@ -1806,8 +2003,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5bfd08f7bf456200188acd60_tr_1609398164827.png"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 22.55,
         "priceText": "₺22,55",
@@ -1836,8 +2037,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5ce65820fd9b330001c4a936_tr_1604906508099.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 8.95,
         "priceText": "₺8,95",
@@ -1866,8 +2071,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5ce6581ba72a950001cc8794_tr_1609123123494.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 5.95,
         "priceText": "₺5,95",
@@ -1896,8 +2105,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5ce6581ffd9b330001c4a90f_tr_1609123194232.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 9.9,
         "priceText": "₺9,90",
@@ -1926,8 +2139,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/60fff309ff940a26f0ffa1f7_tr_1628149263538.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 3.85,
         "priceText": "₺3,85",
@@ -1956,8 +2173,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5bed8b174b498c00180eef02_1555945077145.jpeg?v=1555945079153"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 9.65,
         "priceText": "₺9,65",
@@ -1991,8 +2212,12 @@
           "http://cdn.getir.com/product/6169404272f6b7539e0ae0ef_ee0b0007-ee31-4e3b-a58b-6997ed6aa287.jpeg",
           "http://cdn.getir.com/product/6169404272f6b7539e0ae0ef_4c89271e-4821-4c0f-a40a-ef21804a9c8c.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 6.85,
         "priceText": "₺6,85",
@@ -2021,8 +2246,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5ce65821a72a950001cc8889_tr_1604906542367.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 8.75,
         "priceText": "₺8,75",
@@ -2053,8 +2282,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5760f6612a4afd0300a53243_tr_1603570483016.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 6.25,
         "priceText": "₺6,25",
@@ -2083,8 +2316,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5614e7c088047e0c00c22951_tr_1609903349202.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 12.05,
         "priceText": "₺12,05",
@@ -2113,8 +2350,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5614e88688047e0c00c2298f_tr_1609903383413.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 12.05,
         "priceText": "₺12,05",
@@ -2143,8 +2384,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/586260a328760c000430321e_tr_1609903309523.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 25.95,
         "priceText": "₺25,95",
@@ -2173,8 +2418,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5862606d28760c00043031f1_tr_1608620284132.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 24.15,
         "priceText": "₺24,15",
@@ -2204,7 +2453,10 @@
           "http://cdn.getir.com/product/5dcc04f20c4924250db7dfc8_tr_1609904354118.jpeg",
           "http://cdn.getir.com/product/5dcc04f20c4924250db7dfc8_tr_1605018063989.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5834245fc603d300041b3bdb",
           "56e0332e8d5ef8030039a23a",
@@ -2238,8 +2490,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f344c7b8bf11602f9115d1f_tr_1608384621038.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56e0332e8d5ef8030039a23a"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56e0332e8d5ef8030039a23a"
+        ],
         "displayType": 0,
         "price": 8.75,
         "priceText": "₺8,75",
@@ -2270,7 +2526,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/58233b52d9a3db0004e65835_tr_1631520744198.png"
         ],
-        "categoryIds": ["551430043427d5010a3a5c5d", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "551430043427d5010a3a5c5d",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "56dfdd4351b4ec0300aab2ac",
           "56e0332e8d5ef8030039a23a",
@@ -2315,7 +2574,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/6114eb19a1394217ba3d6039_tr_1628840541984.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "5fd8c58f3bdc2389a56e0fb0"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "5fd8c58f3bdc2389a56e0fb0"
+        ],
         "subCategoryIds": [
           "584fa72fe55b6600045080ac",
           "5fd90098dbbeb8ba7a12ff11"
@@ -2350,8 +2612,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/55a0215035a77b0c0075d119_tr_1581714411533.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["584fa72fe55b6600045080ac"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "584fa72fe55b6600045080ac"
+        ],
         "displayType": 0,
         "price": 2,
         "priceText": "₺2,00",
@@ -2382,7 +2648,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5edf97ba03f956a13d3d9632_tr_1634727419662.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "5fd8c58f3bdc2389a56e0fb0"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "5fd8c58f3bdc2389a56e0fb0"
+        ],
         "subCategoryIds": [
           "584fa72fe55b6600045080ac",
           "5fd90098dbbeb8ba7a12ff11"
@@ -2417,8 +2686,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f44aca74c91e3ba14167d09_tr_1598438921658.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["584fa72fe55b6600045080ac"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "584fa72fe55b6600045080ac"
+        ],
         "displayType": 0,
         "price": 6.15,
         "priceText": "₺6,15",
@@ -2449,8 +2722,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f8c9aece2314c8414d6925c_tr_1612882922262.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["584fa72fe55b6600045080ac"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "584fa72fe55b6600045080ac"
+        ],
         "displayType": 0,
         "price": 2,
         "priceText": "₺2,00",
@@ -2481,8 +2758,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/574b2170e4e92303005fd027_tr_1589467691772.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["584fa72fe55b6600045080ac"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "584fa72fe55b6600045080ac"
+        ],
         "displayType": 0,
         "price": 2.65,
         "priceText": "₺2,65",
@@ -2513,8 +2794,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/60210725c8f7ec0d59ede13d_tr_1612878481993.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["584fa72fe55b6600045080ac"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "584fa72fe55b6600045080ac"
+        ],
         "displayType": 0,
         "price": 3.3,
         "priceText": "₺3,30",
@@ -2543,8 +2828,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/619b51939ced92471b00b462_tr_1637852801832.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["584fa72fe55b6600045080ac"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "584fa72fe55b6600045080ac"
+        ],
         "displayType": 0,
         "price": 3.3,
         "priceText": "₺3,30",
@@ -2574,8 +2863,12 @@
           "http://cdn.getir.com/product/5dde8ee01674b741b27b6061_tr_1598728665228.jpeg",
           "http://cdn.getir.com/product/5dde8ee01674b741b27b6061_e5a78541-981c-4fb2-9ba8-6185a67b3f67.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["584fa72fe55b6600045080ac"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "584fa72fe55b6600045080ac"
+        ],
         "displayType": 0,
         "price": 3.3,
         "priceText": "₺3,30",
@@ -2605,8 +2898,12 @@
           "http://cdn.getir.com/product/5898a257a4502d0004af9b40_tr_1598728575243.jpeg",
           "http://cdn.getir.com/product/5898a257a4502d0004af9b40_81625f30-6174-44c4-a4ff-616d90ed87f3.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["584fa72fe55b6600045080ac"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "584fa72fe55b6600045080ac"
+        ],
         "displayType": 0,
         "price": 2.65,
         "priceText": "₺2,65",
@@ -2637,8 +2934,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f4418ee77d7c2cc98983a11_tr_1603569796648.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["584fa72fe55b6600045080ac"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "584fa72fe55b6600045080ac"
+        ],
         "displayType": 0,
         "price": 5.75,
         "priceText": "₺5,75",
@@ -2669,8 +2970,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f441f9b8a4995380371aee2_tr_1603571327763.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["584fa72fe55b6600045080ac"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "584fa72fe55b6600045080ac"
+        ],
         "displayType": 0,
         "price": 5.75,
         "priceText": "₺5,75",
@@ -2701,8 +3006,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/608bbffaab23cc96a0e17cdd_tr_1621843092983.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["584fa72fe55b6600045080ac"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "584fa72fe55b6600045080ac"
+        ],
         "displayType": 0,
         "price": 11,
         "priceText": "₺11,00",
@@ -2731,8 +3040,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/608bd835ba71703c6c24bdaf_tr_1621843049464.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["584fa72fe55b6600045080ac"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "584fa72fe55b6600045080ac"
+        ],
         "displayType": 0,
         "price": 11,
         "priceText": "₺11,00",
@@ -2761,8 +3074,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f564d513438be43c61a5820_tr_1599813129241.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["584fa72fe55b6600045080ac"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "584fa72fe55b6600045080ac"
+        ],
         "displayType": 0,
         "price": 1.75,
         "priceText": "₺1,75",
@@ -2793,8 +3110,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/61964f306ed618f5a5191bd7_tr_1637302422966.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["584fa72fe55b6600045080ac"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "584fa72fe55b6600045080ac"
+        ],
         "displayType": 0,
         "price": 2.75,
         "priceText": "₺2,75",
@@ -2823,8 +3144,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f355feb93a18c743e47cec9_tr_1638184145856.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["584fa72fe55b6600045080ac"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "584fa72fe55b6600045080ac"
+        ],
         "displayType": 0,
         "price": 3.1,
         "priceText": "₺3,10",
@@ -2855,8 +3180,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5fa2ca4949ac6117a9883472_tr_1638270663554.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["584fa72fe55b6600045080ac"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "584fa72fe55b6600045080ac"
+        ],
         "displayType": 0,
         "price": 9.25,
         "priceText": "₺9,25",
@@ -2902,8 +3231,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f355e0b0b93c60e30b75057_tr_1603570317500.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["584fa72fe55b6600045080ac"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "584fa72fe55b6600045080ac"
+        ],
         "displayType": 0,
         "price": 6.6,
         "priceText": "₺6,60",
@@ -2932,8 +3265,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f56453685c3280870478620_tr_1609403840562.png"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["584fa72fe55b6600045080ac"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "584fa72fe55b6600045080ac"
+        ],
         "displayType": 0,
         "price": 6.6,
         "priceText": "₺6,60",
@@ -2962,8 +3299,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f5640a6169dcaf7ae971bf2_tr_1609403783353.png"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["584fa72fe55b6600045080ac"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "584fa72fe55b6600045080ac"
+        ],
         "displayType": 0,
         "price": 8.8,
         "priceText": "₺8,80",
@@ -2992,8 +3333,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f35aaca849966642f9f6d49_tr_1609403791677.png"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["584fa72fe55b6600045080ac"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "584fa72fe55b6600045080ac"
+        ],
         "displayType": 0,
         "price": 8.8,
         "priceText": "₺8,80",
@@ -3022,8 +3367,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f5732c85b9f7777d8b0320e_tr_1609403774564.png"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["584fa72fe55b6600045080ac"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "584fa72fe55b6600045080ac"
+        ],
         "displayType": 0,
         "price": 8.8,
         "priceText": "₺8,80",
@@ -3052,8 +3401,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5760f8d32a4afd0300a53361.jpeg?v=2"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["584fa72fe55b6600045080ac"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "584fa72fe55b6600045080ac"
+        ],
         "displayType": 0,
         "price": 4.95,
         "priceText": "₺4,95",
@@ -3082,8 +3435,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5ebe7eea7fc9a6f6d6ebb7d0_tr_1619249296831.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["584fa72fe55b6600045080ac"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "584fa72fe55b6600045080ac"
+        ],
         "displayType": 0,
         "price": 15.85,
         "priceText": "₺15,85",
@@ -3114,8 +3471,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/602a1d3d1fc9e67d67e762bf_tr_1614164952930.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["584fa72fe55b6600045080ac"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "584fa72fe55b6600045080ac"
+        ],
         "displayType": 0,
         "price": 5.45,
         "priceText": "₺5,45",
@@ -3144,8 +3505,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/602110a5d0b1803bf0752a8a_tr_1614165266255.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["584fa72fe55b6600045080ac"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "584fa72fe55b6600045080ac"
+        ],
         "displayType": 0,
         "price": 4.95,
         "priceText": "₺4,95",
@@ -3175,8 +3540,12 @@
           "http://cdn.getir.com/product/5bb89dab3f98e4001e22810c_tr_1608044567786.jpeg",
           "http://cdn.getir.com/product/5bb89dab3f98e4001e22810c_df9beaef-6685-4d61-8296-f89bdaed9843.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["584fa72fe55b6600045080ac"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "584fa72fe55b6600045080ac"
+        ],
         "displayType": 0,
         "price": 12.65,
         "priceText": "₺12,65",
@@ -3205,8 +3574,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/61892d798d2db2bde8ec4167_tr_1636638284344.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["584fa72fe55b6600045080ac"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "584fa72fe55b6600045080ac"
+        ],
         "displayType": 0,
         "price": 12.55,
         "priceText": "₺12,55",
@@ -3235,8 +3608,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/61892d45b23ba8186443732a_tr_1636638253210.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["584fa72fe55b6600045080ac"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "584fa72fe55b6600045080ac"
+        ],
         "displayType": 0,
         "price": 12.55,
         "priceText": "₺12,55",
@@ -3265,8 +3642,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/588f5ae3274aea00046a1c80_tr_1608044601428.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["584fa72fe55b6600045080ac"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "584fa72fe55b6600045080ac"
+        ],
         "displayType": 0,
         "price": 30.25,
         "priceText": "₺30,25",
@@ -3295,8 +3676,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5bf54add0d369300118a3f4e_tr_1608044469425.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["584fa72fe55b6600045080ac"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "584fa72fe55b6600045080ac"
+        ],
         "displayType": 0,
         "price": 39.5,
         "priceText": "₺39,50",
@@ -3325,7 +3710,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/61a5cf51200005976804fd3b_tr_1639980571421.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "551430043427d5010a3a5c5e"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "551430043427d5010a3a5c5e"
+        ],
         "subCategoryIds": [
           "564c69e9d35e7d0c002bd6a8",
           "56e00e558d5ef8030039872a",
@@ -3544,7 +3932,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/61a75af9730a27f0faf7ce15_tr_1640005138069.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "551430043427d5010a3a5c5e"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "551430043427d5010a3a5c5e"
+        ],
         "subCategoryIds": [
           "584fa72fe55b6600045080ac",
           "5ee3941d8a1a17d10d681221",
@@ -3647,7 +4038,10 @@
           "http://cdn.getir.com/product/55983299b1dc700c006a71cc_8441d7f1-3514-4804-a728-6e07228bd606.jpeg",
           "http://cdn.getir.com/product/55983299b1dc700c006a71cc_c7af8715-9bb0-46a9-b186-b5dcee0313cf.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "5fd8a40cbb487c5a816f9f03"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "5fd8a40cbb487c5a816f9f03"
+        ],
         "subCategoryIds": [
           "564c69e9d35e7d0c002bd6a8",
           "5fd8aa456d171446c6e9e062"
@@ -3680,8 +4074,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f838256a0f7355dfe62acd8_tr_1609123580796.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c69e9d35e7d0c002bd6a8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c69e9d35e7d0c002bd6a8"
+        ],
         "displayType": 0,
         "price": 6.85,
         "priceText": "₺6,85",
@@ -3710,8 +4108,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5bc97aabb137fb001d751ac7_tr_1609123518121.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c69e9d35e7d0c002bd6a8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c69e9d35e7d0c002bd6a8"
+        ],
         "displayType": 0,
         "price": 6.39,
         "priceText": "₺6,39",
@@ -3740,7 +4142,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5bc97c3db137fb001d751b09_tr_1609124159926.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "5fd8a40cbb487c5a816f9f03"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "5fd8a40cbb487c5a816f9f03"
+        ],
         "subCategoryIds": [
           "564c69e9d35e7d0c002bd6a8",
           "5fd8aa456d171446c6e9e062"
@@ -3773,8 +4178,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/61463150dc3bb32b5fab8268_tr_1635172270570.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c69e9d35e7d0c002bd6a8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c69e9d35e7d0c002bd6a8"
+        ],
         "displayType": 0,
         "price": 6.69,
         "priceText": "₺6,69",
@@ -3803,8 +4212,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5ce6581dfd9b330001c4a8af_tr_1601150258486.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c69e9d35e7d0c002bd6a8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c69e9d35e7d0c002bd6a8"
+        ],
         "displayType": 0,
         "price": 8.89,
         "priceText": "₺8,89",
@@ -3833,7 +4246,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5d9359501cf86cf22d3122f6_tr_1609124199657.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "5fd8a40cbb487c5a816f9f03"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "5fd8a40cbb487c5a816f9f03"
+        ],
         "subCategoryIds": [
           "564c69e9d35e7d0c002bd6a8",
           "5fd8aa456d171446c6e9e062"
@@ -3866,8 +4282,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5d93679cbba9eae352456d46_tr_1609124117877.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c69e9d35e7d0c002bd6a8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c69e9d35e7d0c002bd6a8"
+        ],
         "displayType": 0,
         "price": 6.39,
         "priceText": "₺6,39",
@@ -3896,8 +4316,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5bc97dfe9c76e6001268c121_tr_1612884095703.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c69e9d35e7d0c002bd6a8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c69e9d35e7d0c002bd6a8"
+        ],
         "displayType": 0,
         "price": 8.89,
         "priceText": "₺8,89",
@@ -3926,7 +4350,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f7f2b3203c7e37c525c8ec0_tr_1609122530820.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "5fd8a40cbb487c5a816f9f03"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "5fd8a40cbb487c5a816f9f03"
+        ],
         "subCategoryIds": [
           "564c69e9d35e7d0c002bd6a8",
           "5fd8aa456d171446c6e9e062"
@@ -3959,8 +4386,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5d1b152d0d76470001caf9f2_tr_1601149617209.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c69e9d35e7d0c002bd6a8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c69e9d35e7d0c002bd6a8"
+        ],
         "displayType": 0,
         "price": 8.89,
         "priceText": "₺8,89",
@@ -3989,7 +4420,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5bc97ecdb555e900179c5427_tr_1609405155892.png"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "5fd8a40cbb487c5a816f9f03"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "5fd8a40cbb487c5a816f9f03"
+        ],
         "subCategoryIds": [
           "564c69e9d35e7d0c002bd6a8",
           "5fd8aa456d171446c6e9e062"
@@ -4022,8 +4456,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/6146328d1cfc569028385f45_tr_1632138883350.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c69e9d35e7d0c002bd6a8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c69e9d35e7d0c002bd6a8"
+        ],
         "displayType": 0,
         "price": 6.69,
         "priceText": "₺6,69",
@@ -4052,8 +4490,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5bc97f5335fc5200114fb086_tr_1635172213733.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c69e9d35e7d0c002bd6a8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c69e9d35e7d0c002bd6a8"
+        ],
         "displayType": 0,
         "price": 6.55,
         "priceText": "₺6,55",
@@ -4082,8 +4524,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5bc97fe4b555e900179c5472_tr_1635171978387.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c69e9d35e7d0c002bd6a8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c69e9d35e7d0c002bd6a8"
+        ],
         "displayType": 0,
         "price": 6.55,
         "priceText": "₺6,55",
@@ -4112,8 +4558,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5fbf7f50a4799d4cbef499ec_tr_1635172023162.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c69e9d35e7d0c002bd6a8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c69e9d35e7d0c002bd6a8"
+        ],
         "displayType": 0,
         "price": 6.55,
         "priceText": "₺6,55",
@@ -4142,8 +4592,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5be9c871fe556f0031e7fb3d_tr_1635172165142.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c69e9d35e7d0c002bd6a8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c69e9d35e7d0c002bd6a8"
+        ],
         "displayType": 0,
         "price": 6.55,
         "priceText": "₺6,55",
@@ -4172,8 +4626,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5e09becbf76095e02bb988ec_tr_1638793798104.png"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c69e9d35e7d0c002bd6a8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c69e9d35e7d0c002bd6a8"
+        ],
         "displayType": 0,
         "price": 2.42,
         "priceText": "₺2,42",
@@ -4202,8 +4660,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5e09ba989731e166d166b009_tr_1638793887108.png"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c69e9d35e7d0c002bd6a8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c69e9d35e7d0c002bd6a8"
+        ],
         "displayType": 0,
         "price": 2.42,
         "priceText": "₺2,42",
@@ -4272,8 +4734,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f842e2f2e4fbf421c7a2535_tr_1602669495827.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c69e9d35e7d0c002bd6a8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c69e9d35e7d0c002bd6a8"
+        ],
         "displayType": 0,
         "price": 4.3,
         "priceText": "₺4,30",
@@ -4344,7 +4810,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5c20c76a46c1510001e41a69_tr_1599937719431.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "61b9ed091a62a71f128e1fec"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "61b9ed091a62a71f128e1fec"
+        ],
         "subCategoryIds": [
           "564c69e9d35e7d0c002bd6a8",
           "61bc3d6c810978d618f15bc3"
@@ -4453,8 +4922,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f5745fb24fa759d1d422734_tr_1640160653044.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c69e9d35e7d0c002bd6a8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c69e9d35e7d0c002bd6a8"
+        ],
         "displayType": 0,
         "price": 6.6,
         "priceText": "₺6,60",
@@ -4483,8 +4956,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f56559dd08ca61bdb125d8f_tr_1640160639665.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c69e9d35e7d0c002bd6a8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c69e9d35e7d0c002bd6a8"
+        ],
         "displayType": 0,
         "price": 6.6,
         "priceText": "₺6,60",
@@ -4513,8 +4990,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f5737458f272f92a4b3499f_tr_1601149454371.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c69e9d35e7d0c002bd6a8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c69e9d35e7d0c002bd6a8"
+        ],
         "displayType": 0,
         "price": 4.65,
         "priceText": "₺4,65",
@@ -4543,8 +5024,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f35a3654feeea28c6193bfe_tr_1597749001508.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c69e9d35e7d0c002bd6a8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c69e9d35e7d0c002bd6a8"
+        ],
         "displayType": 0,
         "price": 2.75,
         "priceText": "₺2,75",
@@ -4573,7 +5058,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f746c32268d2a300e0d80e5_tr_1601908255189.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "57e2996551f3ee030027e28b"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "57e2996551f3ee030027e28b"
+        ],
         "subCategoryIds": [
           "564c69e9d35e7d0c002bd6a8",
           "580769f69b77d600030689dd"
@@ -4606,7 +5094,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/61a5cf51200005976804fd3b_tr_1639980571421.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "551430043427d5010a3a5c5e"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "551430043427d5010a3a5c5e"
+        ],
         "subCategoryIds": [
           "564c69e9d35e7d0c002bd6a8",
           "56e00e558d5ef8030039872a",
@@ -4734,7 +5225,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/61bc91136788b8b49d306a16_tr_1640346074841.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "5fd8c58f3bdc2389a56e0fb0"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "5fd8c58f3bdc2389a56e0fb0"
+        ],
         "subCategoryIds": [
           "564c7fc227652f0c007457c8",
           "5fd90098dbbeb8ba7a12ff11"
@@ -4783,8 +5277,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5d9c65e80fdc27ced13b20cc_tr_1609397476203.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c7fc227652f0c007457c8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c7fc227652f0c007457c8"
+        ],
         "displayType": 0,
         "price": 2.6,
         "priceText": "₺2,60",
@@ -4813,7 +5311,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/576d59b56960bf03005255ca_tr_1609397497253.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "5fd8a40cbb487c5a816f9f03"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "5fd8a40cbb487c5a816f9f03"
+        ],
         "subCategoryIds": [
           "564c7fc227652f0c007457c8",
           "5fd8aa456d171446c6e9e062"
@@ -4846,8 +5347,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5ccaf45fb1ef240001728177_tr_1609397517970.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c7fc227652f0c007457c8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c7fc227652f0c007457c8"
+        ],
         "displayType": 0,
         "price": 15.45,
         "priceText": "₺15,45",
@@ -4876,8 +5381,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5ccaf4ff1a1763000175a869_tr_1580904995656.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c7fc227652f0c007457c8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c7fc227652f0c007457c8"
+        ],
         "displayType": 0,
         "price": 9.85,
         "priceText": "₺9,85",
@@ -4906,8 +5415,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5ee383f67ebad73321bac0ee_tr_1591971758121.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c7fc227652f0c007457c8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c7fc227652f0c007457c8"
+        ],
         "displayType": 0,
         "price": 9.85,
         "priceText": "₺9,85",
@@ -4936,7 +5449,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/58247d1cb9e92e00041bbf6a_tr_1609397537227.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "5fd8a40cbb487c5a816f9f03"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "5fd8a40cbb487c5a816f9f03"
+        ],
         "subCategoryIds": [
           "564c7fc227652f0c007457c8",
           "5fd8aa456d171446c6e9e062"
@@ -4969,8 +5485,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5bcdb46531f8c300174917ff_tr_1609397556067.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c7fc227652f0c007457c8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c7fc227652f0c007457c8"
+        ],
         "displayType": 0,
         "price": 9.85,
         "priceText": "₺9,85",
@@ -4999,8 +5519,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5ce6581bfd9b330001c4a878_tr_1624548501282.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c7fc227652f0c007457c8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c7fc227652f0c007457c8"
+        ],
         "displayType": 0,
         "price": 5.75,
         "priceText": "₺5,75",
@@ -5029,8 +5553,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5c3318f4c3714800019a1601_tr_1624548472839.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c7fc227652f0c007457c8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c7fc227652f0c007457c8"
+        ],
         "displayType": 0,
         "price": 7.95,
         "priceText": "₺7,95",
@@ -5059,8 +5587,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/60755edd77fb1565fa78e5ac_tr_1624548353332.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c7fc227652f0c007457c8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c7fc227652f0c007457c8"
+        ],
         "displayType": 0,
         "price": 10.45,
         "priceText": "₺10,45",
@@ -5089,8 +5621,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5ee9fd86dcae75e893354eb7_tr_1624548410622.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c7fc227652f0c007457c8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c7fc227652f0c007457c8"
+        ],
         "displayType": 0,
         "price": 7.95,
         "priceText": "₺7,95",
@@ -5119,7 +5655,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/559843c0b1dc700c006a72bb_tr_1624548434292.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "5fd8a40cbb487c5a816f9f03"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "5fd8a40cbb487c5a816f9f03"
+        ],
         "subCategoryIds": [
           "564c7fc227652f0c007457c8",
           "5fd8aa456d171446c6e9e062"
@@ -5152,8 +5691,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f74859de7e23c5d60ddd59a_tr_1609397838820.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c7fc227652f0c007457c8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c7fc227652f0c007457c8"
+        ],
         "displayType": 0,
         "price": 18.5,
         "priceText": "₺18,50",
@@ -5182,8 +5725,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/576d5a086960bf030052562e_tr_1609397624014.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c7fc227652f0c007457c8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c7fc227652f0c007457c8"
+        ],
         "displayType": 0,
         "price": 18.5,
         "priceText": "₺18,50",
@@ -5212,7 +5759,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/576d57f7ee1c8703001ab1bb_tr_1580905042273.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a14937ca92d200004823245",
           "564c7fc227652f0c007457c8"
@@ -5245,7 +5795,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5ccaf5adb1ef240001728415_tr_1580904859149.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a14937ca92d200004823245",
           "564c7fc227652f0c007457c8"
@@ -5278,8 +5831,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/61a5e0fd2ebfa26b97e3f2a1_tr_1638369491573.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c7fc227652f0c007457c8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c7fc227652f0c007457c8"
+        ],
         "displayType": 0,
         "price": 28.25,
         "priceText": "₺28,25",
@@ -5308,7 +5865,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5c334e360935e90001ec58db_tr_1609398274054.png"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a14937ca92d200004823245",
           "564c7fc227652f0c007457c8"
@@ -5341,7 +5901,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5b5033df7790a60004cfc63b_tr_1561720052751.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "57e2996551f3ee030027e28b"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "57e2996551f3ee030027e28b"
+        ],
         "subCategoryIds": [
           "564c7fc227652f0c007457c8",
           "5a14937ca92d200004823245"
@@ -5374,7 +5937,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/576e42fdb78b0a0300b12867_tr_1580905123728.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a14937ca92d200004823245",
           "564c7fc227652f0c007457c8"
@@ -5407,7 +5973,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5ccaf547b1ef240001728373_tr_1580905624787.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "57e2996551f3ee030027e28b"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "57e2996551f3ee030027e28b"
+        ],
         "subCategoryIds": [
           "564c7fc227652f0c007457c8",
           "5a14937ca92d200004823245"
@@ -5440,8 +6009,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/602ceac31c5bc1ae41694aff_tr_1614076263678.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c7fc227652f0c007457c8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c7fc227652f0c007457c8"
+        ],
         "displayType": 0,
         "price": 34.9,
         "priceText": "₺34,90",
@@ -5470,7 +6043,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/559deb515dc7a20c001663c3_tr_1631538334433.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "57e2996551f3ee030027e28b"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "57e2996551f3ee030027e28b"
+        ],
         "subCategoryIds": [
           "564c7fc227652f0c007457c8",
           "5a14937ca92d200004823245"
@@ -5503,7 +6079,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5ccaf621b1ef240001728504_tr_1580905531139.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a14937ca92d200004823245",
           "564c7fc227652f0c007457c8"
@@ -5536,7 +6115,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f749757699ce83c05fdd4c3_tr_1601907508694.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a14937ca92d200004823245",
           "564c7fc227652f0c007457c8"
@@ -5569,7 +6151,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/576e4386b78b0a0300b128c6_tr_1580905143944.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a14937ca92d200004823245",
           "564c7fc227652f0c007457c8"
@@ -5602,7 +6187,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f7478a2a833bc6e144544fc_tr_1601908113553.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a14937ca92d200004823245",
           "564c7fc227652f0c007457c8"
@@ -5635,7 +6223,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/559843f1b1dc700c006a72bf_tr_1602167859805.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "5fd8a40cbb487c5a816f9f03"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "5fd8a40cbb487c5a816f9f03"
+        ],
         "subCategoryIds": [
           "564c7fc227652f0c007457c8",
           "5fd8aa456d171446c6e9e062"
@@ -5668,7 +6259,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5bcdb6e98d3617001d750e10_tr_1613463564920.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "57e2996551f3ee030027e28b"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "57e2996551f3ee030027e28b"
+        ],
         "subCategoryIds": [
           "564c7fc227652f0c007457c8",
           "5a14937ca92d200004823245"
@@ -5701,8 +6295,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/602cf0124227623ee749d005_tr_1614090120703.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c7fc227652f0c007457c8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c7fc227652f0c007457c8"
+        ],
         "displayType": 0,
         "price": 15.8,
         "priceText": "₺15,80",
@@ -5731,8 +6329,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/602cf33508f42b479b055456_tr_1614077839969.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c7fc227652f0c007457c8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c7fc227652f0c007457c8"
+        ],
         "displayType": 0,
         "price": 15.8,
         "priceText": "₺15,80",
@@ -5761,8 +6363,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/602cf5a15e9c8d002bb68da6_tr_1614082088536.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c7fc227652f0c007457c8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c7fc227652f0c007457c8"
+        ],
         "displayType": 0,
         "price": 15.8,
         "priceText": "₺15,80",
@@ -5791,8 +6397,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/60053ebb882693622b2ea710_tr_1614090459524.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c7fc227652f0c007457c8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c7fc227652f0c007457c8"
+        ],
         "displayType": 0,
         "price": 12.95,
         "priceText": "₺12,95",
@@ -5821,8 +6431,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/600538f9a72c14734e61b8ab_tr_1614089976838.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c7fc227652f0c007457c8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c7fc227652f0c007457c8"
+        ],
         "displayType": 0,
         "price": 12.95,
         "priceText": "₺12,95",
@@ -5851,8 +6465,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/602cf21c9c8cbd68750cfd86_tr_1614151535600.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c7fc227652f0c007457c8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c7fc227652f0c007457c8"
+        ],
         "displayType": 0,
         "price": 15.8,
         "priceText": "₺15,80",
@@ -5881,7 +6499,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5cdc2569010a1b00019749f1_tr_1609397743567.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a14937ca92d200004823245",
           "564c7fc227652f0c007457c8"
@@ -5914,7 +6535,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5ccaf95a1a1763000175b15a_tr_1580905514048.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a14937ca92d200004823245",
           "564c7fc227652f0c007457c8"
@@ -5947,7 +6571,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5bcdb78de5cc6c00116bec06_tr_1609397664936.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a14937ca92d200004823245",
           "564c7fc227652f0c007457c8"
@@ -5980,7 +6607,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5bcdb74e8102f70018c0762f_tr_1609397645936.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a14937ca92d200004823245",
           "564c7fc227652f0c007457c8"
@@ -6013,7 +6643,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5bf2b008355c320018c7fdff_tr_1609397783878.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a14937ca92d200004823245",
           "564c7fc227652f0c007457c8"
@@ -6046,8 +6679,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/55984416b1dc700c006a72c3_tr_1604685325190.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c7fc227652f0c007457c8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c7fc227652f0c007457c8"
+        ],
         "displayType": 0,
         "price": 21.9,
         "priceText": "₺21,90",
@@ -6076,7 +6713,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5598443ab1dc700c006a72c7_tr_1605130378884.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "57e2996551f3ee030027e28b"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "57e2996551f3ee030027e28b"
+        ],
         "subCategoryIds": [
           "564c7fc227652f0c007457c8",
           "5a14937ca92d200004823245"
@@ -6150,7 +6790,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f7498d7fe44974e68ee1002_tr_1609397920457.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a14937ca92d200004823245",
           "564c7fc227652f0c007457c8"
@@ -6183,7 +6826,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/559ddb895dc7a20c0016621a_tr_1609904272244.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "57e2996551f3ee030027e28b"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "57e2996551f3ee030027e28b"
+        ],
         "subCategoryIds": [
           "564c7fc227652f0c007457c8",
           "5a14937ca92d200004823245"
@@ -6216,7 +6862,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/576d59636960bf0300525585_tr_1609397597523.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a14937ca92d200004823245",
           "564c7fc227652f0c007457c8"
@@ -6249,7 +6898,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f74835396ec8055550f4c3a_tr_1609397885515.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a14937ca92d200004823245",
           "564c7fc227652f0c007457c8"
@@ -6282,8 +6934,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/603f45c118753b563449ac01_tr_1615191895922.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c7fc227652f0c007457c8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c7fc227652f0c007457c8"
+        ],
         "displayType": 0,
         "price": 48.5,
         "priceText": "₺48,50",
@@ -6312,8 +6968,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/60a21d25c958e338a8135d8d_tr_1628262801893.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c7fc227652f0c007457c8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c7fc227652f0c007457c8"
+        ],
         "displayType": 0,
         "price": 27.15,
         "priceText": "₺27,15",
@@ -6424,7 +7084,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5c1774471b2e520008747183_tr_1609397705706.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a14937ca92d200004823245",
           "564c7fc227652f0c007457c8"
@@ -6457,8 +7120,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f748e7b2f5a6fd82a8470af_tr_1609904629987.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c7fc227652f0c007457c8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c7fc227652f0c007457c8"
+        ],
         "displayType": 0,
         "price": 19.75,
         "priceText": "₺19,75",
@@ -6487,8 +7154,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/61a5e08920b5e61e2d7befed_tr_1638369357168.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c7fc227652f0c007457c8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c7fc227652f0c007457c8"
+        ],
         "displayType": 0,
         "price": 11,
         "priceText": "₺11,00",
@@ -6517,7 +7188,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5ce6581bfd9b330001c4a86f_tr_1606976136215.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "5fd8a40cbb487c5a816f9f03"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "5fd8a40cbb487c5a816f9f03"
+        ],
         "subCategoryIds": [
           "564c7fc227652f0c007457c8",
           "5fd8aa456d171446c6e9e062"
@@ -6552,8 +7226,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/60211b002f05f004289f7245_tr_1613471684187.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c7fc227652f0c007457c8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c7fc227652f0c007457c8"
+        ],
         "displayType": 0,
         "price": 21.25,
         "priceText": "₺21,25",
@@ -6582,7 +7260,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5c334afa47658a00017fca29_tr_1609396011953.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a14937ca92d200004823245",
           "580769f69b77d600030689dd",
@@ -6618,7 +7299,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f85a70263bd934998cbfd3b_tr_1605130154234.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "580769f69b77d600030689dd",
           "564c7fc227652f0c007457c8"
@@ -6653,8 +7337,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/559843a0b1dc700c006a72b7_tr_1614078382858.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c7fc227652f0c007457c8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c7fc227652f0c007457c8"
+        ],
         "displayType": 0,
         "price": 21.8,
         "priceText": "₺21,80",
@@ -6685,8 +7373,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5c3349c247658a00017fc8d1_tr_1609395972744.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["564c7fc227652f0c007457c8"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "564c7fc227652f0c007457c8"
+        ],
         "displayType": 0,
         "price": 18.25,
         "priceText": "₺18,25",
@@ -6715,7 +7407,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/61b3450b81648f3b00e29fad_tr_1639570635780.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "61b9ed091a62a71f128e1fec"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "61b9ed091a62a71f128e1fec"
+        ],
         "subCategoryIds": [
           "564c7fc227652f0c007457c8",
           "61bc3d6c810978d618f15bc3"
@@ -6748,7 +7443,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/61b3459eca2ffa8a5ef9aca1_tr_1639570525532.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "61b9ed091a62a71f128e1fec"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "61b9ed091a62a71f128e1fec"
+        ],
         "subCategoryIds": [
           "564c7fc227652f0c007457c8",
           "61bc3d6c810978d618f15bc3"
@@ -6781,7 +7479,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/55984461b1dc700c006a72cb_tr_1609121612417.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "57e2996551f3ee030027e28b"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "57e2996551f3ee030027e28b"
+        ],
         "subCategoryIds": [
           "564c7fc227652f0c007457c8",
           "580769f69b77d600030689dd"
@@ -6814,7 +7515,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5fb2d9cec8659570fc14300a_tr_1605783557692.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a14937ca92d200004823245",
           "564c7fc227652f0c007457c8"
@@ -6847,7 +7551,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5fb2d33ac356ca405c72ef03_tr_1605784477001.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a14937ca92d200004823245",
           "564c7fc227652f0c007457c8"
@@ -7510,7 +8217,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/61524d33d93459740b1bf1f7_tr_1632832290171.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a620e7e20f56a000440397b",
           "5c9cbc1722b1cc0001ae867f"
@@ -7545,7 +8255,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/6151893ee6b7846c261a7123_tr_1632813958765.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a620e7e20f56a000440397b",
           "5c9cbc1722b1cc0001ae867f"
@@ -7779,7 +8492,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/58fa20e19fc5e500045db0e7_tr_1598732094749.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a620e7e20f56a000440397b",
           "5c9cbc1722b1cc0001ae867f"
@@ -7812,7 +8528,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5c40c45fd673cf0001ad2aaf_tr_1624876341725.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a620e7e20f56a000440397b",
           "5c9cbc1722b1cc0001ae867f"
@@ -7845,7 +8564,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f355b0d4491685ce0993fa7_tr_1597749901386.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a620e7e20f56a000440397b",
           "5c9cbc1722b1cc0001ae867f"
@@ -7878,7 +8600,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f354d8f0d08a040a0775e40_tr_1597750649584.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a620e7e20f56a000440397b",
           "5c9cbc1722b1cc0001ae867f"
@@ -8034,7 +8759,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/6020f0b5aa64ab8e1b9867d4_tr_1613474104081.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a620e7e20f56a000440397b",
           "5c9cbc1722b1cc0001ae867f"
@@ -8067,8 +8795,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5fdb379b593bfe3e06b01829_tr_1608204997681.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["5c9cbc1722b1cc0001ae867f"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "5c9cbc1722b1cc0001ae867f"
+        ],
         "displayType": 0,
         "price": 3.05,
         "priceText": "₺3,05",
@@ -8097,7 +8829,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/604f1c0b97e997fe6e872bf6_tr_1624860042086.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a620e7e20f56a000440397b",
           "5c9cbc1722b1cc0001ae867f"
@@ -8130,7 +8865,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5925a9006f741b0004a6e996_tr_1624876217136.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a620e7e20f56a000440397b",
           "5c9cbc1722b1cc0001ae867f"
@@ -8163,7 +8901,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5e9da2b36c6c98338bdc14a3_tr_1624876309088.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a620e7e20f56a000440397b",
           "5c9cbc1722b1cc0001ae867f"
@@ -8348,7 +9089,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f7469be49cbe48f9656b8fe_tr_1601908511945.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "580769f69b77d600030689dd",
           "5a620e7e20f56a000440397b",
@@ -8382,7 +9126,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f74653b66c5494fce5f4b93_tr_1601908575456.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "580769f69b77d600030689dd",
           "5a620e7e20f56a000440397b",
@@ -8416,7 +9163,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/616552ea4fb1141e184894f8_tr_1634042258175.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "580769f69b77d600030689dd",
           "5a620e7e20f56a000440397b",
@@ -8450,7 +9200,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/61700a03a12faa98f7fd3407_tr_1635147600313.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "580769f69b77d600030689dd",
           "5a620e7e20f56a000440397b",
@@ -8486,7 +9239,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/616553348074557b0802391c_tr_1634042291254.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "580769f69b77d600030689dd",
           "5a620e7e20f56a000440397b",
@@ -8520,7 +9276,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/61655312bd0f9c41cda84bc6_tr_1634042301319.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "580769f69b77d600030689dd",
           "5a620e7e20f56a000440397b",
@@ -8554,7 +9313,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/61700b15fb6adb2da6dae4c0_tr_1635149404064.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "580769f69b77d600030689dd",
           "5a620e7e20f56a000440397b",
@@ -8590,8 +9352,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/61693bf2f0f8c66a7778991e_tr_1635236400837.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["5c9cbc1722b1cc0001ae867f"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "5c9cbc1722b1cc0001ae867f"
+        ],
         "displayType": 0,
         "price": 3.05,
         "priceText": "₺3,05",
@@ -8628,7 +9394,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/61bb1b4f0a7aec77c76d32cb_tr_1639751050933.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "5fd8c58f3bdc2389a56e0fb0"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "5fd8c58f3bdc2389a56e0fb0"
+        ],
         "subCategoryIds": [
           "56dfecc9cf3fd40300ebcd7e",
           "574e8eab622137030036f571",
@@ -8786,8 +9555,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5fbe5365e8ff44871f804b40_tr_1606388083886.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 2,
         "priceText": "₺2,00",
@@ -8818,8 +9591,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f440103dced02786e073f3e_tr_1603569482686.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 1.95,
         "priceText": "₺1,95",
@@ -8848,8 +9625,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f44029c9ecef35369133242_tr_1603569460760.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 1.55,
         "priceText": "₺1,55",
@@ -8880,8 +9661,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5fa2e3001f8ed35a675426e2_tr_1608366539716.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 7.75,
         "priceText": "₺7,75",
@@ -8927,8 +9712,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f44040896cfb56a2b396462_tr_1636987820702.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 2.2,
         "priceText": "₺2,20",
@@ -8959,8 +9748,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f44058ae4a0770dcce6e0b0_tr_1636987805294.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 2.75,
         "priceText": "₺2,75",
@@ -8989,8 +9782,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/574b3962e4e92303005fd886_tr_1623080673867.png"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 8.8,
         "priceText": "₺8,80",
@@ -9019,8 +9816,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/61263eb499de30ce8d911a0a_tr_1632145023197.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 13.2,
         "priceText": "₺13,20",
@@ -9049,8 +9850,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f4409a7ee649e5f569c2b5a_tr_1598431175323.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 9.9,
         "priceText": "₺9,90",
@@ -9080,8 +9885,12 @@
           "http://cdn.getir.com/product/574b1eeee4e92303005fcf68_tr_1604258161282.jpeg",
           "http://cdn.getir.com/product/574b1eeee4e92303005fcf68_9133d0c0-8b15-4f1f-b3c8-e6e7f877231a.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 6.05,
         "priceText": "₺6,05",
@@ -9110,8 +9919,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5fc628282eba0697f8a51e31_tr_1606903755900.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 7.7,
         "priceText": "₺7,70",
@@ -9140,8 +9953,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f560a90871f777708349c14_tr_1600097725918.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 0.8,
         "priceText": "₺0,80",
@@ -9172,8 +9989,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5fa288d42a679d03271b81a7_tr_1605201829578.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 4,
         "priceText": "₺4,00",
@@ -9219,8 +10040,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f5615f8ad13a326b838ed64_tr_1600097749443.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 0.8,
         "priceText": "₺0,80",
@@ -9251,8 +10076,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5fa284a71f1d9b0c1d35acaa_tr_1605201709879.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 4,
         "priceText": "₺4,00",
@@ -9298,8 +10127,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/6057a2fdf6730ba7827918a9_tr_1617375758605.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 2.25,
         "priceText": "₺2,25",
@@ -9328,8 +10161,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f5647b05620d06b1f2f898c_tr_1601027606662.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 2.2,
         "priceText": "₺2,20",
@@ -9360,8 +10197,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f35a0110b93c694a1b75910_tr_1608620218417.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 2.65,
         "priceText": "₺2,65",
@@ -9392,8 +10233,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f8ede37a0500f06d03dee7c_tr_1632740483549.octet-stream"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 7.95,
         "priceText": "₺7,95",
@@ -9424,8 +10269,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/605dd79d25c860434d9015e8_tr_1617118952888.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 3.3,
         "priceText": "₺3,30",
@@ -9454,8 +10303,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f359ec2caef066f394ca6fe_tr_1597749223765.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 1.3,
         "priceText": "₺1,30",
@@ -9486,8 +10339,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5fa28d0b9aa7b82b769f9304_tr_1606891208786.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 6.5,
         "priceText": "₺6,50",
@@ -9533,8 +10390,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f5607df2e9f8f829d001465_tr_1602050661179.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 1.3,
         "priceText": "₺1,30",
@@ -9565,8 +10426,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5fa2913d68c835c47a98b573_tr_1606891060997.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 6.5,
         "priceText": "₺6,50",
@@ -9612,8 +10477,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f563f662dbc894a26f92751_tr_1601997585516.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 2.75,
         "priceText": "₺2,75",
@@ -9642,8 +10511,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f356181250d5b1e97215279_tr_1604781704764.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 2.2,
         "priceText": "₺2,20",
@@ -9674,8 +10547,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f359bce8a7a31ef61b95843_tr_1604781671252.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 2.2,
         "priceText": "₺2,20",
@@ -9706,8 +10583,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/61517ac4146af9499f9d1b75_tr_1634557481787.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 11,
         "priceText": "₺11,00",
@@ -9736,8 +10617,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f564f4d46effbc056ee5eb7_tr_1618240225899.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 11,
         "priceText": "₺11,00",
@@ -9766,8 +10651,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f56456dd7f707468a738c96_tr_1601033990645.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 12.65,
         "priceText": "₺12,65",
@@ -9796,8 +10685,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5612627e1a6f060c00216176_tr_1599807566628.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 11,
         "priceText": "₺11,00",
@@ -9826,8 +10719,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/6169356c469c894b283625ac_tr_1636557528447.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 8.55,
         "priceText": "₺8,55",
@@ -9856,8 +10753,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/602a1887c9e7f83d6c0c69aa_tr_1614165161425.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 8.55,
         "priceText": "₺8,55",
@@ -9886,8 +10787,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/58997315d5b34d0004dd1ea3_tr_1585047645173.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 8.55,
         "priceText": "₺8,55",
@@ -9917,7 +10822,10 @@
           "http://cdn.getir.com/product/5e319c8270fce70aa14f239c_tr_1609124574040.jpeg",
           "http://cdn.getir.com/product/5e319c8270fce70aa14f239c_tr_1580380635231.jpeg"
         ],
-        "categoryIds": ["566eeb85f9facb0f00b1cb16", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "566eeb85f9facb0f00b1cb16",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "566edfa4f9facb0f00b1c4a1",
           "574e8eab622137030036f571"
@@ -9988,8 +10896,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5c5c553393318300017728ad_tr_1609904915013.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 1.65,
         "priceText": "₺1,65",
@@ -10018,8 +10930,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5c5c55a3e035090001c4cc40_tr_1609904944640.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 3.1,
         "priceText": "₺3,10",
@@ -10050,8 +10966,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f43fd0503564284b76b0942_tr_1598441985072.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 13.2,
         "priceText": "₺13,20",
@@ -10080,8 +11000,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/61a8cee952b1ab8366c7e083_tr_1638528736293.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 4.4,
         "priceText": "₺4,40",
@@ -10110,8 +11034,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f354494e375e96a1e770e4b_tr_1609904886778.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 3.5,
         "priceText": "₺3,50",
@@ -10142,8 +11070,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f3549096371bbfac16a3f86_tr_1597753614510.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 4.4,
         "priceText": "₺4,40",
@@ -10210,8 +11142,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5768159778519d0300465f7d_tr_1633682258759.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 12,
         "priceText": "₺12,00",
@@ -10240,8 +11176,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/559845deed30fe0c005b1a01_tr_1632726945347.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 15.95,
         "priceText": "₺15,95",
@@ -10270,8 +11210,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/6033bb2dec411a06ecdcc4a3_tr_1614863668709.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 28.85,
         "priceText": "₺28,85",
@@ -10300,8 +11244,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/61263ef34c67c6abb2fe80a9_tr_1629967224498.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 5.3,
         "priceText": "₺5,30",
@@ -10332,8 +11280,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f440db81b5b7c5abf723f5a_tr_1604258150472.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 4.4,
         "priceText": "₺4,40",
@@ -10362,8 +11314,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/61263e6299de30a6819119ed_tr_1630596312843.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 3.75,
         "priceText": "₺3,75",
@@ -10394,8 +11350,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5c5c58079331830001772de7_tr_1603259995793.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 3.5,
         "priceText": "₺3,50",
@@ -10424,8 +11384,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f44aeb72e469d9ffd4406ce_tr_1598437113580.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 14.5,
         "priceText": "₺14,50",
@@ -10454,8 +11418,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/574b3893dee8a90300f19524_tr_1631099458502.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 3.85,
         "priceText": "₺3,85",
@@ -10525,8 +11493,12 @@
           "http://cdn.getir.com/product/5b6c4158ac68fd0004af28c4_tr_1602361244816.jpeg",
           "http://cdn.getir.com/product/5b6c4158ac68fd0004af28c4_tr_1602305591479.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 8.8,
         "priceText": "₺8,80",
@@ -10555,8 +11527,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/574b361cdee8a90300f1947f_tr_1609904796126.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 4.4,
         "priceText": "₺4,40",
@@ -10585,8 +11561,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/61892d1d6fc415bbf7d226f4_tr_1636558496054.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 5.55,
         "priceText": "₺5,55",
@@ -10615,8 +11595,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/6079744131472e8f291c6690_tr_1618905602581.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 4.4,
         "priceText": "₺4,40",
@@ -10645,7 +11629,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f35565a449168110d993ec2_tr_1609404061214.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "57e2996551f3ee030027e28b"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "57e2996551f3ee030027e28b"
+        ],
         "subCategoryIds": [
           "574e8eab622137030036f571",
           "5834245fc603d300041b3bdb"
@@ -10678,7 +11665,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f3557e7ee4a8126f304d1b1_tr_1609404051841.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "57e2996551f3ee030027e28b"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "57e2996551f3ee030027e28b"
+        ],
         "subCategoryIds": [
           "574e8eab622137030036f571",
           "5834245fc603d300041b3bdb"
@@ -10711,8 +11701,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/6152484d097a0b4e3848586e_tr_1633515632547.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 4,
         "priceText": "₺4,00",
@@ -10741,8 +11735,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/61524872d14979c57d9e5bb3_tr_1633515429221.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 4,
         "priceText": "₺4,00",
@@ -10771,8 +11769,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f354ac0377ed10f9a9a3f8d_tr_1604781836077.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 4.4,
         "priceText": "₺4,40",
@@ -10801,8 +11803,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f354d44b69ebbb6477f85db_tr_1604781776262.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 4.4,
         "priceText": "₺4,40",
@@ -10869,8 +11875,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f3550201bcaf5401e79c724_tr_1599937256139.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 4.4,
         "priceText": "₺4,40",
@@ -10899,8 +11909,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f3554a496048925d36a9438_tr_1604781922494.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 12.1,
         "priceText": "₺12,10",
@@ -10929,8 +11943,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f3556592519c28322efe7aa_tr_1604781874789.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 12.1,
         "priceText": "₺12,10",
@@ -10959,8 +11977,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/602a1b760b6bd1455b22d305_tr_1614784613346.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 3.5,
         "priceText": "₺3,50",
@@ -10989,8 +12011,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/563b52c9fd069b0c001f2f46_tr_1604258242948.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 9.85,
         "priceText": "₺9,85",
@@ -11019,8 +12045,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5a6effc9f5cc590004ec96ac_tr_1604258220981.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 9.85,
         "priceText": "₺9,85",
@@ -11049,8 +12079,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5bb74b7142e85d00183ccc88.jpeg?v=1539956578741"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 12.35,
         "priceText": "₺12,35",
@@ -11079,7 +12113,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5ceae0399d3ea8000196e137_tr_1579533130440.jpeg"
         ],
-        "categoryIds": ["551430043427d5010a3a5c5b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "551430043427d5010a3a5c5b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "56e0131fdc83940300af3fea",
           "574e8eab622137030036f571"
@@ -11112,7 +12149,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f353062579f1f6e9bcfa98f_tr_1597752452833.jpeg"
         ],
-        "categoryIds": ["551430043427d5010a3a5c5b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "551430043427d5010a3a5c5b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "56e0131fdc83940300af3fea",
           "574e8eab622137030036f571"
@@ -11145,8 +12185,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5cec3a73abefc4000104b075_tr_1560240827384.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 5.8,
         "priceText": "₺5,80",
@@ -11175,8 +12219,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f5618a1857f8d5f0f923fe3_tr_1599812229962.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 12.65,
         "priceText": "₺12,65",
@@ -11205,8 +12253,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5fb0239a143a2a532be2867f_tr_1608390003009.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 7.15,
         "priceText": "₺7,15",
@@ -11235,8 +12287,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5fae668b8c8c592fea33f82c_tr_1605685696211.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 7.15,
         "priceText": "₺7,15",
@@ -11265,8 +12321,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/61693b9208378e521e3ac2c1_tr_1635177177522.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 8.75,
         "priceText": "₺8,75",
@@ -11295,8 +12355,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5a5ca710a7da250004e701ff.jpeg?v=1516400380176"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 24.75,
         "priceText": "₺24,75",
@@ -11325,8 +12389,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/61a618a511b8ee56699f9ffa_tr_1638449676519.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574e8eab622137030036f571"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574e8eab622137030036f571"
+        ],
         "displayType": 0,
         "price": 18.7,
         "priceText": "₺18,70",
@@ -11484,7 +12552,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/615257cb87dcb4ed167c266d_tr_1632897398059.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "5fd8c58f3bdc2389a56e0fb0"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "5fd8c58f3bdc2389a56e0fb0"
+        ],
         "subCategoryIds": [
           "574eaea86221370300370742",
           "5fd90098dbbeb8ba7a12ff11"
@@ -11519,7 +12590,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/612630746b9224e320480785_tr_1632740646735.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "5fd8c58f3bdc2389a56e0fb0"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "5fd8c58f3bdc2389a56e0fb0"
+        ],
         "subCategoryIds": [
           "574eaea86221370300370742",
           "5fd90098dbbeb8ba7a12ff11"
@@ -11554,8 +12628,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5a3a0d66e519130004939b33_tr_1605470867387.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574eaea86221370300370742"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574eaea86221370300370742"
+        ],
         "displayType": 0,
         "price": 4.85,
         "priceText": "₺4,85",
@@ -11586,7 +12664,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/6124d04fc2aed75b19c32e52_tr_1633198244471.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "5fd8c58f3bdc2389a56e0fb0"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "5fd8c58f3bdc2389a56e0fb0"
+        ],
         "subCategoryIds": [
           "574eaea86221370300370742",
           "5fd90098dbbeb8ba7a12ff11"
@@ -11661,8 +12742,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f4415a1d7aebd4937f8e712_tr_1609905014772.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574eaea86221370300370742"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574eaea86221370300370742"
+        ],
         "displayType": 0,
         "price": 1.75,
         "priceText": "₺1,75",
@@ -11693,8 +12778,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/612645047b0ac3717a71973e_tr_1630067907875.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574eaea86221370300370742"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574eaea86221370300370742"
+        ],
         "displayType": 0,
         "price": 1.85,
         "priceText": "₺1,85",
@@ -11725,8 +12814,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f0359f893d8b87399ce6e75_tr_1605470839512.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574eaea86221370300370742"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574eaea86221370300370742"
+        ],
         "displayType": 0,
         "price": 6.05,
         "priceText": "₺6,05",
@@ -11755,8 +12848,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f35a458caef0651c44ca79b_tr_1597748916798.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574eaea86221370300370742"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574eaea86221370300370742"
+        ],
         "displayType": 0,
         "price": 2.9,
         "priceText": "₺2,90",
@@ -11785,8 +12882,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f5656eb423b622341b346de_tr_1604781965161.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574eaea86221370300370742"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574eaea86221370300370742"
+        ],
         "displayType": 0,
         "price": 2.75,
         "priceText": "₺2,75",
@@ -11815,8 +12916,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f57404354f7c765e0e02ba2_tr_1599805973043.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574eaea86221370300370742"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574eaea86221370300370742"
+        ],
         "displayType": 0,
         "price": 3.3,
         "priceText": "₺3,30",
@@ -11845,8 +12950,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f57329badf8b1489858cb55_tr_1604781540434.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574eaea86221370300370742"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574eaea86221370300370742"
+        ],
         "displayType": 0,
         "price": 6.6,
         "priceText": "₺6,60",
@@ -11875,8 +12984,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f5659c7f77a2ec7100b7ebf_tr_1602361541554.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574eaea86221370300370742"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574eaea86221370300370742"
+        ],
         "displayType": 0,
         "price": 6.6,
         "priceText": "₺6,60",
@@ -11905,8 +13018,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f5735f42dbc89dcb8f938e3_tr_1603570440996.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574eaea86221370300370742"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574eaea86221370300370742"
+        ],
         "displayType": 0,
         "price": 5.5,
         "priceText": "₺5,50",
@@ -11935,7 +13052,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f355953250d5b81e421511d_tr_1609404043464.jpeg"
         ],
-        "categoryIds": ["57e2996551f3ee030027e28b", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "57e2996551f3ee030027e28b",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5834245fc603d300041b3bdb",
           "574eaea86221370300370742"
@@ -12008,8 +13128,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f441b2a1b5b7c6d1872410a_tr_1608390306222.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574eaea86221370300370742"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574eaea86221370300370742"
+        ],
         "displayType": 0,
         "price": 3.85,
         "priceText": "₺3,85",
@@ -12038,8 +13162,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5c5b041646cb650001637995_tr_1604781457296.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574eaea86221370300370742"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574eaea86221370300370742"
+        ],
         "displayType": 0,
         "price": 3.3,
         "priceText": "₺3,30",
@@ -12068,8 +13196,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/55a01b9635a77b0c0075d095.jpeg?v=2"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574eaea86221370300370742"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574eaea86221370300370742"
+        ],
         "displayType": 0,
         "price": 3.85,
         "priceText": "₺3,85",
@@ -12098,8 +13230,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/61263e3ed9773949a0bb8875_tr_1629966385451.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574eaea86221370300370742"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574eaea86221370300370742"
+        ],
         "displayType": 0,
         "price": 1.1,
         "priceText": "₺1,10",
@@ -12128,7 +13264,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f354a7b63ba6182a636005d_tr_1597750781420.jpeg"
         ],
-        "categoryIds": ["566eeb85f9facb0f00b1cb16", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "566eeb85f9facb0f00b1cb16",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "566edfa4f9facb0f00b1c4a1",
           "574eaea86221370300370742"
@@ -12164,7 +13303,10 @@
           "http://cdn.getir.com/product/5e329343daaa4aef710ca1b0_tr_1583159735570.jpeg",
           "http://cdn.getir.com/product/5e329343daaa4aef710ca1b0_tr_1583159749101.jpeg"
         ],
-        "categoryIds": ["566eeb85f9facb0f00b1cb16", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "566eeb85f9facb0f00b1cb16",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "566edfa4f9facb0f00b1c4a1",
           "574eaea86221370300370742"
@@ -12198,7 +13340,10 @@
           "http://cdn.getir.com/product/5e32af3d5b780b3741a8ad87_tr_1604258307429.jpeg",
           "http://cdn.getir.com/product/5e32af3d5b780b3741a8ad87_tr_1583159996498.jpeg"
         ],
-        "categoryIds": ["566eeb85f9facb0f00b1cb16", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "566eeb85f9facb0f00b1cb16",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "566edfa4f9facb0f00b1c4a1",
           "574eaea86221370300370742"
@@ -12231,7 +13376,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5dc2bfc74cbb77507c1d80d4_tr_1614085719896.jpeg"
         ],
-        "categoryIds": ["566eeb85f9facb0f00b1cb16", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "566eeb85f9facb0f00b1cb16",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "566edfa4f9facb0f00b1c4a1",
           "574eaea86221370300370742"
@@ -12302,8 +13450,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/610b9b9d10180fbdb080af41_tr_1628859271950.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574eaea86221370300370742"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574eaea86221370300370742"
+        ],
         "displayType": 0,
         "price": 3.75,
         "priceText": "₺3,75",
@@ -12334,8 +13486,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5f44aafb2e469d847d440688_tr_1631099592708.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["574eaea86221370300370742"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "574eaea86221370300370742"
+        ],
         "displayType": 0,
         "price": 8,
         "priceText": "₺8,00",
@@ -12366,7 +13522,10 @@
           "http://cdn.getir.com/product/5dc2bd51cae22739de6e1e3b_0ce6cdb1-ff03-4cc4-bc5b-1612ebc2ed01.jpeg",
           "http://cdn.getir.com/product/5dc2bd51cae22739de6e1e3b_dbc4268c-e144-41ba-bacb-89159eb00b6c.jpeg"
         ],
-        "categoryIds": ["566eeb85f9facb0f00b1cb16", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "566eeb85f9facb0f00b1cb16",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "566edfa4f9facb0f00b1c4a1",
           "574eaea86221370300370742"
@@ -12401,7 +13560,10 @@
           "http://cdn.getir.com/product/5dc2ba924cbb77918d1d77ca_6ed3e958-9885-41ee-ad53-60648ce14721.jpeg",
           "http://cdn.getir.com/product/5dc2ba924cbb77918d1d77ca_aeaa9618-26ae-4024-9de5-e03b71b90624.jpeg"
         ],
-        "categoryIds": ["566eeb85f9facb0f00b1cb16", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "566eeb85f9facb0f00b1cb16",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "566edfa4f9facb0f00b1c4a1",
           "574eaea86221370300370742"
@@ -12480,7 +13642,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5bc079fff22ea70014060582_tr_1585817458779.jpeg"
         ],
-        "categoryIds": ["551430043427d5010a3a5c5d", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "551430043427d5010a3a5c5d",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "56dfdd4351b4ec0300aab2ac",
           "5bcd88c44d03af001ea77e5e"
@@ -12513,7 +13678,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5bc07bc061ed080020c966c6_tr_1585314572000.jpeg"
         ],
-        "categoryIds": ["551430043427d5010a3a5c5d", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "551430043427d5010a3a5c5d",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "56dfdd4351b4ec0300aab2ac",
           "5bcd88c44d03af001ea77e5e"
@@ -12546,7 +13714,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5b50aaa330a49f00042b5100_tr_1564658861584.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "55bca8484dcda90c00e3aa80"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "55bca8484dcda90c00e3aa80"
+        ],
         "subCategoryIds": [
           "5bcd88c44d03af001ea77e5e",
           "564c6b92d35e7d0c002bd7f6",
@@ -12742,7 +13913,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5cb8e1a0c6831800016f607e_tr_1580124944054.jpeg"
         ],
-        "categoryIds": ["56dfed05ab747f03008d9379", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a14ac59b06405000474b92d",
           "5c0a20fb2927f0001848ca34"
@@ -12775,7 +13949,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5cb8e16bc6831800016f6051_tr_1603124208151.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "56dfed05ab747f03008d9379"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "56dfed05ab747f03008d9379"
+        ],
         "subCategoryIds": [
           "5c0a20fb2927f0001848ca34",
           "5a14ac59b06405000474b92d"
@@ -12808,7 +13985,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/616961ce9045610945f98f52_tr_1634557645041.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "56dfed05ab747f03008d9379"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "56dfed05ab747f03008d9379"
+        ],
         "subCategoryIds": [
           "5c0a20fb2927f0001848ca34",
           "5a14ac59b06405000474b92d"
@@ -12917,7 +14097,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/5cec3a74abefc4000104b085_tr_1580124622496.jpeg"
         ],
-        "categoryIds": ["56dfed05ab747f03008d9379", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a14ac59b06405000474b92d",
           "5c0a20fb2927f0001848ca34"
@@ -12951,7 +14134,10 @@
           "http://cdn.getir.com/product/5cec3a7497d1fb0001fdbc3c_tr_1580124609568.jpeg",
           "http://cdn.getir.com/product/5cec3a7497d1fb0001fdbc3c_tr_1560426912759.jpeg"
         ],
-        "categoryIds": ["56dfed05ab747f03008d9379", "56dfe03cf82055030022cdc0"],
+        "categoryIds": [
+          "56dfed05ab747f03008d9379",
+          "56dfe03cf82055030022cdc0"
+        ],
         "subCategoryIds": [
           "5a14ac59b06405000474b92d",
           "5c0a20fb2927f0001848ca34"
@@ -13024,7 +14210,10 @@
           "http://cdn.getir.com/product/5f7349bdbe3c5503dcc590c2_tr_1630054944075.png",
           "http://cdn.getir.com/product/5f7349bdbe3c5503dcc590c2_tr_1601392594478.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "56dfed05ab747f03008d9379"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "56dfed05ab747f03008d9379"
+        ],
         "subCategoryIds": [
           "5c0a20fb2927f0001848ca34",
           "5a14ac59b06405000474b92d"
@@ -13057,8 +14246,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/6065751b943a87326c0a3443_tr_1622814928400.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["5c0a20fb2927f0001848ca34"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "5c0a20fb2927f0001848ca34"
+        ],
         "displayType": 0,
         "price": 45.9,
         "priceText": "₺45,90",
@@ -13087,8 +14280,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/56e1ee1591626c030080acf4_tr_1617617748687.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["5c0a20fb2927f0001848ca34"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "5c0a20fb2927f0001848ca34"
+        ],
         "displayType": 0,
         "price": 45.9,
         "priceText": "₺45,90",
@@ -13117,8 +14314,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/60a3c5696ba14cdfc9e743ef_tr_1621704991702.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["5c0a20fb2927f0001848ca34"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "5c0a20fb2927f0001848ca34"
+        ],
         "displayType": 0,
         "price": 27.5,
         "priceText": "₺27,50",
@@ -13155,7 +14356,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/61bb1b4f0a7aec77c76d32cb_tr_1639751050933.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "5fd8c58f3bdc2389a56e0fb0"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "5fd8c58f3bdc2389a56e0fb0"
+        ],
         "subCategoryIds": [
           "56dfecc9cf3fd40300ebcd7e",
           "574e8eab622137030036f571",
@@ -13232,7 +14436,10 @@
         "picURLs": [
           "http://cdn.getir.com/product/559bfc8347c6ab0c001ce41a_tr_1605602473428.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0", "5fd8a40cbb487c5a816f9f03"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0",
+          "5fd8a40cbb487c5a816f9f03"
+        ],
         "subCategoryIds": [
           "56dfecc9cf3fd40300ebcd7e",
           "5fd8aa456d171446c6e9e062"
@@ -13265,8 +14472,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5b33b88c5a06d70004ee3fe1_tr_1581594614201.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56dfecc9cf3fd40300ebcd7e"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56dfecc9cf3fd40300ebcd7e"
+        ],
         "displayType": 0,
         "price": 15.65,
         "priceText": "₺15,65",
@@ -13295,8 +14506,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5a39ecf53574d30004bbc865_tr_1609240922806.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56dfecc9cf3fd40300ebcd7e"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56dfecc9cf3fd40300ebcd7e"
+        ],
         "displayType": 0,
         "price": 9.85,
         "priceText": "₺9,85",
@@ -13515,8 +14730,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/6048b17e7b6615197d9dc493_tr_1615467804141.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56dfecc9cf3fd40300ebcd7e"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56dfecc9cf3fd40300ebcd7e"
+        ],
         "displayType": 0,
         "price": 5.45,
         "priceText": "₺5,45",
@@ -13545,8 +14764,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/60d5af1689305cd04c1ba617_tr_1624882986817.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56dfecc9cf3fd40300ebcd7e"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56dfecc9cf3fd40300ebcd7e"
+        ],
         "displayType": 0,
         "price": 4.75,
         "priceText": "₺4,75",
@@ -13575,8 +14798,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5697a9808c3a3f0f00303805_tr_1609123043406.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56dfecc9cf3fd40300ebcd7e"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56dfecc9cf3fd40300ebcd7e"
+        ],
         "displayType": 0,
         "price": 7.9,
         "priceText": "₺7,90",
@@ -13605,8 +14832,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5a9eab644f7c470004f45d4f_tr_1609123013229.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56dfecc9cf3fd40300ebcd7e"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56dfecc9cf3fd40300ebcd7e"
+        ],
         "displayType": 0,
         "price": 7.9,
         "priceText": "₺7,90",
@@ -13635,8 +14866,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/5ced4831d349d10001e70578_tr_1624883603927.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56dfecc9cf3fd40300ebcd7e"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56dfecc9cf3fd40300ebcd7e"
+        ],
         "displayType": 0,
         "price": 7.6,
         "priceText": "₺7,60",
@@ -13665,8 +14900,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/60fe6f2bff940a2d9bff5b06_tr_1628084589934.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56dfecc9cf3fd40300ebcd7e"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56dfecc9cf3fd40300ebcd7e"
+        ],
         "displayType": 0,
         "price": 6,
         "priceText": "₺6,00",
@@ -13695,8 +14934,12 @@
         "picURLs": [
           "http://cdn.getir.com/product/6138a94adb3ef92f12b91360_tr_1631116746962.jpeg"
         ],
-        "categoryIds": ["56dfe03cf82055030022cdc0"],
-        "subCategoryIds": ["56dfecc9cf3fd40300ebcd7e"],
+        "categoryIds": [
+          "56dfe03cf82055030022cdc0"
+        ],
+        "subCategoryIds": [
+          "56dfecc9cf3fd40300ebcd7e"
+        ],
         "displayType": 0,
         "price": 39.95,
         "priceText": "₺39,95",

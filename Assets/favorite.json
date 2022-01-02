@@ -7,7 +7,6 @@
     "shortDescription": "1.5 L",
     "squareThumbnailURL": "https://cdn.getir.com/product/5a7b20fd8e19da0004bb27f8_tr_1615375864268.jpeg"
   },
-
   {
     "id": "1",
     "count": 0,
@@ -15,882 +14,6 @@
     "name": "Kızılay Erzincan",
     "shortDescription": "6 x 200 mL",
     "squareThumbnailURL": "https://cdn.getir.com/product/60018c5bca2126d84459c47f_tr_1610788125046.jpeg"
-  },
-  {
-    "id": "61a494012a29522416361a8b",
-    "name": "Leva Yılbaşı Eko Tombala",
-    "shortName": "Eko Tombala",
-    "shortDescription": "1 Ürün",
-    "squareThumbnailURL": "http://cdn.getir.com/product/61a494012a29522416361a8b_tr_1638370647677.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/61a494012a29522416361a8b_tr_1638370647677.jpeg",
-      "http://cdn.getir.com/product/61a494012a29522416361a8b_a63c313f-7854-4c1d-833b-ad474fcebb12.jpeg"
-    ],
-    "categoryIds": [
-      "5697c78dc181490f00c99fea",
-      "5b06b056b883b700044e3e4c",
-      "61b9ed091a62a71f128e1fec"
-    ],
-    "subCategoryIds": [
-      "5a14017dad8d270004d1f2bb",
-      "5c13b092196519001262c746",
-      "61bc3ceca4be6c6404711c05"
-    ],
-    "displayType": 0,
-    "price": 8.95,
-    "priceText": "₺8,95",
-    "count": 0,
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "leva-yilbasi-tombala-eko-rupf7lkmpj",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "6197b3fd9fe5564de86da251",
-    "name": "Eko Tombala",
-    "shortName": "Eko Tombala",
-    "shortDescription": "1 Ürün",
-    "squareThumbnailURL": "http://cdn.getir.com/product/6197b3fd9fe5564de86da251_tr_1638371090655.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/6197b3fd9fe5564de86da251_tr_1638371090655.jpeg"
-    ],
-    "categoryIds": [
-      "5697c78dc181490f00c99fea",
-      "5b06b056b883b700044e3e4c",
-      "61b9ed091a62a71f128e1fec"
-    ],
-    "subCategoryIds": [
-      "5a14017dad8d270004d1f2bb",
-      "5c13b092196519001262c746",
-      "61bc3ceca4be6c6404711c05"
-    ],
-    "displayType": 0,
-    "price": 12.95,
-    "priceText": "₺12,95",
-    "count": 0,
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "ks-games-eko-tombala-gllimz86um",
-    "badgeImages": [
-      {
-        "picUrl": "http://cdn.getir.com/product/61bb15219dc588933c49680f_4bdd3493-8a73-4830-b9c6-658da157d69f.png",
-        "position": "topLeft"
-      }
-    ],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "615ee2304565acec180de197",
-    "name": "Golf Bravo Karadut Belçika Çikolatalı",
-    "shortName": "Golf Bravo Karadut",
-    "shortDescription": "100 ml",
-    "squareThumbnailURL": "http://cdn.getir.com/product/615ee2304565acec180de197_tr_1633933985739.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/615ee2304565acec180de197_tr_1633933985739.jpeg"
-    ],
-    "categoryIds": ["5697c78dc181490f00c99fea", "55bca8484dcda90c00e3aa80"],
-    "subCategoryIds": ["5a14017dad8d270004d1f2bb", "5fbcd17a9b964c3e063b192a"],
-    "displayType": 0,
-    "price": 10,
-    "priceText": "₺10,00",
-    "count": 0,
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "bravo-karadut-100-ml-bel-cik-59601-wajcto3q9h",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "61a63ba0f9dba5d1a65bb568",
-    "name": "Diana Dikiş",
-    "shortName": "Diana Dikiş",
-    "squareThumbnailURL": "http://cdn.getir.com/product/61a63ba0f9dba5d1a65bb568_tr_1638448307027.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/61a63ba0f9dba5d1a65bb568_tr_1638448307027.jpeg"
-    ],
-    "categoryIds": ["5b06b056b883b700044e3e4c", "5697c78dc181490f00c99fea"],
-    "subCategoryIds": ["5b06b0d7d5bff90004618fcc", "5a14017dad8d270004d1f2bb"],
-    "displayType": 0,
-    "price": 15,
-    "priceText": "₺15,00",
-    "count": 0,
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "diana-dikis-jv97qmh9r2",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "61b04e3e9a30483f120173f3",
-    "name": "Resimli Bilmece Bulmaca",
-    "shortName": "Resimli Bilmece Bulmaca",
-    "squareThumbnailURL": "http://cdn.getir.com/product/61b04e3e9a30483f120173f3_tr_1639033868112.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/61b04e3e9a30483f120173f3_tr_1639033868112.jpeg"
-    ],
-    "categoryIds": ["5b06b056b883b700044e3e4c", "5697c78dc181490f00c99fea"],
-    "subCategoryIds": ["5b06b0d7d5bff90004618fcc", "5a14017dad8d270004d1f2bb"],
-    "displayType": 0,
-    "price": 12.9,
-    "priceText": "₺12,90",
-    "count": 0,
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "resimli-bilmece-bulmaca-uqzehouznr",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "61a875bda29a78ab8edd250c",
-    "name": "Fersan Jalapeno Turşu",
-    "shortName": "Fersan Jalapeno Turşu",
-    "shortDescription": "360 g",
-    "squareThumbnailURL": "http://cdn.getir.com/product/61a875bda29a78ab8edd250c_tr_1638774928821.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/61a875bda29a78ab8edd250c_tr_1638774928821.jpeg"
-    ],
-    "categoryIds": ["551430043427d5010a3a5c5d", "5697c78dc181490f00c99fea"],
-    "subCategoryIds": ["564c7f1b27652f0c007456f7", "5a14017dad8d270004d1f2bb"],
-    "displayType": 0,
-    "price": 10.95,
-    "priceText": "₺10,95",
-    "count": 0,
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "fersan-jalapeno-tursu-glh6wopidd",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "61a5e7ca6417cd4fb0b5bc80",
-    "name": "Beemedic Peluş Sıcak Su Torbası \"Hello Cactus\"",
-    "shortName": "Sıcak Su Torbası",
-    "shortDescription": "2 L",
-    "squareThumbnailURL": "http://cdn.getir.com/product/61a5e7ca6417cd4fb0b5bc80_tr_1638774015737.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/61a5e7ca6417cd4fb0b5bc80_tr_1638774015737.jpeg"
-    ],
-    "categoryIds": [
-      "5b06b056b883b700044e3e4c",
-      "551430043427d5010a3a5c5c",
-      "5697c78dc181490f00c99fea"
-    ],
-    "subCategoryIds": [
-      "5b06b381b883b700044e41fc",
-      "5cfe796dbb6504000119d993",
-      "5a14017dad8d270004d1f2bb"
-    ],
-    "displayType": 0,
-    "price": 54.9,
-    "priceText": "₺54,90",
-    "count": 0,
-    "struckPrice": 69.9,
-    "struckPriceText": "₺69,90",
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "beemedic-pelus-su-torbasi-2lt-hello-cactus-iimvqrltrv",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "61a49827894a7d5b83aab5de",
-    "name": "Colgate & Palmolive Paketi",
-    "shortName": "Colgate & Palmolive Paketi",
-    "shortDescription": "2 Ürün",
-    "squareThumbnailURL": "http://cdn.getir.com/product/61a49827894a7d5b83aab5de_tr_1638270704448.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/61a49827894a7d5b83aab5de_tr_1638270704448.jpeg"
-    ],
-    "categoryIds": ["551430043427d5010a3a5c5c", "5697c78dc181490f00c99fea"],
-    "subCategoryIds": [
-      "564c6741d35e7d0c002bd250",
-      "56e011278d5ef803003988f2",
-      "5a14017dad8d270004d1f2bb"
-    ],
-    "displayType": 0,
-    "price": 35.9,
-    "priceText": "₺35,90",
-    "count": 0,
-    "struckPrice": 59.9,
-    "struckPriceText": "₺59,90",
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "colgate-optic-white-aktif-komur-dis-macunu-50-ml-palmolive-aroma-sensations-so-relaxed-banyo-ve-dus-jeli-250-ml-ygomtjxest",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "619de330a9030d3631b7080f",
-    "name": "Eriş Un",
-    "shortName": "Eriş Un",
-    "shortDescription": "1 kg",
-    "squareThumbnailURL": "http://cdn.getir.com/product/619de330a9030d3631b7080f_tr_1638435275377.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/619de330a9030d3631b7080f_tr_1638435275377.jpeg"
-    ],
-    "categoryIds": ["56dfcfba86004203000a870d", "5697c78dc181490f00c99fea"],
-    "subCategoryIds": ["5e3a6ae86e48c150cfdab57c", "5a14017dad8d270004d1f2bb"],
-    "displayType": 0,
-    "price": 12.95,
-    "priceText": "₺12,95",
-    "count": 0,
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "eris-un-okgjy6dxzq",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "619de40309e9a420c9441366",
-    "name": "Eriş Un",
-    "shortName": "Eriş Un",
-    "shortDescription": "2 kg",
-    "squareThumbnailURL": "http://cdn.getir.com/product/619de40309e9a420c9441366_tr_1638434905556.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/619de40309e9a420c9441366_tr_1638434905556.jpeg"
-    ],
-    "categoryIds": ["56dfcfba86004203000a870d", "5697c78dc181490f00c99fea"],
-    "subCategoryIds": ["5e3a6ae86e48c150cfdab57c", "5a14017dad8d270004d1f2bb"],
-    "displayType": 0,
-    "price": 23.95,
-    "priceText": "₺23,95",
-    "count": 0,
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "eris-un-pjhdmemtam",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "5bb712034e5d2e001e91239a",
-    "name": "Vanish Kosla Gold Oxi Action Sıvı Leke Çıkarıcı",
-    "shortName": "Vanish Kosla Gold Sıvı",
-    "shortDescription": "1 L",
-    "squareThumbnailURL": "http://cdn.getir.com/product/5bb712034e5d2e001e91239a_tr_1636009077540.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/5bb712034e5d2e001e91239a_tr_1636009077540.jpeg"
-    ],
-    "categoryIds": ["5697c78dc181490f00c99fea", "55449fdf02632e11003c2da8"],
-    "subCategoryIds": ["5a14017dad8d270004d1f2bb", "564c6a2dd35e7d0c002bd6d6"],
-    "displayType": 0,
-    "price": 34.99,
-    "priceText": "₺34,99",
-    "count": 0,
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "vanish-kosla-gold-oxi-action-sivi-leke-cikarici-4FTHLHmKmu",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "61965936fb5ba867a32b7afa",
-    "name": "Colgate Üçlü Etki Diş Macunu",
-    "shortName": "Colgate Üçlü Etki",
-    "shortDescription": "125 ml",
-    "squareThumbnailURL": "http://cdn.getir.com/product/61965936fb5ba867a32b7afa_23702851-6723-4863-bf6a-a858615b57d8.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/61965936fb5ba867a32b7afa_23702851-6723-4863-bf6a-a858615b57d8.jpeg",
-      "http://cdn.getir.com/product/61965936fb5ba867a32b7afa_9ab41544-5c86-4ad5-abe6-6288f629efea.jpeg"
-    ],
-    "categoryIds": ["551430043427d5010a3a5c5c", "5697c78dc181490f00c99fea"],
-    "subCategoryIds": ["564c6741d35e7d0c002bd250", "5a14017dad8d270004d1f2bb"],
-    "displayType": 0,
-    "price": 18.25,
-    "priceText": "₺18,25",
-    "count": 0,
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "colgate-uclu-etki-dis-macunu-125-ml-zbmzvdkrvp",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "6194b30eab365c5ff9c57040",
-    "name": "Clear Men Cool Sport Mentollü Şampuan",
-    "shortName": "Clear Men Cool Sport Şampuan",
-    "shortDescription": "485 ml",
-    "squareThumbnailURL": "http://cdn.getir.com/product/6194b30eab365c5ff9c57040_ead24c4a-9874-4a22-ab50-1b92badc01a5.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/6194b30eab365c5ff9c57040_ead24c4a-9874-4a22-ab50-1b92badc01a5.jpeg",
-      "http://cdn.getir.com/product/6194b30eab365c5ff9c57040_3889dc33-150e-468e-b86b-b6f48121b3f1.jpeg"
-    ],
-    "categoryIds": ["551430043427d5010a3a5c5c", "5697c78dc181490f00c99fea"],
-    "subCategoryIds": ["5a5e9f47c3949e0004b31823", "5a14017dad8d270004d1f2bb"],
-    "displayType": 0,
-    "price": 33.9,
-    "priceText": "₺33,90",
-    "count": 0,
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "clear-men-cool-sport-mentollu-sampuan-485-ml-y7zxnke2gr",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "618e3e9fc3866c5de04ce01d",
-    "name": "Golden Star A4 Fotokopi Kağıdı",
-    "shortName": "Golden Star Fotokopi Kağıdı",
-    "shortDescription": "500 Sayfa",
-    "squareThumbnailURL": "http://cdn.getir.com/product/618e3e9fc3866c5de04ce01d_tr_1637225038979.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/618e3e9fc3866c5de04ce01d_tr_1637225038979.jpeg",
-      "http://cdn.getir.com/product/618e3e9fc3866c5de04ce01d_5fcf81f0-e311-4ec3-a663-1a8fc94273f4.jpeg"
-    ],
-    "categoryIds": ["5b06b056b883b700044e3e4c", "5697c78dc181490f00c99fea"],
-    "subCategoryIds": ["5b06b1f9b883b700044e4045", "5a14017dad8d270004d1f2bb"],
-    "displayType": 0,
-    "price": 79.9,
-    "priceText": "₺79,90",
-    "count": 0,
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "goldenstar-a4-fotokopi-kagidi-80gr-objrfgbtbn",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "61826c9dffaae51ce0c39d8f",
-    "name": "Penti Fit 15 Pantolon Çorabı Siyah Renk",
-    "shortName": "Penti Pantolon Çorabı 15 Den",
-    "shortDescription": "Beden: Standart",
-    "squareThumbnailURL": "http://cdn.getir.com/product/61826c9dffaae51ce0c39d8f_tr_1636104352670.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/61826c9dffaae51ce0c39d8f_tr_1636104352670.jpeg"
-    ],
-    "categoryIds": [
-      "5697c78dc181490f00c99fea",
-      "551430043427d5010a3a5c5f",
-      "5b06b056b883b700044e3e4c"
-    ],
-    "subCategoryIds": [
-      "5a14017dad8d270004d1f2bb",
-      "56e013e08d5ef80300398aaf",
-      "61a790876da4e657199d3860"
-    ],
-    "displayType": 0,
-    "price": 7.95,
-    "priceText": "₺7,95",
-    "count": 0,
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "penti-fit-15-pantolon-corabi-siyah-renk-standart-beden-suhzfqc0zg",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "61826d7b0512a4ad3c35f6dc",
-    "name": "Penti Fit 15 Soket Çorap Ten Rengi",
-    "shortName": "Penti Fit Soket Çorap",
-    "shortDescription": "Beden: Standart",
-    "squareThumbnailURL": "http://cdn.getir.com/product/61826d7b0512a4ad3c35f6dc_tr_1636104254324.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/61826d7b0512a4ad3c35f6dc_tr_1636104254324.jpeg"
-    ],
-    "categoryIds": [
-      "5697c78dc181490f00c99fea",
-      "551430043427d5010a3a5c5f",
-      "5b06b056b883b700044e3e4c"
-    ],
-    "subCategoryIds": [
-      "5a14017dad8d270004d1f2bb",
-      "56e013e08d5ef80300398aaf",
-      "61a790876da4e657199d3860"
-    ],
-    "displayType": 0,
-    "price": 5.95,
-    "priceText": "₺5,95",
-    "count": 0,
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "penti-fit-15-soket-corap-ten-rengi-standart-beden-3vcelncha9",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "61826a2ffbd5891f7bafdecd",
-    "name": "Penti Fit 15 Pantolon Çorabı Ten Rengi",
-    "shortName": "Penti Pantolon Çorabı 15 Den",
-    "shortDescription": "Beden: Standart",
-    "squareThumbnailURL": "http://cdn.getir.com/product/61826a2ffbd5891f7bafdecd_tr_1636104526136.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/61826a2ffbd5891f7bafdecd_tr_1636104526136.jpeg"
-    ],
-    "categoryIds": [
-      "5697c78dc181490f00c99fea",
-      "551430043427d5010a3a5c5f",
-      "5b06b056b883b700044e3e4c"
-    ],
-    "subCategoryIds": [
-      "5a14017dad8d270004d1f2bb",
-      "56e013e08d5ef80300398aaf",
-      "61a790876da4e657199d3860"
-    ],
-    "displayType": 0,
-    "price": 7.95,
-    "priceText": "₺7,95",
-    "count": 0,
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "penti-fit-15-pantolon-corabi-ten-rengi-standart-beden-ojhtpueqjl",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "617a463b4a0240c1aeecf663",
-    "name": "Arko Nem Soft Touch Bakım Kremi",
-    "shortName": "Arko Nem Soft Touch",
-    "shortDescription": "60 ml",
-    "squareThumbnailURL": "http://cdn.getir.com/product/617a463b4a0240c1aeecf663_tr_1635839358408.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/617a463b4a0240c1aeecf663_tr_1635839358408.jpeg"
-    ],
-    "categoryIds": ["551430043427d5010a3a5c5c", "5697c78dc181490f00c99fea"],
-    "subCategoryIds": ["56e0115adc83940300af3ee0", "5a14017dad8d270004d1f2bb"],
-    "displayType": 0,
-    "price": 15.95,
-    "priceText": "₺15,95",
-    "count": 0,
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "arko-nem-soft-touch-krem-60-ml-ldhfm08tyc",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "617816e10c795a5bb3dd9b45",
-    "name": "Sensodyne Hızlı Rahatlama Beyazlatıcı Diş Macunu",
-    "shortName": "Sensodyne Hızlı Rahatlama",
-    "shortDescription": "2 x 75 ml",
-    "squareThumbnailURL": "http://cdn.getir.com/product/617816e10c795a5bb3dd9b45_tr_1635779117515.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/617816e10c795a5bb3dd9b45_tr_1635779117515.jpeg"
-    ],
-    "categoryIds": ["551430043427d5010a3a5c5c", "5697c78dc181490f00c99fea"],
-    "subCategoryIds": ["564c6741d35e7d0c002bd250", "5a14017dad8d270004d1f2bb"],
-    "displayType": 0,
-    "price": 46.9,
-    "priceText": "₺46,90",
-    "count": 0,
-    "struckPrice": 87.8,
-    "struckPriceText": "₺87,80",
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "sensodyne-hizli-rahatlama-beyazlatici-2-x-75-ml-p1qx4vgud6",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "617a7376c9f5a8f25cc96162",
-    "name": "Activex Antibakteriyel Islak Mendil Aktif",
-    "shortName": "Activex Islak Mendil",
-    "shortDescription": "50 Yaprak",
-    "squareThumbnailURL": "http://cdn.getir.com/product/617a7376c9f5a8f25cc96162_tr_1635751265684.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/617a7376c9f5a8f25cc96162_tr_1635751265684.jpeg"
-    ],
-    "categoryIds": [
-      "55449fdf02632e11003c2da8",
-      "551430043427d5010a3a5c5c",
-      "5697c78dc181490f00c99fea"
-    ],
-    "subCategoryIds": [
-      "564dbab45854f10c00a9edb6",
-      "59f24af7beda820004122be0",
-      "5a14017dad8d270004d1f2bb"
-    ],
-    "displayType": 0,
-    "price": 15.55,
-    "priceText": "₺15,55",
-    "count": 0,
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "activex-antibakteriyel-islak-mendil-aktif-50-yaprak-7furanutxs",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "617a721336072e3b428726bd",
-    "name": "Activex Antibakteriyel Hassas Islak Mendil",
-    "shortName": "Activex Hassas Islak Mendil",
-    "shortDescription": "50 Yaprak",
-    "squareThumbnailURL": "http://cdn.getir.com/product/617a721336072e3b428726bd_tr_1635750975138.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/617a721336072e3b428726bd_tr_1635750975138.jpeg"
-    ],
-    "categoryIds": [
-      "55449fdf02632e11003c2da8",
-      "551430043427d5010a3a5c5c",
-      "5697c78dc181490f00c99fea"
-    ],
-    "subCategoryIds": [
-      "564dbab45854f10c00a9edb6",
-      "59f24af7beda820004122be0",
-      "5a14017dad8d270004d1f2bb"
-    ],
-    "displayType": 0,
-    "price": 15.55,
-    "priceText": "₺15,55",
-    "count": 0,
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "activex-antibakteriyel-islak-mendil-hassas-50-yaprak-a0bkeplu8e",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "617116cdb9c6a559e31f3a07",
-    "name": "Sensodyne Tam Koruma & Beyazlatıcı Diş Macunu",
-    "shortName": "Sensodyne Tam Koruma",
-    "shortDescription": "50 ml",
-    "squareThumbnailURL": "http://cdn.getir.com/product/617116cdb9c6a559e31f3a07_3118a5fa-58cf-45f5-9c93-e53aaebf4245.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/617116cdb9c6a559e31f3a07_3118a5fa-58cf-45f5-9c93-e53aaebf4245.jpeg",
-      "http://cdn.getir.com/product/617116cdb9c6a559e31f3a07_742a8401-edab-4d7d-8cb1-c503c0e784cf.jpeg"
-    ],
-    "categoryIds": ["551430043427d5010a3a5c5c", "5697c78dc181490f00c99fea"],
-    "subCategoryIds": ["564c6741d35e7d0c002bd250", "5a14017dad8d270004d1f2bb"],
-    "displayType": 0,
-    "price": 19.95,
-    "priceText": "₺19,95",
-    "count": 0,
-    "struckPrice": 24.9,
-    "struckPriceText": "₺24,90",
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "sensodyne-tam-koruma-beyazlatici-dis-macunu-50-ml-apapr2iq1p",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "615ee39c3f9c3313db7864e2",
-    "name": "Golf Maraşım Antep Fıstık Sade",
-    "shortName": "Golf Maraşım Fıstık Sade",
-    "shortDescription": "500 ml",
-    "squareThumbnailURL": "http://cdn.getir.com/product/615ee39c3f9c3313db7864e2_tr_1633706188832.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/615ee39c3f9c3313db7864e2_tr_1633706188832.jpeg"
-    ],
-    "categoryIds": ["55bca8484dcda90c00e3aa80", "5697c78dc181490f00c99fea"],
-    "subCategoryIds": ["5fbcd1beb1b8a2c673204b1f", "5a14017dad8d270004d1f2bb"],
-    "displayType": 0,
-    "price": 29.5,
-    "priceText": "₺29,50",
-    "count": 0,
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "marasim-antep-kaymak-0-5l-58894-gmgojhubn7",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "614adf7d976f260c81977356",
-    "name": "Magnum Double Karamel Gold La Casa De Papel",
-    "shortName": "Magnum Double Karamel Gold",
-    "shortDescription": "90 ml",
-    "squareThumbnailURL": "http://cdn.getir.com/product/614adf7d976f260c81977356_d2956a75-03b2-4a07-8e6a-264aa3380a0c.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/614adf7d976f260c81977356_d2956a75-03b2-4a07-8e6a-264aa3380a0c.jpeg",
-      "http://cdn.getir.com/product/614adf7d976f260c81977356_16db82a2-888b-4bbc-812e-f395f8816964.jpeg",
-      "http://cdn.getir.com/product/614adf7d976f260c81977356_567be5e2-a602-4e1a-a957-ea0831d1c42d.jpeg",
-      "http://cdn.getir.com/product/614adf7d976f260c81977356_1781d6b8-3214-4f9a-a78e-873f6fc7a5b0.jpeg"
-    ],
-    "categoryIds": ["55bca8484dcda90c00e3aa80", "5697c78dc181490f00c99fea"],
-    "subCategoryIds": ["5fbcd17a9b964c3e063b192a", "5a14017dad8d270004d1f2bb"],
-    "displayType": 0,
-    "price": 7.5,
-    "priceText": "₺7,50",
-    "count": 0,
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "magnum-dbl-crmel-gold-lcdp-20x90ml-68716705-ockmrsxxdr",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "619e3843202429bc443f16d6",
-    "name": "Nesfit Çikolatalı Fındıklı Bar",
-    "shortName": "Nesfit Çikolatalı Fındıklı",
-    "shortDescription": "23 g",
-    "squareThumbnailURL": "http://cdn.getir.com/product/619e3843202429bc443f16d6_tr_1640160192535.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/619e3843202429bc443f16d6_tr_1640160192535.jpeg"
-    ],
-    "categoryIds": [
-      "5697c78dc181490f00c99fea",
-      "57e2996551f3ee030027e28b",
-      "56dfe03cf82055030022cdc0"
-    ],
-    "subCategoryIds": [
-      "5a14017dad8d270004d1f2bb",
-      "5a620e7e20f56a000440397b",
-      "5c9cbc1722b1cc0001ae867f"
-    ],
-    "displayType": 0,
-    "price": 5.45,
-    "priceText": "₺5,45",
-    "count": 0,
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "nesfit-cikolatali-findikli-bar-23-g-c0dltccfvr",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
-  },
-  {
-    "id": "605bc32e2a22b6a1cc641c7f",
-    "name": "Air Wick Kokulu Çubuklar Okyanus Sesi",
-    "shortName": "Air Wick Okyanus Sesi",
-    "shortDescription": "30 ml",
-    "squareThumbnailURL": "http://cdn.getir.com/product/605bc32e2a22b6a1cc641c7f_tr_1622614132083.jpeg",
-    "picURLs": [
-      "http://cdn.getir.com/product/605bc32e2a22b6a1cc641c7f_tr_1622614132083.jpeg",
-      "http://cdn.getir.com/product/605bc32e2a22b6a1cc641c7f_10fd7642-cf62-4dd0-a2eb-84cf565bbab6.jpeg"
-    ],
-    "categoryIds": ["55449fdf02632e11003c2da8", "5697c78dc181490f00c99fea"],
-    "subCategoryIds": ["56e010208d5ef8030039885c", "5a14017dad8d270004d1f2bb"],
-    "displayType": 0,
-    "price": 44.9,
-    "priceText": "₺44,90",
-    "count": 0,
-    "isFavorite": false,
-    "infoMessages": [],
-    "currency": {
-      "symbol": "₺",
-      "codeAlpha": "TRY",
-      "isSymbolFirst": true
-    },
-    "additionalPropertyTables": [],
-    "tags": [],
-    "slug": "air-wick-kokulu-cubuklar-okyanus-sesi-kFgXYkRttY",
-    "badgeImages": [],
-    "details": {
-      "additionalPropertyTables": []
-    }
   },
   {
     "id": "2",
@@ -956,7 +79,6 @@
     "shortDescription": "1 L",
     "squareThumbnailURL": "https://cdn.getir.com/product/5f36a28b29d3b131b9d95548_tr_1602251256220.jpeg"
   },
-
   {
     "id": "10",
     "count": 0,
@@ -1004,5 +126,2343 @@
     "name": "Domestos Dağ Esintisi",
     "shortDescription": "750 mL",
     "squareThumbnailURL": "https://cdn.getir.com/product/5d7f8dd10ed2c200010d5152_tr_1580804550544.jpeg"
+  },
+  {
+    "id": "5f48f20af8295d94f0a366f9",
+    "name": "Simit",
+    "shortName": "Simit",
+    "shortDescription": "100 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5f48f20af8295d94f0a366f9_tr_1599847822783.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5f48f20af8295d94f0a366f9_tr_1599847822783.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "5ac4906d2e46870004b465de"
+    ],
+    "displayType": 0,
+    "price": 3.5,
+    "priceText": "₺3,50",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "simit-cuabCJurvI",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5f44be014952487ce5e44ac7",
+    "name": "Ekmek",
+    "shortName": "Ekmek",
+    "shortDescription": "200 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5f44be014952487ce5e44ac7_tr_1637857968319.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5f44be014952487ce5e44ac7_tr_1637857968319.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "5ac4906d2e46870004b465de"
+    ],
+    "displayType": 0,
+    "price": 2.25,
+    "priceText": "₺2,25",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "ekmek-fxBPm6VrSO",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5f36a28b29d3b131b9d95548",
+    "name": "La Lorraine Tombul Ekmek",
+    "shortName": "La Lorraine Tombul Ekmek",
+    "shortDescription": "350 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5f36a28b29d3b131b9d95548_tr_1637858193743.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5f36a28b29d3b131b9d95548_tr_1637858193743.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "5ac4906d2e46870004b465de"
+    ],
+    "displayType": 0,
+    "price": 7.5,
+    "priceText": "₺7,50",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "la-lorraine-tombul-ekmek-T6nrGsXEMq",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5f63101a9aa05474b76aa1f6",
+    "name": "La Lorraine Sade Baget",
+    "shortName": "La Lorraine Baget",
+    "shortDescription": "290 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5f63101a9aa05474b76aa1f6_tr_1637858053868.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5f63101a9aa05474b76aa1f6_tr_1637858053868.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "5ac4906d2e46870004b465de"
+    ],
+    "displayType": 0,
+    "price": 7,
+    "priceText": "₺7,00",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "la-lorraine-sade-baget-5bNsipmZMs",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5f368002b3a273ffb0115b16",
+    "name": "Superfresh Fırından İnce Burgulu Simit",
+    "shortName": "Superfresh Burgulu Simit",
+    "shortDescription": "100 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5f368002b3a273ffb0115b16_tr_1597417651614.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5f368002b3a273ffb0115b16_tr_1597417651614.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "5ac4906d2e46870004b465de"
+    ],
+    "displayType": 0,
+    "price": 2.49,
+    "priceText": "₺2,49",
+    "count": 0,
+    "struckPrice": 3.5,
+    "struckPriceText": "₺3,50",
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "superfresh-firindan-ince-burgulu-simit-fVVYAE9UBL",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5e8ed1dee541f91d0658b75d",
+    "name": "Aslı Börek İnce Burgulu Simit",
+    "shortName": "Aslı Börek Simit",
+    "shortDescription": "100 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5e8ed1dee541f91d0658b75d_tr_1637857711878.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5e8ed1dee541f91d0658b75d_tr_1637857711878.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "5ac4906d2e46870004b465de"
+    ],
+    "displayType": 0,
+    "price": 3,
+    "priceText": "₺3,00",
+    "count": 0,
+    "struckPrice": 3.5,
+    "struckPriceText": "₺3,50",
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "asli-borek-ince-burgulu-simit-aIxn00VpkY",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5fcf8c2162a01a7f06bd59f5",
+    "name": "Alsancak Dostlar Fırını İzmir Gevreği",
+    "shortName": "İzmir Gevreği",
+    "shortDescription": "100 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5fcf8c2162a01a7f06bd59f5_tr_1610087543740.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5fcf8c2162a01a7f06bd59f5_tr_1610087543740.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "5ac4906d2e46870004b465de"
+    ],
+    "displayType": 0,
+    "price": 3.75,
+    "priceText": "₺3,75",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "alsancak-dostlar-firini-izmir-gevregi-Ul56RNBqRY",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5e8edb91240b2866e6b65112",
+    "name": "Aslı Börek Peynirli Poğaça",
+    "shortName": "Peynirli Poğaça",
+    "shortDescription": "75 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5e8edb91240b2866e6b65112_tr_1637857750910.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5e8edb91240b2866e6b65112_tr_1637857750910.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "5ac4906d2e46870004b465de"
+    ],
+    "displayType": 0,
+    "price": 4.25,
+    "priceText": "₺4,25",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "asli-borek-peynirli-pogaca-J4QXp9y3QJ",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "612e0f398c9071404760f426",
+    "name": "La Lorraine Peynirli Poğaça",
+    "shortName": "La Lorraine Poğaça",
+    "shortDescription": "75 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/612e0f398c9071404760f426_tr_1637858225157.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/612e0f398c9071404760f426_tr_1637858225157.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "5ac4906d2e46870004b465de"
+    ],
+    "displayType": 0,
+    "price": 4.25,
+    "priceText": "₺4,25",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "la-lorraine-pogaca-peynirli-75-g-vlz4wxcilv",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5f743f0036f0b10ba1220315",
+    "name": "Alsancak Dostlar Fırını Sade Boyoz",
+    "shortName": "Sade Boyoz",
+    "shortDescription": "65 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5f743f0036f0b10ba1220315_tr_1602141302711.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5f743f0036f0b10ba1220315_tr_1602141302711.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "5ac4906d2e46870004b465de"
+    ],
+    "displayType": 0,
+    "price": 4.25,
+    "priceText": "₺4,25",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "alsancak-dostlar-firini-sade-boyoz-J7B1zmzFWs",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5f748903fbbaab1986097560",
+    "name": "Alsancak Dostlar Fırını Çikolatalı Boyoz",
+    "shortName": "Çikolatalı Boyoz",
+    "shortDescription": "90 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5f748903fbbaab1986097560_tr_1602141336689.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5f748903fbbaab1986097560_tr_1602141336689.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "5ac4906d2e46870004b465de"
+    ],
+    "displayType": 0,
+    "price": 7.5,
+    "priceText": "₺7,50",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "alsancak-dostlar-firini-cikolatali-boyoz-MSsgKnngfg",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "60374cf0b19064ce4ddb3acb",
+    "name": "Superfresh Fırından Dondurulmuş Karışık Tahıllı Baget Ekmeği",
+    "shortName": "Superfresh Tahıllı Baget",
+    "shortDescription": "8'li",
+    "squareThumbnailURL": "http://cdn.getir.com/product/60374cf0b19064ce4ddb3acb_tr_1614579183180.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/60374cf0b19064ce4ddb3acb_tr_1614579183180.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "5eb29e582b85d80300646852"
+    ],
+    "displayType": 0,
+    "price": 12.9,
+    "priceText": "₺12,90",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "superfresh-firindan-dondurulmus-karisik-tahilli-baget-ekmegi-QJvGbwHHlv",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "603dd7679a73c0a28e48ce18",
+    "name": "Superfresh Fırından Sandviç Ekmeği",
+    "shortName": "Superfresh Sandviç Ekmeği",
+    "shortDescription": "5'li",
+    "squareThumbnailURL": "http://cdn.getir.com/product/603dd7679a73c0a28e48ce18_tr_1614670422857.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/603dd7679a73c0a28e48ce18_tr_1614670422857.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "5eb29e582b85d80300646852"
+    ],
+    "displayType": 0,
+    "price": 15.9,
+    "priceText": "₺15,90",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "superfresh-firindan-sandvic-ekmegi-CFIlrwxJ1p",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5f2ba2fe722d827b5a5bf189",
+    "name": "SuperFresh Fırından Dondurulmuş Simit",
+    "shortName": "SuperFresh Simit",
+    "shortDescription": "4'lü",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5f2ba2fe722d827b5a5bf189_tr_1613401976511.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5f2ba2fe722d827b5a5bf189_tr_1613401976511.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "5eb29e582b85d80300646852"
+    ],
+    "displayType": 0,
+    "price": 19.9,
+    "priceText": "₺19,90",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "superfresh-firindan-dondurulmus-simit-sRXQ0Eionk",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "6037719c4969546c74113e33",
+    "name": "Superfresh Fırından Dondurulmuş Sade Poğaça",
+    "shortName": "Superfresh Sade Poğaça",
+    "shortDescription": "6 x 70 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/6037719c4969546c74113e33_tr_1614602496133.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/6037719c4969546c74113e33_tr_1614602496133.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "5eb29e582b85d80300646852"
+    ],
+    "displayType": 0,
+    "price": 24.9,
+    "priceText": "₺24,90",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "superfresh-firindan-dondurulmus-sade-pogaca-Zl5hpStTNQ",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5aa692fbd139a0000428c7d6",
+    "name": "Glutensiz Ada Baton Ekmek",
+    "shortName": "Glutensiz Ada Baton Ekmek",
+    "shortDescription": "240 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5aa692fbd139a0000428c7d6.jpeg?v=1521125597291",
+    "picURLs": [
+      "http://cdn.getir.com/product/5aa692fbd139a0000428c7d6.jpeg?v=1521125597291"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16",
+      "57e2996551f3ee030027e28b"
+    ],
+    "subCategoryIds": [
+      "5ac4831dbcab620004d37442",
+      "580769f69b77d600030689dd"
+    ],
+    "displayType": 0,
+    "price": 19.5,
+    "priceText": "₺19,50",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "glutensiz-ada-baton-ekmek-x74uw0gX3o",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5aa6903bd9ea13000459f371",
+    "name": "Glutensiz Ada Susamlı Çubuk Kraker",
+    "shortName": "Glutensiz Ada Kraker",
+    "shortDescription": "105 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5aa6903bd9ea13000459f371.jpeg?v=1521102105847",
+    "picURLs": [
+      "http://cdn.getir.com/product/5aa6903bd9ea13000459f371.jpeg?v=1521102105847"
+    ],
+    "categoryIds": [
+      "56dfe03cf82055030022cdc0",
+      "566eeb85f9facb0f00b1cb16",
+      "57e2996551f3ee030027e28b"
+    ],
+    "subCategoryIds": [
+      "574eaea86221370300370742",
+      "5ac4831dbcab620004d37442",
+      "580769f69b77d600030689dd"
+    ],
+    "displayType": 0,
+    "price": 19.25,
+    "priceText": "₺19,25",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "glutensiz-ada-susamli-cubuk-kraker-w177jgSk1Y",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5fc26ef5f86ca13ef0fdae59",
+    "name": "İthal Muz",
+    "shortName": "İthal Muz",
+    "shortDescription": "600 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5fc26ef5f86ca13ef0fdae59_tr_1606836221080.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5fc26ef5f86ca13ef0fdae59_tr_1606836221080.jpeg"
+    ],
+    "categoryIds": [
+      "5928113e616cab00041ec6de"
+    ],
+    "subCategoryIds": [
+      "59281340616cab00041ec874"
+    ],
+    "displayType": 0,
+    "price": 19.75,
+    "priceText": "₺19,75",
+    "count": 0,
+    "struckPrice": 21.95,
+    "struckPriceText": "₺21,95",
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "ithal-muz-00BTpUIF1u",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5fc2c264f1b319c87c4151f7",
+    "name": "Mandalina",
+    "shortName": "Mandalina",
+    "shortDescription": "1 kg",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5fc2c264f1b319c87c4151f7_tr_1606895325002.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5fc2c264f1b319c87c4151f7_tr_1606895325002.jpeg"
+    ],
+    "categoryIds": [
+      "5928113e616cab00041ec6de"
+    ],
+    "subCategoryIds": [
+      "59281340616cab00041ec874"
+    ],
+    "displayType": 0,
+    "price": 12.45,
+    "priceText": "₺12,45",
+    "count": 0,
+    "struckPrice": 13.95,
+    "struckPriceText": "₺13,95",
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "mandalina-gKLSspj3lo",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5fc2c36127a7f31e974dce13",
+    "name": "Portakal",
+    "shortName": "Portakal",
+    "shortDescription": "1 kg",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5fc2c36127a7f31e974dce13_tr_1606895502905.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5fc2c36127a7f31e974dce13_tr_1606895502905.jpeg"
+    ],
+    "categoryIds": [
+      "5928113e616cab00041ec6de"
+    ],
+    "subCategoryIds": [
+      "59281340616cab00041ec874"
+    ],
+    "displayType": 0,
+    "price": 8.95,
+    "priceText": "₺8,95",
+    "count": 0,
+    "struckPrice": 9.95,
+    "struckPriceText": "₺9,95",
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "portakal-5i4lQ44LSP",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5fc291ff18b947482eaffb16",
+    "name": "Sıkmalık Portakal",
+    "shortName": "Sıkmalık Portakal",
+    "shortDescription": "1 kg",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5fc291ff18b947482eaffb16_tr_1606886576300.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5fc291ff18b947482eaffb16_tr_1606886576300.jpeg"
+    ],
+    "categoryIds": [
+      "5928113e616cab00041ec6de"
+    ],
+    "subCategoryIds": [
+      "59281340616cab00041ec874"
+    ],
+    "displayType": 0,
+    "price": 7.75,
+    "priceText": "₺7,75",
+    "count": 0,
+    "struckPrice": 8.45,
+    "struckPriceText": "₺8,45",
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "sikmalik-portakal-1EGC6Ru8K1",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5fc2c406e7e3c63bea326e3e",
+    "name": "Nar",
+    "shortName": "Nar",
+    "shortDescription": "900 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5fc2c406e7e3c63bea326e3e_tr_1606895711719.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5fc2c406e7e3c63bea326e3e_tr_1606895711719.jpeg"
+    ],
+    "categoryIds": [
+      "5928113e616cab00041ec6de"
+    ],
+    "subCategoryIds": [
+      "59281340616cab00041ec874"
+    ],
+    "displayType": 0,
+    "price": 10.75,
+    "priceText": "₺10,75",
+    "count": 0,
+    "struckPrice": 11.95,
+    "struckPriceText": "₺11,95",
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "nar-yGGySWlZnD",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "60c1c77d98369791cf5d98f8",
+    "name": "Uno 2 Kat Tahıllı Tava Ekmeği",
+    "shortName": "Uno Tahıllı Tava Ekmeği",
+    "shortDescription": "550 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/60c1c77d98369791cf5d98f8_tr_1623335406884.jpeg",
+    "wideThumbnailURL": "http://cdn.getir.com/product/60c1c77d98369791cf5d98f8_wide_pic_tr_1624270147881.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/60c1c77d98369791cf5d98f8_tr_1623335406884.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1"
+    ],
+    "displayType": 1,
+    "price": 14.95,
+    "priceText": "₺14,95",
+    "count": 0,
+    "struckPrice": 16.95,
+    "struckPriceText": "₺16,95",
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "uno-iki-kat-tahilli-tava-ekmegi-htFq56sIoS",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5928134e37e22d0004ead488",
+    "name": "Sebze",
+    "productCount": 9,
+    "products": [
+      {
+        "id": "5fc28b883f6771b6c358ea31",
+        "name": "Salkım Domates",
+        "shortName": "Salkım Domates",
+        "shortDescription": "600 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fc28b883f6771b6c358ea31_tr_1606838008775.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fc28b883f6771b6c358ea31_tr_1606838008775.jpeg"
+        ],
+        "categoryIds": [
+          "5928113e616cab00041ec6de"
+        ],
+        "subCategoryIds": [
+          "5928134e37e22d0004ead488"
+        ],
+        "displayType": 0,
+        "price": 10.75,
+        "priceText": "₺10,75",
+        "count": 0,
+        "struckPrice": 11.95,
+        "struckPriceText": "₺11,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "salkim-domates-aprcOh8u5z",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fc2ae60a9357b9156ec89ae",
+        "name": "Kokteyl Domates",
+        "shortName": "Kokteyl Domates",
+        "shortDescription": "500 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fc2ae60a9357b9156ec89ae_tr_1606888088577.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fc2ae60a9357b9156ec89ae_tr_1606888088577.jpeg"
+        ],
+        "categoryIds": [
+          "5928113e616cab00041ec6de"
+        ],
+        "subCategoryIds": [
+          "5928134e37e22d0004ead488"
+        ],
+        "displayType": 0,
+        "price": 7.95,
+        "priceText": "₺7,95",
+        "count": 0,
+        "struckPrice": 8.95,
+        "struckPriceText": "₺8,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "kokteyl-domates-mpTfW1lZJf",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fc2707a69049f2da5ea5cd2",
+        "name": "Limon",
+        "shortName": "Limon",
+        "shortDescription": "500 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fc2707a69049f2da5ea5cd2_tr_1606836519563.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fc2707a69049f2da5ea5cd2_tr_1606836519563.jpeg"
+        ],
+        "categoryIds": [
+          "5928113e616cab00041ec6de"
+        ],
+        "subCategoryIds": [
+          "5928134e37e22d0004ead488"
+        ],
+        "displayType": 0,
+        "price": 3.95,
+        "priceText": "₺3,95",
+        "count": 0,
+        "struckPrice": 4.45,
+        "struckPriceText": "₺4,45",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "limon-KflhcvPn3N",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fc2a199d797d51f24e6ad28",
+        "name": "Sivri Biber",
+        "shortName": "Sivri Biber",
+        "shortDescription": "250 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fc2a199d797d51f24e6ad28_tr_1606887833310.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fc2a199d797d51f24e6ad28_tr_1606887833310.jpeg"
+        ],
+        "categoryIds": [
+          "5928113e616cab00041ec6de"
+        ],
+        "subCategoryIds": [
+          "5928134e37e22d0004ead488"
+        ],
+        "displayType": 0,
+        "price": 5.75,
+        "priceText": "₺5,75",
+        "count": 0,
+        "struckPrice": 6.45,
+        "struckPriceText": "₺6,45",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "sivri-biber-cETG4S4097",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fc2794f2a1315dd13f6d60e",
+        "name": "Kuru Soğan",
+        "shortName": "Kuru Soğan",
+        "shortDescription": "2 kg",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fc2794f2a1315dd13f6d60e_tr_1606837052922.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fc2794f2a1315dd13f6d60e_tr_1606837052922.jpeg"
+        ],
+        "categoryIds": [
+          "5928113e616cab00041ec6de"
+        ],
+        "subCategoryIds": [
+          "5928134e37e22d0004ead488"
+        ],
+        "displayType": 0,
+        "price": 7.75,
+        "priceText": "₺7,75",
+        "count": 0,
+        "struckPrice": 8.45,
+        "struckPriceText": "₺8,45",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "kuru-sogan-U6f31uaskb",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "6171877a045b910351138214",
+        "name": "Soyulmuş Taşköprü Sarımsağı",
+        "shortName": "Taşköprü Sarımsağı",
+        "shortDescription": "100 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/6171877a045b910351138214_tr_1635424256967.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/6171877a045b910351138214_tr_1635424256967.jpeg"
+        ],
+        "categoryIds": [
+          "5928113e616cab00041ec6de"
+        ],
+        "subCategoryIds": [
+          "5928134e37e22d0004ead488"
+        ],
+        "displayType": 0,
+        "price": 7.95,
+        "priceText": "₺7,95",
+        "count": 0,
+        "struckPrice": 8.95,
+        "struckPriceText": "₺8,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "soyulmus-taskopru-sarimsagi-1p8npmt9wu",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "61717563a0f2a53e54c93205",
+        "name": "Taşköprü Sarımsağı",
+        "shortName": "Taşköprü Sarımsağı",
+        "shortDescription": "250 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/61717563a0f2a53e54c93205_tr_1635424286278.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/61717563a0f2a53e54c93205_tr_1635424286278.jpeg"
+        ],
+        "categoryIds": [
+          "5928113e616cab00041ec6de"
+        ],
+        "subCategoryIds": [
+          "5928134e37e22d0004ead488"
+        ],
+        "displayType": 0,
+        "price": 6.25,
+        "priceText": "₺6,25",
+        "count": 0,
+        "struckPrice": 6.95,
+        "struckPriceText": "₺6,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "taskopru-sarimsagi-cxuexexdsj",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fc2ad63d35151d4df692ded",
+        "name": "Patates",
+        "shortName": "Patates",
+        "shortDescription": "2 kg",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fc2ad63d35151d4df692ded_tr_1606887432316.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fc2ad63d35151d4df692ded_tr_1606887432316.jpeg"
+        ],
+        "categoryIds": [
+          "5928113e616cab00041ec6de"
+        ],
+        "subCategoryIds": [
+          "5928134e37e22d0004ead488"
+        ],
+        "displayType": 0,
+        "price": 17.95,
+        "priceText": "₺17,95",
+        "count": 0,
+        "struckPrice": 19.95,
+        "struckPriceText": "₺19,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "patates-NruAdRjIWs",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      },
+      {
+        "id": "5fc2af8118b947690daffe6c",
+        "name": "Mantar",
+        "shortName": "Mantar",
+        "shortDescription": "250 g",
+        "squareThumbnailURL": "http://cdn.getir.com/product/5fc2af8118b947690daffe6c_tr_1606888350112.jpeg",
+        "picURLs": [
+          "http://cdn.getir.com/product/5fc2af8118b947690daffe6c_tr_1606888350112.jpeg"
+        ],
+        "categoryIds": [
+          "5928113e616cab00041ec6de"
+        ],
+        "subCategoryIds": [
+          "5928134e37e22d0004ead488"
+        ],
+        "displayType": 0,
+        "price": 8.95,
+        "priceText": "₺8,95",
+        "count": 0,
+        "struckPrice": 9.95,
+        "struckPriceText": "₺9,95",
+        "isFavorite": false,
+        "infoMessages": [],
+        "currency": {
+          "symbol": "₺",
+          "codeAlpha": "TRY",
+          "isSymbolFirst": true
+        },
+        "additionalPropertyTables": [],
+        "tags": [],
+        "slug": "mantar-BIOYPnt3wh",
+        "badgeImages": [],
+        "details": {
+          "additionalPropertyTables": []
+        }
+      }
+    ],
+    "slug": "sebze-tzX9AkF0We"
+  },
+  {
+    "id": "5c879b921f5acb000125e903",
+    "name": "Uno Tost Ekmeği",
+    "shortName": "Uno Tost Ekmeği",
+    "shortDescription": "350 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5c879b921f5acb000125e903_tr_1612851603430.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5c879b921f5acb000125e903_tr_1612851603430.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1"
+    ],
+    "displayType": 0,
+    "price": 8.95,
+    "priceText": "₺8,95",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "uno-tost-ekmegi-E6UvGzN526",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5f732abc256958314ff3e84d",
+    "name": "Uno Büyük Tost Ekmeği",
+    "shortName": "Uno Büyük Tost Ekmeği",
+    "shortDescription": "550 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5f732abc256958314ff3e84d_tr_1612851563923.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5f732abc256958314ff3e84d_tr_1612851563923.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1"
+    ],
+    "displayType": 0,
+    "price": 11.95,
+    "priceText": "₺11,95",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "uno-buyuk-tost-ekmegi-NzRDJiQi4m",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "606d6f00c0106cdd86ca9fb0",
+    "name": "Uno Gurme Sandviç Ekmeği",
+    "shortName": "Uno Gurme Sandviç Ekmeği",
+    "shortDescription": "5'li",
+    "squareThumbnailURL": "http://cdn.getir.com/product/606d6f00c0106cdd86ca9fb0_tr_1617984317632.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/606d6f00c0106cdd86ca9fb0_tr_1617984317632.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16",
+      "551430043427d5010a3a5c5e"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1",
+      "6045d82a2769513d995bad44"
+    ],
+    "displayType": 0,
+    "price": 15.75,
+    "priceText": "₺15,75",
+    "count": 0,
+    "struckPrice": 17.5,
+    "struckPriceText": "₺17,50",
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "uno-gurme-sandvic-ekmegi-no3x1hq6tn",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5c879a40fad88f0001da1f30",
+    "name": "Uno Premium Çok Tahıllı Ekmek",
+    "shortName": "Uno Çok Tahıllı Ekmek",
+    "shortDescription": "350 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5c879a40fad88f0001da1f30_tr_1614777137232.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5c879a40fad88f0001da1f30_tr_1614777137232.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1"
+    ],
+    "displayType": 0,
+    "price": 13.5,
+    "priceText": "₺13,50",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "uno-premium-cok-tahilli-ekmek-W6ReeHuHf9",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5c879a671f5acb000125e774",
+    "name": "Uno Premium Çavdarlı ve Karabuğdaylı Ekmek",
+    "shortName": "Uno Çavdarlı Ekmek",
+    "shortDescription": "350 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5c879a671f5acb000125e774_tr_1614777105648.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5c879a671f5acb000125e774_tr_1614777105648.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1"
+    ],
+    "displayType": 0,
+    "price": 13.5,
+    "priceText": "₺13,50",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "uno-premium-cavdarli-ve-karabugdayli-ekmek-LDSNGPuGHq",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5c879b051f5acb000125e810",
+    "name": "Uno Denge Tam Buğdaylı & Çiya Tohumlu Ekmek",
+    "shortName": "Uno Tam Buğdaylı Ekmek",
+    "shortDescription": "350 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5c879b051f5acb000125e810_tr_1614777004377.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5c879b051f5acb000125e810_tr_1614777004377.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1"
+    ],
+    "displayType": 0,
+    "price": 13.95,
+    "priceText": "₺13,95",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "uno-denge-tam-bugdayli-ciya-tohumlu-ekmek-7t9T4ZCttB",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5f15aeb172e36bef2e87a0cb",
+    "name": "Uno 2 Kat Lifli Tava Ekmeği",
+    "shortName": "Uno Lifli Tava Ekmeği",
+    "shortDescription": "520 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5f15aeb172e36bef2e87a0cb_tr_1612851686737.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5f15aeb172e36bef2e87a0cb_tr_1612851686737.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1"
+    ],
+    "displayType": 0,
+    "price": 14.95,
+    "priceText": "₺14,95",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "uno-2-kat-lifli-tava-ekmegi-SgJeInUBeJ",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5df8e9644e8f3764d266adb7",
+    "name": "Uno Otantik Tam Buğday Unlu Tava Ekmeği Kavılca Buğdaylı",
+    "shortName": "Uno Tam Buğday Tava Ekmeği",
+    "shortDescription": "520 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5df8e9644e8f3764d266adb7_tr_1633689698486.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5df8e9644e8f3764d266adb7_tr_1633689698486.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1"
+    ],
+    "displayType": 0,
+    "price": 14.95,
+    "priceText": "₺14,95",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "uno-tam-bugday-unlu-tava-ekmegi-PpMQ4XarHi",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5c910ffe912940000180e003",
+    "name": "Uno Otantik Tava Ekmeği",
+    "shortName": "Uno Otantik Tava Ekmeği",
+    "shortDescription": "550 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5c910ffe912940000180e003_tr_1612851779524.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5c910ffe912940000180e003_tr_1612851779524.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1"
+    ],
+    "displayType": 0,
+    "price": 15.5,
+    "priceText": "₺15,50",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "uno-otantik-tava-ekmegi-YJFqn6GXD5",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5f15852382787fcd8bd382e7",
+    "name": "Uno Ballı Yulaflı Propolisli Ekmek",
+    "shortName": "Uno Ballı Yulaflı Ekmek",
+    "shortDescription": "520 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5f15852382787fcd8bd382e7_tr_1638966331624.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5f15852382787fcd8bd382e7_tr_1638966331624.jpeg",
+      "http://cdn.getir.com/product/5f15852382787fcd8bd382e7_tr_1597650225272.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16",
+      "5fd8a40cbb487c5a816f9f03",
+      "5fd8c58f3bdc2389a56e0fb0"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1",
+      "5fd8aac5be5be9ef2b597385",
+      "5fd90098dbbeb8ba7a12ff11"
+    ],
+    "displayType": 0,
+    "price": 17.95,
+    "priceText": "₺17,95",
+    "count": 0,
+    "struckPrice": 19.95,
+    "struckPriceText": "₺19,95",
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "uno-balli-yulafli-propolisli-ekmek-3tXNItAsVg",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5ab2bbd5115f700004662372",
+    "name": "Uno Fırından Tam Buğday Ekmeği",
+    "shortName": "Uno Tam Buğday Ekmeği",
+    "shortDescription": "450 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5ab2bbd5115f700004662372_tr_1582528207959.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5ab2bbd5115f700004662372_tr_1582528207959.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1"
+    ],
+    "displayType": 0,
+    "price": 13.5,
+    "priceText": "₺13,50",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "uno-firindan-tam-bugday-ekmegi-lFlmYx80vo",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5fb37363d1ddff6efadf7fb2",
+    "name": "Uno Ekşi Mayalı Tam Buğday Ekmeği",
+    "shortName": "Uno Ekşi Mayalı Ekmek",
+    "shortDescription": "450 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5fb37363d1ddff6efadf7fb2_tr_1605627023580.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5fb37363d1ddff6efadf7fb2_tr_1605627023580.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1"
+    ],
+    "displayType": 0,
+    "price": 13.5,
+    "priceText": "₺13,50",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "uno-eksi-mayali-tam-bugday-ekmegi-G6nRGygPVd",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "606d6d60b3bcefa3856033ae",
+    "name": "Uno Gurme Hamburger Ekmeği",
+    "shortName": "Uno Gurme Hamburger Ekmeği",
+    "shortDescription": "4'lü",
+    "squareThumbnailURL": "http://cdn.getir.com/product/606d6d60b3bcefa3856033ae_tr_1618238365841.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/606d6d60b3bcefa3856033ae_tr_1618238365841.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16",
+      "551430043427d5010a3a5c5e"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1",
+      "6045d82a2769513d995bad44"
+    ],
+    "displayType": 0,
+    "price": 16.45,
+    "priceText": "₺16,45",
+    "count": 0,
+    "struckPrice": 18.5,
+    "struckPriceText": "₺18,50",
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "uno-gurme-hamburger-ekmegi-xprt9dlh3Y",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5ab3856d008f3b0004eeeea3",
+    "name": "Uno Susamlı Hamburger Ekmeği",
+    "shortName": "Uno Hamburger Ekmeği",
+    "shortDescription": "6'lı",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5ab3856d008f3b0004eeeea3.jpeg?v=1521732211236",
+    "picURLs": [
+      "http://cdn.getir.com/product/5ab3856d008f3b0004eeeea3.jpeg?v=1521732211236"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1"
+    ],
+    "displayType": 0,
+    "price": 17.5,
+    "priceText": "₺17,50",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "uno-susamli-hamburger-ekmegi-7blwoNUPMk",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5e3180c9ebb3a7e97fae5d99",
+    "name": "Uno Sandviç Ekmeği",
+    "shortName": "Uno Sandviç Ekmeği",
+    "shortDescription": "5'li",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5e3180c9ebb3a7e97fae5d99_tr_1580382191977.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5e3180c9ebb3a7e97fae5d99_tr_1580382191977.jpeg",
+      "http://cdn.getir.com/product/5e3180c9ebb3a7e97fae5d99_tr_1580382212654.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1"
+    ],
+    "displayType": 0,
+    "price": 11.75,
+    "priceText": "₺11,75",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "uno-sandvic-ekmegi-BJlzxT3zhv",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5d7769bbaa900c0001ac7ad9",
+    "name": "Uno Tam Buğdaylı Sandviç Ekmeği",
+    "shortName": "Uno Buğdaylı Sandviç Ekmeği",
+    "shortDescription": "5'li",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5d7769bbaa900c0001ac7ad9_tr_1568111683140.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5d7769bbaa900c0001ac7ad9_tr_1568111683140.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16",
+      "551430043427d5010a3a5c5e"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1",
+      "6045d82a2769513d995bad44"
+    ],
+    "displayType": 0,
+    "price": 10.75,
+    "priceText": "₺10,75",
+    "count": 0,
+    "struckPrice": 11.95,
+    "struckPriceText": "₺11,95",
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "uno-tam-bugdayli-sandvic-ekmegi-4mbw4eEzcH",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "584e88a358258d0004d88e10",
+    "name": "Uno Geleneksel Lavaş",
+    "shortName": "Uno Lavaş",
+    "shortDescription": "8'li",
+    "squareThumbnailURL": "http://cdn.getir.com/product/584e88a358258d0004d88e10.jpeg?v=1521732151049",
+    "picURLs": [
+      "http://cdn.getir.com/product/584e88a358258d0004d88e10.jpeg?v=1521732151049"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16",
+      "5d01535e7730a800019b09cf"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1",
+      "60bdf137d45dcd763664a38d"
+    ],
+    "displayType": 0,
+    "price": 17.95,
+    "priceText": "₺17,95",
+    "count": 0,
+    "struckPrice": 20.5,
+    "struckPriceText": "₺20,50",
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "uno-geleneksel-lavas-XbDpLYztK0",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "60ee99ac569571643e9e2a9a",
+    "name": "Uno Geleneksel Lavaş",
+    "shortName": "Uno Lavaş",
+    "shortDescription": "12'li",
+    "squareThumbnailURL": "http://cdn.getir.com/product/60ee99ac569571643e9e2a9a_tr_1626273016576.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/60ee99ac569571643e9e2a9a_tr_1626273016576.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16",
+      "5d01535e7730a800019b09cf"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1",
+      "60bdf137d45dcd763664a38d"
+    ],
+    "displayType": 0,
+    "price": 15.45,
+    "priceText": "₺15,45",
+    "count": 0,
+    "struckPrice": 17.5,
+    "struckPriceText": "₺17,50",
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "geleneksel-lavas-15-cm-5ojqu8vh81",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "60ee93d7b9d3e963eeb44fab",
+    "name": "Uno Tandır Lavaş",
+    "shortName": "Uno Tandır Lavaş",
+    "shortDescription": "8'li",
+    "squareThumbnailURL": "http://cdn.getir.com/product/60ee93d7b9d3e963eeb44fab_tr_1626417707427.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/60ee93d7b9d3e963eeb44fab_tr_1626417707427.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16",
+      "5d01535e7730a800019b09cf"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1",
+      "60bdf137d45dcd763664a38d"
+    ],
+    "displayType": 0,
+    "price": 17.95,
+    "priceText": "₺17,95",
+    "count": 0,
+    "struckPrice": 20.5,
+    "struckPriceText": "₺20,50",
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "tandir-lavas-8-li-gycvwfaol0",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5f354a7b63ba6182a636005d",
+    "name": "Eti Etimek Klasik Kızarmış Ekmek",
+    "shortName": "Eti Etimek Klasik Kızarmış Ekmek",
+    "shortDescription": "143 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5f354a7b63ba6182a636005d_tr_1597750781420.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5f354a7b63ba6182a636005d_tr_1597750781420.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16",
+      "56dfe03cf82055030022cdc0"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1",
+      "574eaea86221370300370742"
+    ],
+    "displayType": 0,
+    "price": 6.15,
+    "priceText": "₺6,15",
+    "count": 0,
+    "struckPrice": 7.7,
+    "struckPriceText": "₺7,70",
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "etimek-klasik-dVf9tkfG48",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5ca77c6d1cfedd000166d6e2",
+    "name": "Wasa Fibre Lifli Gevrek Ekmek",
+    "shortName": "Wasa Fibre Lifli Gevrek",
+    "shortDescription": "230 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5ca77c6d1cfedd000166d6e2_tr_1609395123270.png",
+    "picURLs": [
+      "http://cdn.getir.com/product/5ca77c6d1cfedd000166d6e2_tr_1609395123270.png",
+      "http://cdn.getir.com/product/5ca77c6d1cfedd000166d6e2_tr_1578658806963.jpeg"
+    ],
+    "categoryIds": [
+      "57e2996551f3ee030027e28b",
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "5834245fc603d300041b3bdb",
+      "566edfa4f9facb0f00b1c4a1"
+    ],
+    "displayType": 0,
+    "price": 25.5,
+    "priceText": "₺25,50",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "wasa-fibre-lifli-gevrek-ekmek-7EHSw8kUtl",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5f61e65ba4c9535f0ad537f3",
+    "name": "Uno Grissuno Denge Tam Buğdaylı ve Çiya Tohumlu",
+    "shortName": "Uno Grissuno Buğdaylı ve Çiyalı",
+    "shortDescription": "150 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5f61e65ba4c9535f0ad537f3_tr_1631524530272.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5f61e65ba4c9535f0ad537f3_tr_1631524530272.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16",
+      "5fd8a40cbb487c5a816f9f03",
+      "5fd8c58f3bdc2389a56e0fb0"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1",
+      "5fd8aac5be5be9ef2b597385",
+      "5fd90098dbbeb8ba7a12ff11"
+    ],
+    "displayType": 0,
+    "price": 14.95,
+    "priceText": "₺14,95",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "uno-grissuno-denge-tam-bugdayli-ve-ciya-tohumlu-9gD0TbSDUl",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5dc2c7ee2319bf1aeb1f9cbf",
+    "name": "Gourmet Garage Fesleğenli Biberiyeli Grissini",
+    "shortName": "Fesleğenli Grissini",
+    "shortDescription": "150 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5dc2c7ee2319bf1aeb1f9cbf_tr_1577363713585.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5dc2c7ee2319bf1aeb1f9cbf_tr_1577363713585.jpeg",
+      "http://cdn.getir.com/product/5dc2c7ee2319bf1aeb1f9cbf_tr_1575034244445.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1"
+    ],
+    "displayType": 0,
+    "price": 17.5,
+    "priceText": "₺17,50",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "gourmet-garage-feslegenli-biberiyeli-grissini-NhwZ0HIC8b",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5e329343daaa4aef710ca1b0",
+    "name": "Gourmet Garage Sade Grissini",
+    "shortName": "Sade Grissini",
+    "shortDescription": "150 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5e329343daaa4aef710ca1b0_tr_1583159735570.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5e329343daaa4aef710ca1b0_tr_1583159735570.jpeg",
+      "http://cdn.getir.com/product/5e329343daaa4aef710ca1b0_tr_1583159749101.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16",
+      "56dfe03cf82055030022cdc0"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1",
+      "574eaea86221370300370742"
+    ],
+    "displayType": 0,
+    "price": 17.5,
+    "priceText": "₺17,50",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "gourmet-garage-sade-grissini-qCx3Mw69n5",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5e32af3d5b780b3741a8ad87",
+    "name": "Gourmet Garage Baton Sale",
+    "shortName": "Baton Sale",
+    "shortDescription": "150 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5e32af3d5b780b3741a8ad87_tr_1604258307429.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5e32af3d5b780b3741a8ad87_tr_1604258307429.jpeg",
+      "http://cdn.getir.com/product/5e32af3d5b780b3741a8ad87_tr_1583159996498.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16",
+      "56dfe03cf82055030022cdc0"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1",
+      "574eaea86221370300370742"
+    ],
+    "displayType": 0,
+    "price": 20.5,
+    "priceText": "₺20,50",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "gourmet-garage-baton-sale-qc3LLdmjoe",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5dc2bfc74cbb77507c1d80d4",
+    "name": "Gourmet Garage Ay Çekirdekli Kesme Galeta",
+    "shortName": "Ay Çekirdekli Kesme Galeta",
+    "shortDescription": "200 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5dc2bfc74cbb77507c1d80d4_tr_1614085719896.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5dc2bfc74cbb77507c1d80d4_tr_1614085719896.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16",
+      "56dfe03cf82055030022cdc0"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1",
+      "574eaea86221370300370742"
+    ],
+    "displayType": 0,
+    "price": 22.5,
+    "priceText": "₺22,50",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "gourmet-garage-ay-cekirdekli-kesme-galeta-jvd8Y0BNrI",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5edfb7673258f61b9f127230",
+    "name": "Uno Mozaik Kek",
+    "shortName": "Uno Mozaik Kek",
+    "shortDescription": "80 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5edfb7673258f61b9f127230_tr_1602361004755.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5edfb7673258f61b9f127230_tr_1602361004755.jpeg",
+      "http://cdn.getir.com/product/5edfb7673258f61b9f127230_tr_1592552676946.jpeg",
+      "http://cdn.getir.com/product/5edfb7673258f61b9f127230_a8c025ab-39e8-49d3-9263-2f807061bda5.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1"
+    ],
+    "displayType": 0,
+    "price": 9.95,
+    "priceText": "₺9,95",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "uno-mozaik-kek-hy5YRdRDQk",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5e319c8270fce70aa14f239c",
+    "name": "Uno Limonlu Mini Kek Madeleine",
+    "shortName": "Uno Limonlu Mini Kek",
+    "shortDescription": "150 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5e319c8270fce70aa14f239c_tr_1609124574040.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5e319c8270fce70aa14f239c_tr_1609124574040.jpeg",
+      "http://cdn.getir.com/product/5e319c8270fce70aa14f239c_tr_1580380635231.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16",
+      "56dfe03cf82055030022cdc0"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1",
+      "574e8eab622137030036f571"
+    ],
+    "displayType": 0,
+    "price": 14.95,
+    "priceText": "₺14,95",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "uno-limonlu-mini-kek-madeleine-diDWuBetZz",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "606d704a8ef652ac67c10ce4",
+    "name": "Uno Kakaolu Dilim Kek",
+    "shortName": "Uno Kakaolu Dilim Kek",
+    "shortDescription": "8 x 25 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/606d704a8ef652ac67c10ce4_tr_1626417652524.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/606d704a8ef652ac67c10ce4_tr_1626417652524.jpeg",
+      "http://cdn.getir.com/product/606d704a8ef652ac67c10ce4_dfbc1e2c-6edb-45bd-875b-8a491015ba9d.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16",
+      "56dfe03cf82055030022cdc0"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1",
+      "5ffb4843b861c85480fcdac7",
+      "6045f7749dea0a76463e3c84"
+    ],
+    "displayType": 0,
+    "price": 17.45,
+    "priceText": "₺17,45",
+    "count": 0,
+    "struckPrice": 19.95,
+    "struckPriceText": "₺19,95",
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "uno-kakaolu-dilim-kek-H8ZPYJbjwl",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5dc2bd51cae22739de6e1e3b",
+    "name": "Gourmet Garage Ayçekirdekli Tuzlu Kurabiye",
+    "shortName": "Ayçekirdekli Tuzlu Kurabiye",
+    "shortDescription": "200 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5dc2bd51cae22739de6e1e3b_0f901ab8-0ed4-473d-85b7-2355bc909f9f.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5dc2bd51cae22739de6e1e3b_0f901ab8-0ed4-473d-85b7-2355bc909f9f.jpeg",
+      "http://cdn.getir.com/product/5dc2bd51cae22739de6e1e3b_0ce6cdb1-ff03-4cc4-bc5b-1612ebc2ed01.jpeg",
+      "http://cdn.getir.com/product/5dc2bd51cae22739de6e1e3b_dbc4268c-e144-41ba-bacb-89159eb00b6c.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16",
+      "56dfe03cf82055030022cdc0"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1",
+      "574eaea86221370300370742"
+    ],
+    "displayType": 0,
+    "price": 23.5,
+    "priceText": "₺23,50",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "gourmet-garage-aycekirdekli-tuzlu-kurabiye-TTewo5mAxq",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5dc2ba924cbb77918d1d77ca",
+    "name": "Gourmet Garage Tahinli Cevizli Kurabiye",
+    "shortName": "Tahinli Cevizli Kurabiye",
+    "shortDescription": "250 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5dc2ba924cbb77918d1d77ca_9aba86de-a7ed-48d2-831d-cd94536327bf.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5dc2ba924cbb77918d1d77ca_9aba86de-a7ed-48d2-831d-cd94536327bf.jpeg",
+      "http://cdn.getir.com/product/5dc2ba924cbb77918d1d77ca_6ed3e958-9885-41ee-ad53-60648ce14721.jpeg",
+      "http://cdn.getir.com/product/5dc2ba924cbb77918d1d77ca_aeaa9618-26ae-4024-9de5-e03b71b90624.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16",
+      "56dfe03cf82055030022cdc0"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1",
+      "574eaea86221370300370742"
+    ],
+    "displayType": 0,
+    "price": 29.9,
+    "priceText": "₺29,90",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "gourmet-garage-tahinli-cevizli-kurabiye-sROS1bGL5S",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5e32b2d11da0a76a79b01a1c",
+    "name": "Gourmet Garage Çiku Çikolata Bombası",
+    "shortName": "Çiku Çikolata Bombası",
+    "shortDescription": "350 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5e32b2d11da0a76a79b01a1c_tr_1627655652360.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5e32b2d11da0a76a79b01a1c_tr_1627655652360.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16",
+      "56dfe03cf82055030022cdc0",
+      "5fd8a40cbb487c5a816f9f03"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1",
+      "574eaea86221370300370742",
+      "5fd8aac5be5be9ef2b597385"
+    ],
+    "displayType": 0,
+    "price": 39.9,
+    "priceText": "₺39,90",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "gourmet-garage-ciku-cikolata-bombasi-E67OdfcGBw",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "584e88d458258d0004d88e31",
+    "name": "Uno Kakaolu Pastaban 2 Katlı",
+    "shortName": "Uno Kakaolu Pastaban",
+    "shortDescription": "250 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/584e88d458258d0004d88e31_tr_1608276867394.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/584e88d458258d0004d88e31_tr_1608276867394.jpeg"
+    ],
+    "categoryIds": [
+      "566eeb85f9facb0f00b1cb16",
+      "56dfcfba86004203000a870d"
+    ],
+    "subCategoryIds": [
+      "566edfa4f9facb0f00b1c4a1",
+      "5af1c60886fbaa0004941493"
+    ],
+    "displayType": 0,
+    "price": 16.95,
+    "priceText": "₺16,95",
+    "count": 0,
+    "struckPrice": 18.95,
+    "struckPriceText": "₺18,95",
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "uno-kakaolu-pastaban-2-katli-vmfS6vAken",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
   }
 ]
