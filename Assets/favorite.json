@@ -17,6 +17,882 @@
     "squareThumbnailURL": "https://cdn.getir.com/product/60018c5bca2126d84459c47f_tr_1610788125046.jpeg"
   },
   {
+    "id": "61a494012a29522416361a8b",
+    "name": "Leva Yılbaşı Eko Tombala",
+    "shortName": "Eko Tombala",
+    "shortDescription": "1 Ürün",
+    "squareThumbnailURL": "http://cdn.getir.com/product/61a494012a29522416361a8b_tr_1638370647677.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/61a494012a29522416361a8b_tr_1638370647677.jpeg",
+      "http://cdn.getir.com/product/61a494012a29522416361a8b_a63c313f-7854-4c1d-833b-ad474fcebb12.jpeg"
+    ],
+    "categoryIds": [
+      "5697c78dc181490f00c99fea",
+      "5b06b056b883b700044e3e4c",
+      "61b9ed091a62a71f128e1fec"
+    ],
+    "subCategoryIds": [
+      "5a14017dad8d270004d1f2bb",
+      "5c13b092196519001262c746",
+      "61bc3ceca4be6c6404711c05"
+    ],
+    "displayType": 0,
+    "price": 8.95,
+    "priceText": "₺8,95",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "leva-yilbasi-tombala-eko-rupf7lkmpj",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "6197b3fd9fe5564de86da251",
+    "name": "Eko Tombala",
+    "shortName": "Eko Tombala",
+    "shortDescription": "1 Ürün",
+    "squareThumbnailURL": "http://cdn.getir.com/product/6197b3fd9fe5564de86da251_tr_1638371090655.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/6197b3fd9fe5564de86da251_tr_1638371090655.jpeg"
+    ],
+    "categoryIds": [
+      "5697c78dc181490f00c99fea",
+      "5b06b056b883b700044e3e4c",
+      "61b9ed091a62a71f128e1fec"
+    ],
+    "subCategoryIds": [
+      "5a14017dad8d270004d1f2bb",
+      "5c13b092196519001262c746",
+      "61bc3ceca4be6c6404711c05"
+    ],
+    "displayType": 0,
+    "price": 12.95,
+    "priceText": "₺12,95",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "ks-games-eko-tombala-gllimz86um",
+    "badgeImages": [
+      {
+        "picUrl": "http://cdn.getir.com/product/61bb15219dc588933c49680f_4bdd3493-8a73-4830-b9c6-658da157d69f.png",
+        "position": "topLeft"
+      }
+    ],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "615ee2304565acec180de197",
+    "name": "Golf Bravo Karadut Belçika Çikolatalı",
+    "shortName": "Golf Bravo Karadut",
+    "shortDescription": "100 ml",
+    "squareThumbnailURL": "http://cdn.getir.com/product/615ee2304565acec180de197_tr_1633933985739.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/615ee2304565acec180de197_tr_1633933985739.jpeg"
+    ],
+    "categoryIds": ["5697c78dc181490f00c99fea", "55bca8484dcda90c00e3aa80"],
+    "subCategoryIds": ["5a14017dad8d270004d1f2bb", "5fbcd17a9b964c3e063b192a"],
+    "displayType": 0,
+    "price": 10,
+    "priceText": "₺10,00",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "bravo-karadut-100-ml-bel-cik-59601-wajcto3q9h",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "61a63ba0f9dba5d1a65bb568",
+    "name": "Diana Dikiş",
+    "shortName": "Diana Dikiş",
+    "squareThumbnailURL": "http://cdn.getir.com/product/61a63ba0f9dba5d1a65bb568_tr_1638448307027.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/61a63ba0f9dba5d1a65bb568_tr_1638448307027.jpeg"
+    ],
+    "categoryIds": ["5b06b056b883b700044e3e4c", "5697c78dc181490f00c99fea"],
+    "subCategoryIds": ["5b06b0d7d5bff90004618fcc", "5a14017dad8d270004d1f2bb"],
+    "displayType": 0,
+    "price": 15,
+    "priceText": "₺15,00",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "diana-dikis-jv97qmh9r2",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "61b04e3e9a30483f120173f3",
+    "name": "Resimli Bilmece Bulmaca",
+    "shortName": "Resimli Bilmece Bulmaca",
+    "squareThumbnailURL": "http://cdn.getir.com/product/61b04e3e9a30483f120173f3_tr_1639033868112.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/61b04e3e9a30483f120173f3_tr_1639033868112.jpeg"
+    ],
+    "categoryIds": ["5b06b056b883b700044e3e4c", "5697c78dc181490f00c99fea"],
+    "subCategoryIds": ["5b06b0d7d5bff90004618fcc", "5a14017dad8d270004d1f2bb"],
+    "displayType": 0,
+    "price": 12.9,
+    "priceText": "₺12,90",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "resimli-bilmece-bulmaca-uqzehouznr",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "61a875bda29a78ab8edd250c",
+    "name": "Fersan Jalapeno Turşu",
+    "shortName": "Fersan Jalapeno Turşu",
+    "shortDescription": "360 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/61a875bda29a78ab8edd250c_tr_1638774928821.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/61a875bda29a78ab8edd250c_tr_1638774928821.jpeg"
+    ],
+    "categoryIds": ["551430043427d5010a3a5c5d", "5697c78dc181490f00c99fea"],
+    "subCategoryIds": ["564c7f1b27652f0c007456f7", "5a14017dad8d270004d1f2bb"],
+    "displayType": 0,
+    "price": 10.95,
+    "priceText": "₺10,95",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "fersan-jalapeno-tursu-glh6wopidd",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "61a5e7ca6417cd4fb0b5bc80",
+    "name": "Beemedic Peluş Sıcak Su Torbası \"Hello Cactus\"",
+    "shortName": "Sıcak Su Torbası",
+    "shortDescription": "2 L",
+    "squareThumbnailURL": "http://cdn.getir.com/product/61a5e7ca6417cd4fb0b5bc80_tr_1638774015737.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/61a5e7ca6417cd4fb0b5bc80_tr_1638774015737.jpeg"
+    ],
+    "categoryIds": [
+      "5b06b056b883b700044e3e4c",
+      "551430043427d5010a3a5c5c",
+      "5697c78dc181490f00c99fea"
+    ],
+    "subCategoryIds": [
+      "5b06b381b883b700044e41fc",
+      "5cfe796dbb6504000119d993",
+      "5a14017dad8d270004d1f2bb"
+    ],
+    "displayType": 0,
+    "price": 54.9,
+    "priceText": "₺54,90",
+    "count": 0,
+    "struckPrice": 69.9,
+    "struckPriceText": "₺69,90",
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "beemedic-pelus-su-torbasi-2lt-hello-cactus-iimvqrltrv",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "61a49827894a7d5b83aab5de",
+    "name": "Colgate & Palmolive Paketi",
+    "shortName": "Colgate & Palmolive Paketi",
+    "shortDescription": "2 Ürün",
+    "squareThumbnailURL": "http://cdn.getir.com/product/61a49827894a7d5b83aab5de_tr_1638270704448.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/61a49827894a7d5b83aab5de_tr_1638270704448.jpeg"
+    ],
+    "categoryIds": ["551430043427d5010a3a5c5c", "5697c78dc181490f00c99fea"],
+    "subCategoryIds": [
+      "564c6741d35e7d0c002bd250",
+      "56e011278d5ef803003988f2",
+      "5a14017dad8d270004d1f2bb"
+    ],
+    "displayType": 0,
+    "price": 35.9,
+    "priceText": "₺35,90",
+    "count": 0,
+    "struckPrice": 59.9,
+    "struckPriceText": "₺59,90",
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "colgate-optic-white-aktif-komur-dis-macunu-50-ml-palmolive-aroma-sensations-so-relaxed-banyo-ve-dus-jeli-250-ml-ygomtjxest",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "619de330a9030d3631b7080f",
+    "name": "Eriş Un",
+    "shortName": "Eriş Un",
+    "shortDescription": "1 kg",
+    "squareThumbnailURL": "http://cdn.getir.com/product/619de330a9030d3631b7080f_tr_1638435275377.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/619de330a9030d3631b7080f_tr_1638435275377.jpeg"
+    ],
+    "categoryIds": ["56dfcfba86004203000a870d", "5697c78dc181490f00c99fea"],
+    "subCategoryIds": ["5e3a6ae86e48c150cfdab57c", "5a14017dad8d270004d1f2bb"],
+    "displayType": 0,
+    "price": 12.95,
+    "priceText": "₺12,95",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "eris-un-okgjy6dxzq",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "619de40309e9a420c9441366",
+    "name": "Eriş Un",
+    "shortName": "Eriş Un",
+    "shortDescription": "2 kg",
+    "squareThumbnailURL": "http://cdn.getir.com/product/619de40309e9a420c9441366_tr_1638434905556.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/619de40309e9a420c9441366_tr_1638434905556.jpeg"
+    ],
+    "categoryIds": ["56dfcfba86004203000a870d", "5697c78dc181490f00c99fea"],
+    "subCategoryIds": ["5e3a6ae86e48c150cfdab57c", "5a14017dad8d270004d1f2bb"],
+    "displayType": 0,
+    "price": 23.95,
+    "priceText": "₺23,95",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "eris-un-pjhdmemtam",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "5bb712034e5d2e001e91239a",
+    "name": "Vanish Kosla Gold Oxi Action Sıvı Leke Çıkarıcı",
+    "shortName": "Vanish Kosla Gold Sıvı",
+    "shortDescription": "1 L",
+    "squareThumbnailURL": "http://cdn.getir.com/product/5bb712034e5d2e001e91239a_tr_1636009077540.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/5bb712034e5d2e001e91239a_tr_1636009077540.jpeg"
+    ],
+    "categoryIds": ["5697c78dc181490f00c99fea", "55449fdf02632e11003c2da8"],
+    "subCategoryIds": ["5a14017dad8d270004d1f2bb", "564c6a2dd35e7d0c002bd6d6"],
+    "displayType": 0,
+    "price": 34.99,
+    "priceText": "₺34,99",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "vanish-kosla-gold-oxi-action-sivi-leke-cikarici-4FTHLHmKmu",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "61965936fb5ba867a32b7afa",
+    "name": "Colgate Üçlü Etki Diş Macunu",
+    "shortName": "Colgate Üçlü Etki",
+    "shortDescription": "125 ml",
+    "squareThumbnailURL": "http://cdn.getir.com/product/61965936fb5ba867a32b7afa_23702851-6723-4863-bf6a-a858615b57d8.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/61965936fb5ba867a32b7afa_23702851-6723-4863-bf6a-a858615b57d8.jpeg",
+      "http://cdn.getir.com/product/61965936fb5ba867a32b7afa_9ab41544-5c86-4ad5-abe6-6288f629efea.jpeg"
+    ],
+    "categoryIds": ["551430043427d5010a3a5c5c", "5697c78dc181490f00c99fea"],
+    "subCategoryIds": ["564c6741d35e7d0c002bd250", "5a14017dad8d270004d1f2bb"],
+    "displayType": 0,
+    "price": 18.25,
+    "priceText": "₺18,25",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "colgate-uclu-etki-dis-macunu-125-ml-zbmzvdkrvp",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "6194b30eab365c5ff9c57040",
+    "name": "Clear Men Cool Sport Mentollü Şampuan",
+    "shortName": "Clear Men Cool Sport Şampuan",
+    "shortDescription": "485 ml",
+    "squareThumbnailURL": "http://cdn.getir.com/product/6194b30eab365c5ff9c57040_ead24c4a-9874-4a22-ab50-1b92badc01a5.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/6194b30eab365c5ff9c57040_ead24c4a-9874-4a22-ab50-1b92badc01a5.jpeg",
+      "http://cdn.getir.com/product/6194b30eab365c5ff9c57040_3889dc33-150e-468e-b86b-b6f48121b3f1.jpeg"
+    ],
+    "categoryIds": ["551430043427d5010a3a5c5c", "5697c78dc181490f00c99fea"],
+    "subCategoryIds": ["5a5e9f47c3949e0004b31823", "5a14017dad8d270004d1f2bb"],
+    "displayType": 0,
+    "price": 33.9,
+    "priceText": "₺33,90",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "clear-men-cool-sport-mentollu-sampuan-485-ml-y7zxnke2gr",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "618e3e9fc3866c5de04ce01d",
+    "name": "Golden Star A4 Fotokopi Kağıdı",
+    "shortName": "Golden Star Fotokopi Kağıdı",
+    "shortDescription": "500 Sayfa",
+    "squareThumbnailURL": "http://cdn.getir.com/product/618e3e9fc3866c5de04ce01d_tr_1637225038979.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/618e3e9fc3866c5de04ce01d_tr_1637225038979.jpeg",
+      "http://cdn.getir.com/product/618e3e9fc3866c5de04ce01d_5fcf81f0-e311-4ec3-a663-1a8fc94273f4.jpeg"
+    ],
+    "categoryIds": ["5b06b056b883b700044e3e4c", "5697c78dc181490f00c99fea"],
+    "subCategoryIds": ["5b06b1f9b883b700044e4045", "5a14017dad8d270004d1f2bb"],
+    "displayType": 0,
+    "price": 79.9,
+    "priceText": "₺79,90",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "goldenstar-a4-fotokopi-kagidi-80gr-objrfgbtbn",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "61826c9dffaae51ce0c39d8f",
+    "name": "Penti Fit 15 Pantolon Çorabı Siyah Renk",
+    "shortName": "Penti Pantolon Çorabı 15 Den",
+    "shortDescription": "Beden: Standart",
+    "squareThumbnailURL": "http://cdn.getir.com/product/61826c9dffaae51ce0c39d8f_tr_1636104352670.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/61826c9dffaae51ce0c39d8f_tr_1636104352670.jpeg"
+    ],
+    "categoryIds": [
+      "5697c78dc181490f00c99fea",
+      "551430043427d5010a3a5c5f",
+      "5b06b056b883b700044e3e4c"
+    ],
+    "subCategoryIds": [
+      "5a14017dad8d270004d1f2bb",
+      "56e013e08d5ef80300398aaf",
+      "61a790876da4e657199d3860"
+    ],
+    "displayType": 0,
+    "price": 7.95,
+    "priceText": "₺7,95",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "penti-fit-15-pantolon-corabi-siyah-renk-standart-beden-suhzfqc0zg",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "61826d7b0512a4ad3c35f6dc",
+    "name": "Penti Fit 15 Soket Çorap Ten Rengi",
+    "shortName": "Penti Fit Soket Çorap",
+    "shortDescription": "Beden: Standart",
+    "squareThumbnailURL": "http://cdn.getir.com/product/61826d7b0512a4ad3c35f6dc_tr_1636104254324.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/61826d7b0512a4ad3c35f6dc_tr_1636104254324.jpeg"
+    ],
+    "categoryIds": [
+      "5697c78dc181490f00c99fea",
+      "551430043427d5010a3a5c5f",
+      "5b06b056b883b700044e3e4c"
+    ],
+    "subCategoryIds": [
+      "5a14017dad8d270004d1f2bb",
+      "56e013e08d5ef80300398aaf",
+      "61a790876da4e657199d3860"
+    ],
+    "displayType": 0,
+    "price": 5.95,
+    "priceText": "₺5,95",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "penti-fit-15-soket-corap-ten-rengi-standart-beden-3vcelncha9",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "61826a2ffbd5891f7bafdecd",
+    "name": "Penti Fit 15 Pantolon Çorabı Ten Rengi",
+    "shortName": "Penti Pantolon Çorabı 15 Den",
+    "shortDescription": "Beden: Standart",
+    "squareThumbnailURL": "http://cdn.getir.com/product/61826a2ffbd5891f7bafdecd_tr_1636104526136.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/61826a2ffbd5891f7bafdecd_tr_1636104526136.jpeg"
+    ],
+    "categoryIds": [
+      "5697c78dc181490f00c99fea",
+      "551430043427d5010a3a5c5f",
+      "5b06b056b883b700044e3e4c"
+    ],
+    "subCategoryIds": [
+      "5a14017dad8d270004d1f2bb",
+      "56e013e08d5ef80300398aaf",
+      "61a790876da4e657199d3860"
+    ],
+    "displayType": 0,
+    "price": 7.95,
+    "priceText": "₺7,95",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "penti-fit-15-pantolon-corabi-ten-rengi-standart-beden-ojhtpueqjl",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "617a463b4a0240c1aeecf663",
+    "name": "Arko Nem Soft Touch Bakım Kremi",
+    "shortName": "Arko Nem Soft Touch",
+    "shortDescription": "60 ml",
+    "squareThumbnailURL": "http://cdn.getir.com/product/617a463b4a0240c1aeecf663_tr_1635839358408.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/617a463b4a0240c1aeecf663_tr_1635839358408.jpeg"
+    ],
+    "categoryIds": ["551430043427d5010a3a5c5c", "5697c78dc181490f00c99fea"],
+    "subCategoryIds": ["56e0115adc83940300af3ee0", "5a14017dad8d270004d1f2bb"],
+    "displayType": 0,
+    "price": 15.95,
+    "priceText": "₺15,95",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "arko-nem-soft-touch-krem-60-ml-ldhfm08tyc",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "617816e10c795a5bb3dd9b45",
+    "name": "Sensodyne Hızlı Rahatlama Beyazlatıcı Diş Macunu",
+    "shortName": "Sensodyne Hızlı Rahatlama",
+    "shortDescription": "2 x 75 ml",
+    "squareThumbnailURL": "http://cdn.getir.com/product/617816e10c795a5bb3dd9b45_tr_1635779117515.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/617816e10c795a5bb3dd9b45_tr_1635779117515.jpeg"
+    ],
+    "categoryIds": ["551430043427d5010a3a5c5c", "5697c78dc181490f00c99fea"],
+    "subCategoryIds": ["564c6741d35e7d0c002bd250", "5a14017dad8d270004d1f2bb"],
+    "displayType": 0,
+    "price": 46.9,
+    "priceText": "₺46,90",
+    "count": 0,
+    "struckPrice": 87.8,
+    "struckPriceText": "₺87,80",
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "sensodyne-hizli-rahatlama-beyazlatici-2-x-75-ml-p1qx4vgud6",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "617a7376c9f5a8f25cc96162",
+    "name": "Activex Antibakteriyel Islak Mendil Aktif",
+    "shortName": "Activex Islak Mendil",
+    "shortDescription": "50 Yaprak",
+    "squareThumbnailURL": "http://cdn.getir.com/product/617a7376c9f5a8f25cc96162_tr_1635751265684.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/617a7376c9f5a8f25cc96162_tr_1635751265684.jpeg"
+    ],
+    "categoryIds": [
+      "55449fdf02632e11003c2da8",
+      "551430043427d5010a3a5c5c",
+      "5697c78dc181490f00c99fea"
+    ],
+    "subCategoryIds": [
+      "564dbab45854f10c00a9edb6",
+      "59f24af7beda820004122be0",
+      "5a14017dad8d270004d1f2bb"
+    ],
+    "displayType": 0,
+    "price": 15.55,
+    "priceText": "₺15,55",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "activex-antibakteriyel-islak-mendil-aktif-50-yaprak-7furanutxs",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "617a721336072e3b428726bd",
+    "name": "Activex Antibakteriyel Hassas Islak Mendil",
+    "shortName": "Activex Hassas Islak Mendil",
+    "shortDescription": "50 Yaprak",
+    "squareThumbnailURL": "http://cdn.getir.com/product/617a721336072e3b428726bd_tr_1635750975138.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/617a721336072e3b428726bd_tr_1635750975138.jpeg"
+    ],
+    "categoryIds": [
+      "55449fdf02632e11003c2da8",
+      "551430043427d5010a3a5c5c",
+      "5697c78dc181490f00c99fea"
+    ],
+    "subCategoryIds": [
+      "564dbab45854f10c00a9edb6",
+      "59f24af7beda820004122be0",
+      "5a14017dad8d270004d1f2bb"
+    ],
+    "displayType": 0,
+    "price": 15.55,
+    "priceText": "₺15,55",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "activex-antibakteriyel-islak-mendil-hassas-50-yaprak-a0bkeplu8e",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "617116cdb9c6a559e31f3a07",
+    "name": "Sensodyne Tam Koruma & Beyazlatıcı Diş Macunu",
+    "shortName": "Sensodyne Tam Koruma",
+    "shortDescription": "50 ml",
+    "squareThumbnailURL": "http://cdn.getir.com/product/617116cdb9c6a559e31f3a07_3118a5fa-58cf-45f5-9c93-e53aaebf4245.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/617116cdb9c6a559e31f3a07_3118a5fa-58cf-45f5-9c93-e53aaebf4245.jpeg",
+      "http://cdn.getir.com/product/617116cdb9c6a559e31f3a07_742a8401-edab-4d7d-8cb1-c503c0e784cf.jpeg"
+    ],
+    "categoryIds": ["551430043427d5010a3a5c5c", "5697c78dc181490f00c99fea"],
+    "subCategoryIds": ["564c6741d35e7d0c002bd250", "5a14017dad8d270004d1f2bb"],
+    "displayType": 0,
+    "price": 19.95,
+    "priceText": "₺19,95",
+    "count": 0,
+    "struckPrice": 24.9,
+    "struckPriceText": "₺24,90",
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "sensodyne-tam-koruma-beyazlatici-dis-macunu-50-ml-apapr2iq1p",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "615ee39c3f9c3313db7864e2",
+    "name": "Golf Maraşım Antep Fıstık Sade",
+    "shortName": "Golf Maraşım Fıstık Sade",
+    "shortDescription": "500 ml",
+    "squareThumbnailURL": "http://cdn.getir.com/product/615ee39c3f9c3313db7864e2_tr_1633706188832.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/615ee39c3f9c3313db7864e2_tr_1633706188832.jpeg"
+    ],
+    "categoryIds": ["55bca8484dcda90c00e3aa80", "5697c78dc181490f00c99fea"],
+    "subCategoryIds": ["5fbcd1beb1b8a2c673204b1f", "5a14017dad8d270004d1f2bb"],
+    "displayType": 0,
+    "price": 29.5,
+    "priceText": "₺29,50",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "marasim-antep-kaymak-0-5l-58894-gmgojhubn7",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "614adf7d976f260c81977356",
+    "name": "Magnum Double Karamel Gold La Casa De Papel",
+    "shortName": "Magnum Double Karamel Gold",
+    "shortDescription": "90 ml",
+    "squareThumbnailURL": "http://cdn.getir.com/product/614adf7d976f260c81977356_d2956a75-03b2-4a07-8e6a-264aa3380a0c.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/614adf7d976f260c81977356_d2956a75-03b2-4a07-8e6a-264aa3380a0c.jpeg",
+      "http://cdn.getir.com/product/614adf7d976f260c81977356_16db82a2-888b-4bbc-812e-f395f8816964.jpeg",
+      "http://cdn.getir.com/product/614adf7d976f260c81977356_567be5e2-a602-4e1a-a957-ea0831d1c42d.jpeg",
+      "http://cdn.getir.com/product/614adf7d976f260c81977356_1781d6b8-3214-4f9a-a78e-873f6fc7a5b0.jpeg"
+    ],
+    "categoryIds": ["55bca8484dcda90c00e3aa80", "5697c78dc181490f00c99fea"],
+    "subCategoryIds": ["5fbcd17a9b964c3e063b192a", "5a14017dad8d270004d1f2bb"],
+    "displayType": 0,
+    "price": 7.5,
+    "priceText": "₺7,50",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "magnum-dbl-crmel-gold-lcdp-20x90ml-68716705-ockmrsxxdr",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "619e3843202429bc443f16d6",
+    "name": "Nesfit Çikolatalı Fındıklı Bar",
+    "shortName": "Nesfit Çikolatalı Fındıklı",
+    "shortDescription": "23 g",
+    "squareThumbnailURL": "http://cdn.getir.com/product/619e3843202429bc443f16d6_tr_1640160192535.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/619e3843202429bc443f16d6_tr_1640160192535.jpeg"
+    ],
+    "categoryIds": [
+      "5697c78dc181490f00c99fea",
+      "57e2996551f3ee030027e28b",
+      "56dfe03cf82055030022cdc0"
+    ],
+    "subCategoryIds": [
+      "5a14017dad8d270004d1f2bb",
+      "5a620e7e20f56a000440397b",
+      "5c9cbc1722b1cc0001ae867f"
+    ],
+    "displayType": 0,
+    "price": 5.45,
+    "priceText": "₺5,45",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "nesfit-cikolatali-findikli-bar-23-g-c0dltccfvr",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "605bc32e2a22b6a1cc641c7f",
+    "name": "Air Wick Kokulu Çubuklar Okyanus Sesi",
+    "shortName": "Air Wick Okyanus Sesi",
+    "shortDescription": "30 ml",
+    "squareThumbnailURL": "http://cdn.getir.com/product/605bc32e2a22b6a1cc641c7f_tr_1622614132083.jpeg",
+    "picURLs": [
+      "http://cdn.getir.com/product/605bc32e2a22b6a1cc641c7f_tr_1622614132083.jpeg",
+      "http://cdn.getir.com/product/605bc32e2a22b6a1cc641c7f_10fd7642-cf62-4dd0-a2eb-84cf565bbab6.jpeg"
+    ],
+    "categoryIds": ["55449fdf02632e11003c2da8", "5697c78dc181490f00c99fea"],
+    "subCategoryIds": ["56e010208d5ef8030039885c", "5a14017dad8d270004d1f2bb"],
+    "displayType": 0,
+    "price": 44.9,
+    "priceText": "₺44,90",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "air-wick-kokulu-cubuklar-okyanus-sesi-kFgXYkRttY",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
     "id": "2",
     "count": 0,
     "price": 6.39,
