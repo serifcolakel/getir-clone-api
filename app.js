@@ -24,7 +24,7 @@ const teknoloji = require("./Assets/teknoloji.json");
 const temelgida = require("./Assets/temelgida.json");
 const yiyecek = require("./Assets/yiyecek.json");
 const campaings = require("./Assets/Campaings.json");
-
+const urunler = require("./Assets/Urunler.json");
 const bodyParser = require("body-parser");
 const cors = require("cors");
 
