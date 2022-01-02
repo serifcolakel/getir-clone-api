@@ -1,6 +1,6 @@
 [
   {
-    "id": 0,
+    "id": "0",
     "price": 2.95,
     "name": "Kuzeyden",
     "count": 0,
@@ -9,7 +9,7 @@
   },
 
   {
-    "id": 1,
+    "id": "1",
     "count": 0,
     "price": 5.9,
     "name": "Kızılay Erzincan",
@@ -17,7 +17,7 @@
     "squareThumbnailURL": "https://cdn.getir.com/product/60018c5bca2126d84459c47f_tr_1610788125046.jpeg"
   },
   {
-    "id": 2,
+    "id": "2",
     "count": 0,
     "price": 6.39,
     "name": "Lay's Mevsim Yeşillikli",
@@ -25,7 +25,7 @@
     "squareThumbnailURL": "https://cdn.getir.com/product/5bc97aabb137fb001d751ac7_tr_1609123518121.jpeg"
   },
   {
-    "id": 3,
+    "id": "3",
     "count": 0,
     "price": 2.85,
     "name": "Eti Canga",
@@ -33,7 +33,7 @@
     "squareThumbnailURL": "https://cdn.getir.com/product/5f3538dc71a71226677fba17_tr_1624437105104.jpeg"
   },
   {
-    "id": 4,
+    "id": "4",
     "count": 0,
     "price": 3.3,
     "name": "Ülker Napoliten",
@@ -41,7 +41,7 @@
     "squareThumbnailURL": "https://cdn.getir.com/product/574b2219dee8a90300f18d24_tr_1599938278519.jpeg"
   },
   {
-    "id": 5,
+    "id": "5",
     "count": 0,
     "price": 10.95,
     "name": "Kavrulmuş Siyah Ay Çekirdeği",
@@ -49,7 +49,7 @@
     "squareThumbnailURL": "https://cdn.getir.com/product/5ccaf4ff1a1763000175a869_tr_1580904995656.jpeg"
   },
   {
-    "id": 6,
+    "id": "6",
     "count": 0,
     "price": 7.5,
     "name": "Magnum Badem",
@@ -57,7 +57,7 @@
     "squareThumbnailURL": "https://cdn.getir.com/product/559fec01f462100c00461d5c_tr_1618323765236.jpeg"
   },
   {
-    "id": 7,
+    "id": "7",
     "count": 0,
     "price": 7.95,
     "name": "İçin %3 Yağlı Süt",
@@ -65,7 +65,7 @@
     "squareThumbnailURL": "https://cdn.getir.com/product/5ced482d4a8a2a000137da6d_tr_1623652387464.jpeg"
   },
   {
-    "id": 8,
+    "id": "8",
     "count": 0,
     "price": 21.75,
     "name": "Bahçıvan Süzme Peynir",
@@ -73,7 +73,7 @@
     "squareThumbnailURL": "https://cdn.getir.com/product/5ce65823a72a950001cc88c0_tr_1609902381949.jpeg"
   },
   {
-    "id": 9,
+    "id": "9",
     "count": 0,
     "price": 7.95,
     "name": "İçin %3 Yağlı Süt",
@@ -82,7 +82,7 @@
   },
 
   {
-    "id": 10,
+    "id": "10",
     "count": 0,
     "price": 5.75,
     "name": "Kokteyl Domates",
@@ -90,7 +90,7 @@
     "squareThumbnailURL": "https://cdn.getir.com/product/5cac8bffec184600019a371d_tr_1609123369165.jpeg"
   },
   {
-    "id": 11,
+    "id": "11",
     "count": 0,
     "price": 14.95,
     "name": "İthal Muz",
@@ -98,7 +98,7 @@
     "squareThumbnailURL": "https://cdn.getir.com/product/5fc26ef5f86ca13ef0fdae59_tr_1606836221080.jpeg"
   },
   {
-    "id": 12,
+    "id": "12",
     "count": 0,
     "price": 7.35,
     "name": "Barilla Spagetti",
@@ -106,7 +106,7 @@
     "squareThumbnailURL": "https://cdn.getir.com/product/5ca77244d1b0a8000103d13c_tr_1609121717343.jpeg"
   },
   {
-    "id": 13,
+    "id": "13",
     "count": 0,
     "price": 18.25,
     "name": "Colgate Üçlü Etki",
@@ -114,7 +114,7 @@
     "squareThumbnailURL": "https://cdn.getir.com/product/5c3f4ee999f6570001f27a73_tr_1585136793449.jpeg"
   },
   {
-    "id": 14,
+    "id": "14",
     "count": 0,
     "price": 57.85,
     "name": "Selpak Tuvalet Kağıdı",
@@ -122,7 +122,7 @@
     "squareThumbnailURL": "https://cdn.getir.com/product/595b8c52fca4ec0004417ee8_tr_1601369369934.jpeg"
   },
   {
-    "id": 15,
+    "id": "15",
     "count": 0,
     "price": 8.38,
     "name": "Domestos Dağ Esintisi",
