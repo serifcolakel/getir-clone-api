@@ -615,6 +615,25 @@ app.get("/api/campaings/:id", (req, res) => {
   }
 });
 
+// urunler API Endpoint
+app.get("/api/urunler", (req, res) => {
+  res.status(200).send(urunler);
+});
+app.get("/api/urunler/:id", (req, res) => {
+  if (isNaN(req.params.id)) {
+    res.send(400, {
+      message: req.params.id + " id'li urunler elemanı bulunamadı",
+    });
+  }
+  if (urunler) {
+    res.send(200, urunler[req.params.id]);
+  } else {
+    res.send(404, {
+      message: req.params.id + " id'li urunler elemanı bulunamadı",
+    });
+  }
+});
+
 app.listen(process.env.PORT || 3000, () => {
   console.log("Server started on port 3000");
 });
