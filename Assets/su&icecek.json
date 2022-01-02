@@ -21,7 +21,7 @@
         "displayType": 0,
         "price": 16.45,
         "priceText": "₺16,45",
-        "status": 1,
+        "count": 0,
         "struckPrice": 18.5,
         "struckPriceText": "₺18,50",
         "isFavorite": false,
@@ -56,7 +56,7 @@
         "displayType": 0,
         "price": 15.75,
         "priceText": "₺15,75",
-        "status": 1,
+        "count": 0,
         "struckPrice": 17.5,
         "struckPriceText": "₺17,50",
         "isFavorite": false,
@@ -91,7 +91,7 @@
         "displayType": 0,
         "price": 10.75,
         "priceText": "₺10,75",
-        "status": 1,
+        "count": 0,
         "struckPrice": 11.95,
         "struckPriceText": "₺11,95",
         "isFavorite": false,
@@ -135,7 +135,7 @@
         "displayType": 1,
         "price": 18.75,
         "priceText": "₺18,75",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -168,7 +168,7 @@
         "displayType": 0,
         "price": 16.95,
         "priceText": "₺16,95",
-        "status": 1,
+        "count": 0,
         "struckPrice": 20.9,
         "struckPriceText": "₺20,90",
         "isFavorite": false,
@@ -203,7 +203,7 @@
         "displayType": 0,
         "price": 19.95,
         "priceText": "₺19,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -236,7 +236,7 @@
         "displayType": 0,
         "price": 13.95,
         "priceText": "₺13,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -274,7 +274,7 @@
         "displayType": 0,
         "price": 16.95,
         "priceText": "₺16,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -312,7 +312,7 @@
         "displayType": 0,
         "price": 7.5,
         "priceText": "₺7,50",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -345,7 +345,7 @@
         "displayType": 0,
         "price": 3.95,
         "priceText": "₺3,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -375,7 +375,7 @@
         "displayType": 0,
         "price": 3.75,
         "priceText": "₺3,75",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -408,7 +408,7 @@
         "displayType": 0,
         "price": 2.35,
         "priceText": "₺2,35",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -446,7 +446,7 @@
         "displayType": 0,
         "price": 16.95,
         "priceText": "₺16,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -479,7 +479,7 @@
         "displayType": 0,
         "price": 19.15,
         "priceText": "₺19,15",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -512,7 +512,7 @@
         "displayType": 0,
         "price": 20.9,
         "priceText": "₺20,90",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -545,7 +545,7 @@
         "displayType": 0,
         "price": 7.85,
         "priceText": "₺7,85",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -578,7 +578,7 @@
         "displayType": 0,
         "price": 4.39,
         "priceText": "₺4,39",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -611,7 +611,7 @@
         "displayType": 0,
         "price": 2.55,
         "priceText": "₺2,55",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -644,7 +644,7 @@
         "displayType": 0,
         "price": 2.27,
         "priceText": "₺2,27",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -677,7 +677,7 @@
         "displayType": 0,
         "price": 4.45,
         "priceText": "₺4,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -707,7 +707,7 @@
         "displayType": 0,
         "price": 10.5,
         "priceText": "₺10,50",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -737,7 +737,7 @@
         "displayType": 0,
         "price": 16.15,
         "priceText": "₺16,15",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -775,7 +775,7 @@
         "displayType": 0,
         "price": 19.7502,
         "priceText": "₺19,75",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -809,7 +809,7 @@
         "displayType": 0,
         "price": 3.75,
         "priceText": "₺3,75",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -842,7 +842,7 @@
         "displayType": 0,
         "price": 7,
         "priceText": "₺7,00",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -875,7 +875,7 @@
         "displayType": 0,
         "price": 6.05,
         "priceText": "₺6,05",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -905,7 +905,7 @@
         "displayType": 0,
         "price": 15.75,
         "priceText": "₺15,75",
-        "status": 1,
+        "count": 0,
         "struckPrice": 17.5,
         "struckPriceText": "₺17,50",
         "isFavorite": false,
@@ -955,7 +955,7 @@
         "displayType": 0,
         "price": 10.35,
         "priceText": "₺10,35",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -985,7 +985,7 @@
         "displayType": 0,
         "price": 22.25,
         "priceText": "₺22,25",
-        "status": 1,
+        "count": 0,
         "struckPrice": 24.75,
         "struckPriceText": "₺24,75",
         "isFavorite": false,
@@ -1035,7 +1035,7 @@
         "displayType": 0,
         "price": 7.45,
         "priceText": "₺7,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -1068,7 +1068,7 @@
         "displayType": 0,
         "price": 31.95,
         "priceText": "₺31,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "bundleItems": [
           {
@@ -1118,7 +1118,7 @@
         "displayType": 0,
         "price": 25.08,
         "priceText": "₺25,08",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "bundleItems": [
           {
@@ -1237,7 +1237,7 @@
         "displayType": 0,
         "price": 25.5,
         "priceText": "₺25,50",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "bundleItems": [
           {
@@ -1338,7 +1338,7 @@
         "displayType": 1,
         "price": 11.7,
         "priceText": "₺11,70",
-        "status": 1,
+        "count": 0,
         "struckPrice": 14.6,
         "struckPriceText": "₺14,60",
         "isFavorite": false,
@@ -1398,7 +1398,7 @@
         "displayType": 0,
         "price": 6.45,
         "priceText": "₺6,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -1428,7 +1428,7 @@
         "displayType": 0,
         "price": 5.2,
         "priceText": "₺5,20",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -1458,7 +1458,7 @@
         "displayType": 0,
         "price": 5.2,
         "priceText": "₺5,20",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -1488,7 +1488,7 @@
         "displayType": 0,
         "price": 5.2,
         "priceText": "₺5,20",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -1521,7 +1521,7 @@
         "displayType": 0,
         "price": 7.45,
         "priceText": "₺7,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -1551,7 +1551,7 @@
         "displayType": 0,
         "price": 22.3,
         "priceText": "₺22,30",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -1581,7 +1581,7 @@
         "displayType": 0,
         "price": 22.3,
         "priceText": "₺22,30",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -1611,7 +1611,7 @@
         "displayType": 0,
         "price": 22.3,
         "priceText": "₺22,30",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -1641,7 +1641,7 @@
         "displayType": 0,
         "price": 30.9,
         "priceText": "₺30,90",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -1671,7 +1671,7 @@
         "displayType": 0,
         "price": 6.45,
         "priceText": "₺6,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -1711,7 +1711,7 @@
         "displayType": 0,
         "price": 23.35,
         "priceText": "₺23,35",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -1741,7 +1741,7 @@
         "displayType": 0,
         "price": 3.72,
         "priceText": "₺3,72",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -1771,7 +1771,7 @@
         "displayType": 0,
         "price": 3.72,
         "priceText": "₺3,72",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -1809,7 +1809,7 @@
         "displayType": 0,
         "price": 10.85,
         "priceText": "₺10,85",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -1839,7 +1839,7 @@
         "displayType": 0,
         "price": 5.95,
         "priceText": "₺5,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -1869,7 +1869,7 @@
         "displayType": 0,
         "price": 5.95,
         "priceText": "₺5,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -1899,7 +1899,7 @@
         "displayType": 0,
         "price": 6.25,
         "priceText": "₺6,25",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -1929,7 +1929,7 @@
         "displayType": 0,
         "price": 5.2,
         "priceText": "₺5,20",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -1962,7 +1962,7 @@
         "displayType": 0,
         "price": 22.3,
         "priceText": "₺22,30",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -1992,7 +1992,7 @@
         "displayType": 0,
         "price": 6.45,
         "priceText": "₺6,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -2022,7 +2022,7 @@
         "displayType": 0,
         "price": 6.25,
         "priceText": "₺6,25",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -2052,7 +2052,7 @@
         "displayType": 0,
         "price": 7.15,
         "priceText": "₺7,15",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -2082,7 +2082,7 @@
         "displayType": 0,
         "price": 12.8,
         "priceText": "₺12,80",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -2112,7 +2112,7 @@
         "displayType": 0,
         "price": 31.85,
         "priceText": "₺31,85",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -2142,7 +2142,7 @@
         "displayType": 0,
         "price": 21.5,
         "priceText": "₺21,50",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -2172,7 +2172,7 @@
         "displayType": 0,
         "price": 24.75,
         "priceText": "₺24,75",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -2202,7 +2202,7 @@
         "displayType": 0,
         "price": 14.6,
         "priceText": "₺14,60",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -2235,7 +2235,7 @@
         "displayType": 0,
         "price": 36.25,
         "priceText": "₺36,25",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -2265,7 +2265,7 @@
         "displayType": 0,
         "price": 8.25,
         "priceText": "₺8,25",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -2298,7 +2298,7 @@
         "displayType": 0,
         "price": 8.15,
         "priceText": "₺8,15",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -2328,7 +2328,7 @@
         "displayType": 0,
         "price": 14.95,
         "priceText": "₺14,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -2358,7 +2358,7 @@
         "displayType": 0,
         "price": 6.2,
         "priceText": "₺6,20",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -2388,7 +2388,7 @@
         "displayType": 0,
         "price": 5.7,
         "priceText": "₺5,70",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -2418,7 +2418,7 @@
         "displayType": 0,
         "price": 6.2,
         "priceText": "₺6,20",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -2448,7 +2448,7 @@
         "displayType": 0,
         "price": 5.7,
         "priceText": "₺5,70",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -2486,7 +2486,7 @@
         "displayType": 0,
         "price": 32.39,
         "priceText": "₺32,39",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "bundleItems": [
           {
@@ -2594,7 +2594,7 @@
         "displayType": 0,
         "price": 25.08,
         "priceText": "₺25,08",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "bundleItems": [
           {
@@ -2720,7 +2720,7 @@
         "displayType": 0,
         "price": 8.45,
         "priceText": "₺8,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -2753,7 +2753,7 @@
         "displayType": 0,
         "price": 8.45,
         "priceText": "₺8,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -2783,7 +2783,7 @@
         "displayType": 0,
         "price": 11.25,
         "priceText": "₺11,25",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -2813,7 +2813,7 @@
         "displayType": 0,
         "price": 41.4,
         "priceText": "₺41,40",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -2843,7 +2843,7 @@
         "displayType": 0,
         "price": 16.85,
         "priceText": "₺16,85",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -2873,7 +2873,7 @@
         "displayType": 0,
         "price": 43.75,
         "priceText": "₺43,75",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -2903,7 +2903,7 @@
         "displayType": 0,
         "price": 53.6,
         "priceText": "₺53,60",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -2933,7 +2933,7 @@
         "displayType": 0,
         "price": 42.95,
         "priceText": "₺42,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -2963,7 +2963,7 @@
         "displayType": 0,
         "price": 42.95,
         "priceText": "₺42,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -2993,7 +2993,7 @@
         "displayType": 0,
         "price": 42.95,
         "priceText": "₺42,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -3023,7 +3023,7 @@
         "displayType": 0,
         "price": 12.1,
         "priceText": "₺12,10",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -3053,7 +3053,7 @@
         "displayType": 0,
         "price": 32.65,
         "priceText": "₺32,65",
-        "status": 1,
+        "count": 0,
         "struckPrice": 35,
         "struckPriceText": "₺35,00",
         "isFavorite": false,
@@ -3085,7 +3085,7 @@
         "displayType": 0,
         "price": 62.45,
         "priceText": "₺62,45",
-        "status": 1,
+        "count": 0,
         "struckPrice": 87.5,
         "struckPriceText": "₺87,50",
         "isFavorite": false,
@@ -3117,7 +3117,7 @@
         "displayType": 0,
         "price": 75.75,
         "priceText": "₺75,75",
-        "status": 1,
+        "count": 0,
         "struckPrice": 82.9,
         "struckPriceText": "₺82,90",
         "isFavorite": false,
@@ -3149,7 +3149,7 @@
         "displayType": 0,
         "price": 18.45,
         "priceText": "₺18,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -3183,7 +3183,7 @@
         "displayType": 0,
         "price": 4.45,
         "priceText": "₺4,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -3221,7 +3221,7 @@
         "displayType": 0,
         "price": 5.05,
         "priceText": "₺5,05",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -3251,7 +3251,7 @@
         "displayType": 0,
         "price": 10.55,
         "priceText": "₺10,55",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -3281,7 +3281,7 @@
         "displayType": 0,
         "price": 10.55,
         "priceText": "₺10,55",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -3323,7 +3323,7 @@
         "displayType": 0,
         "price": 12.95,
         "priceText": "₺12,95",
-        "status": 1,
+        "count": 0,
         "struckPrice": 14.45,
         "struckPriceText": "₺14,45",
         "isFavorite": false,
@@ -3359,7 +3359,7 @@
         "displayType": 0,
         "price": 12.95,
         "priceText": "₺12,95",
-        "status": 1,
+        "count": 0,
         "struckPrice": 14.45,
         "struckPriceText": "₺14,45",
         "isFavorite": false,
@@ -3395,7 +3395,7 @@
         "displayType": 0,
         "price": 12.95,
         "priceText": "₺12,95",
-        "status": 1,
+        "count": 0,
         "struckPrice": 14.45,
         "struckPriceText": "₺14,45",
         "isFavorite": false,
@@ -3430,7 +3430,7 @@
         "displayType": 0,
         "price": 9.6,
         "priceText": "₺9,60",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -3468,7 +3468,7 @@
         "displayType": 0,
         "price": 9.6,
         "priceText": "₺9,60",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -3498,7 +3498,7 @@
         "displayType": 0,
         "price": 10.3,
         "priceText": "₺10,30",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -3538,7 +3538,7 @@
         "displayType": 0,
         "price": 10.35,
         "priceText": "₺10,35",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -3576,7 +3576,7 @@
         "displayType": 0,
         "price": 11,
         "priceText": "₺11,00",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -3616,7 +3616,7 @@
         "displayType": 0,
         "price": 13.55,
         "priceText": "₺13,55",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -3656,7 +3656,7 @@
         "displayType": 0,
         "price": 18.45,
         "priceText": "₺18,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -3696,7 +3696,7 @@
         "displayType": 0,
         "price": 18.45,
         "priceText": "₺18,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -3736,7 +3736,7 @@
         "displayType": 0,
         "price": 21.2,
         "priceText": "₺21,20",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -3766,7 +3766,7 @@
         "displayType": 0,
         "price": 5.15,
         "priceText": "₺5,15",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -3796,7 +3796,7 @@
         "displayType": 0,
         "price": 2.7,
         "priceText": "₺2,70",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -3826,7 +3826,7 @@
         "displayType": 0,
         "price": 2.7,
         "priceText": "₺2,70",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -3859,7 +3859,7 @@
         "displayType": 0,
         "price": 8.95,
         "priceText": "₺8,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -3892,7 +3892,7 @@
         "displayType": 0,
         "price": 8.95,
         "priceText": "₺8,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -3922,7 +3922,7 @@
         "displayType": 0,
         "price": 9.45,
         "priceText": "₺9,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -3952,7 +3952,7 @@
         "displayType": 0,
         "price": 8.15,
         "priceText": "₺8,15",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -3982,7 +3982,7 @@
         "displayType": 0,
         "price": 7.35,
         "priceText": "₺7,35",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -4012,7 +4012,7 @@
         "displayType": 0,
         "price": 7.35,
         "priceText": "₺7,35",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -4042,7 +4042,7 @@
         "displayType": 0,
         "price": 25.45,
         "priceText": "₺25,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -4072,7 +4072,7 @@
         "displayType": 0,
         "price": 14.25,
         "priceText": "₺14,25",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -4102,7 +4102,7 @@
         "displayType": 0,
         "price": 6.45,
         "priceText": "₺6,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -4132,7 +4132,7 @@
         "displayType": 0,
         "price": 6.45,
         "priceText": "₺6,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -4162,7 +4162,7 @@
         "displayType": 0,
         "price": 7.4,
         "priceText": "₺7,40",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -4192,7 +4192,7 @@
         "displayType": 0,
         "price": 7.4,
         "priceText": "₺7,40",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -4231,7 +4231,7 @@
         "displayType": 0,
         "price": 10,
         "priceText": "₺10,00",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -4270,7 +4270,7 @@
         "displayType": 0,
         "price": 10,
         "priceText": "₺10,00",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -4304,7 +4304,7 @@
         "displayType": 0,
         "price": 25.5,
         "priceText": "₺25,50",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "bundleItems": [
           {
@@ -4403,7 +4403,7 @@
         "displayType": 0,
         "price": 24,
         "priceText": "₺24,00",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "bundleItems": [
           {
@@ -4502,7 +4502,7 @@
         "displayType": 1,
         "price": 12.95,
         "priceText": "₺12,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -4532,7 +4532,7 @@
         "displayType": 0,
         "price": 5.45,
         "priceText": "₺5,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -4570,7 +4570,7 @@
         "displayType": 0,
         "price": 17.55,
         "priceText": "₺17,55",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -4600,7 +4600,7 @@
         "displayType": 0,
         "price": 12.6,
         "priceText": "₺12,60",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -4631,7 +4631,7 @@
         "displayType": 0,
         "price": 4.5,
         "priceText": "₺4,50",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -4661,7 +4661,7 @@
         "displayType": 0,
         "price": 8.55,
         "priceText": "₺8,55",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -4691,7 +4691,7 @@
         "displayType": 0,
         "price": 16.65,
         "priceText": "₺16,65",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -4724,7 +4724,7 @@
         "displayType": 0,
         "price": 18.25,
         "priceText": "₺18,25",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -4757,7 +4757,7 @@
         "displayType": 0,
         "price": 6.95,
         "priceText": "₺6,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -4790,7 +4790,7 @@
         "displayType": 0,
         "price": 13.75,
         "priceText": "₺13,75",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -4823,7 +4823,7 @@
         "displayType": 0,
         "price": 15.35,
         "priceText": "₺15,35",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -4856,7 +4856,7 @@
         "displayType": 0,
         "price": 6.95,
         "priceText": "₺6,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -4889,7 +4889,7 @@
         "displayType": 0,
         "price": 6.95,
         "priceText": "₺6,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -4922,7 +4922,7 @@
         "displayType": 0,
         "price": 6.95,
         "priceText": "₺6,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -4955,7 +4955,7 @@
         "displayType": 0,
         "price": 6.95,
         "priceText": "₺6,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -4995,7 +4995,7 @@
         "displayType": 0,
         "price": 4.9,
         "priceText": "₺4,90",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -5035,7 +5035,7 @@
         "displayType": 0,
         "price": 4.9,
         "priceText": "₺4,90",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -5075,7 +5075,7 @@
         "displayType": 0,
         "price": 5.45,
         "priceText": "₺5,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -5115,7 +5115,7 @@
         "displayType": 0,
         "price": 5.45,
         "priceText": "₺5,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -5153,7 +5153,7 @@
         "displayType": 0,
         "price": 4.7,
         "priceText": "₺4,70",
-        "status": 1,
+        "count": 0,
         "struckPrice": 5.45,
         "struckPriceText": "₺5,45",
         "isFavorite": false,
@@ -5188,7 +5188,7 @@
         "displayType": 0,
         "price": 6.9,
         "priceText": "₺6,90",
-        "status": 1,
+        "count": 0,
         "struckPrice": 9.25,
         "struckPriceText": "₺9,25",
         "isFavorite": false,
@@ -5230,7 +5230,7 @@
         "displayType": 0,
         "price": 8.2,
         "priceText": "₺8,20",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -5263,7 +5263,7 @@
         "displayType": 0,
         "price": 6.9,
         "priceText": "₺6,90",
-        "status": 1,
+        "count": 0,
         "struckPrice": 9.25,
         "struckPriceText": "₺9,25",
         "isFavorite": false,
@@ -5305,7 +5305,7 @@
         "displayType": 0,
         "price": 24.6,
         "priceText": "₺24,60",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "bundleItems": [
           {
@@ -5386,7 +5386,7 @@
         "displayType": 0,
         "price": 8.2,
         "priceText": "₺8,20",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -5426,7 +5426,7 @@
         "displayType": 0,
         "price": 8.2,
         "priceText": "₺8,20",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -5465,7 +5465,7 @@
         "displayType": 1,
         "price": 8.75,
         "priceText": "₺8,75",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -5495,7 +5495,7 @@
         "displayType": 0,
         "price": 17.45,
         "priceText": "₺17,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -5525,7 +5525,7 @@
         "displayType": 0,
         "price": 1.1,
         "priceText": "₺1,10",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -5555,7 +5555,7 @@
         "displayType": 0,
         "price": 17.45,
         "priceText": "₺17,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -5585,7 +5585,7 @@
         "displayType": 0,
         "price": 22.9,
         "priceText": "₺22,90",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -5615,7 +5615,7 @@
         "displayType": 0,
         "price": 45.2,
         "priceText": "₺45,20",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -5645,7 +5645,7 @@
         "displayType": 0,
         "price": 22.9,
         "priceText": "₺22,90",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -5675,7 +5675,7 @@
         "displayType": 0,
         "price": 14.95,
         "priceText": "₺14,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -5705,7 +5705,7 @@
         "displayType": 0,
         "price": 22.5,
         "priceText": "₺22,50",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -5735,7 +5735,7 @@
         "displayType": 0,
         "price": 39.5,
         "priceText": "₺39,50",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -5765,7 +5765,7 @@
         "displayType": 0,
         "price": 26.9,
         "priceText": "₺26,90",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -5795,7 +5795,7 @@
         "displayType": 0,
         "price": 30.2,
         "priceText": "₺30,20",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -5825,7 +5825,7 @@
         "displayType": 0,
         "price": 10.95,
         "priceText": "₺10,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -5855,7 +5855,7 @@
         "displayType": 0,
         "price": 24.9,
         "priceText": "₺24,90",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -5885,7 +5885,7 @@
         "displayType": 0,
         "price": 26.5,
         "priceText": "₺26,50",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -5918,7 +5918,7 @@
         "displayType": 0,
         "price": 11.55,
         "priceText": "₺11,55",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -5948,7 +5948,7 @@
         "displayType": 0,
         "price": 19.75,
         "priceText": "₺19,75",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -5978,7 +5978,7 @@
         "displayType": 0,
         "price": 19.75,
         "priceText": "₺19,75",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -6008,7 +6008,7 @@
         "displayType": 0,
         "price": 18.95,
         "priceText": "₺18,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -6041,7 +6041,7 @@
         "displayType": 0,
         "price": 21.9,
         "priceText": "₺21,90",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -6074,7 +6074,7 @@
         "displayType": 0,
         "price": 10.45,
         "priceText": "₺10,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -6107,7 +6107,7 @@
         "displayType": 0,
         "price": 10.45,
         "priceText": "₺10,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -6140,7 +6140,7 @@
         "displayType": 0,
         "price": 10.45,
         "priceText": "₺10,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -6170,7 +6170,7 @@
         "displayType": 0,
         "price": 11.95,
         "priceText": "₺11,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -6201,7 +6201,7 @@
         "displayType": 0,
         "price": 19.9,
         "priceText": "₺19,90",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -6232,7 +6232,7 @@
         "displayType": 0,
         "price": 19.9,
         "priceText": "₺19,90",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -6264,7 +6264,7 @@
         "displayType": 0,
         "price": 19.9,
         "priceText": "₺19,90",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -6295,7 +6295,7 @@
         "displayType": 0,
         "price": 19.9,
         "priceText": "₺19,90",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -6333,7 +6333,7 @@
         "displayType": 0,
         "price": 10.95,
         "priceText": "₺10,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -6363,7 +6363,7 @@
         "displayType": 0,
         "price": 36.25,
         "priceText": "₺36,25",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -6393,7 +6393,7 @@
         "displayType": 0,
         "price": 29.6,
         "priceText": "₺29,60",
-        "status": 1,
+        "count": 0,
         "struckPrice": 44.75,
         "struckPriceText": "₺44,75",
         "isFavorite": false,
@@ -6433,7 +6433,7 @@
         "displayType": 0,
         "price": 98.9,
         "priceText": "₺98,90",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -6466,7 +6466,7 @@
         "displayType": 0,
         "price": 74.95,
         "priceText": "₺74,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -6496,7 +6496,7 @@
         "displayType": 0,
         "price": 44.95,
         "priceText": "₺44,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -6526,7 +6526,7 @@
         "displayType": 0,
         "price": 44.95,
         "priceText": "₺44,95",
-        "status": 1,
+        "count": 0,
         "struckPrice": 49.95,
         "struckPriceText": "₺49,95",
         "isFavorite": false,
@@ -6558,7 +6558,7 @@
         "displayType": 0,
         "price": 47.45,
         "priceText": "₺47,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -6588,7 +6588,7 @@
         "displayType": 0,
         "price": 64.45,
         "priceText": "₺64,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -6618,7 +6618,7 @@
         "displayType": 0,
         "price": 56.25,
         "priceText": "₺56,25",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -6648,7 +6648,7 @@
         "displayType": 0,
         "price": 56.25,
         "priceText": "₺56,25",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -6678,7 +6678,7 @@
         "displayType": 0,
         "price": 80,
         "priceText": "₺80,00",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -6708,7 +6708,7 @@
         "displayType": 0,
         "price": 95.9,
         "priceText": "₺95,90",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -6742,7 +6742,7 @@
         "displayType": 0,
         "price": 79.9,
         "priceText": "₺79,90",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -6772,7 +6772,7 @@
         "displayType": 0,
         "price": 27.95,
         "priceText": "₺27,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -6802,7 +6802,7 @@
         "displayType": 0,
         "price": 48.75,
         "priceText": "₺48,75",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -6833,7 +6833,7 @@
         "displayType": 0,
         "price": 65,
         "priceText": "₺65,00",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -6863,7 +6863,7 @@
         "displayType": 0,
         "price": 26.9,
         "priceText": "₺26,90",
-        "status": 1,
+        "count": 0,
         "struckPrice": 38,
         "struckPriceText": "₺38,00",
         "isFavorite": false,
@@ -6895,7 +6895,7 @@
         "displayType": 0,
         "price": 26.9,
         "priceText": "₺26,90",
-        "status": 1,
+        "count": 0,
         "struckPrice": 38,
         "struckPriceText": "₺38,00",
         "isFavorite": false,
@@ -6927,7 +6927,7 @@
         "displayType": 0,
         "price": 26.9,
         "priceText": "₺26,90",
-        "status": 1,
+        "count": 0,
         "struckPrice": 38,
         "struckPriceText": "₺38,00",
         "isFavorite": false,
@@ -6959,7 +6959,7 @@
         "displayType": 0,
         "price": 26.9,
         "priceText": "₺26,90",
-        "status": 1,
+        "count": 0,
         "struckPrice": 38,
         "struckPriceText": "₺38,00",
         "isFavorite": false,
@@ -6991,7 +6991,7 @@
         "displayType": 0,
         "price": 44.95,
         "priceText": "₺44,95",
-        "status": 1,
+        "count": 0,
         "struckPrice": 49.95,
         "struckPriceText": "₺49,95",
         "isFavorite": false,
@@ -7023,7 +7023,7 @@
         "displayType": 0,
         "price": 51.65,
         "priceText": "₺51,65",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -7053,7 +7053,7 @@
         "displayType": 0,
         "price": 51.65,
         "priceText": "₺51,65",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -7083,7 +7083,7 @@
         "displayType": 0,
         "price": 29.95,
         "priceText": "₺29,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -7122,7 +7122,7 @@
         "displayType": 1,
         "price": 6.65,
         "priceText": "₺6,65",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -7152,7 +7152,7 @@
         "displayType": 0,
         "price": 6.65,
         "priceText": "₺6,65",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -7184,7 +7184,7 @@
         "displayType": 0,
         "price": 4.31,
         "priceText": "₺4,31",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -7214,7 +7214,7 @@
         "displayType": 0,
         "price": 4.31,
         "priceText": "₺4,31",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -7249,7 +7249,7 @@
         "displayType": 0,
         "price": 4.31,
         "priceText": "₺4,31",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -7282,7 +7282,7 @@
         "displayType": 0,
         "price": 13.7,
         "priceText": "₺13,70",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -7314,7 +7314,7 @@
         "displayType": 0,
         "price": 21.5,
         "priceText": "₺21,50",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -7345,7 +7345,7 @@
         "displayType": 0,
         "price": 21.5,
         "priceText": "₺21,50",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -7375,7 +7375,7 @@
         "displayType": 0,
         "price": 21.5,
         "priceText": "₺21,50",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -7405,7 +7405,7 @@
         "displayType": 0,
         "price": 6.45,
         "priceText": "₺6,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -7443,7 +7443,7 @@
         "displayType": 0,
         "price": 7.5,
         "priceText": "₺7,50",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -7481,7 +7481,7 @@
         "displayType": 0,
         "price": 7.5,
         "priceText": "₺7,50",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -7511,7 +7511,7 @@
         "displayType": 0,
         "price": 7.5,
         "priceText": "₺7,50",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -7541,7 +7541,7 @@
         "displayType": 0,
         "price": 4.95,
         "priceText": "₺4,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -7571,7 +7571,7 @@
         "displayType": 0,
         "price": 4.95,
         "priceText": "₺4,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -7601,7 +7601,7 @@
         "displayType": 0,
         "price": 6.65,
         "priceText": "₺6,65",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -7631,7 +7631,7 @@
         "displayType": 0,
         "price": 6.65,
         "priceText": "₺6,65",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -7661,7 +7661,7 @@
         "displayType": 0,
         "price": 6.45,
         "priceText": "₺6,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -7691,7 +7691,7 @@
         "displayType": 0,
         "price": 6.45,
         "priceText": "₺6,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -7721,7 +7721,7 @@
         "displayType": 0,
         "price": 6.45,
         "priceText": "₺6,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -7751,7 +7751,7 @@
         "displayType": 0,
         "price": 6.45,
         "priceText": "₺6,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -7781,7 +7781,7 @@
         "displayType": 0,
         "price": 10.45,
         "priceText": "₺10,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -7811,7 +7811,7 @@
         "displayType": 0,
         "price": 10.45,
         "priceText": "₺10,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -7844,7 +7844,7 @@
         "displayType": 0,
         "price": 7.75,
         "priceText": "₺7,75",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -7877,7 +7877,7 @@
         "displayType": 0,
         "price": 7.75,
         "priceText": "₺7,75",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -7910,7 +7910,7 @@
         "displayType": 0,
         "price": 7.25,
         "priceText": "₺7,25",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -7940,7 +7940,7 @@
         "displayType": 0,
         "price": 29.75,
         "priceText": "₺29,75",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -7970,7 +7970,7 @@
         "displayType": 0,
         "price": 31.25,
         "priceText": "₺31,25",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -8016,7 +8016,7 @@
         "displayType": 0,
         "price": 16.95,
         "priceText": "₺16,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -8054,7 +8054,7 @@
         "displayType": 0,
         "price": 12.95,
         "priceText": "₺12,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -8094,7 +8094,7 @@
         "displayType": 0,
         "price": 12.8,
         "priceText": "₺12,80",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -8132,7 +8132,7 @@
         "displayType": 0,
         "price": 13.15,
         "priceText": "₺13,15",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -8176,7 +8176,7 @@
         "displayType": 0,
         "price": 39.95,
         "priceText": "₺39,95",
-        "status": 1,
+        "count": 0,
         "struckPrice": 50.5,
         "struckPriceText": "₺50,50",
         "isFavorite": false,
@@ -8222,7 +8222,7 @@
         "displayType": 0,
         "price": 13.95,
         "priceText": "₺13,95",
-        "status": 1,
+        "count": 0,
         "struckPrice": 17.55,
         "struckPriceText": "₺17,55",
         "isFavorite": false,
@@ -8268,7 +8268,7 @@
         "displayType": 0,
         "price": 48.95,
         "priceText": "₺48,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -8312,7 +8312,7 @@
         "displayType": 0,
         "price": 41.25,
         "priceText": "₺41,25",
-        "status": 1,
+        "count": 0,
         "struckPrice": 53.75,
         "struckPriceText": "₺53,75",
         "isFavorite": false,
@@ -8358,7 +8358,7 @@
         "displayType": 0,
         "price": 13.95,
         "priceText": "₺13,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -8396,7 +8396,7 @@
         "displayType": 0,
         "price": 6.55,
         "priceText": "₺6,55",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -8434,7 +8434,7 @@
         "displayType": 0,
         "price": 26.1,
         "priceText": "₺26,10",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -8472,7 +8472,7 @@
         "displayType": 0,
         "price": 6.55,
         "priceText": "₺6,55",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -8510,7 +8510,7 @@
         "displayType": 0,
         "price": 26.1,
         "priceText": "₺26,10",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -8550,7 +8550,7 @@
         "displayType": 0,
         "price": 13.45,
         "priceText": "₺13,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -8590,7 +8590,7 @@
         "displayType": 0,
         "price": 13.45,
         "priceText": "₺13,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -8630,7 +8630,7 @@
         "displayType": 0,
         "price": 7.45,
         "priceText": "₺7,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -8668,7 +8668,7 @@
         "displayType": 1,
         "price": 7.75,
         "priceText": "₺7,75",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -8706,7 +8706,7 @@
         "displayType": 0,
         "price": 11.08,
         "priceText": "₺11,08",
-        "status": 1,
+        "count": 0,
         "struckPrice": 13.85,
         "struckPriceText": "₺13,85",
         "isFavorite": false,
@@ -8778,7 +8778,7 @@
         "displayType": 0,
         "price": 8.35,
         "priceText": "₺8,35",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -8808,7 +8808,7 @@
         "displayType": 0,
         "price": 8.35,
         "priceText": "₺8,35",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -8838,7 +8838,7 @@
         "displayType": 0,
         "price": 8.35,
         "priceText": "₺8,35",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -8868,7 +8868,7 @@
         "displayType": 0,
         "price": 8.35,
         "priceText": "₺8,35",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -8898,7 +8898,7 @@
         "displayType": 0,
         "price": 8.35,
         "priceText": "₺8,35",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -8928,7 +8928,7 @@
         "displayType": 0,
         "price": 10.95,
         "priceText": "₺10,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -8958,7 +8958,7 @@
         "displayType": 0,
         "price": 14.25,
         "priceText": "₺14,25",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -8991,7 +8991,7 @@
         "displayType": 0,
         "price": 8.35,
         "priceText": "₺8,35",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -9025,7 +9025,7 @@
         "displayType": 0,
         "price": 31.75,
         "priceText": "₺31,75",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -9055,7 +9055,7 @@
         "displayType": 0,
         "price": 6.6,
         "priceText": "₺6,60",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -9085,7 +9085,7 @@
         "displayType": 0,
         "price": 8.95,
         "priceText": "₺8,95",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -9115,7 +9115,7 @@
         "displayType": 0,
         "price": 7.75,
         "priceText": "₺7,75",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -9148,7 +9148,7 @@
         "displayType": 0,
         "price": 7.45,
         "priceText": "₺7,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -9194,7 +9194,7 @@
         "displayType": 0,
         "price": 23.2,
         "priceText": "₺23,20",
-        "status": 1,
+        "count": 0,
         "struckPrice": 25.8,
         "struckPriceText": "₺25,80",
         "isFavorite": false,
@@ -9229,7 +9229,7 @@
         "displayType": 0,
         "price": 6.45,
         "priceText": "₺6,45",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -9268,7 +9268,7 @@
         "displayType": 0,
         "price": 10,
         "priceText": "₺10,00",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -9307,7 +9307,7 @@
         "displayType": 0,
         "price": 10,
         "priceText": "₺10,00",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
@@ -9345,7 +9345,7 @@
         "displayType": 0,
         "price": 15.75,
         "priceText": "₺15,75",
-        "status": 1,
+        "count": 0,
         "isFavorite": false,
         "infoMessages": [],
         "currency": {
