@@ -25,6 +25,7 @@ const temelgida = require("./Assets/temelgida.json");
 const yiyecek = require("./Assets/yiyecek.json");
 const campaings = require("./Assets/Campaings.json");
 const urunler = require("./Assets/Urunler.json");
+const kampanyaWithCode = require("./Assets/kampanyaWithCode.json");
 const bodyParser = require("body-parser");
 const cors = require("cors");
 
@@ -197,7 +198,24 @@ app.get("/api/atistirmalik/:id", (req, res) => {
     });
   }
 });
-
+// Atistirmalik API Endpoint
+app.get("/api/kampanyaWithCode", (req, res) => {
+  res.status(200).send(kampanyaWithCode);
+});
+app.get("/api/kampanyaWithCode/:id", (req, res) => {
+  if (isNaN(req.params.id)) {
+    res.send(400, {
+      message: req.params.id + " id'li atistirmalik elemanı bulunamadı",
+    });
+  }
+  if (kampanyaWithCode) {
+    res.send(200, kampanyaWithCode[req.params.id]);
+  } else {
+    res.send(404, {
+      message: req.params.id + " id'li atistirmalik elemanı bulunamadı",
+    });
+  }
+});
 // bebek API Endpoint
 app.get("/api/bebek", (req, res) => {
   res.status(200).send(bebek);
