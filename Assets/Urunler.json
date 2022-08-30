@@ -1,123 +1,543 @@
 [
   {
-    "id": "0",
-    "price": 2.95,
+    "id": "61a875bda29a78ab8edd250cKuzeyden",
     "name": "Kuzeyden",
-    "count": 0,
+    "shortName": "Kuzeyden",
     "shortDescription": "1.5 L",
-    "squareThumbnailURL": "https://cdn.getir.com/product/5a7b20fd8e19da0004bb27f8_tr_1615375864268.jpeg"
+    "squareThumbnailURL": "https://cdn.getir.com/product/5a7b20fd8e19da0004bb27f8_tr_1615375864268.jpeg",
+    "picURLs": [
+      "https://cdn.getir.com/product/5a7b20fd8e19da0004bb27f8_tr_1615375864268.jpeg"
+    ],
+    "categoryIds": [
+      "551430043427d5010a3a5c5d",
+      "5697c78dc181490f00c99fea"
+    ],
+    "subCategoryIds": [
+      "564c7f1b27652f0c007456f7",
+      "5a14017dad8d270004d1f2bb"
+    ],
+    "displayType": 0,
+    "price": 2.95,
+    "priceText": "₺2.95",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "fersan-jalapeno-tursu-glh6wopidd",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
   },
   {
-    "count": 0,
-    "id": 111,
+    "id": "61a875bda29a78ab8edd250c",
     "name": "Kuzeyden Su 19 L - İade Damacanam Var",
+    "shortName": "Kuzeyden Su 19 L - İade Damacanam Var",
+    "shortDescription": "1 adet",
+    "squareThumbnailURL": "https://cdn.getir.com/product/593a8862f6eedb019d3f9fdf_tr_1614248257207.jpeg",
+    "picURLs": [
+      "https://cdn.getir.com/product/593a8862f6eedb019d3f9fdf_tr_1614248257207.jpeg"
+    ],
+    "categoryIds": [
+      "551430043427d5010a3a5c5d",
+      "5697c78dc181490f00c99fea"
+    ],
+    "subCategoryIds": [
+      "564c7f1b27652f0c007456f7",
+      "5a14017dad8d270004d1f2bb"
+    ],
+    "displayType": 0,
     "price": 19.5,
-    "shortDescription": "",
-    "squareThumbnailURL": "https://cdn.getir.com/product/593a8862f6eedb019d3f9fdf_tr_1614248257207.jpeg"
+    "priceText": "₺19.5",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "fersan-jalapeno-tursu-glh6wopidd",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
   },
   {
-    "count": 0,
-    "id": 222,
+    "id": "61a875bda29a78ab8edd250cKuzeydensu19L",
+    "shortName": "Kuzeyden Su 19 L - İade Damacanam Var",
     "name": "Kuzeyden Su 19 L - Damacana İadeli x2",
     "price": 37.5,
-    "shortDescription": "",
-    "squareThumbnailURL": "https://cdn.getir.com/product/5e996afa02ca4d191ee8dba2_tr_1614248089775.jpeg"
+    "shortDescription": "1 adet",
+    "squareThumbnailURL": "https://cdn.getir.com/product/5e996afa02ca4d191ee8dba2_tr_1614248089775.jpeg",
+    "picURLs": [
+      "https://cdn.getir.com/product/5e996afa02ca4d191ee8dba2_tr_1614248089775.jpeg"
+    ],
+    "categoryIds": [
+      "551430043427d5010a3a5c5d",
+      "5697c78dc181490f00c99fea"
+    ],
+    "subCategoryIds": [
+      "564c7f1b27652f0c007456f7",
+      "5a14017dad8d270004d1f2bb"
+    ],
+    "displayType": 0,
+    "priceText": "₺37.5",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "fersan-jalapeno-tursu-glh6wopidd",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
   },
   {
-    "count": 0,
-    "id": 333,
+    "id": "61a875bda29a78ab8edd250cKuzeydenwqeascDamacanamL",
     "name": "Kuzeyden Su 19 L - İade Damacanam Yok",
+    "shortName": "Kuzeyden Su 19 L - İade Damacanam Yok",
     "price": 59.9,
-    "shortDescription": "",
-    "squareThumbnailURL": "https://cdn.getir.com/product/593a886cf6eedb019d3f9fe0_tr_1618315551935.jpeg"
+    "shortDescription": "1 adet",
+    "squareThumbnailURL": "https://cdn.getir.com/product/5e996afa02ca4d191ee8dba2_tr_1614248089775.jpeg",
+    "picURLs": [
+      "https://cdn.getir.com/product/5e996afa02ca4d191ee8dba2_tr_1614248089775.jpeg"
+    ],
+    "categoryIds": [
+      "551430043427d5010a3a5c5d",
+      "5697c78dc181490f00c99fea"
+    ],
+    "subCategoryIds": [
+      "564c7f1b27652f0c007456f7",
+      "5a14017dad8d270004d1f2bb"
+    ],
+    "displayType": 0,
+    "priceText": "₺59.90",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "fersan-jalapeno-tursu-glh6wopidd",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
   },
   {
-    "count": 0,
-    "id": 444,
+    "id": "61a875bda29a78ab8edd250cKuzeydenSu19DamacanamL",
     "name": "Kuzeyden Su 19 L & 12 x 500 ml - İade Damacanam Var",
+    "shortName": "Kuzeyden Su 19 L & 12 x 500 ml - İade Damacanam Var",
     "price": 32.95,
-    "shortDescription": "",
-    "squareThumbnailURL": "https://cdn.getir.com/product/6035543c08b6f861adbcc469_tr_1629975111158.jpeg"
+    "shortDescription": "1 adet",
+    "squareThumbnailURL": "https://cdn.getir.com/product/6035543c08b6f861adbcc469_tr_1629975111158.jpeg",
+    "picURLs": [
+      "https://cdn.getir.com/product/6035543c08b6f861adbcc469_tr_1629975111158.jpeg"
+    ],
+    "categoryIds": [
+      "551430043427d5010a3a5c5d",
+      "5697c78dc181490f00c99fea"
+    ],
+    "subCategoryIds": [
+      "564c7f1b27652f0c007456f7",
+      "5a14017dad8d270004d1f2bb"
+    ],
+    "displayType": 0,
+    "priceText": "₺32.95",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "fersan-jalapeno-tursu-glh6wopidd",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
   },
   {
-    "count": 0,
-    "id": 555,
+    "id": "61a875bda29a78ab8edd250cKuzeydenSu19Damac",
     "name": "Kuzeyden Su",
+    "shortName": "Kuzeyden Su",
     "price": 28.9,
     "shortDescription": "24 x 500 mL",
-    "squareThumbnailURL": "https://cdn.getir.com/product/603545c9877ea1efbab7dc90_tr_1630062624863.jpeg"
+    "squareThumbnailURL": "https://cdn.getir.com/product/603545c9877ea1efbab7dc90_tr_1630062624863.jpeg",
+    "picURLs": [
+      "https://cdn.getir.com/product/603545c9877ea1efbab7dc90_tr_1630062624863.jpeg"
+    ],
+    "categoryIds": [
+      "551430043427d5010a3a5c5d",
+      "5697c78dc181490f00c99fea"
+    ],
+    "subCategoryIds": [
+      "564c7f1b27652f0c007456f7",
+      "5a14017dad8d270004d1f2bb"
+    ],
+    "displayType": 0,
+    "priceText": "₺28.9",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "fersan-jalapeno-tursu-glh6wopidd",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
   },
   {
-    "count": 0,
-    "id": 666,
+    "id": "61a875bda29a78ab8edd250cKuzeydenSu19DamacanamLKuzeydenSu",
     "name": "Kuzeyden Su",
+    "shortName": "Kuzeyden Su",
     "price": 28.9,
     "shortDescription": "12 x 1,5 L",
-    "squareThumbnailURL": "https://cdn.getir.com/product/60354bbd1526a7b49644571f_tr_1616483170695.jpeg"
+    "squareThumbnailURL": "https://cdn.getir.com/product/60354bbd1526a7b49644571f_tr_1616483170695.jpeg",
+    "picURLs": [
+      "https://cdn.getir.com/product/60354bbd1526a7b49644571f_tr_1616483170695.jpeg"
+    ],
+    "categoryIds": [
+      "551430043427d5010a3a5c5d",
+      "5697c78dc181490f00c99fea"
+    ],
+    "subCategoryIds": [
+      "564c7f1b27652f0c007456f7",
+      "5a14017dad8d270004d1f2bb"
+    ],
+    "displayType": 0,
+    "priceText": "₺28.9",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "fersan-jalapeno-tursu-glh6wopidd",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
   },
   {
-    "count": 0,
-    "id": 777,
+    "id": "61a875bda29a78ab8edd250cKuzeydenSu19DamacanamLPompası",
     "name": "Su Pompası",
+    "shortName": "Su Pompası",
     "price": 24.5,
     "shortDescription": "1.5 L",
-    "squareThumbnailURL": "https://cdn.getir.com/product/599fdb62c577ee0004dc9d97_tr_1628971721475.jpeg"
+    "squareThumbnailURL": "https://cdn.getir.com/product/599fdb62c577ee0004dc9d97_tr_1628971721475.jpeg",
+    "picURLs": [
+      "https://cdn.getir.com/product/599fdb62c577ee0004dc9d97_tr_1628971721475.jpeg"
+    ],
+    "categoryIds": [
+      "551430043427d5010a3a5c5d",
+      "5697c78dc181490f00c99fea"
+    ],
+    "subCategoryIds": [
+      "564c7f1b27652f0c007456f7",
+      "5a14017dad8d270004d1f2bb"
+    ],
+    "displayType": 0,
+    "priceText": "₺24.5",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "fersan-jalapeno-tursu-glh6wopidd",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
   },
   {
-    "count": 0,
-    "id": 888,
+    "id": "61a875bda29a78ab8edd250cKuzeydenSu19DamacanamL",
     "name": "Damacana Cam Pompa Borusu",
+    "shortName": "Damacana Cam Pompa Borusu",
     "price": 34.9,
     "shortDescription": "1.5 L",
-    "squareThumbnailURL": "https://cdn.getir.com/product/5a4dd4877614470004f366d1_tr_1630576424666.jpeg"
+    "squareThumbnailURL": "https://cdn.getir.com/product/5a4dd4877614470004f366d1_tr_1630576424666.jpeg",
+    "picURLs": [
+      "https://cdn.getir.com/product/5a4dd4877614470004f366d1_tr_1630576424666.jpeg"
+    ],
+    "categoryIds": [
+      "551430043427d5010a3a5c5d",
+      "5697c78dc181490f00c99fea"
+    ],
+    "subCategoryIds": [
+      "564c7f1b27652f0c007456f7",
+      "5a14017dad8d270004d1f2bb"
+    ],
+    "displayType": 0,
+    "priceText": "₺34.9",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "fersan-jalapeno-tursu-glh6wopidd",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
+  },
+  {
+    "id": "61a875bda29a78ab8edd250cKuzeydenSu19DamacanamLErzincan",
+    "price": 34.9,
+    "name": "Kızılay Erzincan",
+    "shortName": "Kızılay Erzincan",
+    "shortDescription": "6 x 200 mL",
+    "squareThumbnailURL": "https://cdn.getir.com/product/60018c5bca2126d84459c47f_tr_1610788125046.jpeg",
+    "picURLs": [
+      "https://cdn.getir.com/product/60018c5bca2126d84459c47f_tr_1610788125046.jpeg"
+    ],
+    "categoryIds": [
+      "551430043427d5010a3a5c5d",
+      "5697c78dc181490f00c99fea"
+    ],
+    "subCategoryIds": [
+      "564c7f1b27652f0c007456f7",
+      "5a14017dad8d270004d1f2bb"
+    ],
+    "displayType": 0,
+    "priceText": "₺34.9",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "fersan-jalapeno-tursu-glh6wopidd",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
   },
   {
     "id": "1",
-    "count": 0,
-    "price": 5.9,
-    "name": "Kızılay Erzincan",
-    "shortDescription": "6 x 200 mL",
-    "squareThumbnailURL": "https://cdn.getir.com/product/60018c5bca2126d84459c47f_tr_1610788125046.jpeg"
-  },
-  {
-    "id": "2",
-    "count": 0,
     "price": 6.39,
     "name": "Lay's Mevsim Yeşillikli",
+    "shortName": "Lay's Mevsim Yeşillikli",
     "shortDescription": "96 g",
-    "squareThumbnailURL": "https://cdn.getir.com/product/5bc97aabb137fb001d751ac7_tr_1609123518121.jpeg"
+    "squareThumbnailURL": "https://cdn.getir.com/product/5bc97aabb137fb001d751ac7_tr_1609123518121.jpeg",
+    "picURLs": [
+      "https://cdn.getir.com/product/5bc97aabb137fb001d751ac7_tr_1609123518121.jpeg"
+    ],
+    "categoryIds": [
+      "551430043427d5010a3a5c5d",
+      "5697c78dc181490f00c99fea"
+    ],
+    "subCategoryIds": [
+      "564c7f1b27652f0c007456f7",
+      "5a14017dad8d270004d1f2bb"
+    ],
+    "displayType": 0,
+    "priceText": "₺6.39",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "fersan-jalapeno-tursu-glh6wopidd",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
   },
   {
-    "id": "3",
-    "count": 0,
+    "id": "15",
     "price": 2.85,
     "name": "Eti Canga",
+    "shortName": "Eti Canga",
     "shortDescription": "45 g",
-    "squareThumbnailURL": "https://cdn.getir.com/product/5f3538dc71a71226677fba17_tr_1624437105104.jpeg"
+    "squareThumbnailURL": "https://cdn.getir.com/product/5f3538dc71a71226677fba17_tr_1624437105104.jpeg",
+    "picURLs": [
+      "https://cdn.getir.com/product/5f3538dc71a71226677fba17_tr_1624437105104.jpeg"
+    ],
+    "categoryIds": [
+      "551430043427d5010a3a5c5d",
+      "5697c78dc181490f00c99fea"
+    ],
+    "subCategoryIds": [
+      "564c7f1b27652f0c007456f7",
+      "5a14017dad8d270004d1f2bb"
+    ],
+    "displayType": 0,
+    "priceText": "₺2.85",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "fersan-jalapeno-tursu-glh6wopidd",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
   },
   {
-    "id": "4",
-    "count": 0,
+    "id": "12",
     "price": 3.3,
     "name": "Ülker Napoliten",
+    "shortName": "Ülker Napoliten",
     "shortDescription": "33 g",
-    "squareThumbnailURL": "https://cdn.getir.com/product/574b2219dee8a90300f18d24_tr_1599938278519.jpeg"
+    "squareThumbnailURL": "https://cdn.getir.com/product/574b2219dee8a90300f18d24_tr_1599938278519.jpeg",
+    "picURLs": [
+      "https://cdn.getir.com/product/574b2219dee8a90300f18d24_tr_1599938278519.jpeg"
+    ],
+    "categoryIds": [
+      "551430043427d5010a3a5c5d",
+      "5697c78dc181490f00c99fea"
+    ],
+    "subCategoryIds": [
+      "564c7f1b27652f0c007456f7",
+      "5a14017dad8d270004d1f2bb"
+    ],
+    "displayType": 0,
+    "priceText": "₺3.3",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "fersan-jalapeno-tursu-glh6wopidd",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
   },
   {
-    "id": "5",
-    "count": 0,
+    "id": "13",
     "price": 10.95,
     "name": "Kavrulmuş Siyah Ay Çekirdeği",
     "shortDescription": "180 g",
-    "squareThumbnailURL": "https://cdn.getir.com/product/5ccaf4ff1a1763000175a869_tr_1580904995656.jpeg"
+    "squareThumbnailURL": "https://cdn.getir.com/product/5ccaf4ff1a1763000175a869_tr_1580904995656.jpeg",
+    "shortName": "Kavrulmuş Siyah Ay Çekirdeği",
+    "picURLs": [
+      "https://cdn.getir.com/product/5ccaf4ff1a1763000175a869_tr_1580904995656.jpeg"
+    ],
+    "categoryIds": [
+      "551430043427d5010a3a5c5d",
+      "5697c78dc181490f00c99fea"
+    ],
+    "subCategoryIds": [
+      "564c7f1b27652f0c007456f7",
+      "5a14017dad8d270004d1f2bb"
+    ],
+    "displayType": 0,
+    "priceText": "₺10.95",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "fersan-jalapeno-tursu-glh6wopidd",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
   },
   {
     "id": "6",
-    "count": 0,
     "price": 7.5,
     "name": "Magnum Badem",
     "shortDescription": "100 mL",
-    "squareThumbnailURL": "https://cdn.getir.com/product/559fec01f462100c00461d5c_tr_1618323765236.jpeg"
+    "squareThumbnailURL": "https://cdn.getir.com/product/559fec01f462100c00461d5c_tr_1618323765236.jpeg",
+    "shortName": "Magnum Badem",
+    "picURLs": [
+      "https://cdn.getir.com/product/559fec01f462100c00461d5c_tr_1618323765236.jpeg"
+    ],
+    "categoryIds": [
+      "551430043427d5010a3a5c5d",
+      "5697c78dc181490f00c99fea"
+    ],
+    "subCategoryIds": [
+      "564c7f1b27652f0c007456f7",
+      "5a14017dad8d270004d1f2bb"
+    ],
+    "displayType": 0,
+    "priceText": "₺7.50",
+    "count": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "fersan-jalapeno-tursu-glh6wopidd",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
   },
   {
     "id": "7",
@@ -125,7 +545,35 @@
     "price": 7.95,
     "name": "İçin %3 Yağlı Süt",
     "shortDescription": "1 L",
-    "squareThumbnailURL": "https://cdn.getir.com/product/5ced482d4a8a2a000137da6d_tr_1623652387464.jpeg"
+    "squareThumbnailURL": "https://cdn.getir.com/product/5ced482d4a8a2a000137da6d_tr_1623652387464.jpeg",
+    "shortName": "İçin %3 Yağlı Süt",
+    "picURLs": [
+      "https://cdn.getir.com/product/559fec01f462100c00461d5c_tr_1618323765236.jpeg"
+    ],
+    "categoryIds": [
+      "551430043427d5010a3a5c5d",
+      "5697c78dc181490f00c99fea"
+    ],
+    "subCategoryIds": [
+      "564c7f1b27652f0c007456f7",
+      "5a14017dad8d270004d1f2bb"
+    ],
+    "displayType": 0,
+    "priceText": "₺7.95",
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "fersan-jalapeno-tursu-glh6wopidd",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
   },
   {
     "id": "8",
@@ -133,7 +581,35 @@
     "price": 21.75,
     "name": "Bahçıvan Süzme Peynir",
     "shortDescription": "500 g",
-    "squareThumbnailURL": "https://cdn.getir.com/product/5ce65823a72a950001cc88c0_tr_1609902381949.jpeg"
+    "squareThumbnailURL": "https://cdn.getir.com/product/5ce65823a72a950001cc88c0_tr_1609902381949.jpeg",
+    "shortName": "Bahçıvan Süzme Peynir",
+    "picURLs": [
+      "https://cdn.getir.com/product/5ce65823a72a950001cc88c0_tr_1609902381949.jpeg"
+    ],
+    "categoryIds": [
+      "551430043427d5010a3a5c5d",
+      "5697c78dc181490f00c99fea"
+    ],
+    "subCategoryIds": [
+      "564c7f1b27652f0c007456f7",
+      "5a14017dad8d270004d1f2bb"
+    ],
+    "displayType": 0,
+    "priceText": "₺21.75",
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "fersan-jalapeno-tursu-glh6wopidd",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
   },
   {
     "id": "9",
@@ -141,7 +617,35 @@
     "price": 7.95,
     "name": "İçin %3 Yağlı Süt",
     "shortDescription": "1 L",
-    "squareThumbnailURL": "https://cdn.getir.com/product/5f36a28b29d3b131b9d95548_tr_1602251256220.jpeg"
+    "squareThumbnailURL": "https://cdn.getir.com/product/5f36a28b29d3b131b9d95548_tr_1602251256220.jpeg",
+    "shortName": "İçin %3 Yağlı Süt",
+    "picURLs": [
+      "https://cdn.getir.com/product/5f36a28b29d3b131b9d95548_tr_1602251256220.jpeg"
+    ],
+    "categoryIds": [
+      "551430043427d5010a3a5c5d",
+      "5697c78dc181490f00c99fea"
+    ],
+    "subCategoryIds": [
+      "564c7f1b27652f0c007456f7",
+      "5a14017dad8d270004d1f2bb"
+    ],
+    "displayType": 0,
+    "priceText": "₺7.95",
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "fersan-jalapeno-tursu-glh6wopidd",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
   },
   {
     "id": "10",
@@ -149,7 +653,35 @@
     "price": 5.75,
     "name": "Kokteyl Domates",
     "shortDescription": "500 g",
-    "squareThumbnailURL": "https://cdn.getir.com/product/5cac8bffec184600019a371d_tr_1609123369165.jpeg"
+    "squareThumbnailURL": "https://cdn.getir.com/product/5cac8bffec184600019a371d_tr_1609123369165.jpeg",
+    "shortName": "Kokteyl Domates",
+    "picURLs": [
+      "https://cdn.getir.com/product/5cac8bffec184600019a371d_tr_1609123369165.jpeg"
+    ],
+    "categoryIds": [
+      "551430043427d5010a3a5c5d",
+      "5697c78dc181490f00c99fea"
+    ],
+    "subCategoryIds": [
+      "564c7f1b27652f0c007456f7",
+      "5a14017dad8d270004d1f2bb"
+    ],
+    "displayType": 0,
+    "priceText": "₺5.75",
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "fersan-jalapeno-tursu-glh6wopidd",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
   },
   {
     "id": "11",
@@ -157,7 +689,35 @@
     "price": 14.95,
     "name": "İthal Muz",
     "shortDescription": "600 g",
-    "squareThumbnailURL": "https://cdn.getir.com/product/5fc26ef5f86ca13ef0fdae59_tr_1606836221080.jpeg"
+    "squareThumbnailURL": "https://cdn.getir.com/product/5fc26ef5f86ca13ef0fdae59_tr_1606836221080.jpeg",
+    "priceText": "₺14.95",
+    "shortName": "İthal Muz",
+    "picURLs": [
+      "https://cdn.getir.com/product/5fc26ef5f86ca13ef0fdae59_tr_1606836221080.jpeg"
+    ],
+    "categoryIds": [
+      "551430043427d5010a3a5c5d",
+      "5697c78dc181490f00c99fea"
+    ],
+    "subCategoryIds": [
+      "564c7f1b27652f0c007456f7",
+      "5a14017dad8d270004d1f2bb"
+    ],
+    "displayType": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "fersan-jalapeno-tursu-glh6wopidd",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
   },
   {
     "id": "12",
@@ -165,7 +725,35 @@
     "price": 7.35,
     "name": "Barilla Spagetti",
     "shortDescription": "500 g",
-    "squareThumbnailURL": "https://cdn.getir.com/product/5ca77244d1b0a8000103d13c_tr_1609121717343.jpeg"
+    "squareThumbnailURL": "https://cdn.getir.com/product/5ca77244d1b0a8000103d13c_tr_1609121717343.jpeg",
+    "priceText": "₺7.35",
+    "shortName": "Barilla Spagetti",
+    "picURLs": [
+      "https://cdn.getir.com/product/5ca77244d1b0a8000103d13c_tr_1609121717343.jpeg"
+    ],
+    "categoryIds": [
+      "551430043427d5010a3a5c5d",
+      "5697c78dc181490f00c99fea"
+    ],
+    "subCategoryIds": [
+      "564c7f1b27652f0c007456f7",
+      "5a14017dad8d270004d1f2bb"
+    ],
+    "displayType": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "fersan-jalapeno-tursu-glh6wopidd",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
   },
   {
     "id": "13",
@@ -173,7 +761,35 @@
     "price": 18.25,
     "name": "Colgate Üçlü Etki",
     "shortDescription": "150 mL",
-    "squareThumbnailURL": "https://cdn.getir.com/product/5c3f4ee999f6570001f27a73_tr_1585136793449.jpeg"
+    "squareThumbnailURL": "https://cdn.getir.com/product/5c3f4ee999f6570001f27a73_tr_1585136793449.jpeg",
+    "priceText": "₺18.25",
+    "shortName": "Colgate Üçlü Etki",
+    "picURLs": [
+      "https://cdn.getir.com/product/5c3f4ee999f6570001f27a73_tr_1585136793449.jpeg"
+    ],
+    "categoryIds": [
+      "551430043427d5010a3a5c5d",
+      "5697c78dc181490f00c99fea"
+    ],
+    "subCategoryIds": [
+      "564c7f1b27652f0c007456f7",
+      "5a14017dad8d270004d1f2bb"
+    ],
+    "displayType": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "fersan-jalapeno-tursu-glh6wopidd",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
   },
   {
     "id": "14",
@@ -181,7 +797,35 @@
     "price": 57.85,
     "name": "Selpak Tuvalet Kağıdı",
     "shortDescription": "16'lı",
-    "squareThumbnailURL": "https://cdn.getir.com/product/595b8c52fca4ec0004417ee8_tr_1601369369934.jpeg"
+    "squareThumbnailURL": "https://cdn.getir.com/product/595b8c52fca4ec0004417ee8_tr_1601369369934.jpeg",
+    "priceText": "₺57,85",
+    "shortName": "Selpak Tuvalet Kağıdı",
+    "picURLs": [
+      "https://cdn.getir.com/product/595b8c52fca4ec0004417ee8_tr_1601369369934.jpeg"
+    ],
+    "categoryIds": [
+      "551430043427d5010a3a5c5d",
+      "5697c78dc181490f00c99fea"
+    ],
+    "subCategoryIds": [
+      "564c7f1b27652f0c007456f7",
+      "5a14017dad8d270004d1f2bb"
+    ],
+    "displayType": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "fersan-jalapeno-tursu-glh6wopidd",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
   },
   {
     "id": "15",
@@ -189,7 +833,35 @@
     "price": 8.38,
     "name": "Domestos Dağ Esintisi",
     "shortDescription": "750 mL",
-    "squareThumbnailURL": "https://cdn.getir.com/product/5d7f8dd10ed2c200010d5152_tr_1580804550544.jpeg"
+    "squareThumbnailURL": "https://cdn.getir.com/product/5d7f8dd10ed2c200010d5152_tr_1580804550544.jpeg",
+    "priceText": "₺8.38",
+    "shortName": "Domestos Dağ Esintisi",
+    "picURLs": [
+      "https://cdn.getir.com/product/5d7f8dd10ed2c200010d5152_tr_1580804550544.jpeg"
+    ],
+    "categoryIds": [
+      "551430043427d5010a3a5c5d",
+      "5697c78dc181490f00c99fea"
+    ],
+    "subCategoryIds": [
+      "564c7f1b27652f0c007456f7",
+      "5a14017dad8d270004d1f2bb"
+    ],
+    "displayType": 0,
+    "isFavorite": false,
+    "infoMessages": [],
+    "currency": {
+      "symbol": "₺",
+      "codeAlpha": "TRY",
+      "isSymbolFirst": true
+    },
+    "additionalPropertyTables": [],
+    "tags": [],
+    "slug": "fersan-jalapeno-tursu-glh6wopidd",
+    "badgeImages": [],
+    "details": {
+      "additionalPropertyTables": []
+    }
   },
   {
     "id": "61a494012a29522416361a8b",
