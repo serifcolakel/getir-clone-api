@@ -637,6 +637,24 @@ app.get("/api/campaings/:id", (req, res) => {
 app.get("/api/urunler", (req, res) => {
   res.status(200).send(urunler);
 });
+app.get("/api/searchProduct", (req, res) => {
+  const { search, max, min } = req.query;
+  if (search) {
+    const filteredUrunler = urunler.filter((urun) => {
+      if (!max && !min) {
+        return urun.name.toLowerCase().includes(search.toLowerCase());
+      } else {
+        return (
+          urun.name.toLowerCase().includes(search.toLowerCase()) &&
+          (urun.price > Number(min)) & (urun.price < Number(max))
+        );
+      }
+    });
+    res.status(200).send(filteredUrunler.sort((a, b) => a.price - b.price));
+  } else {
+    res.status(400).send({ message: "search - min - max parametresi eksik" });
+  }
+});
 app.get("/api/urunler/:id", (req, res) => {
   if (isNaN(req.params.id)) {
     res.send(400, {
